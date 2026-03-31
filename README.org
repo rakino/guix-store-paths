@@ -1,0 +1,4 @@
+Store paths for use with [[https://codeberg.org/hako/mirror-substitutes][mirror-substitutes]].
+
+- ~guix pull~ and its dependencies: =x86_64-linux=.
+- Guix and Nonguix packages: =x86_64-linux= and =aarch64-linux=.
