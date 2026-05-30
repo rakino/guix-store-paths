@@ -23020,8 +23020,8 @@
 /gnu/store/z759aj6ldxlkpvmf2j7ghhzv6i0fp7r4-jack-keyboard-2.7.2
 /gnu/store/4hn4nkqkv53mf8s3xg9jlqig2k6ghnch-jack-mixer-19
 /gnu/store/fg8q47jvnwqaifp4h03jd0c7zkik3v8g-jack-mixer-19
-/gnu/store/dqk5q7d9h3i564srp5ghc9yl9fgd9wyf-jack-select-1.5.2
-/gnu/store/w5ny66xlmp06k3c244mhk9jx9dq0s0ak-jack-select-1.5.2
+/gnu/store/5p488g9bmdvdf4gddmxqbgbxfnqavhwc-jack-select-1.5.2
+/gnu/store/knkl1q7pxflhpdrfbxvyrn9j1jd71m2l-jack-select-1.5.2
 /gnu/store/302xabhcjgkjwlsz1iq3vdlrp5pgrbd8-jack2-1.9.22-0.1795946
 /gnu/store/mbqlcipdhyh1q61mpxmmm1kvg3hpyx3z-jack2-1.9.22-0.1795946
 /gnu/store/ka3rkszr96p90dsz865g7cf7x071ny3m-jacktrip-2.7.1
@@ -52905,8 +52905,8 @@
 /gnu/store/iri0kj1avalggcc2x5cq0fgfp2cfm2fz-sound-theme-freedesktop-0.8
 /gnu/store/8v1pbh64d3dk1mzqrnccxw3q52lk8270-soundcloud-tui-0.1.10
 /gnu/store/vrir22glkyri2w5h3dbrlybj1najvsjk-soundcloud-tui-0.1.10
-/gnu/store/bfnn8223z45bg313kl2j34krga63jv4j-soundconverter-3.0.2
-/gnu/store/rg9i72a3iid6gg284vi7r220ml6s7bda-soundconverter-3.0.2
+/gnu/store/1lxpvglmmiydm9bdivq9y4vacv1bcb0v-soundconverter-4.1.3
+/gnu/store/7vg3jigv4r3a0in5hxrrxfs0mg70ics4-soundconverter-4.1.3
 /gnu/store/cjdn1nx504y6n987k1wh9126raw8qvhd-soundtouch-1.9.2
 /gnu/store/wisxyba2c7f7h7wky458k0sr5zmrc40h-soundtouch-1.9.2
 /gnu/store/5bnhz7y87sks0aa176d15gy9d6n219xv-soundtouch-2.3.1
