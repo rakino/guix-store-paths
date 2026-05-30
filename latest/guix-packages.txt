@@ -8430,6 +8430,8 @@
 /gnu/store/knkbnz1d29xdavjn748f79fj30hddh5m-emacs-debpaste-0.1.5
 /gnu/store/84ahllbg1nm0jm78k7pabhz8w253fp8q-emacs-dedicated-1.0.0
 /gnu/store/msh7d7vi3xhddqgzm93rz23syv2n8jhc-emacs-dedicated-1.0.0
+/gnu/store/4bjaz9gv6ixjgzql59p6d3w3hn6bsyqv-emacs-defaceight-0.0.2-0.7ad7a4f
+/gnu/store/rminzj3cn7aaqjv91vzk8dix91b259sh-emacs-defaceight-0.0.2-0.7ad7a4f
 /gnu/store/hq779ajfj5i77w6ypb36w7cgg7vwyrm2-emacs-default-text-scale-0.2
 /gnu/store/w1r38dbpkhj2f1gl6n0qsws0c88i6a8x-emacs-default-text-scale-0.2
 /gnu/store/q30q9dbb5nzvn8yjj6idv7dkkabv7szl-emacs-defaultencrypt-5.1
@@ -10244,8 +10246,8 @@
 /gnu/store/w9jisp7gzpxf0jiqy5i0x8416q0sf71w-emacs-org-street-0.7.1-0.17913af
 /gnu/store/qk6r3302h5af8gkn3fk3gnmw4f8fz6pw-emacs-org-super-agenda-1.3
 /gnu/store/xshca7225mljjbgfixswkackavrh3a8n-emacs-org-super-agenda-1.3
-/gnu/store/1qasxrr0q7hmh8wjmlphlh5bd93jwlzs-emacs-org-super-links-0.4
-/gnu/store/8zlz5rz1bml1h2q4ljyvlm9sik23m20y-emacs-org-super-links-0.4
+/gnu/store/3giidhsjq2q8j8ykjirkmi45kcsb4h35-emacs-org-super-links-0.5
+/gnu/store/ifkwgl7354p80chc2bfkvgfbdsis6773-emacs-org-super-links-0.5
 /gnu/store/bfzr1sbaiqhs7hdfsg7spfzr7nqbg91y-emacs-org-superstar-1.6.0
 /gnu/store/klfn5ngzhmhg6qkk48n0v8hipdlqj3qq-emacs-org-superstar-1.6.0
 /gnu/store/a5115px5crknjng74vq9i04ipzghk5d4-emacs-org-supertag-5.8.1
@@ -11320,6 +11322,8 @@
 /gnu/store/chdb40y6qnjvcfh4hrndikqjg0bdqnz8-emacs-yaml-pro-1.3.3
 /gnu/store/6zhql098w91axdv8zyd8h0sv4m1474ky-emacs-yari-0.8-0.de61285
 /gnu/store/f2nphbbn0qfnnmhbaxics9fzh9wb35nb-emacs-yari-0.8-0.de61285
+/gnu/store/ggr222akfd047lmpqp4scgjx7zqp6zs6-emacs-yascroll-0.2.0-0.95e24b7
+/gnu/store/n1fw7xvwmcvcmqvma2pyram8f1rwi65y-emacs-yascroll-0.2.0-0.95e24b7
 /gnu/store/bh8fy661yw6y43vzsqa6b84drryccv1y-emacs-yasnippet-0.14.3
 /gnu/store/dc1f4db24vwz0rs9kxr82vq2ym4i39q5-emacs-yasnippet-0.14.3
 /gnu/store/4ngkfqxz1lgadhd9prx47j8nxmjp38qf-emacs-yasnippet-snippets-1.1
