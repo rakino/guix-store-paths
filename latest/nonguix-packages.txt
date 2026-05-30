@@ -15,7 +15,7 @@
 /gnu/store/yy0lhcqaff7x6wkph7hlsz344rp2i9f7-bluez-firmware-1.2
 /gnu/store/2hn1k8gcrb20cmg0hmm9b3fi9bngbn0g-broadcom-bt-firmware-12.0.1.1012
 /gnu/store/n26k1w6jzlhy4na7gryd4rgg4x0ap3hx-broadcom-bt-firmware-12.0.1.1012
-/gnu/store/0i5hxr6hmf7wp0n9pjvmv6p5f56hy4vq-broadcom-sta-6.30.223.271
+/gnu/store/mz78wrdvfkpb3xw82rkljz53c55hck49-broadcom-sta-6.30.223.271
 /gnu/store/xwwbndkhg57md2zdsh7b5dfq7vkc1prh-brscan4-0.4.8
 /gnu/store/31d1ycqhhpnvnqlp2zbg6cxhl5nh54z5-chromium-embedded-framework-117.2.4
 /gnu/store/3ia9qkf8gvmw894mikqp1r3426axbaj4-chromium-embedded-framework-117.2.4
