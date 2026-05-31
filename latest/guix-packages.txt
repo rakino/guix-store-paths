@@ -4863,8 +4863,8 @@
 /gnu/store/p0hi4mh4zxhsgr15vqvwdnp4l14xzya4-crossguid-0.0-3.ca1bf4b
 /gnu/store/1d321d5mxyrrf6zrmknim96wnc6q2vy7-crossmap-0.7.3
 /gnu/store/8xkq2bs8r64civy6x359agsp7mc5nipj-crossmap-0.7.3
-/gnu/store/5lmwfz1lrk6pk6hln35sfg94qg6mypax-crow-translate-4.0.2
-/gnu/store/7xrr3ds3i6bq8b5k9jsyk5jv9mq130k6-crow-translate-4.0.2
+/gnu/store/d4ll2sc5j7i0jjnbcfb80bgx2sd488ci-crow-translate-4.0.2
+/gnu/store/p0q4hy4pz8jz883swq1iafxi5jvb5j69-crow-translate-4.0.2
 /gnu/store/153nvifdw7ccb9jam71q6cc9v8610pxv-crun-1.27.1
 /gnu/store/2l21dzgkv1wpmxvch78mjm9xf00yvb88-crun-1.27.1
 /gnu/store/qbwcxj9ppb85pg690sbxr2g9p2apmd4i-crust-pine64-plus-0.6
@@ -12220,8 +12220,6 @@
 /gnu/store/iifpd11hzgkfk7y14dy4kp9zzj142p5q-fnott-1.8.0
 /gnu/store/f0sn5xxk29zk49ca5ks9lqx09jbrj7a2-fntsample-5.4
 /gnu/store/ya91apgaq4ks2apf39srg7jaydavckhp-fntsample-5.4
-/gnu/store/0wvdhx830zqv48kq2xl0iax6wnyyli0d-fogpad-1.0.0
-/gnu/store/7q4x6v8jknabwbxhbnmnh2nvq09kqb1g-fogpad-1.0.0
 /gnu/store/5vfv4k8vjzhl88jb95nmlmdavjhmf5ci-folders-0.0.8
 /gnu/store/c2sx5d4q45bvqmp6ijk70vv5x2nwnh0i-folders-0.0.8
 /gnu/store/5a2nzgnz826dpwn71gmy6y7rhi4qdj4l-folks-0.15.12
@@ -15640,8 +15638,8 @@
 /gnu/store/lql5zibsbajfb92chn12zk8f51b4x37w-gnome-2048-3.38.2
 /gnu/store/5fsvxqk4sm6yaxc8k3j2dbq7iaxn5j86-gnome-48.7
 /gnu/store/y6cp2146clmdfsh0j9w89p45ambh52mm-gnome-48.7
-/gnu/store/mvzbzprbwy255ypj9wvrr0h7b0agdxzy-gnome-arcade-0.240
-/gnu/store/pngn71aknqlp2sb6vgcy9m1k9ijkyv1y-gnome-arcade-0.240
+/gnu/store/ni2275vz4p10j4gcnpa923kpdzxghrg8-gnome-arcade-0.240
+/gnu/store/v2lpfig55ba062ci2g56ijazrkr5mgch-gnome-arcade-0.240
 /gnu/store/49p36p5bfin5fjij02nlpfq3z2c7j6hb-gnome-authenticator-4.4.0
 /gnu/store/l6ixwq9a7njprspch6zqnyypvp38iph5-gnome-authenticator-4.4.0
 /gnu/store/m15wf2762aymxdcrvisgvqqlhgvvkfcn-gnome-autoar-0.4.5
@@ -25088,8 +25086,8 @@
 /gnu/store/3hycwc6bhvkw9m1pda1xlcdswxq7pgwm-karchive-6.23.0
 /gnu/store/3zyvwj7i0ja24i78dshqns6nnixazd7j-kasts-25.12.3
 /gnu/store/jqmqw8i89hzk77gzxpxxk2zzsg65vh5a-kasts-25.12.3
-/gnu/store/6ljlfjyp6kznc4hg8nlg6lwaqlmpw2q6-kate-25.12.3
-/gnu/store/vzc2mg2abv3c2ii9m07zkc4kgkbf1r6b-kate-25.12.3
+/gnu/store/aksbqzs4qqws803ydahz804m378qjwyr-kate-25.12.3
+/gnu/store/v4vl81cc5qrzqhwbcyjwhvrflrgkgap4-kate-25.12.3
 /gnu/store/2vyjdiz5gqjfzs2zc8pr3m5mdapnmvxw-katomic-25.12.3
 /gnu/store/40sppsa07r1zk4ksp5pl0mq0pif7s9j0-katomic-25.12.3
 /gnu/store/40f93rhdps5s44k99d3rn0ddkljjxqa9-kauth-5.116.0
@@ -25230,8 +25228,8 @@
 /gnu/store/4b2kcymrfhgrz10siwfcvv1mikh2c7l5-kdialog-25.12.3
 /gnu/store/ycx859ysdimxkagklb4kid9fkaqcshrv-kdiamond-25.12.3
 /gnu/store/zv3k43rd7bzx9cigsf1bkr06ng2v742g-kdiamond-25.12.3
-/gnu/store/grqlbvqjhq0akh0vq6jj28v7dsf79qig-kdiskmark-3.2.0
-/gnu/store/zngvdwl9izgdlfa1dc0gxmzn8fa2id6k-kdiskmark-3.2.0
+/gnu/store/1r089v6mcm5qhhw7xsx07na9gqxr8sj9-kdiskmark-3.2.0
+/gnu/store/i0yjzsw7x2wjgc39grd85g6i34xdh6zd-kdiskmark-3.2.0
 /gnu/store/n7xnz71qzga5zzzqjpfsp6pw43kxq5cs-kdnssd-5.116.0
 /gnu/store/z1g0mdi093vhi7z0pm6p8fb4yqcr5agb-kdnssd-5.116.0
 /gnu/store/b7rblwa9apqv0irdrjdgy8xa19vbycb4-kdnssd-6.23.0
@@ -28398,6 +28396,8 @@
 /gnu/store/zywmk2dcnwsq2g6f67j56n6v6fr69q19-macs-3.0.4
 /gnu/store/8sv8dqdrxiksb9wdjvnhwz1jj0r7zsh0-mactelnet-0.4.4
 /gnu/store/kdqr4dy1bh07m37dbryzbs4rq8mg2sz9-mactelnet-0.4.4
+/gnu/store/7pnbcx3hj9hv7xlbzaf7kdf0y8rjjp6g-maelstrom-4.0.1
+/gnu/store/ilv03j5q3b5ssqx7q1b8hkp45g8phsgq-maelstrom-4.0.1
 /gnu/store/0arxy9q485rmi9c8cl7gsn9mfxp513kj-maeparser-1.3.1
 /gnu/store/1bpk00lw9a24sqq4lvf2aacr3id9krz8-maeparser-1.3.1
 /gnu/store/36ymjzp34x05rpnqsm1a066l6g2jnlgi-maffilter-1.3.1
@@ -28457,8 +28457,10 @@
 /gnu/store/n53i47cdm1b860rx3cd7s286c567m9rv-mallard-ducktype-1.0.2
 /gnu/store/4pmjj08i890j8lcqvydhg906x0x7acai-mamba-2.6
 /gnu/store/5p53fnmw6p5slvdhzn00bwb6dpm11zlp-mamba-2.6
-/gnu/store/q3zydwmzp7wvf4aryz1vlvm60jwlnc91-mame-0.287
-/gnu/store/w8l6kjfx2d5nksy9mr0n36386irjc1v7-mame-0.287
+/gnu/store/56ipql3apvghckszdmkd2s802mh9im02-mame-0.287
+/gnu/store/x8i7as4kcsvrbx8zz2b0sdxhd8ny0myw-mame-0.287
+/gnu/store/8nh4m4cj2jqgrzcnwdvjjb3nzjl292cc-mame-0.287-tools
+/gnu/store/dg04f2mkzhwza9364ibzx4pgf71iflxi-mame-0.287-tools
 /gnu/store/8xsh56ivcn1s3pminyn88hpg7z9wv3r4-man-db-2.12.0
 /gnu/store/ww5jxjjj16k54w89mgjdw5jna4y8f813-man-db-2.12.0
 /gnu/store/1air0ymvflz06ig1cmn5nf8kwh1z3i6a-man-pages-6.18
@@ -31494,8 +31496,6 @@
 /gnu/store/j4w22ihavv9jj35z0dq8jj042nskfk3i-origami-7.1.1
 /gnu/store/7fanq22rz2ivh9fcqy3c49zg775pd9nl-orocos-kinematics-dynamics-1.5.2-0.34ecff4
 /gnu/store/8cjpb06byxmkra7ynyly562hvm1jrwml-orocos-kinematics-dynamics-1.5.2-0.34ecff4
-/gnu/store/d4ws690nxq1y9frak59ah39zfp4bzy6a-orpheus-1.6
-/gnu/store/lnxmjldpz3q1x2alg59dbsd6dq83d4my-orpheus-1.6
 /gnu/store/bpahfzw8l6mrmcl51qyi00pykc8i4w35-orthanc-1.12.10
 /gnu/store/grg785gv8aq58fchrvi19fcmgbp56fdh-orthanc-1.12.10
 /gnu/store/r1pw9sdlj0iwk14b5ssqwchbx1g3zdgd-orthanc-mariadb-5.2-0.a6300cc
@@ -33875,6 +33875,8 @@
 /gnu/store/pd2rj8xkhxzg9d3h22w6h2mq7lzib89s-phyml-3.3.20220408
 /gnu/store/589vnakbdhd6rpy0pxj8w3b8c2zq899p-physfs-3.0.2
 /gnu/store/i7g6li0r5ggycpr23687xylwqf92y4zn-physfs-3.0.2
+/gnu/store/1fd3mjap8fly5rf3bvxxb3gh2zgvs0c5-physfs-sdl3-3.2.0-0.49cfd5f
+/gnu/store/kfnhsdiz3rzmb78z6li0shh646dxw975-physfs-sdl3-3.2.0-0.49cfd5f
 /gnu/store/214kmvfvk63g6g98slnkvqfmydg6sg5x-physlock-13
 /gnu/store/vlyf7qhpq9pdry666486vf1mlxsz7rlz-physlock-13
 /gnu/store/azbianzclsz3k2d0r9djwpx64hh33c3z-pianobar-2024.12.21
@@ -36780,8 +36782,6 @@
 /gnu/store/vz2bp59wzys7si3ym2gbri5djp43hxmg-python-guzzle-sphinx-theme-0.7.11
 /gnu/store/3ny33ywhq8h0r9bh8hk6dp8lcaw4az2q-python-gw-sky-0.1.0
 /gnu/store/rijll9qb916aly8xgmfc8jmf3jj6aswd-python-gw-sky-0.1.0
-/gnu/store/aljgcz8k6963qnk5qa7g8iy7l5mcq9df-python-gwcs-0.26.1
-/gnu/store/ngdyry3d7m8wylzc8yq177h7n26aqwg6-python-gwcs-0.26.1
 /gnu/store/9ipb38nv51imjc22x9c0fr2lqisjwiyf-python-gwcs-1.0.3
 /gnu/store/xq9lsc8lzcs4l4kjk022dxmh6cddzx2j-python-gwcs-1.0.3
 /gnu/store/m6xnv1w5yww1gzikbb3iqkgzq4c2w10j-python-gwebsockets-0.7
@@ -52386,6 +52386,10 @@
 /gnu/store/b4y9zzy0rp2jv6jxpqm44x200i3n4pqx-sdl3-image-3.2.4
 /gnu/store/0ymqdy0snjnmvzmda4ah099afif7ccn0-sdl3-image-3.2.4-debug
 /gnu/store/jksxrgmr1ybli0kb3sy81w10xxmb58y6-sdl3-image-3.2.4-debug
+/gnu/store/s9rpcwvpwry0bpqgqyirrbwyzj9fpsmm-sdl3-net-3.0.0-0.5af3b06
+/gnu/store/wx8wzanhz1v1s62hgr8vwwb70219jhjc-sdl3-net-3.0.0-0.5af3b06
+/gnu/store/3sr11vakbbvbcla9brbw7x3fkykw3xvp-sdl3-net-3.0.0-0.5af3b06-debug
+/gnu/store/ic3mgy1rsvnab38hlmrw901vrihayw87-sdl3-net-3.0.0-0.5af3b06-debug
 /gnu/store/djkbrlbba6ak1sfrrxlpzps22fcfq5qj-sdl3-ttf-3.2.2
 /gnu/store/ys95k4rssfxgh3w3y0235zn2b73isfwg-sdl3-ttf-3.2.2
 /gnu/store/1nkrlqln1vml1d89q89myaj604iq8phh-sdlpop-1.22
@@ -52644,8 +52648,8 @@
 /gnu/store/w3dnvk3p4hczfm83hf5n9x62219fih71-simpleitk-2.5.4-r
 /gnu/store/c547xpnyzk1zdiwcfxb4va8f6aa0b732-simplescreenrecorder-0.4.2
 /gnu/store/kg24nxd7qqyrdj4hggm9wzmzmh1vqjkj-simplescreenrecorder-0.4.2
-/gnu/store/7ipl4aiq2yspqzz9vxpxjw5lrf6sr39l-single-application-3.5.2
-/gnu/store/jvxqrvib9ri2pf72pmqr150in1fsl2cf-single-application-3.5.2
+/gnu/store/9b141mr0yrfbyyns38smirfyhyvxldj4-single-application-3.5.4
+/gnu/store/iq2n39g7v9s437kjrm68p07n1n4x37xd-single-application-3.5.4
 /gnu/store/g5srn2qv94swylqs5rif42132zh472m4-single-application-qt5-3.2.0-1.dc8042b
 /gnu/store/lpn7ka66jk06gk5lysi7y77wvryz9fqn-single-application-qt5-3.2.0-1.dc8042b
 /gnu/store/825yypg2mwy8h6h08p265yb68p2pybyl-singular-4.4.1p5
