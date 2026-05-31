@@ -35454,8 +35454,8 @@
 /gnu/store/wbyq5iynznp265igfwvk75d4gfq6c5jx-python-clrprint-2.0.1
 /gnu/store/7rl35wzykxzwmaqkbgbqaha4fqmilrgq-python-cma-4.4.4
 /gnu/store/fl9s5j99n1a4hyd2vxgvld79mz20rqaw-python-cma-4.4.4
-/gnu/store/267cfjcyr0jp16pzzc5y93bahrw232vd-python-cmaes-0.12.0
-/gnu/store/2plf3afbnmba0wf7y01bjrgs1ghmm4pq-python-cmaes-0.12.0
+/gnu/store/1mnk4dkf9i7gpkiwrkfc215x292m0bpp-python-cmaes-0.13.0
+/gnu/store/iqi2a7j8646sr7iij8hdfc1rrgs8nssf-python-cmaes-0.13.0
 /gnu/store/0j2nli8c6rnpl936c3l13lvmn0fzpyzi-python-cmarkgfm-2024.11.20
 /gnu/store/g7zvdib5jljajaqfqf3n98x7v2jndd2d-python-cmarkgfm-2024.11.20
 /gnu/store/64cr924m5iv126d1m7y0vbyr8vd738wp-python-cmasher-1.9.2
