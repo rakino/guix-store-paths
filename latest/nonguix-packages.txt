@@ -4,7 +4,7 @@
 /gnu/store/sjngm0768lxgw210ddzwl85714vn30iq-amd-microcode-20260519
 /gnu/store/h6r8wf8s7bayz1z8fbsvrrbpc1ls34sk-amdgpu-firmware-20260519
 /gnu/store/y2smqpb1zddphly7i5vhd89w36v3z9aw-amdgpu-firmware-20260519
-/gnu/store/pfpsraz7iy120yq359czjn75g8imphmv-anki-25.09
+/gnu/store/9723ychssqk06i7jyiizl3mcj880r4zz-anki-25.09
 /gnu/store/13m2y0vhdky7az67rrxdss7vsj524nkl-anydesk-6.3.2-1
 /gnu/store/3nsc3515a6hjqz7bygx1qx62bcdl6a0b-atheros-firmware-20260519
 /gnu/store/b8r97cdkr1ak9rca9d5x05l4pvzdx1fg-atheros-firmware-20260519
@@ -310,8 +310,8 @@
 /gnu/store/wx536r9yc8jk87j9w1b4phyl4nb8yzwq-mesa-26.0.2-bin
 /gnu/store/5ailb6mamcjxz0g4d4jgmgrd88hgyky7-mosml-2.10.1-0.13c581a
 /gnu/store/845kdnsdic0mvm36njy73w7zh0x249gm-mosml-2.10.1-0.13c581a
-/gnu/store/kvq595idyh1sygr1f1nw9n0vdv90ngqy-mpv-nvidia-0.41.0
-/gnu/store/xhnyypxx4c6bay9aw9jhca9rswa0p32g-mpv-nvidia-0.41.0
+/gnu/store/h55q5zqknvvqia8hxy8f5z5npghyz1r5-mpv-nvidia-0.41.0
+/gnu/store/lbd0ia0yzgmdbcfrpjsyj8ky6b68ay85-mpv-nvidia-0.41.0
 /gnu/store/26gbgp3bkhbspr1nlwiws3cag0r8hqrg-ncurses-5.9.20141206
 /gnu/store/lxjcxb6s00k5iyjnpjbjmcg0d07azj6i-ncurses-5.9.20141206
 /gnu/store/yhh9j7di3w7qh47bjw0frlawfwn9lysv-ncurses-5.9.20141206-doc
