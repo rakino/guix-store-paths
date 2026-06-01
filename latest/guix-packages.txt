@@ -8200,8 +8200,8 @@
 /gnu/store/vwmnz9pz24fpyp47lrd5r8y7984dbv06-emacs-cl-print-1.0-1.1a70c55
 /gnu/store/3l3p7sg5idaxl9kr410df4qv7gn3wkvl-emacs-clang-format-13.0.1
 /gnu/store/pbggs9yf3i7sr20kgmqigqr3wz3824kc-emacs-clang-format-13.0.1
-/gnu/store/5i0s7djlfzx46acx7790z36ii14d2qsl-emacs-clang-rename-13.0.1
-/gnu/store/b7hqx7yjggdnikdwwvlp29gw54sww45w-emacs-clang-rename-13.0.1
+/gnu/store/9fng3fxng16mrqxanqkvxcp164rxvixw-emacs-clang-rename-13.0.1
+/gnu/store/g5kmym27acg047982barn78rrlg3r7gj-emacs-clang-rename-13.0.1
 /gnu/store/6ggc443j1v1bf1w49ans6lcpliqd51vf-emacs-claude-code-0.8.1
 /gnu/store/q5fzsmp7nkqgyrxjn0zgwzyr3lglhnmj-emacs-claude-code-0.8.1
 /gnu/store/9ws483ylnvqzhwjg9bysx8fardvwmain-emacs-claude-code-ide-0.2.7-2.56db02e
