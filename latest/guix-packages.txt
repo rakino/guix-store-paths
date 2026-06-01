@@ -39679,6 +39679,8 @@
 /gnu/store/aaqsrfywas3c0mflzxbmfgbyi0f2f167-python-quickbayes-1.0.2
 /gnu/store/i631rgim3hbcspnnqqdjg66cqpnhm93c-python-quicktions-1.22
 /gnu/store/z2cjs0m8v74sk9rxvp0yakbvx2b37cdp-python-quicktions-1.22
+/gnu/store/jcj1xp2q0nvfx7g3g2ymzl9j3x918icn-python-quimb-1.14.0
+/gnu/store/ymb1pa7n47illv35776z62ccmqlk8y6j-python-quimb-1.14.0
 /gnu/store/1yb63mq260g6yzn392070dnyqz1ysy5s-python-qutip-5.2.2
 /gnu/store/7ib4yjp0l2bkcmky2drz3lnysmhpgck4-python-qutip-5.2.2
 /gnu/store/bli1a0g4yv38b366ml6j61f0zh6b2y86-python-raccoon-1.0.0
