@@ -36020,8 +36020,6 @@
 /gnu/store/lz4kihbxcjr34sa8pnjwvyph6xg2wpkj-python-dnaio-0.10.0
 /gnu/store/rjcyjwzj1bx99lqd7zzw8gm3sj93q8wh-python-dns-lexicon-3.21.1
 /gnu/store/v9608n1a7hhx9n9m65g0m8f1y8z8shrm-python-dns-lexicon-3.21.1
-/gnu/store/42w5g6xfbnxylcx5vg7i58ggsn0zjfpz-python-dnspython-1.16.0
-/gnu/store/p21byxgb41pdshfxn1kqmd710c69g0cz-python-dnspython-1.16.0
 /gnu/store/7991drhk1hcyfjdb6knzc8d7q7zp1sxw-python-dnspython-2.8.0
 /gnu/store/zk35wzy7bf0v47v75n2lai0havv7x8xp-python-dnspython-2.8.0
 /gnu/store/7xk1hfq5rz2br60v07cwrqrpjmsvb18h-python-doc8-1.1.2
@@ -52656,8 +52654,6 @@
 /gnu/store/kg24nxd7qqyrdj4hggm9wzmzmh1vqjkj-simplescreenrecorder-0.4.2
 /gnu/store/9b141mr0yrfbyyns38smirfyhyvxldj4-single-application-3.5.4
 /gnu/store/iq2n39g7v9s437kjrm68p07n1n4x37xd-single-application-3.5.4
-/gnu/store/g5srn2qv94swylqs5rif42132zh472m4-single-application-qt5-3.2.0-1.dc8042b
-/gnu/store/lpn7ka66jk06gk5lysi7y77wvryz9fqn-single-application-qt5-3.2.0-1.dc8042b
 /gnu/store/825yypg2mwy8h6h08p265yb68p2pybyl-singular-4.4.1p5
 /gnu/store/ix417l1gvsr4xmvagsmhigkrk3j3ljbw-singular-4.4.1p5
 /gnu/store/20pyvawa8v8v1lcw18a47bgx07xf56h6-singularity-2.6.1
@@ -53425,8 +53421,6 @@
 /gnu/store/k5np4l0hydp6c001igyg0sjc378gwmqx-surf-2.1
 /gnu/store/5cn9v8ibzr2vcb48a44f3gqss93f2411-surfraw-2.3.0-0.ebb8131
 /gnu/store/sky0bkd52dfzjawvcc2cvcj27d20nng2-surfraw-2.3.0-0.ebb8131
-/gnu/store/ghbnw2dd6hmpli7c0hycqip0z02bfib2-surge-synth-1.7.1
-/gnu/store/wwdk2pxbw6b4q8fidprz9p1h29czr086-surge-synth-1.7.1
 /gnu/store/jk5j4kygpbnhz3k95sf6k1d9qy1nmcqg-surgescript-0.6.0
 /gnu/store/nz79y3vyxjps0rzclbvy1wmgmcbj99by-surgescript-0.6.0
 /gnu/store/pnk5xy968l53lhk40xw8ij2cs9vwhyd0-sushi-46.0
@@ -72237,8 +72231,6 @@
 /gnu/store/qqw2rgnrdiqz9lmgrcbd6n70izmxpkhi-texlive-zztex-2026.1-doc
 /gnu/store/a1vsas0ix42b8v5gp7w5bz9gpdi1iwx6-texmacs-2.1.5
 /gnu/store/iipr12ngay9pkgrfppwv1zambxpsijhh-texmacs-2.1.5
-/gnu/store/9iani96r04ay14118x30x9x05p6nhp7b-texmacs-guile3-2.1.4
-/gnu/store/iq90qd0ppxvadn95khnaspb6y273qdcp-texmacs-guile3-2.1.4
 /gnu/store/pivvig6d1l01pwy5gdnmg34kqdn5s9jj-texmaker-6.0.1
 /gnu/store/zxv8jidvrf6x1zw8smhs3nk3qp2kzsbd-texmaker-6.0.1
 /gnu/store/nbx1g9vbshqg06i1dp7spnpj7lrdfd7a-texstudio-4.9.1
