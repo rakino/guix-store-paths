@@ -11925,8 +11925,8 @@
 /gnu/store/ymgvwi5gql55pz6vldays11c6mxanh4x-fdupes-2.4.0
 /gnu/store/41ig5r5j3bzcjsc28vgbcr2ahvw3d1vm-fe-2.0
 /gnu/store/wm07svnn8dz9vmhn6068pyqw924swqr2-fe-2.0
-/gnu/store/ciaj8ilwch464zqyjnsvssbp8ki3nkss-fead-1.0.1
-/gnu/store/f8l4j6ij9y0zcx48hsx22rbhzlgh04rv-fead-1.0.1
+/gnu/store/2fqwxxgspw3pss97z6sg6bjpxyvf6jr2-fead-1.0.1
+/gnu/store/d9kzpxj70dviq14ay1qym7df6laa58ff-fead-1.0.1
 /gnu/store/kbs11y1nlmdgm7vyafjvsqxkz3ml6hf0-feathernotes-0.10.0
 /gnu/store/lbn71dwrska3kbgwnv12sda4d0aw94d0-feathernotes-0.10.0
 /gnu/store/lkk13ixfbkfc3wwgljcc641k1i46izyy-featherpad-1.6.2
@@ -12214,8 +12214,8 @@
 /gnu/store/yp2ny5m6gih48i40my6byimj70nvsd45-fmt-8.1.1
 /gnu/store/2hc7dyc1way4i4dbhdih6ag0p1hmbplb-fmt-9.1.0
 /gnu/store/gaj016n454yla8asgn95dkgbf0fxim5a-fmt-9.1.0
-/gnu/store/d2jkzlqlx4pvrsrlnr9k045xfslgcsc9-fnc-0.19-0.c158d7ac21
-/gnu/store/vkzq810y861lgf3cm7q1n2fxaxsb0h49-fnc-0.19-0.c158d7ac21
+/gnu/store/6i3564p1jmf8ikmakg0ky472c5kckidp-fnc-0.19-0.c158d7ac21
+/gnu/store/w4pc9ia2rzwsvp4jnf1snh5g4hswyl42-fnc-0.19-0.c158d7ac21
 /gnu/store/bqmyhw466sd70g64rkpjiz72cfwyv5sr-fnlfmt-0.3.0
 /gnu/store/y1b84jzzjwp7a7ll0vjm28kk8b8p0c70-fnlfmt-0.3.0
 /gnu/store/99z44i47h3bp55js90nk9kl0560klkv9-fnott-1.8.0
@@ -26370,8 +26370,8 @@
 /gnu/store/dcpnfj9107n51sb7fcxighf0f9fzwx3r-libfm-qt-2.3.1
 /gnu/store/qc5nvv9nqhryp85mv5bdk1l75d2c093p-libfm-qt-2.3.1
 /gnu/store/03mlpysx8zh3fgsq8v9zh9nm0lx4wby0-libfontenc-1.1.8
-/gnu/store/har72bp8ln78plr8h844kmv5sgsh3bj4-libfossil-0.6.0
-/gnu/store/qaqg6bxyf51db2ck9czmihz0wr7z0b7m-libfossil-0.6.0
+/gnu/store/135x0x52v25f5v835iax4xdqsjlm497z-libfossil-0.6.0
+/gnu/store/i8wrsp78b6alx0nck68yk1cg9x5s0iqw-libfossil-0.6.0
 /gnu/store/80h63jfcn6fzh6i6wgnszd8v9qr50iw0-libfprint-1.94.5
 /gnu/store/s26ydal32zi39j1n1s2slnxr0gxypl2y-libfprint-1.94.5
 /gnu/store/qbs5rh1ak2n94vhsjmf5hkal0p843qck-libfreeaptx-0.2.2
@@ -31368,6 +31368,8 @@
 /gnu/store/470vzivqlag1qfzd1vakwzjlnpw5qmp0-openroad-26Q2
 /gnu/store/7i94b92qakybk6s6f94qhs0bvww7jyjf-openroad-cli-26Q2
 /gnu/store/hq6cfir5hkicl4ar45vkabrklgqfcppb-openroad-cli-26Q2
+/gnu/store/14qkw9llczxzminlq7qppidnd2qwzx70-openrsync-0.5.0-0.a257c0f
+/gnu/store/j22m2f8x59gi59wm52yshwbzmy2lhvaw-openrsync-0.5.0-0.a257c0f
 /gnu/store/075ncswsx5jg816p2qc3xhn2f6zbx3kc-opensbi-for-visionfive2-1.8.1
 /gnu/store/f1fhwsjcf39v6qyi7pz5mx5r2pwblwqv-opensbi-for-visionfive2-1.8.1
 /gnu/store/5pcgnmbxv5vwvvabvabhj34zrwmm21xr-opensbi-generic-1.8.1
@@ -75329,8 +75331,8 @@
 /gnu/store/x9hqn3ydi7b1bjibik1iyvzjmvpj474q-xnnpack-0.0-4.51a0103
 /gnu/store/14pf5i08aa9yzbq2rlsmlmyklqaywbp4-xnotify-0.8.1
 /gnu/store/rqqcmbkfdnnd6sm791hh2w7dc9vsckm5-xnotify-0.8.1
-/gnu/store/3q23l1g12rzgl591ksh3c7qqlqiz60gx-xoa-0.5.1
-/gnu/store/76jyjjawbs9rbdnspgbx26s480i38v9j-xoa-0.5.1
+/gnu/store/412g13f7dgj11varnz8aw0ymykl0kk1l-xoa-0.5.1
+/gnu/store/djpdd2kvxik6qh1k0rspmasmd69rdvaj-xoa-0.5.1
 /gnu/store/wlz02rzhj5b041b4dz5ndxfdkszqfjik-xonotic-0.8.6
 /gnu/store/x297lfzdficy8slkl7szdpd5d331v18p-xonotic-0.8.6
 /gnu/store/6yjyfhbhm5jcz34g9fbkfambnfv0zknx-xonotic-data-0.8.6
