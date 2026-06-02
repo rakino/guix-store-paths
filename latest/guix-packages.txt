@@ -45080,8 +45080,8 @@
 /gnu/store/wj8n3jssxg4c71m4crdxs3y35amv52sq-r-lambertw-0.6.9-2
 /gnu/store/39rffzgdwyx95f38w61xmnwnbk64a9gf-r-lamw-2.2.7
 /gnu/store/d7a3jfm50g8qpwfr2gcf9w007arz8igb-r-lamw-2.2.7
-/gnu/store/9449dq5mzz7gjlijz2f2353pw705r77d-r-languageserver-0.3.12-1.004da93
-/gnu/store/byyff3dx4j2n2y6vnsli132a1vpwb4r5-r-languageserver-0.3.12-1.004da93
+/gnu/store/gq9f9brm7l10klwfwv3s9m8svhnfpizw-r-languageserver-0.3.18
+/gnu/store/gx7lzn8w6bg4zxlxh68rz8ma195kk7cj-r-languageserver-0.3.18
 /gnu/store/4c7lb9vb8708r1p1ckp2yc02lcdnnmf2-r-laplacesdemon-16.1.8
 /gnu/store/vmmqmlyh1q41hd05vnjin56m545l5m75-r-laplacesdemon-16.1.8
 /gnu/store/2csf5xx6binf0pcjl11pqmjssfwabw1l-r-lars-1.3
