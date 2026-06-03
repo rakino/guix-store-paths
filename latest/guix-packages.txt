@@ -8326,6 +8326,8 @@
 /gnu/store/glj7rkhz638hid4mjbpg7nipmnq6ilq4-emacs-consult-projectile-0.7-1.400439c
 /gnu/store/92iprgqrl7jj64v8841gcgqczcccl3nw-emacs-consult-recoll-1.0.0
 /gnu/store/whqpan1x6q2qqcjvz8dk4ryxm8d58f3s-emacs-consult-recoll-1.0.0
+/gnu/store/6249j99kxmp6n10x9iba6mnvb9wvmqvl-emacs-consult-shell-command-0.1
+/gnu/store/hyqb365l81zr6l2jc7xjycj8yjydg392-emacs-consult-shell-command-0.1
 /gnu/store/cn96wxd91km69mgqmn18bgpp3fmrj4x0-emacs-consult-xdg-recent-files-0-0.593023f
 /gnu/store/yrz1bybs5hssdvxjn9xpfirn9n31fm8q-emacs-consult-xdg-recent-files-0-0.593023f
 /gnu/store/8ina33098l2f7y7qlwmpx1l76jcc4g4s-emacs-consult-yasnippet-0.2-0.ae04508
