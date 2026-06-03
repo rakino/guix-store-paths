@@ -29336,10 +29336,10 @@
 /gnu/store/4jgqi7gni4f5dh31gnfnlpz8kqjnqaa9-mpc-1.3.1-debug
 /gnu/store/bz2dllk6ph91g1h4jzilsz8372mzfams-mpc123-0.2.4
 /gnu/store/jx9ps7xangr2hfnjyhjd0n2zryn5bgss-mpc123-0.2.4
-/gnu/store/3b3hdls71ycm28b385r7wi41420ykvcl-mpd-0.24.11
-/gnu/store/lv23zzr4ldaach6ji51pdrrd4cmb3g3j-mpd-0.24.11
-/gnu/store/nh7r3p2621f3ydy6mi5zd5v0f18nr960-mpd-0.24.11-doc
-/gnu/store/p0xjah0a4lappmkz6dcvk6750x2pqlbq-mpd-0.24.11-doc
+/gnu/store/myllzqpfg2qkr876lifnynqrfmfiwdlc-mpd-0.24.12
+/gnu/store/wldh5yxr9hhq7x8hjbrx23mbmxj9xmwn-mpd-0.24.12
+/gnu/store/62n4j9xflp3bhcpqxj65h0xsrcvcy4i3-mpd-0.24.12-doc
+/gnu/store/qhkggq6z40r3dgkdrwzmwjy8vikjki45-mpd-0.24.12-doc
 /gnu/store/f45hqk8jl70fw8h5l4mjmsv5qla4xnh4-mpd-mpc-0.35
 /gnu/store/hmdg6bnklr7mn901ivp5sz7bs7ag22wk-mpd-mpc-0.35
 /gnu/store/frr693nl3kmp7jm4y9r323ikmwdkh5x9-mpdevil-1.10.2
