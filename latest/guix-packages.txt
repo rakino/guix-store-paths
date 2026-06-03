@@ -27751,8 +27751,8 @@
 /gnu/store/gkgcfrzqm2gaw9h0qssmsaqdc0lfbarn-linux-libre-arm64-mnt-reform-6.18.33
 /gnu/store/6vwrf66qr39ihkp1dj9gvk16hwc4j1y3-linux-libre-arm64-mnt-reform-6.19.14
 /gnu/store/3v9dfbxgnpx6zk5ylgqlg256a8zb2q17-linux-libre-arm64-mnt-reform-7.0.10
-/gnu/store/0k9kpi99ycvpkpnb048wmy9pcwhfbp4q-linux-libre-documentation-7.0.10
-/gnu/store/9066ml6bszri0x51y6f0wv2lcz3h1qxk-linux-libre-documentation-7.0.10
+/gnu/store/5czl339kks27vwaslh6x0qlxddm329d0-linux-libre-documentation-7.0.10
+/gnu/store/5v8ak16a02wzkf060y8dj3siffv3piz3-linux-libre-documentation-7.0.10
 /gnu/store/0arh3mplk84jmmsxnwpcjshx3jgvx66m-linux-libre-headers-5.10.257
 /gnu/store/jq76bzriayavj4l3r45cnc4zh4x1zyd0-linux-libre-headers-5.10.257
 /gnu/store/2c6xap9y4mzhfwf48v09xrskpcq69hgz-linux-libre-headers-5.15.208
