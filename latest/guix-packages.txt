@@ -1488,6 +1488,10 @@
 /gnu/store/q2zfy7lxgfmcpaf25686y9d7n2nxnx78-bzflag-2.4.30
 /gnu/store/4krdggv3y6pdzm51578kbdsh826hpmv5-bzip2-1.0.8
 /gnu/store/k8zxrp5063sqwyqg1nwsvv787awlsmyb-bzip2-1.0.8-static
+/gnu/store/hss9b652ax710y4ffpamalxkalkx5i94-bzip3-1.4.0
+/gnu/store/k0a7kwlx8zmfqchjwl3mslrmw5dws1gy-bzip3-1.4.0
+/gnu/store/msgk69baaj2wl6824cj111r0l0ia43cb-bzip3-1.5.3
+/gnu/store/ysv35kg11s53qi8v46dh3dlfwakrdn9j-bzip3-1.5.3
 /gnu/store/5b3d7q68mb7sr3d0rhjsvclnfgf29pk7-bzmenu-0.4.0
 /gnu/store/s3szb3gbcp2ydzl5d4wpvpmwisd7824y-bzmenu-0.4.0
 /gnu/store/1kzk6wza00xwk85ijrmkjkpmviw1ajxb-bzrtp-5.3.112
@@ -27235,6 +27239,8 @@
 /gnu/store/hwq1cs4as6nq90zy8j3h0bwczv955d1i-librtprocess-0.12.0
 /gnu/store/61xl7izw38qklraswi3y9cqszlxhfnl8-librttopo-1.1.0
 /gnu/store/xzh2mryp81dqq258xngax8pkw2803zqk-librttopo-1.1.0
+/gnu/store/cm4fcbybzw3iv0glzlvwa33mx69y2g8p-libsais-2.10.4
+/gnu/store/j2zppvwa16vfzdmh0lpjz1l5l1h5paj6-libsais-2.10.4
 /gnu/store/5lmmjqj49y9hqwk4b52f6pqg58ka38wl-libsamplerate-0.1.9
 /gnu/store/p4gvpmypldy1qf5mh0af64vpanxp0b68-libsamplerate-0.1.9
 /gnu/store/7hv2ykb4ngzd6hh6miichy3lm7c5iyba-libsass-3.6.4
@@ -31622,8 +31628,8 @@
 /gnu/store/zg627li0df2ncmlfq2f3ldc0c93grjbk-otpclient-4.4.1
 /gnu/store/qjylfnx8zcjl5ngdnrw7af3kxcvjdaiw-ots-0.5.0
 /gnu/store/v6s74i495viyac30yhwazjvf8v5f13a8-ots-0.5.0
-/gnu/store/6xapi8fczpa72yl48ndif597z6i5rzdv-ouch-0.6.1
-/gnu/store/d5diw604iw1jwxrnjqka08gz0pmy4vhh-ouch-0.6.1
+/gnu/store/8hjlmbn261342l9j608h836sbcdvz04y-ouch-0.6.1
+/gnu/store/b6fksxbz7gqw27699c5959v55kvn471j-ouch-0.6.1
 /gnu/store/1xmlq6v2p878y0anp9a6q9l9hxz1bfrn-ovmf-aarch64-202402
 /gnu/store/95alvzqb76qw731k5zwdxc56j8x6xm0d-ovmf-aarch64-202402
 /gnu/store/8k0a3bax29gi2rxjm69xd62caikizkkn-ovmf-arm-202402
