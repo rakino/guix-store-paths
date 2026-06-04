@@ -37690,8 +37690,6 @@
 /gnu/store/m5im1j1ypskmibr0xcw6ad98rpgb83ki-python-makefun-1.16.0-0.bacb3e1
 /gnu/store/djvyvjfx6qwch4x2g4qrr3862hp39kyj-python-mako-1.3.10
 /gnu/store/z33y4db3wafapww0pbxdrgmhi7z7kbjh-python-mako-1.3.10
-/gnu/store/i9d9bd8m1vmq99yb9r1pzrsz9ndy378v-python-mamba-0.11.3
-/gnu/store/si2dz4ajnkxpyvqra5c5by04rdhksqww-python-mamba-0.11.3
 /gnu/store/sm7l9ldd6sjdx1nyjmljl37v9k3sg0h4-python-mando-0.8.2
 /gnu/store/y857rw25l94034fz701i19vp3kz03ll5-python-mando-0.8.2
 /gnu/store/ba80a57kdgq19kmmdr60gv0cpm8mjsnx-python-manimpango-0.5.0
@@ -52292,8 +52290,6 @@
 /gnu/store/m06ghh5s6ibyxkbs7k9dhcjryvkv2idi-scmackerel-0.5.3
 /gnu/store/dj6m6arn5n8qhjmprfisnw81mbj9jcnf-scn-4.0.1
 /gnu/store/yys9pbvdfmg7zyksdvzsgvqvsckvcfi8-scn-4.0.1
-/gnu/store/6i95jxq078gkd270ffg8syngcl3aqf32-scons-3.1.2
-/gnu/store/i9jh6s2swh9fxy2wiivq2cf7s00ccf4n-scons-3.1.2
 /gnu/store/97xpvd5qi39qrxxdb71ymgq6p81zs05x-scons-4.9.1
 /gnu/store/lwavq75irw0c8vfkwkyambnjz5j10iak-scons-4.9.1
 /gnu/store/985by1mvsnil1kf170y6gk8gl2lladq5-scooper-1.3
