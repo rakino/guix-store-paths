@@ -16524,6 +16524,10 @@
 /gnu/store/z1yd26r2vhb7f2y09vv906309kc2a4b9-go-github-com-bool64-shared-0.1.5
 /gnu/store/gfqavzy1y8yppxx4wj51j366b54nfiw1-go-github-com-boombuler-barcode-1.0.2
 /gnu/store/hfgqclzvpnygvzv1j6xc73s84k72isxr-go-github-com-boombuler-barcode-1.0.2
+/gnu/store/13j8mi2p35ws8ixiim8mplphm0v12c0x-go-github-com-boyter-gocodewalker-1.5.2-0.20260227212453-19676720409f
+/gnu/store/jg67p9482fgcniw6268q2gp38qy64m34-go-github-com-boyter-gocodewalker-1.5.2-0.20260227212453-19676720409f
+/gnu/store/19l8gypp2nzfjsk9j10zfmf8adlg4594-go-github-com-boyter-simplecache-0.0.0-20250113230110-8a4c9201822a
+/gnu/store/via5qlaqmdvm19q8pr7grpzl1c83mzyq-go-github-com-boyter-simplecache-0.0.0-20250113230110-8a4c9201822a
 /gnu/store/bq8v1jxc5jadmkmk5vcn51ql3vvci22m-go-github-com-bradenaw-juniper-0.15.3
 /gnu/store/y042x47swvdfdkg8jcnr74n7l2bvqwzb-go-github-com-bradenaw-juniper-0.15.3
 /gnu/store/3r3sj43argnc3a0irywg2qq95bgdvrsj-go-github-com-bradenhilton-cityhash-1.0.0
@@ -28319,8 +28323,8 @@
 /gnu/store/vaq54nzbips5ln7mqjn7v6xxi34v3fd0-lugaru-1.2
 /gnu/store/89grpbn8fhqr6yi05x8wn4abksrgp5la-luit-1.1.1
 /gnu/store/vdgs9h1wx0wxxysgdn4yvbi3rr5pyv0w-luit-1.1.1
-/gnu/store/gl8i583x3nxjdg1mbqg83762w3asb4ma-lukesmithxyz-st-0.8.4-1.62ebf67
-/gnu/store/mflzr6250dzxvjnm5jsj13j1bxbaz3c6-lukesmithxyz-st-0.8.4-1.62ebf67
+/gnu/store/0jwdyqd97ysryfajvkcv78aqcvxdankv-lukesmithxyz-st-0.8.4-1.62ebf67
+/gnu/store/wyj1n06mj2340y1kl86bi742znv239xk-lukesmithxyz-st-0.8.4-1.62ebf67
 /gnu/store/11l9g3ry40smprg10z15b061xvzgnmb6-lunasvg-3.5.0
 /gnu/store/g48lj9sywl4wz184000q3j2hgik1axj3-lunasvg-3.5.0
 /gnu/store/saa8k22m40m7nh7w47jxr0f5rj9mmy6d-lunzip-1.13
@@ -36016,8 +36020,8 @@
 /gnu/store/dwsac18wjrihy56naxqcpzw4hvdszlzj-python-django-filter-25.2
 /gnu/store/g55hna913pma01ixnhcccbik6wn54hx8-python-django-gravatar2-1.4.5
 /gnu/store/sl3j0ps3d4nngs3zbgph41jyvb0rr0i5-python-django-gravatar2-1.4.5
-/gnu/store/8dnd47cjiycpd7jfmfk4xjxn8z607jhz-python-django-haystack-3.3.0
-/gnu/store/jzppww0x8dhb0z2b65q88cnz0vy322yl-python-django-haystack-3.3.0
+/gnu/store/qxm0g4rhjchrjzb58xlf21l8k2wv93aj-python-django-haystack-3.3.0
+/gnu/store/s959vnjdb19a33z652wyhbb29hdh44fm-python-django-haystack-3.3.0
 /gnu/store/0a6r11nxj9w8c0cdfg1051mzylkzgyr0-python-django-htmx-1.23.2
 /gnu/store/chzjlq4bf9wk6bzgmh8bdwxq50gz8ajv-python-django-htmx-1.23.2
 /gnu/store/715q5iqn8gdnan8l9gba41yy7fk92cmf-python-django-jinja-2.11.0-0.db07311
@@ -37048,8 +37052,8 @@
 /gnu/store/hx34dk17hnlkhrdd0jxxp6kpfk4kk9cn-python-hypercorn-0.18.0
 /gnu/store/n92b6g09k67gsrjjx18i6zxmb4ssnyy8-python-hyperframe-6.1.0
 /gnu/store/w9jsbpjsyjlfcs647zlqyv2g9jdsg8zy-python-hyperframe-6.1.0
-/gnu/store/nrsbsxbb7lldb1vcs32wgfwz4k0g6iqn-python-hyperkitty-1.3.12-1.640d66d
-/gnu/store/wcv1sm4ax20r0lf8smc9r5msvnrm800w-python-hyperkitty-1.3.12-1.640d66d
+/gnu/store/42z62rbdhwslsqhfz6w74m5y4awyszbj-python-hyperkitty-1.3.12-1.640d66d
+/gnu/store/7pksfnghcpyp9113ak72h9bynwzjwxxj-python-hyperkitty-1.3.12-1.640d66d
 /gnu/store/bdij9lhrbqsz6g9y5ppgjzsddnqx8ayz-python-hyperlink-21.0.0
 /gnu/store/lv0zn90c3hkmbxakcmxzfydfmb00cw4w-python-hyperlink-21.0.0
 /gnu/store/0ylq7mcqp6bd7gync6az6sli0kscfaag-python-hyperopt-0.2.7
@@ -41283,8 +41287,6 @@
 /gnu/store/5gbjgy5sc4mq4jpsmlm2gnc0ipsra7yh-python-whisper-1.1.10
 /gnu/store/9n91pkhz5laabdk5g8qnbzv6qqs5c84w-python-whitenoise-6.9.0
 /gnu/store/b4q52k2yn1svqq8jarlya4m1bxqllvgm-python-whitenoise-6.9.0
-/gnu/store/j1s76g1q36n2fh7z8cd2pxdyai48vsnf-python-whoosh-2.7.4-0.d9a3fa2
-/gnu/store/zwx1ky0dx0rhw8vgry2h5ljc8r4rysi1-python-whoosh-2.7.4-0.d9a3fa2
 /gnu/store/bcvjkxgz6814ji0rilvr6k77a5d8j6f6-python-widgetsnbextension-4.0.14
 /gnu/store/nqxxjywdghlzjqcynnpmvq234r1znwc8-python-widgetsnbextension-4.0.14
 /gnu/store/42npzvac0whgkgncgd79pvzkfjgxcg58-python-wiimatch-0.3.2
@@ -41321,6 +41323,8 @@
 /gnu/store/f93gv83fbx7i57ym069hcpr9ial0cbyb-python-wxpython-4.2.2-debug
 /gnu/store/21147jyw3n5fc0v597p8nm58y9q3x3rh-python-xapian-bindings-1.4.29
 /gnu/store/6x0gjg75c13haj9vrgviicy7wbs6rdzh-python-xapian-bindings-1.4.29
+/gnu/store/51rvpp7l93l9jfnn75n9vwk00q6hfd4c-python-xapian-haystack-4.0.0
+/gnu/store/r5prqslvz7y0qbd245vvql81cgrrmdm7-python-xapian-haystack-4.0.0
 /gnu/store/i6a1djzk613x2izjn1pn78i51y4bjlqd-python-xapp-2.4.2
 /gnu/store/zr4g99sc8l6z2yvjf497hrylvrspk820-python-xapp-2.4.2
 /gnu/store/parxlr98hirsb5nf5s0bmf31a11yv6zh-python-xarray-2025.12.0
@@ -44199,8 +44203,8 @@
 /gnu/store/gnd1avblqy1iismr7ah6hqfb2wkpmlnn-r-fracdiff-1.5-4
 /gnu/store/f6g4rmj0ihw296lirn62c69mdj0c3fg1-r-fractal-2.0-4
 /gnu/store/vpg9cv8676fh2822rvj2j8d2i56v3qn1-r-fractal-2.0-4
-/gnu/store/8021klbv434s8kyfbgd88gc99vj7q3yc-r-freetypeharfbuzz-0.2.6
-/gnu/store/y89lp5lss92xpwlmamqvmz9kwziwbmsx-r-freetypeharfbuzz-0.2.6
+/gnu/store/jmhr0xdl2f1vzj5kb9xkqmgkbvaq8qvg-r-freetypeharfbuzz-0.2.6
+/gnu/store/kksrykfwy4jxp3b92bl8vc4j4m823szn-r-freetypeharfbuzz-0.2.6
 /gnu/store/3k7gl5h1wcwfpgadzpk0fzisyb7q4p31-r-fresh-0.2.2
 /gnu/store/rgsrs8avsami8m5dn4sz36n728pdwjkb-r-fresh-0.2.2
 /gnu/store/1s30491gmx962yx8wish3qmj01jn1x3j-r-fru-0.0.7
@@ -52254,8 +52258,8 @@
 /gnu/store/m2h2r9i72la00s1irign21xcy2gfjqxd-scantailor-advanced-1.0.16-3d1e74e
 /gnu/store/7xcmqcay47kpqfnawzwqqrpqyj1057ih-scasp-1.1.4
 /gnu/store/fa1r6vr0vll0ijx54b2nm9wqgkksrfhv-scasp-1.1.4
-/gnu/store/4i4qp4apl3fpdpw0d0n9k4vqkvbs7000-scc-3.3.5
-/gnu/store/h9pvvm6yv14zwn6c49k6dgsf3h4d5mi7-scc-3.3.5
+/gnu/store/7mlz74ppqyqkwg1z5l8ma2xj0fwwjgd0-scc-3.7.0
+/gnu/store/v1q0xs1wb4gyh6fzawsc77pd79a2d924-scc-3.7.0
 /gnu/store/hwmx3hcqg9nnwfxkwbnv0licjpfv9mhz-scdoc-1.11.4
 /gnu/store/qyn7li3lamycsri8gdx27jrjafgrlix4-scdoc-1.11.4
 /gnu/store/bgs8fpw366wsfnn4j08byrpmcfgcm3cl-scenefx-0.4.1
@@ -53188,8 +53192,8 @@
 /gnu/store/s604ks82r1qb2wix79y3gaacvp682818-sssd-2.13.0
 /gnu/store/0ch1bbbfv577xbhnkh8s1z3cdpxm6zkw-ssss-0.5
 /gnu/store/xwr4hf5g1y9n8v5hhygcvkddqp7b0q06-ssss-0.5
-/gnu/store/c28jfz19vavcj2alikvyd30l896300y1-st-0.9.3
-/gnu/store/ps4606hfv3127w1v5wpww2k9b25s2lpa-st-0.9.3
+/gnu/store/qmb0zfbwfzm8im0m236l9cjy07kzwmfj-st-0.9.3
+/gnu/store/rvd22kmx5qml460spwhvdmbw5wkvwq01-st-0.9.3
 /gnu/store/bzc8kay19ykqvdvvbq59xghy62cfj6ha-stable-diffusion-cpp-608-38b14ad
 /gnu/store/n0jw9qsfgwhi4ypz5ldljq9v4smzp152-stable-diffusion-cpp-608-38b14ad
 /gnu/store/kg45783ms8a1bhjr07czlvjnzaylp2h1-stackistry-0.3.0
@@ -53554,8 +53558,8 @@
 /gnu/store/3293bsyi3g7ym2sq52jz457hrawz01bv-sxhkd-0.6.2
 /gnu/store/ardy1v0nhcwdbf5kld891i83q6m4v4c2-sxiv-26
 /gnu/store/m6fj8vbdaiblb55mlbywbrks6lmz7rla-sxiv-26
-/gnu/store/8scw5w0nln3zhsla6gz5lwl70vycn3gs-sxmo-st-0.8.4.1
-/gnu/store/frxxbxbf42igwndq4mylr9nba4wrarqw-sxmo-st-0.8.4.1
+/gnu/store/fafkdb3ddv2f8f7240w24a79sq7pccj1-sxmo-st-0.8.4.1
+/gnu/store/hkza18v9zixyn2gzj4y2fnxw8h73i3ya-sxmo-st-0.8.4.1
 /gnu/store/p750yzq4yj162jki4d5y6d78yi9vazxx-sxmobar-1.2.0
 /gnu/store/z32pngdd4cw9b19md3s3j8dqbqz5w6v6-sxmobar-1.2.0
 /gnu/store/1vvwrqy9daan1avws9pnsbm4xwgr85yl-sylamer-18-131
@@ -75468,8 +75472,8 @@
 /gnu/store/g8v9s26w55rk5kwgjvd3nm5097d9qdj0-xssproxy-1.1.1
 /gnu/store/hxq5xmblygykn3bqmwm7zq0vb7xdamlv-xssstate-1.1
 /gnu/store/n51b82icjpw7xswcgjav938dpp3b3jd6-xssstate-1.1
-/gnu/store/0iggr6n0zimwgzryp70w1wdjyxswgf6l-xst-0.10.0
-/gnu/store/nfhn6v8ssc79icpinq4f6syc478gc7mc-xst-0.10.0
+/gnu/store/1qdqmr7r6wyzzd77ki0b7lmbrarm6r4m-xst-0.10.0
+/gnu/store/pg8jgcbaw0mxi4zx0y5spzzgj7zayb19-xst-0.10.0
 /gnu/store/ckz9dyg2hdcyv94f9g8yqqlsc5kyma5f-xstow-1.1.1
 /gnu/store/ybbbv0cxqk85inrypak7v7sqi7ccxm89-xstow-1.1.1
 /gnu/store/ljpyrg5swmflqc557rxnf8ykmkzxg9mn-xsv-0.13.0
