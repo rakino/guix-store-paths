@@ -11937,8 +11937,8 @@
 /gnu/store/jd2j5zwnib132cfxbj5ddaipwpryfhdv-fdroidserver-2.4.3
 /gnu/store/lfwz9aaiglvgzwpgfr2ki995ngsxjh0d-fdupes-2.4.0
 /gnu/store/ymgvwi5gql55pz6vldays11c6mxanh4x-fdupes-2.4.0
-/gnu/store/41ig5r5j3bzcjsc28vgbcr2ahvw3d1vm-fe-2.0
-/gnu/store/wm07svnn8dz9vmhn6068pyqw924swqr2-fe-2.0
+/gnu/store/kcg3vwlzf54h9pbnmvb034nmc7g3phsx-fe-2.0
+/gnu/store/rpk77a3q6iccx28flvbmlmxwg4kdms41-fe-2.0
 /gnu/store/2fqwxxgspw3pss97z6sg6bjpxyvf6jr2-fead-1.0.1
 /gnu/store/d9kzpxj70dviq14ay1qym7df6laa58ff-fead-1.0.1
 /gnu/store/1i33xm1g62x9x2gjrdrl6ig9if350ypb-feathernotes-0.10.0
@@ -48134,8 +48134,8 @@
 /gnu/store/bsm79as5kl26ihnj121lfbaaymyafp56-radio-tool-0.3.0
 /gnu/store/0dbh9jfn0ydsl2idbiq4qahdh5s6isxm-radius-1.7
 /gnu/store/3c7prw33xy90m6k69nsjym9s966fkbwk-radius-1.7
-/gnu/store/f06gcri2mnnizfc3mgfvh9srs0ypfk4j-radvd-2.20
-/gnu/store/g7qsy1mijkga8hclrwqn087wmvwhxnk3-radvd-2.20
+/gnu/store/7s58vy9nsmfy6r318ir2npmmwqsp5wb8-radvd-2.21
+/gnu/store/aiy4zy85bx2dpgpff0a65p2v1lkp50vd-radvd-2.21
 /gnu/store/9pdracr3zh7p39gnmlhfaxj2lscqf2sz-rage-0.4.0
 /gnu/store/yk86p7pl13dn0j9c4cswywg7v5yni5d5-rage-0.4.0
 /gnu/store/4kr4aywim70h77x6g33azdbll5qap0jz-ragel-6.10
@@ -72295,7 +72295,7 @@
 /gnu/store/spyb0yrk8zanjf2jby85ahbb82nrkpf4-thefuck-3.32-0.c7e7e1d
 /gnu/store/5sqnk04d96a2y4z8r6z96yss0n34wx3i-theorafile-0.0.0-2.ea5fd6d
 /gnu/store/9ywyzb21qs7cr889wrc485b6nbw7g0kz-theorafile-0.0.0-2.ea5fd6d
-/gnu/store/4n8f1p60qgljd0x5bsimvj33zbk1ajls-thermald-2.5.10
+/gnu/store/lalrcvcfmsvqnpwcr7v6lkji3y8n0bfk-thermald-2.5.11
 /gnu/store/7k8nmfzmn5ylbdl0hgmxnczmirc78wfz-thin-provisioning-tools-0.8.5
 /gnu/store/zcjzwiaqw3kzmzg69qs0dz39wqbvnxd8-thin-provisioning-tools-0.8.5
 /gnu/store/kq0msmdgwckqd2jq0xzbpa2rrp9bfy04-thinkfan-2.0.0
