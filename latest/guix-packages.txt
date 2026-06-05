@@ -31200,8 +31200,6 @@
 /gnu/store/mwwsqnh90fx6fk35r2invgjf2l8kr2d5-openboardview-9.95.2
 /gnu/store/dx8lkqlvkn168g5lhbwplwzz8cdj6mih-openbox-3.6.1
 /gnu/store/vsxgxqqk03wp300q3dkdd2lvqgsy8kfq-openbox-3.6.1
-/gnu/store/14s2zria4h0wbcrbazvfpg3xgxv7239v-opencascade-occt-7.6.1
-/gnu/store/7zlbjj1014v6sfxigxxqz4qsy6lv3ri4-opencascade-occt-7.6.1
 /gnu/store/9xblsmqnyy2b5xrxax7121a2vcapqzln-opencascade-occt-7.9.3
 /gnu/store/z08xj31ji7v5ry8zzwn0m9pz116x4sz1-opencascade-occt-7.9.3
 /gnu/store/3iayi36c7rcg1p43rbjf13bcsnzv8b5n-opencc-1.1.1
@@ -34532,8 +34530,8 @@
 /gnu/store/p14z8cv3zam8kdlsq302acxfzhlv8254-prrte-4.1.0
 /gnu/store/7wfh2yf38k9m103m0y4yvdixg7a69wgl-prusa-libbgcode-0.0.0-1.5041c09
 /gnu/store/vkarqsx2c1x6vda3f9v4wnppyx3xffjd-prusa-libbgcode-0.0.0-1.5041c09
-/gnu/store/2il49rxsmfb5nrgz9dx2jrym7nc8mzai-prusa-slicer-2.9.4
-/gnu/store/y2fn20n8b86x4l5f0lrs1g3lypza6waq-prusa-slicer-2.9.4
+/gnu/store/5pf8hinnr5p774mdlqj6c14dcs5inxlv-prusa-slicer-2.9.5
+/gnu/store/a2p96llff5gr8ha4vqpffpf768mkrqb2-prusa-slicer-2.9.5
 /gnu/store/3h0bzy6a93j882iivvh1qnk4h28kdyjl-psascan-0.1.0
 /gnu/store/gkvggkns2dd0pyw59zykhlharrzp65bd-psascan-0.1.0
 /gnu/store/da3d3miwsqbdbjr6awkr5vqaf09w5dig-psautohint-2.4.0
@@ -41600,8 +41598,8 @@
 /gnu/store/y1hr2hvgl4l0sp8v5vinsa8fbfvqvgry-qemu-minimal-10.2.1
 /gnu/store/gcx4zva4lafn3qi3qa0paf9ks6kyjhiv-qfits-6.2.0
 /gnu/store/hjfbphw9bmri6w1bl315f294i9q9i152-qfits-6.2.0
-/gnu/store/cmjy1qpar39pzfnpciymdsfh787iy77b-qgis-3.42.1
-/gnu/store/j8dw0rbfnzvkn92f8gj11ni77a92wwpw-qgis-3.42.1
+/gnu/store/ws2i1zm7x528h405r5z9cqfj8lmhh5wm-qgis-3.42.1
+/gnu/store/y6idz6s888ch5kip1p29xm5fhv9j3byx-qgis-3.42.1
 /gnu/store/gx5y0pnhs54s9g6ssha6hij4h1hlljb8-qgit-2.13
 /gnu/store/yp3gb8xp06845m57msywaawpgwfhyr5p-qgit-2.13
 /gnu/store/hbxlqhn086jlckadhjkm4h36gc4zclmj-qgpgme-1.24.1
