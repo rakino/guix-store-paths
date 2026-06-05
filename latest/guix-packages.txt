@@ -27448,8 +27448,6 @@
 /gnu/store/ps8ydd8qrbppm98jqdqr3mkp4i7zlaak-libtorrent-0.16.1
 /gnu/store/mx0hv7arhsm05ky4y1nkmbjp1c6psnal-libtorrent-rasterbar-2.0.11
 /gnu/store/y526yl0qxlficqcwysxqgsr3z2x00ljp-libtorrent-rasterbar-2.0.11
-/gnu/store/l0a30vqkh3yf2y1l5byhw1fk032isakr-libtoxcore-0.0.0-2.bf69b54
-/gnu/store/yc9006zxfgdppd3im34ip6cjgi37ni1m-libtoxcore-0.0.0-2.bf69b54
 /gnu/store/aa5lhzbhbqgl105da1ky8wqvcpwg0yc7-libtraceevent-1.9.0
 /gnu/store/sinpcxlak1a50d9q4l4pmppgcqjvpw8a-libtraceevent-1.9.0
 /gnu/store/b31bl1ax9a5x16m1zcjb3z8y0ip1l3zc-libtracefs-1.8.3
@@ -74770,6 +74768,8 @@
 /gnu/store/l4ah63m3nyns1vg28zmbp1kmqn7dnb7d-wlroots-0.19.3
 /gnu/store/krhygpcyyggrzraf2ixz7ap894hi93cq-wlroots-0.20.1
 /gnu/store/mgiw33xk1d9ifi3f8m2ifnahi2qqc07b-wlroots-0.20.1
+/gnu/store/gb5sb362wkppv9k7v6y8gyv2xqkhk9mi-wlrsetroot-0.1.0-0.1b9c2bc
+/gnu/store/krwn2wzi5221j80hwhxc4qx01hzy3mml-wlrsetroot-0.1.0-0.1b9c2bc
 /gnu/store/cw03maaks81jgfca7ixq06lgdj713nr1-wlstream-0.0-1.182076a
 /gnu/store/z5lc1nvkfw3mfspvrk3s3jdkymdgj6ip-wlstream-0.0-1.182076a
 /gnu/store/a5hkwywm2yqmhlwdm407dajmzyi2k201-wlsunset-0.4.0
@@ -75581,8 +75581,8 @@
 /gnu/store/xhci6gcvprm0aix9yyd2fpna7f2v0wyr-yices-2.7.0
 /gnu/store/cann10q2bzx0sna3g209n4k2w66sws5j-ykclient-2.15
 /gnu/store/k1yzhfzdz9c52b3a5a7niiqd4gl4nl7m-ykclient-2.15
-/gnu/store/n3clkln4x6695njgjs47rl11s02ssqg1-yle-dl-20250126
-/gnu/store/r3nq3hjls0qmyyzzfry88h69biw965vl-yle-dl-20250126
+/gnu/store/80692cqbs22w68vk21pf5v4drz9qpswg-yle-dl-20260520
+/gnu/store/s9xy9c116n6npgfr8sglx7ypv6dnaqa8-yle-dl-20260520
 /gnu/store/niaf5992iidsmi8n733xblgi8l428lah-yoctofetch-2.0.0
 /gnu/store/yamjl0m1cp0c8x4pyqyf8v89gszcb52j-yoctofetch-2.0.0
 /gnu/store/m8l3jd5hwkv3y451j3n8z8x5af8zxgiw-yoga-3.2.1
