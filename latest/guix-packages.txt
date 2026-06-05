@@ -4972,8 +4972,8 @@
 /gnu/store/m3vc045flrf99jjr08swlkhb73z8v0s4-cutadapt-4.0
 /gnu/store/dz2xazmnmpssbdyil8hbmwzl6xac6m6q-cutecom-0.60.0-RC1
 /gnu/store/mzh9cwdzqmd8zxynvw054dscn14z2rn6-cutecom-0.60.0-RC1
-/gnu/store/jxk7arp035czwp5b1xxp9i5ycfp3dhkh-cutter-2.4.1
-/gnu/store/vn3spbqarlx5g0sfyf2lharjvhfhwnaw-cutter-2.4.1
+/gnu/store/5q98h23srwwhz3171n5q4i84fpah1f3j-cutter-2.4.1
+/gnu/store/g7db3i9xwi0146nkbn7z8wyf9mnklhq4-cutter-2.4.1
 /gnu/store/1smfmr8i0bfiqylhzfr6r2q6ssl2nlpf-cuttlefish-0.1.0
 /gnu/store/gaxgwbfkjh9373nszfipr8iwgx0fykhk-cuttlefish-0.1.0
 /gnu/store/gb6za47i72ab1n27xsryzfaxvkdd3yjk-cvassistant-3.1.0
