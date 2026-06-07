@@ -52720,6 +52720,7 @@
 /gnu/store/s61fhf8lm6f1pggqrk2fbypkkz8azscb-simgear-2024.1.5
 /gnu/store/ln2kfbs6881jrbbaqf1bdpr29d9qxr0c-simh-3.12-4
 /gnu/store/p2j81qqg56lfm0p4ik8sq32ns8afhjnb-simh-3.12-4
+/gnu/store/5rs1amlcmcikvphkhyknf1aqcnmk6n8r-simple-cc-0.1
 /gnu/store/fd199clkpq625y4rdyhhlarzlw7rkhm2-simple-scan-49.1
 /gnu/store/xbrc19x1i8z40cvrklhsbc79xyvj9j0n-simple-scan-49.1
 /gnu/store/2zs3mai2mkp4and7csypamk2g0dz4yrq-simpleini-4.25
