@@ -31684,8 +31684,8 @@
 /gnu/store/x4n1dizhisb752nkm3hfvi6wjpv6a0nc-pam-gnupg-0.3
 /gnu/store/afnf1hnzmiy36g1kidscnqvp4miaf5k2-pam-hooks-0.2.0
 /gnu/store/r218fc5jc8wnsd0nwncnmgplzffh58vz-pam-hooks-0.2.0
-/gnu/store/dr0ihhksnfsh7iz6zk57rvn8605bjnl0-pam-krb5-4.8
-/gnu/store/l7kv8ix52v7zhqzls8lnvp66jmzrmb99-pam-krb5-4.8
+/gnu/store/g82yy83dn91wb6v2axi6bk5i90zsjc9z-pam-krb5-4.11
+/gnu/store/psr1znm8dm7q599jbfl2k2vr8xjvx0c0-pam-krb5-4.11
 /gnu/store/cr8k1yjhvi7ydhmsk9zndcxr7bbx27ln-pam-mount-2.20
 /gnu/store/xz0jiqkq6fl5s71ph6x8caic34v822l9-pam-mount-2.20
 /gnu/store/7fvv53ib4m7w13cwj0c5g0ddx584ax5d-pam-u2f-1.4.0
@@ -74280,8 +74280,8 @@
 /gnu/store/wiyg24jdd0rp134m7wpw07jcjkqx2nlh-vigra-c-0.0.0-2.49f5319
 /gnu/store/givga51blhafb772gm3qrbvhri5sxvkf-vim-9.2.0333
 /gnu/store/hvblzsfr2s1brkj84k8xkq5bxc5sr5vy-vim-9.2.0333
-/gnu/store/7nwqbjxzm5q7k8l5m4w0q1zi11xqwwxm-vim-airline-0.11
-/gnu/store/zdvhpa3cas6dkzn86zc4f4ndqaph27b4-vim-airline-0.11
+/gnu/store/4hirazbi3nzdmyq1difg5jl2g4i3n27y-vim-airline-0.12
+/gnu/store/72r214p7bv3mfs34lz1q5s9adg8dm16m-vim-airline-0.12
 /gnu/store/n4klfm8493z1xxsxznda75qa74w1kbxq-vim-airline-themes-0.0.0-2.e6f2332
 /gnu/store/svf1fnimjsk5v90gkm10d1bz5gglbpf1-vim-airline-themes-0.0.0-2.e6f2332
 /gnu/store/kpipdbzlf698knlvqy3wm1ka2lrmyfcn-vim-asyncrun-2.12.4
