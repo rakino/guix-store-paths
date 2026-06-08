@@ -1787,8 +1787,8 @@
 /gnu/store/svg07alz1j66bfq2sqpa83yz3ckpj439-celluloid-0.28
 /gnu/store/f453zifvmg4p80zszaaq9xpkj7bpjhyf-centrifuge-1.0.4
 /gnu/store/p34xf17mgbv4bbim91fm904qs9aaxggw-centrifuge-1.0.4
-/gnu/store/32658lqqhqyhiz035f8q26wzdzxw79r2-ceph-21.0.0
-/gnu/store/4k4a247hwhpvarz8ni3nh9nqh6hw5jin-ceph-21.0.0
+/gnu/store/0blpnz7ax2pb4kwqr4gcf7macn2fbw6m-ceph-21.0.0
+/gnu/store/kfjqqcpfhs8yz1pp29nfl6yzdp9jwykz-ceph-21.0.0
 /gnu/store/n47k5l85rp1lqc5v4ifpvxfg8sxl9nld-cereal-1.3.2
 /gnu/store/vbdgfa5cv6261cjrn4ilymdidjj1y0cx-cereal-1.3.2
 /gnu/store/8v9c9bhznp2nqga5cmbqv79d9rp76xkq-ceres-solver-2.0.0
@@ -48546,10 +48546,10 @@
 /gnu/store/hhql6sag5h7azh48c9rzg1wdw9p13dci-rocgdb-7.1.1-debug
 /gnu/store/3fw5blngri2x42dmhkbmfr0b4cgkfxqm-rochpl-7.0.2
 /gnu/store/hf7218pql0436xn66mwc98cp8pcfn6sn-rochpl-7.0.2
-/gnu/store/hzc0sd46n0nmpmzh270420i8ms5w5176-rocksdb-10.4.2
-/gnu/store/z69lijdh7zsp74fsj6zzsawwdjmv2zyn-rocksdb-10.4.2
-/gnu/store/ly7d38md7n9p6ysv0v5rqvzc9lc31qgf-rocksdb-for-ceph-7.9.2-0.9fa4990
-/gnu/store/v4ka667sqxfcwg5pf65sdszzbcqqdirk-rocksdb-for-ceph-7.9.2-0.9fa4990
+/gnu/store/9cs0xr3bjbig1kw4vn9ib1l7jbgqka3k-rocksdb-10.4.2
+/gnu/store/bg48xr6hwsfyjnbzql0ip3v6zlvxwfzc-rocksdb-10.4.2
+/gnu/store/kjga1y83py8m94rkzlrjp791da420x5p-rocksdb-for-ceph-7.9.2-0.9fa4990
+/gnu/store/w19kjlbar3jr7vg650jgznrpkd1cxmia-rocksdb-for-ceph-7.9.2-0.9fa4990
 /gnu/store/nb9qg0b6mk88f33mc2bw2c9sy0kf1p89-rocm-bandwidth-test-7.1.1
 /gnu/store/y8x37yq6fn2xm091xq94mlsvygipw0gv-rocm-bandwidth-test-7.1.1
 /gnu/store/7hf71z1a7l0h2jr0cavzzr8w5n2pqi7n-rocm-cmake-7.1.1
@@ -53017,8 +53017,8 @@
 /gnu/store/x7ig6mp4ckrpc92a5rhj8qx3blga5sba-sorcer-1.1.3-2.94107b2
 /gnu/store/34g5p1klv9njzx567l41838yri6kcl3j-sord-0.16.16
 /gnu/store/xx8ga2lgfp8gnaz33nxm8rnrg343cgha-sord-0.16.16
-/gnu/store/3v7bxlx6vyxxnj4jc25aa8iay979pv4g-sortmerna-4.3.7
-/gnu/store/mygbaqgbygd7wj3yvpyn61ll97f580d7-sortmerna-4.3.7-db
+/gnu/store/1r366q14bmpbqqbmrw37nk93swrdazfd-sortmerna-4.3.7
+/gnu/store/mjzmisbyvmvszkiha1jw5qccvgzgwnp3-sortmerna-4.3.7-db
 /gnu/store/0c99m85j7l54b9d1bkax9zqygm7q77iv-sosage-1.6.1
 /gnu/store/gxs0i7m08ddxcgzwyih35771vhjxcxn2-sosage-1.6.1
 /gnu/store/95sh4vh9xkc32289ja3ws1hzr8jsyxhp-souffle-2.5
@@ -53271,8 +53271,8 @@
 /gnu/store/k9f5bzzvlmgrk980mp7hp83cwrgdyazg-stalin-0.11
 /gnu/store/4ll2017lbh5qhgmin4dndnsx9cgagdyh-stalonetray-0.8.5
 /gnu/store/6x4nm71m14jipz4s398bxn7sjja0zxd9-stalonetray-0.8.5
-/gnu/store/5ckrfkmgzd7j9x23cc1cb9rnzjnkrqs6-stalwart-0.16.4
-/gnu/store/i10zc5hrz40sg71i8zy2qv65v6khf7j7-stalwart-0.16.4
+/gnu/store/7nnpli752sbbapyb9czakm8is4m261sh-stalwart-0.16.4
+/gnu/store/ffp5298w1lgzy9vnzdxlaqkww863d6jr-stalwart-0.16.4
 /gnu/store/6jqrxv0gs9yrp2ryn483lyhj8winq42n-stalwart-cli-1.0.5
 /gnu/store/hlhb8mg9xgr55ii9rsd13r5lhmkpwhfw-stalwart-cli-1.0.5
 /gnu/store/4rna995g8lhcn8dvbkj7n9400q73n32d-stapler-1.1.0-0.23eb072
