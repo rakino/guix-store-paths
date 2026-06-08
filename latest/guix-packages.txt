@@ -34383,8 +34383,8 @@
 /gnu/store/vsq9agj3q0bbh9qpdqzaagz9nwjp4xs3-postmarketos-theme-0.6.0
 /gnu/store/9lar36zx281wimldivfc7xb4idfmhka4-postmarketos-tweaks-0.13.2
 /gnu/store/zm7n1nmfqi3m73a6rs7ig0ay95flpafn-postmarketos-tweaks-0.13.2
-/gnu/store/h4d4fcg6k6adr2m59bdxpbmzwrq68mhd-postorius-1.3.13
-/gnu/store/x2gd3w6i7l7kgsdwv3zvn6vzfgzcbn8j-postorius-1.3.13
+/gnu/store/3whn3j1jmi8gm977gg31wmq72v4f6xs1-postorius-1.3.13
+/gnu/store/c66js187nwkkdz7xm2ajsy5y8d6ilz2f-postorius-1.3.13
 /gnu/store/pglsai4mv3jwz2r2rpzn14j37yhfxz2z-potato-make-0-0.e8c09ce
 /gnu/store/vax1l0gpsn9jhvnk98dpqk9sf7wvyxkd-potato-make-0-0.e8c09ce
 /gnu/store/68fk6l69n89i94hmj4923pbcblahcjfd-potrace-1.16
@@ -36047,8 +36047,8 @@
 /gnu/store/g30bfijcbn34m1vbihsm421ka2ah5x51-python-dj-search-url-0.1
 /gnu/store/m20nfv77xq9yhwlcyf5bz7iq5sxm9vln-python-django-5.2.13
 /gnu/store/r2ql8vyc0l9azld7rh1r0fy2yzzdjlzx-python-django-5.2.13
-/gnu/store/35j2bllcnan6wcrffc56ni304l7ddvr3-python-django-allauth-65.13.1
-/gnu/store/r1m999gpx500mvd8fgv1f58f85189vam-python-django-allauth-65.13.1
+/gnu/store/jhymn3s57ahcasfykf28f6swbbjzrcrf-python-django-allauth-65.18.0
+/gnu/store/kmgr6y8z52a61hkk2yk9mfbinqsh0xcf-python-django-allauth-65.18.0
 /gnu/store/6x6i2w1a023l62mkadrsywaw8w4h952v-python-django-appconf-1.1.0
 /gnu/store/7nccrbb092y9j3dgspa1835blyjsssqd-python-django-appconf-1.1.0
 /gnu/store/f6p4pvb40l2ijckrxk2njzr8pinbj0xp-python-django-auth-ldap-4.8.0
@@ -36097,8 +36097,8 @@
 /gnu/store/x8fjjs80igxf9rr2fgi1hmsk1ir56n5j-python-django-logging-json-1.16
 /gnu/store/c2rw2y38z36rfycqq2ji8858k71chzv9-python-django-mailer-2.3.2-0.e350fb0
 /gnu/store/jl4g7ywfnb7wmwfyy80a3hr2z15hxi1m-python-django-mailer-2.3.2-0.e350fb0
-/gnu/store/bnqi65cq6dymhd5nq6cynljr6403z5qg-python-django-mailman3-1.3.15
-/gnu/store/im9whjnw1n5iwjvj305mdiql5sg8qj4w-python-django-mailman3-1.3.15
+/gnu/store/947fbd7w8rsdcyqpskw695v0dfg5j2rs-python-django-mailman3-1.3.15
+/gnu/store/gg9394xyiznydw5j0j8g632lzg7vrmqg-python-django-mailman3-1.3.15
 /gnu/store/2s8k112z9ganc862gbm1cvad4z2vgx73-python-django-netfields-1.3.2
 /gnu/store/ly5w6521bhi06ysaj9b7l9hx73866553-python-django-netfields-1.3.2
 /gnu/store/3gf184f373yrdgy1nfd2iwh6ai9fia6f-python-django-ninja-1.5.1
@@ -37117,8 +37117,8 @@
 /gnu/store/hx34dk17hnlkhrdd0jxxp6kpfk4kk9cn-python-hypercorn-0.18.0
 /gnu/store/n92b6g09k67gsrjjx18i6zxmb4ssnyy8-python-hyperframe-6.1.0
 /gnu/store/w9jsbpjsyjlfcs647zlqyv2g9jdsg8zy-python-hyperframe-6.1.0
-/gnu/store/42z62rbdhwslsqhfz6w74m5y4awyszbj-python-hyperkitty-1.3.12-1.640d66d
-/gnu/store/7pksfnghcpyp9113ak72h9bynwzjwxxj-python-hyperkitty-1.3.12-1.640d66d
+/gnu/store/7abbxjs7zrfv745k5clv4sz82233384g-python-hyperkitty-1.3.12-1.640d66d
+/gnu/store/m7k2kxxlq615hj14bg99pjgr9jv8p1k8-python-hyperkitty-1.3.12-1.640d66d
 /gnu/store/bdij9lhrbqsz6g9y5ppgjzsddnqx8ayz-python-hyperlink-21.0.0
 /gnu/store/lv0zn90c3hkmbxakcmxzfydfmb00cw4w-python-hyperlink-21.0.0
 /gnu/store/0ylq7mcqp6bd7gync6az6sli0kscfaag-python-hyperopt-0.2.7
