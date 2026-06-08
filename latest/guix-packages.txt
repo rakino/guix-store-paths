@@ -9787,6 +9787,8 @@
 /gnu/store/pp4nlmw842ijb8649s8hzfkfrvangm1p-emacs-magit-annex-1.9.0
 /gnu/store/60gpzqs80wjfn1sj4hm96qbblaxpki8w-emacs-magit-delta-0.1-0.5fc7dbd
 /gnu/store/6f4skvvhi3m3n8vfqjayzr2brvr5a4zy-emacs-magit-delta-0.1-0.5fc7dbd
+/gnu/store/gl8qjmd0hkygis28wjcik3fbrhldbms6-emacs-magit-difftastic-0.0.0-0.1e2a1f6
+/gnu/store/rdindmd6vsrwmq4b516jgw8qammqcc5r-emacs-magit-difftastic-0.0.0-0.1e2a1f6
 /gnu/store/28kj51l5zvkx4z68wsshspg96zpk3cma-emacs-magit-gerrit-0.4-1.a975215
 /gnu/store/8zn08wdd1gjbj3plnsfagi2j09zhlwqz-emacs-magit-gerrit-0.4-1.a975215
 /gnu/store/21a97f11gf2y0f748if9y84kqrqzrgir-emacs-magit-lfs-0.4.1-0.cd9f46e
