@@ -4833,6 +4833,8 @@
 /gnu/store/irj710s43rn7fm6kw8wjb6yxh9y95vxj-cppi-1.18
 /gnu/store/1hr2zbn0fl83b4j339sfi4z76hmvjvp8-cpplint-2.0.2
 /gnu/store/4qbbadyps3v5i5ammb9gaval1sm28cr4-cpplint-2.0.2
+/gnu/store/29966jnahjnz9bqn4ykfn40scc0g3j1s-cpptrace-1.0.4
+/gnu/store/lqb3w64x9nbrvy2lh4m7pavb8x9i2wk5-cpptrace-1.0.4
 /gnu/store/s7wklvm46l86xc0l7imizpq5vd2d5qy9-cppunit-1.15.1
 /gnu/store/yql727gvfqrszp0v9z1fg3sqpn8892y3-cppunit-1.15.1
 /gnu/store/2svm844pa9qvlf60pc4gbm8q0yrilh9m-cpputest-4.0
@@ -4981,8 +4983,8 @@
 /gnu/store/m3vc045flrf99jjr08swlkhb73z8v0s4-cutadapt-4.0
 /gnu/store/98giydskyn802jj85xzmwlyy9zk86raw-cutecom-0.60.0-RC1
 /gnu/store/dhl8ripka8j9lg95v290102d7dxqnvsd-cutecom-0.60.0-RC1
-/gnu/store/607wi6c2bjasz88ji0634pyslhahlbcf-cutter-2.4.1
-/gnu/store/61lcb88z5qngj1jld65v0bzkprfzzj3i-cutter-2.4.1
+/gnu/store/00hf9sk752yv3vzqjj6h9k9mv2fmb52w-cutter-2.4.1
+/gnu/store/sv9q0144j8bdp8i0imp9scyi6qi70mwp-cutter-2.4.1
 /gnu/store/d7ld7mv3alrj11ycqas3m5dpnzlx5nqx-cuttlefish-0.1.0
 /gnu/store/vka23890ir5y5l3sklizscqw27xbvv4x-cuttlefish-0.1.0
 /gnu/store/ad65892kxh8sxskw77mi953fkymmwjf0-cvassistant-3.1.0
