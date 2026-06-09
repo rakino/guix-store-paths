@@ -48308,6 +48308,8 @@
 /gnu/store/lsj24spdyz022ddp7jkwgg2zf0d04rx4-re2-2024-07-02
 /gnu/store/p5hkxfz631y71kmlbzys4rswhb4i5i1w-re2-2024-07-02
 /gnu/store/fhz8a3n6fsn014chaxmf2x0890n0ya3d-re2c-4.2
+/gnu/store/1hizb1kb1n2bxggzyjvji1blkfrwszr9-readerwriterqueue-1.0.7
+/gnu/store/f6yfwg0iq1san71qq8zz9xdb7a35xff1-readerwriterqueue-1.0.7
 /gnu/store/lpbpgq5fsfp83ll94qd1b67zl39g0kra-readline-7.0.5
 /gnu/store/ppg9srjwma8sd2ggxmhpg6k8hw4p4mvp-readline-7.0.5
 /gnu/store/n3744p8q49lpalzc0mdm6j7ilaglx4v2-readline-8.2.13
