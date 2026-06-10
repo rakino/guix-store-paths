@@ -37338,6 +37338,8 @@
 /gnu/store/xzi3ngwz9f0fjknjbph8sl3gnbpxvj4h-python-jaraco-context-6.0.1
 /gnu/store/a80b5dawhyczrxqfjkb046zag5vxr2z1-python-jaraco-envs-bootstrap-2.6.0
 /gnu/store/1hhmla3kkqpg51n5bkbi5qnpz383jvl7-python-jaraco-functools-4.2.1
+/gnu/store/4a8ggc0rwxfr4bh7m2avw87p4ckvmavh-python-jaraco-itertools-6.4.3
+/gnu/store/mlrr976q3ias3papbkn6g4s234f7715z-python-jaraco-itertools-6.4.3
 /gnu/store/akmrj1m89zwcm1yw6z87lkqx1nja1gkb-python-jaraco-packaging-9.4.0
 /gnu/store/icaw1k7g4slf7v4bqbbv7g72vysjf7dl-python-jaraco-packaging-9.4.0
 /gnu/store/0pr2zv3z6xp5hmhx5sw185v2sgczhjqk-python-jaraco-path-3.7.2
@@ -38426,6 +38428,8 @@
 /gnu/store/ridbf6j9j9v1yclls1njqrwn4pz5bmah-python-pandas-2.3.3
 /gnu/store/2kvxqkqa2d5mgq56ia29kwbc63zprnb2-python-pandas-flavor-0.8.1
 /gnu/store/hc6l3nj87d7xp4hm8sini0ynrifxsxn3-python-pandas-flavor-0.8.1
+/gnu/store/1h02ylsfjyr279azq5p5qjlkc5c94bsq-python-pandas-minimal-2.3.3
+/gnu/store/p7n1csq6sd15d2nwyf6xb6q124p2721s-python-pandas-minimal-2.3.3
 /gnu/store/1y3cprfnqpz8lpbyckgif05jdc9hfsbc-python-pandas-stubs-2.3.3.251219
 /gnu/store/jmbcvgr00zfps1adfaffy6lrcsmdjalf-python-pandas-stubs-2.3.3.251219
 /gnu/store/i8lz0pj4pdby12gcc4l52438f8rk34ig-python-pandera-0.27.1
@@ -39148,8 +39152,8 @@
 /gnu/store/yp1vh4xjsdgdwvf5sqky72g6zlksn6dv-python-pylru-1.2.0
 /gnu/store/0b2adj68mkyykwlxbrfjagmb3226dmra-python-pyls-spyder-0.4.0
 /gnu/store/2mi877qkx8vmbgp7wnj4m5d22mvcypd5-python-pyls-spyder-0.4.0
-/gnu/store/5sac3y3zpa5r7jzmybhy0in0brab749l-python-pylsp-mypy-0.6.9
-/gnu/store/zh336c76knz0fh9h6213vb1ad21i0mjx-python-pylsp-mypy-0.6.9
+/gnu/store/ficbp7174lclivhd85ikk0phbvi9qw74-python-pylsp-mypy-0.7.1
+/gnu/store/yy6cq6b63bmw2kqlhwrn2i6ln556rjg1-python-pylsp-mypy-0.7.1
 /gnu/store/2jgdmqbv3i045llwjkh7m6phc85xjf7v-python-pylsqpack-0.3.22
 /gnu/store/saj0h1m88phc37djid5jzq6gg0k9rcmk-python-pylsqpack-0.3.22
 /gnu/store/0br2js6h533lhwqcd6w39z7hbkawb0bk-python-pymacaroons-0.13.0-0.78c55c1
@@ -39559,6 +39563,8 @@
 /gnu/store/s5i94y5k5a09m20swy15fs29x6hqsysn-python-pytest-jupyter-minimal-0.10.1
 /gnu/store/0z65m0v4ab5ybd7kjvbbss6770yk3z5h-python-pytest-lazy-fixtures-1.1.1
 /gnu/store/lci5nxcr9iqn1fq1qrpjxzw05nnsr4mn-python-pytest-lazy-fixtures-1.1.1
+/gnu/store/dadsd2gz4d6zs316l5fn02fbkz30j3p1-python-pytest-localftpserver-1.5.0
+/gnu/store/nz8haymh8212dmdm059b8bn2g853rpf1-python-pytest-localftpserver-1.5.0
 /gnu/store/mmnn9kixfxqx94x3nbvg1rbwz6yay1an-python-pytest-localserver-0.9.0.post0
 /gnu/store/qxiwbfif5bz94ac0avxm4ali4098i4wi-python-pytest-localserver-0.9.0.post0
 /gnu/store/kpkwi429bzarzgfbxqxxap0qdks68p0p-python-pytest-metadata-3.1.1
