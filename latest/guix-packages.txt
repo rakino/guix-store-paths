@@ -1964,8 +1964,8 @@
 /gnu/store/cmg82bhgh0mpap4xca3dwax1rqi17a7s-chuffed-0.13.2
 /gnu/store/84vqg8j0j5rbdjmj0sc0i7p6lf74w72d-cianna-1.0.1.4-0.3c41568
 /gnu/store/mfxf23zmp4h6lvba51z395mn1jsym2wl-cianna-1.0.1.4-0.3c41568
-/gnu/store/4n77ij83a22r6w5bv2pqarxzzwgrjl78-ciel-2.4.1
-/gnu/store/idwq4gwaskhdy5ijqjwzj5xz01dzb3pz-ciel-2.4.1
+/gnu/store/1pcanvzq5jvqbip9qkx70kmvjbp89rwc-ciel-2.5.0
+/gnu/store/793xcdyfbr6x7nfb0ycjqj28iyby7dxr-ciel-2.5.0
 /gnu/store/71n5ly3x2dgi698pkh48gpsjy9r1pq6l-cif-core-3.0.13
 /gnu/store/f0954jk5vvdcvk15jabbidgdnfiddwpd-cif-core-3.0.13
 /gnu/store/4fj2ccxcjg9467a60px4b6fswskcm79r-cifs-utils-7.1
@@ -27190,8 +27190,8 @@
 /gnu/store/1n8xapaz37vhvnh4kamsyfvc2b2rq5d2-librecast-0.11.2
 /gnu/store/dpxbsx40gwmszhlqah9s6y9bcfpvrfi3-libredwg-0.13.3
 /gnu/store/vjgzfq7wg686ki337i8vlxhgc2w356hr-libredwg-0.13.3
-/gnu/store/cdmzbxa6iz58wp5gjyjckmd2q6z8hiy8-librelane-3.0.3
-/gnu/store/ygfqjflw3z2v74yas153009cpqg6s7z9-librelane-3.0.3
+/gnu/store/c83ins8rjvw7fbhxrsgxy74wzl75c5qq-librelane-3.0.3
+/gnu/store/ndb8j2lsxmhnkgfhp3w695ni1403zj2q-librelane-3.0.3
 /gnu/store/i5qgpwpns90444g0asja010gwkrsr8yl-libreoffice-25.2.5.2
 /gnu/store/xvkvy75rvzghcj4509qdxkrqnnra7xxh-libreoffice-25.2.5.2
 /gnu/store/91f8f9hfbvfrih7ahxskhxxgrjnrk2h6-librepcb-1.2.0
@@ -31541,6 +31541,9 @@
 /gnu/store/q4xvgnb97jr70wr6rfidrpap9srrzbxz-openssl-3.5.5
 /gnu/store/cg07i4167102w5ip5r52wh1jxb2k1dg4-openssl-3.5.5-doc
 /gnu/store/4kig4mhk6b014wfiiy3ap66gasp275cb-openssl-3.5.5-static
+/gnu/store/r91nkd2y1cr1mb8ckjpl5y44svzad490-openssl-3.5.7
+/gnu/store/fbi5sfvp6zhj5rjvvqqgz5j6dim9pzbn-openssl-3.5.7-doc
+/gnu/store/bmgmcbszjngvns2m97g6hz3va39r3kph-openssl-3.5.7-static
 /gnu/store/jm4a6z9gwgv6a4401p5zyrdapqr4mvw2-opensta-3.0.0-0.62cd210
 /gnu/store/xg95kllrmkdq00iwzczl3zbd85zklpvq-opensta-3.0.0-0.62cd210
 /gnu/store/avsy7m6jx5zwxv2izs6sb3pxhf1ifjxm-opensubdiv-3.6.0
