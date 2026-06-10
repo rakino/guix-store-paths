@@ -34737,6 +34737,12 @@
 /gnu/store/xdpd9aqqsfc53clpbbsmmiqlk4nhdij3-python-3.12.12-idle
 /gnu/store/87l05z2i3fzagqqkqca9d9xan5ckbiz5-python-3.12.12-tk
 /gnu/store/9wmr029lk4zavpwj928p7ns41jgqj3r3-python-3.12.12-tk
+/gnu/store/5jlrhhsvf6p7h37jcxzakax8gq2qqryh-python-3.13.13
+/gnu/store/87ijxmvwfrdz6g80bw1vmch6ffd6xj08-python-3.13.13
+/gnu/store/wnl271bl8lbpdn5qyg0zks6iqcpqwd4h-python-3.13.13-idle
+/gnu/store/wy8rsc0m7ayfjw97yzh6w9n2blng3m1k-python-3.13.13-idle
+/gnu/store/c2yvs0gnxg0pn8j95695qddj6134r8q1-python-3.13.13-tk
+/gnu/store/xsfl3z024j8325gypmxfa9f2kay10a0v-python-3.13.13-tk
 /gnu/store/a15yl5r65a2b1r9plva9g7j6c2zdwqrk-python-a2wsgi-1.10.7
 /gnu/store/h5snwq35nn79pls1l5bp4nqah30s1a36-python-a2wsgi-1.10.7
 /gnu/store/q02qzsi38071mkzs2qfn59ihflrpjlmd-python-abjad-3.31
