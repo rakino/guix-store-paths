@@ -13191,8 +13191,8 @@
 /gnu/store/nyg5gxq7bbkxm63vhjwqhpqrnd2s4bjd-gcc-15.2.0-debug
 /gnu/store/5n0p14imxxnygk39wfx526smdfv7qh94-gcc-15.2.0-lib
 /gnu/store/j3h4lcv2m81a8697kbb20j04c9rakz2x-gcc-15.2.0-lib
-/gnu/store/70g79myfvk6d7dlnf8m3lnxv4p60gjnx-gcc-2.95.3
-/gnu/store/bxb2bm50c80gqsbkg00h939vfqhq2r8a-gcc-2.95.3
+/gnu/store/9clm1sr4dywhdfsxvyw7g7k0bicd49pa-gcc-2.95.3
+/gnu/store/wql9qc62v8ja7lfzqik7ja2qy2zb4gsl-gcc-2.95.3
 /gnu/store/389ygysyj3j9hbfcc0wl55sba027vs7h-gcc-4.7.4
 /gnu/store/3j3qwp1rii52si74fbiwg3ky9qzw5sib-gcc-4.7.4
 /gnu/store/78s5l42c6ay9cf6j2zmpyrw7l9gxlx3n-gcc-4.7.4
@@ -13640,13 +13640,14 @@
 /gnu/store/d0mjqg14m8rck226aqis52f5708xv3ng-ggml-for-whisper-0.10.2
 /gnu/store/f6grbyv4ap1cky74c6j5g7ncbcs3m123-ggmorse-0.1.0-1.8fb433d
 /gnu/store/m9m0pg627mwjn9lp9s0snyrxp6w4kgya-ggmorse-0.1.0-1.8fb433d
-/gnu/store/3gq1sifr8kmv6rmpshj13p0lnsmc7y6b-ghc-4.08.2
-/gnu/store/aylkpf93bnyz664h9z3hllzyxpzj289z-ghc-6.0
-/gnu/store/lx27dpyg59rvk4v56kp0jbwmv33y88ds-ghc-6.10.4
-/gnu/store/lmm5n0rlx8618zqf4jc9x3zrn7f2b19x-ghc-6.6
-/gnu/store/yqjdyi0w2rpzv0i46349m9pad82591kb-ghc-7.0.4
+/gnu/store/wjbw91jf5ndn8g5spb8b8jw1ih373s32-ghc-4.08.2
+/gnu/store/hzfwvnfcz3hmmhkh4fkh1vx8bvxamp8v-ghc-6.0
+/gnu/store/v62qn53hshqlrs4166cmzsc2mld11z9d-ghc-6.10.4
+/gnu/store/1d61z9hdnzq2xzx5f71mpcdqrghfmxxs-ghc-6.6
+/gnu/store/6l9v8a9wpgyrw7ayvd0jvgm633adf2ck-ghc-7.0.4
 /gnu/store/njw4bdmsi63wmry9mi33jv4i72sglck6-ghc-7.10.3
 /gnu/store/g99r7vjq1658cma3lgnb3dczgzb5lv0k-ghc-7.10.3-doc
+/gnu/store/f5ikwb3f5xcd2m1aghbcka02qqn3a0yg-ghc-7.2.2
 /gnu/store/dw5alpiizga5i1i7dspabdfix5mdqkrr-ghc-8.0.2
 /gnu/store/6aai2nw6m30w8rmp7vwiqhi28lkppxw9-ghc-8.0.2-doc
 /gnu/store/231wswvpl5cxkywvdl1kcdb316klahz4-ghc-8.10.7
@@ -31800,6 +31801,8 @@
 /gnu/store/lpswc44047xlrqf4h3lhd84ka4p1vmmq-papi-6.0.0.1
 /gnu/store/96q8437sk7y83m2balxbrzs9grkhkxxb-papirus-icon-theme-20250501
 /gnu/store/mdm0ibh1k5pb5afdy68lbflnj5wyg2wd-papirus-icon-theme-20250501
+/gnu/store/53vp1b667akv310wsaj8lxnksjih6hxl-papis-0.15.0
+/gnu/store/m5rhjbvq28fzp0c4c1g9byqkr62zwv8i-papis-0.15.0
 /gnu/store/jsfhsnpl6mmrd5kz8qm3jhxrf3rnp2x3-paprefs-1.2
 /gnu/store/sl3dd0gqm6mx9prs2q8fm6ikf8bc1lma-paprefs-1.2
 /gnu/store/b73z4wpfl0vrbnqwq7i8in75yd5z1yis-paps-0.8.0-0.199b478
@@ -34973,6 +34976,8 @@
 /gnu/store/v3fmqa231k994ah5cxmm2n2incnmsnwi-python-arrow-1.3.0
 /gnu/store/ikiy66i4733jk1nhqxikya80jr0g5vid-python-arviz-0.22.0
 /gnu/store/jivxjb9z4q62yg7p03ci7slbib05rfxr-python-arviz-0.22.0
+/gnu/store/v2y2czswwk1v4r9grk9cw34zk317yav6-python-arxiv-3.0.0
+/gnu/store/v595cr3dx13ny5rcn4qpshafh8563zl0-python-arxiv-3.0.0
 /gnu/store/03xxd69cssx6j5vvcq03fgm06v2gmnlp-python-asap3-3.13.10
 /gnu/store/sbq83zgvccljma46ph8841k11j9j9sb2-python-asap3-3.13.10
 /gnu/store/i2yba9i78c21zn8r8fj14dsdgv22xfph-python-asciitree-0.3.3
@@ -36202,6 +36207,8 @@
 /gnu/store/4qllfy6qfysg5jspnd0wd4nhsqg61jlz-python-dogpile-cache-1.3.4
 /gnu/store/imlpkkp6b8wwdfv42p05xw2pgg51n9v1-python-dogtail-0.9.11
 /gnu/store/q4rf56ip5nd9whh47c9jxx5frwj30c19-python-dogtail-0.9.11
+/gnu/store/30yyznlfwwil8jdssilza68954lmbmc4-python-doi-0.2.0
+/gnu/store/l0k2rpzppk4r29bfwry5ahidwmwdykls-python-doi-0.2.0
 /gnu/store/7i4gnf6n1qzzvrhn89w3cfrk68mz5ihq-python-doit-0.36.0
 /gnu/store/831dzg365vrgindanv0igic83vygqrzb-python-doit-0.36.0
 /gnu/store/0ydf3fg3kjlwj20r14bfbr6052w2mrpp-python-domain-connect-0.0.11
@@ -36210,6 +36217,8 @@
 /gnu/store/k7x46bygqlcmbhppyrls6xn747ml3i7f-python-domain-connect-dyndns-0.0.9
 /gnu/store/fahp8v6kx43dbfkf0sh9h7lld5m60lqx-python-domdf-python-tools-3.10.0
 /gnu/store/m45bv824qykh23dh3racjv1b6yzhssn7-python-domdf-python-tools-3.10.0
+/gnu/store/avpdbnd9j6qy0v8n12ys8skdrhzkynwb-python-dominate-2.9.1
+/gnu/store/fji2yhi65a2ghqj5k32kqa5p23h7swm9-python-dominate-2.9.1
 /gnu/store/20lyszh4vb5vs809rvh3wp6gi7ipjcxl-python-dotenv-0.13.0
 /gnu/store/icxbk7dcwa6lssqv2iy81h7gjqx2bf89-python-dotenv-0.13.0
 /gnu/store/9cwz5yqyyp0v748f2l5j4jqjfi9qqlh9-python-dotenv-1.1.1
@@ -36946,6 +36955,8 @@
 /gnu/store/s0a2m78039q8rciyyzl9nhqq8izx43hf-python-h5py-3.15.1
 /gnu/store/8pwl98izgw899vmy90x05claxaa3j85y-python-haas-0.9.0-0.e9c45e8
 /gnu/store/p069kgxid095dm9594gnq5528s58pink-python-haas-0.9.0-0.e9c45e8
+/gnu/store/qf9v5krl7db16lggzp672h7sc7b2waxr-python-habanero-2.3.0
+/gnu/store/xivc9bip1mnbw9z1qxyigzz8j32i3cyl-python-habanero-2.3.0
 /gnu/store/d904lwmcz3ry3ia7zd9hy44m5xvknvx2-python-hacking-7.0.0
 /gnu/store/p7g7rgg5sq5pn2r9p5vv3mdx3rsglrqi-python-hacking-7.0.0
 /gnu/store/0ig77ksggy2id16spgdwh40b3j00ahm5-python-halo-0.0.31
