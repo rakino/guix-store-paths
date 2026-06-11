@@ -8691,8 +8691,8 @@
 /gnu/store/scpsfwjcj81gr1c0m5vbn6dgcx7d5xxj-emacs-elfeed-goodies-0-0.544ef42
 /gnu/store/2x21na5q8f5wabk3f556a912bb4lcqw8-emacs-elfeed-org-20250104.0-0.1197cf2
 /gnu/store/hr5gh062jif1azi0xmwvl11agifgbm91-emacs-elfeed-org-20250104.0-0.1197cf2
-/gnu/store/7b84vhsa3x9nsqvsmi8dwlvjsyc946w5-emacs-elfeed-protocol-0.9.1-0.5893659
-/gnu/store/xaz4x83gih7n6rvi4r4d0p3x18p33084-emacs-elfeed-protocol-0.9.1-0.5893659
+/gnu/store/9zksp6zr24gcb1zmhxg500s4fgzrqczg-emacs-elfeed-protocol-1.0.0
+/gnu/store/ln189yxlsisy8qa7rw4cnf8a27k97lk9-emacs-elfeed-protocol-1.0.0
 /gnu/store/h6zsi1ffd4h7g5q4vmd04frkm5blxl48-emacs-elfeed-score-1.2.12
 /gnu/store/hgyfg65mdcnfan33xg89dqfdazgl3m4f-emacs-elfeed-score-1.2.12
 /gnu/store/afghxayaxk4giy7yhp84hf42yaxsm7yd-emacs-elfeed-tube-0.15
@@ -9851,8 +9851,8 @@
 /gnu/store/rlv31fj8ih3s72mymbnnq9vgjina0dx0-emacs-md4rd-0.3.1
 /gnu/store/f9yb2a87175fzm572jx35iqvva50sk05-emacs-mediainfo-mode-0.2.0
 /gnu/store/ssmmzqgh0zdp4cv90z2y035awg7s96ki-emacs-mediainfo-mode-0.2.0
-/gnu/store/kfm27xhpr053r54bsinr7k0cr2xkmgvm-emacs-mediawiki-2.4.10
-/gnu/store/ymfl50bl2njhvb7rrszhnajc3qqypx4n-emacs-mediawiki-2.4.10
+/gnu/store/lhf8paxwgym598r8jpl4w0h8m6lhii8g-emacs-mediawiki-3.1.1
+/gnu/store/w5h1m8d23bf73b98fdmrl8qdpd7yskkh-emacs-mediawiki-3.1.1
 /gnu/store/r91b5vnp0sw4rzr40rbwrpy3llqr77bs-emacs-meep-0.0.1-0.de7f3c5
 /gnu/store/ylwp32gq6r03ph6iyawm529mik2wkqqx-emacs-meep-0.0.1-0.de7f3c5
 /gnu/store/99j98asm9visws59z9n5sclwnnfxf5hj-emacs-memoize-1.1
