@@ -13025,8 +13025,8 @@
 /gnu/store/wfbs34rn9y13fqxi093paqqssy7qgqpj-ftest-0-0.c4ad4af
 /gnu/store/31wiwivqzq9hskmvl3bvaslf3qmyc9vk-ftgl-2.4.0
 /gnu/store/lakkachf7n75hchxik49nlbp73ld8q5s-ftgl-2.4.0
-/gnu/store/wa17vyaqi8awrhbrinbncccsy81gzf56-ftxui-5.0.0
-/gnu/store/xnnwxz3znls8wfya59shhisb3mx7ri9d-ftxui-5.0.0
+/gnu/store/7anfzddffi1l4r86fanjmxv950zdya8n-ftxui-6.1.9
+/gnu/store/hbr61gk3f17r77nvnxb9sacclcyw1xvm-ftxui-6.1.9
 /gnu/store/nsj56rf2v31w2v2xzk3jzgxsrqqa8d2y-fullswof-2d-1.09.01
 /gnu/store/yjl0didj1wz5js98bs4zbaz63pzcj8cr-fullswof-2d-1.09.01
 /gnu/store/d9f94ivag8ggbza4darghwvf9j2agg68-function2-4.2.5
@@ -13647,7 +13647,6 @@
 /gnu/store/6l9v8a9wpgyrw7ayvd0jvgm633adf2ck-ghc-7.0.4
 /gnu/store/njw4bdmsi63wmry9mi33jv4i72sglck6-ghc-7.10.3
 /gnu/store/g99r7vjq1658cma3lgnb3dczgzb5lv0k-ghc-7.10.3-doc
-/gnu/store/f5ikwb3f5xcd2m1aghbcka02qqn3a0yg-ghc-7.2.2
 /gnu/store/dw5alpiizga5i1i7dspabdfix5mdqkrr-ghc-8.0.2
 /gnu/store/6aai2nw6m30w8rmp7vwiqhi28lkppxw9-ghc-8.0.2-doc
 /gnu/store/231wswvpl5cxkywvdl1kcdb316klahz4-ghc-8.10.7
@@ -27241,8 +27240,8 @@
 /gnu/store/gvfg2r95cndwlibzywpk500x4yjqgl1l-libretro-slang-shaders-0-1.82d91f7
 /gnu/store/cq0mawcpx02pmvm2dbhid0k1zql7pz12-librevenge-0.0.5
 /gnu/store/rzqvf9m5dngvvysnijvr11nkiwpd7pjd-librevenge-0.0.5
-/gnu/store/6vvp6jvxf4ci4fbkhr4dw781hbllp9fj-librewolf-151.0.2-1
-/gnu/store/wzmjyjfxl3is9zg0hfjz26v3g9lpkvx9-librewolf-151.0.2-1
+/gnu/store/v8hciimx7nj95pra7jrqfj59fyi5f0s3-librewolf-151.0.4-1
+/gnu/store/zpl1wy38l7chxc1h1d1j58qmcfv1yhyk-librewolf-151.0.4-1
 /gnu/store/caaqjy03zi3cwrw8rwh1f2ai35kfyikq-librime-1.10.0
 /gnu/store/wczdikcvsidl56z5bygbzb3jk2ldrzz6-librime-1.10.0
 /gnu/store/0q8fxiwx8v6fdx6i1i6i03vfvkf80scr-librocket-1.3.0.0
@@ -37301,8 +37300,8 @@
 /gnu/store/4b06kgaqjnb3sppdifzn48gylygq4y2d-python-isal-1.8.0
 /gnu/store/7958z07yczlx5kgwi74mrnghd3c9dabl-python-isbnlib-3.10.14
 /gnu/store/92jd4aj2klvmhkbavm92hp6ljckjfsc3-python-isbnlib-3.10.14
-/gnu/store/k2378vdi8rqf3qbp5n3y3pg6bam8cmvk-python-islenska-1.1.1
-/gnu/store/ywmw514idrywlgbsnhxv04bljy1cni9b-python-islenska-1.1.1
+/gnu/store/b4rn03pa6qcc138hr7zcb27pp71qpiza-python-islenska-1.1.1
+/gnu/store/l9bqf466385ssc6n1mhc3g5dm27m02by-python-islenska-1.1.1
 /gnu/store/bz6a4ydssfc0ysxs9m3fd38n8g4xknpw-python-islenska-bootstrap-1.1.1
 /gnu/store/vd5nvcg4dgyvl3cnsr718hygnpywlqgp-python-islenska-bootstrap-1.1.1
 /gnu/store/2akkm30c90sidh1vfad7gdxqw9klh6l9-python-iso3166-2.1.1
@@ -48309,8 +48308,8 @@
 /gnu/store/kv8x4ki298xiwdsjql9cv61mn1aijsjg-rccl-7.1.1
 /gnu/store/8rf9kq5bfb3c07r4fd2yax865hjl24cy-rclone-1.72.1
 /gnu/store/r9z726a7vbsbvwvb6h2i5b1kpdl94mfh-rclone-1.72.1
-/gnu/store/gk6cj9x3kahvldyb5r6fpv2j9smw4kq5-rcm-1.3.5
-/gnu/store/p722pdxcl5fbagfhqarxlbcp2c59rg0g-rcm-1.3.5
+/gnu/store/cijg6r6wah2drcxa2wcggkf8q50il7k4-rcm-1.3.6
+/gnu/store/rpmclw09q6rgx6bzwpb40566vb6fjxh6-rcm-1.3.6
 /gnu/store/hjwz14yfl5zmqn7cixxypf6xd2i1q438-rcs-5.10.1
 /gnu/store/ibkvj615c6rz1ci91vflayg917y0rx3b-rcs-5.10.1
 /gnu/store/qns34vdjjiqhz87b909z8161scf9iihm-rcs-blame-1.3.1-20210207
@@ -74728,10 +74727,10 @@
 /gnu/store/ryxzqc314xsd4mvcglq3hyiz4djx6n1s-websockify-0.13.0
 /gnu/store/b309fywkll9hribd0889q4m1z5xyd6hf-webssh-1.6.3
 /gnu/store/dl4k78nhkwprzqrjc3wnyq4gj6m71lam-webssh-1.6.3
-/gnu/store/hvk1pddq9w0zyh4bxpdla3qrvh0i48c5-weechat-4.9.1
-/gnu/store/vbq7ldvrlxfvdm4l2rix8xv8d8pwn73k-weechat-4.9.1
-/gnu/store/nr0cdq3g9w0j5rq1ljby6f59xfyfsc6c-weechat-4.9.1-doc
-/gnu/store/x0pyzalsw9hvcj4vrvv1iwz11gahlspj-weechat-4.9.1-doc
+/gnu/store/95adsw8kvxp5n7m8j2gddi38wjnqy49j-weechat-4.9.2
+/gnu/store/mbwzsvfjplh7bvq7qi7pwpl4a6j907y5-weechat-4.9.2
+/gnu/store/3cz0pwjkxypf0kz03a45nbvbmb7iz969-weechat-4.9.2-doc
+/gnu/store/yig685j1iivvkzsr2q31fppqn8s1x50s-weechat-4.9.2-doc
 /gnu/store/fjwaxh6x1rw79lizf53zkixvckrm3ki2-weechat-wee-slack-2.11.0
 /gnu/store/mkjskdyq356al4vfxfx4fdb12rnpgzwh-weechat-wee-slack-2.11.0
 /gnu/store/hx1a1n1iv1vi250b5k46j4w0pyw8kx1r-weex-2.8.3
