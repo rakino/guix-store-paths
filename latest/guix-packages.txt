@@ -28077,6 +28077,8 @@
 /gnu/store/ss9921xidywg143vhiglvjfw5z9061sd-lrzip-0.651
 /gnu/store/f4mvmm9qalixbdp39x5gvdyz75lr6cj6-lrzsz-0.12.20
 /gnu/store/mbnl7z0iawm9lsf6irqa5bhsabm500n8-lrzsz-0.12.20
+/gnu/store/i3ykh2b5hqg083l5jjcgjbc128h49s49-ls-qpack-2.6.2
+/gnu/store/wk7ncr7ys3p9zjbyvb2g5pjrcipxkmyl-ls-qpack-2.6.2
 /gnu/store/0pkvvb89qqjrbqdcrwjb7gr2bp4cvblr-lsd-1.2.0
 /gnu/store/yhr0j38ira6b7g8f5a59ixydvki4yahd-lsd-1.2.0
 /gnu/store/5yi66d4p768v28ymp45xvfwfr50l17w9-lsdvd-0.17
@@ -36387,6 +36389,8 @@
 /gnu/store/zy4id926m9l7b43bg2l1qa06rxhqxpbg-python-etcd3-0.12.0
 /gnu/store/5kzp1xw5zywf2sl590zk10w3bwxqwyr6-python-ete3-3.1.3
 /gnu/store/vv5hzrjv89zjsm8hfb93mvim56f5v91m-python-ete3-3.1.3
+/gnu/store/77a8x0451nqml38nprd7r6mgz7iwjlhd-python-eth-hash-0.8.0
+/gnu/store/azr4mqm4vbrws6lyjn41mb83mcv3d657-python-eth-hash-0.8.0
 /gnu/store/mzmypp2kmq2ilnb7vzx84alsind0c6bm-python-etuples-0.3.10
 /gnu/store/s0kypavbw7w2ia1al8gklzb672zal8f1-python-etuples-0.3.10
 /gnu/store/l2vgfr5vn7qwd70wbchs6wgwsy3fpdp9-python-euclidlike-0.9.0-0.55d47fb
@@ -53134,6 +53138,8 @@
 /gnu/store/w9x9xwniqwj8ws2wppc17rzmhs7gi941-specification-multihash-0.0.0-0.931febb
 /gnu/store/0s8gwqrqz8gblmn8m40kysn4nv889xmx-specification-qifs-0.0.0-0.da52cd9
 /gnu/store/8r0jclzd862pdgna1i4lxx2g1fwv4ws8-specification-qifs-0.0.0-0.da52cd9
+/gnu/store/adzfdz194qgb7c5r1kmb4vkck8cjnv4g-specification-referencing-suite-2025.1.1
+/gnu/store/gisz4zbn1wzwh3k9dhkn0mpifnf57kkd-specification-referencing-suite-2025.1.1
 /gnu/store/7zh974pjq06nnpvk4csydzf43jzhw4ny-specification-runtime-spec-1.2.0
 /gnu/store/86i85wra851zpa6cir2xmj09nysvqpq7-specification-runtime-spec-1.2.0
 /gnu/store/k4f58alyrlzv5hq5kwjxafj2jp2syv4l-specification-runtime-spec-1.2.0-golang-src
