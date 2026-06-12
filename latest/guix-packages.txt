@@ -5017,6 +5017,8 @@
 /gnu/store/9qjkg45zq1b49hx11g737byhdb9hps5n-cyrus-sasl-2.1.28
 /gnu/store/ljrh4x13521q2gvwx1x25qixgpzkw946-cyrus-sasl-xoauth2-0.2
 /gnu/store/z58q2wzlrbc04775xd5ladyj88w3fiyf-cyrus-sasl-xoauth2-0.2
+/gnu/store/5wyfk0qcrf7qg0gwyjh6m38jrv23mppx-cytnx-1.0.1
+/gnu/store/kqajcfi4z53jgvvdpabjn8qsh6kmhgli-cytnx-1.0.1
 /gnu/store/hsmc74k2wj3skr86r6wqscv6inx0pn6c-czmq-4.2.1
 /gnu/store/xvshyshl6xmbipcq3zwyig6zvwq2xivi-czmq-4.2.1
 /gnu/store/aqyzv9lbpk54w9314n16zfxl44vg7why-d-demangler-0.0.2
@@ -21458,8 +21460,8 @@
 /gnu/store/y2ky8rv2g1ky4mm74bifgkagi8py7im6-guile-picture-language-0.0.1-5.a1322bf
 /gnu/store/2l0ghw0iz99s5340rc81cyc8hllnfh59-guile-pipe-0.0.0-0.0746ec3
 /gnu/store/m73g26kky8hlx2abiya4r41l02l0vxwm-guile-pipe-0.0.0-0.0746ec3
-/gnu/store/4pkzlqq8z5i1hsvffnaz0rwds37sgjy0-guile-plotutils-1.0.1
-/gnu/store/nwbwlq2lwj9dca5c3x13wgwh008mw944-guile-plotutils-1.0.1
+/gnu/store/hnhklphc780n0wh3wh87v25mw8jifcip-guile-plotutils-1.0.2
+/gnu/store/z0acgh51a1mm88pczn6a5w6rmdw64nvn-guile-plotutils-1.0.2
 /gnu/store/bhmg8d1mib9zvckw328d4fmwicl6m5vl-guile-png-0.8.0
 /gnu/store/c3qx62bxv3wab6dwbjwmj7wc91kl7b3s-guile-png-0.8.0
 /gnu/store/qwf6m5k1mq0ddcnd9256g3ksp8611msk-guile-pnm-0.2.0
@@ -21501,8 +21503,8 @@
 /gnu/store/8bkd231vl0g61dbfdnqpkgxvg2n7jrlh-guile-scheme-json-rpc-0.5.0
 /gnu/store/k01y4b8ld1yghwbd6imghs7629a5ixfd-guile-schemetran-0-1.3f5e152
 /gnu/store/s2bmxw125bzm8c6xcgp763rsp4lgmx5j-guile-schemetran-0-1.3f5e152
-/gnu/store/acsmapki7hbbwzld8qd9hr19gck92rml-guile-scriba-0.1.2
-/gnu/store/xw64ld2j32fndy4qlqvwsf4gizc7bs24-guile-scriba-0.1.2
+/gnu/store/aclrzgjby8gifx1yjr00wp43p97bw3y9-guile-scriba-0.3.3
+/gnu/store/q4nm52a020kxqs94hcvdkgs5jg8yps5v-guile-scriba-0.3.3
 /gnu/store/4fn2shnf8zxm69cq49i3s4sxhcvf7p8x-guile-sdl2-0.8.0
 /gnu/store/6826xqnyif33dgrcish8zh0zaw6rms30-guile-sdl2-0.8.0
 /gnu/store/a3a5zhrd3dfpimklpyp6a83sk92l53cg-guile-semver-0.2.0
@@ -35911,6 +35913,8 @@
 /gnu/store/ip34600kclz97gcnm4wp0954y81v2mkv-python-cypari2-2.2.2
 /gnu/store/dcfv6zfnsf3f1iawk82am7vz1yvxwxyx-python-cysignals-1.12.3
 /gnu/store/g03zina2ga3k9gknc03dsfgahfy8plnc-python-cysignals-1.12.3
+/gnu/store/bgns3h3gz2jrm573dhlcs69vmwgdbihn-python-cyten-0.0.0-0.20393da
+/gnu/store/cpsnagllhsbv612784xh1204dkk9inb6-python-cyten-0.0.0-0.20393da
 /gnu/store/2pp2c9gzj4brd7cnslwnrjngh6zdzcvz-python-cython-0.29.37
 /gnu/store/l31rsbhcqhi91527gzr7rzwmjdmq9c2m-python-cython-0.29.37
 /gnu/store/5348rbjxz6xgl7fa9d1dg0ks2xzmq3kf-python-cython-3.1.7
