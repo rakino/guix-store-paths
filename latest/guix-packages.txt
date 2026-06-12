@@ -15877,8 +15877,8 @@
 /gnu/store/syb25agqq8lyx8y09kapbnr9d2q0xwpj-gnubg-1.08.003
 /gnu/store/gi4xqcmvqwbmal9wsb2x41agb9y5n5i1-gnubik-2.4.3
 /gnu/store/zwkkc02g9yzshfc28d7yazbmm51iywf8-gnubik-2.4.3
-/gnu/store/5p3gnkvq3jkn5bdrmhpbzq4ny8i3hll9-gnucap-20240220
-/gnu/store/gxnkgzyvva5gnga3p7anbry7pdgcbbhp-gnucap-20240220
+/gnu/store/ccr7gp7q0zz95758mh67059n3mwlqbis-gnucap-20260329
+/gnu/store/wakrg2hg1vcvz88lm8h98jbqrwdnjlxz-gnucap-20260329
 /gnu/store/6vbnnhvq4izhzcm30anpdcl4ib30qx58-gnucash-5.14
 /gnu/store/cy79wjp7p7al8pfsv0rjv86gf3ksjxpl-gnucash-5.14
 /gnu/store/9jjjas57pb4sn0icasa6xy1x6phhdmhp-gnucash-5.14-debug
