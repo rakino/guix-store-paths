@@ -15450,6 +15450,8 @@
 /gnu/store/k8vq3zr9d63qyk1dxqkyi25kvy5z80zm-git-minimal-2.54.0
 /gnu/store/0hwg2qaj265k5whkyj38ijk1v5ga03sb-git-open-2.1.0
 /gnu/store/vm5iydin8y5vwslpr1v14fc27wqdcxy5-git-open-2.1.0
+/gnu/store/bkvj92s00i547a47is2rlhgwpv8x6pmk-git-pages-0.9.1
+/gnu/store/vxxv398xb9vw83fblajlnpjp7xln3nc6-git-pages-0.9.1
 /gnu/store/72gjrnkal29qf14b86ifq5xvyc67ikhb-git-pages-cli-1.9.0
 /gnu/store/89kbmkaqkj0sbg8cnv2caq8mvwmbaq7k-git-pages-cli-1.9.0
 /gnu/store/1p4yfccb7jmvj30pxinbnz0vv86v3bps-git-quick-stats-2.11.0
@@ -16069,6 +16071,10 @@
 /gnu/store/q1cny14ka837rv1ighfgwrnfkbxn2wd2-go-codeberg-org-emersion-go-scfg-0.1.0
 /gnu/store/013nwg8m45h3wrlrfjwgx73lg6qa16z1-go-codeberg-org-emersion-go-sqlite-fts5-0.0.0-20250706114632-932c754e63a6
 /gnu/store/afkwapp751bxm9vsd3m8ziqwzkpssr2m-go-codeberg-org-emersion-go-sqlite-fts5-0.0.0-20250706114632-932c754e63a6
+/gnu/store/m73azlwhxg4ydag11lvc2r5dy21x8s1x-go-codeberg-org-git-pages-go-headers-1.1.1
+/gnu/store/pcpn75a2p7rxm8jlwkl2910cy3vxxh4j-go-codeberg-org-git-pages-go-headers-1.1.1
+/gnu/store/3mxbc3mc5d4lr49ywiy2pzxfrq1w2hmm-go-codeberg-org-git-pages-go-slog-syslog-0.0.0-20251207093707-892f654e80b7
+/gnu/store/arb2vfkkp4rdjj6dhz1npw53z9y1wcla-go-codeberg-org-git-pages-go-slog-syslog-0.0.0-20251207093707-892f654e80b7
 /gnu/store/5g7wdbh6459lwb44a6xl6lzcj3m1iyid-go-codeberg-org-tslocum-gmitohtml-1.0.6
 /gnu/store/qrl822dsaxrj8cy0faxfjf26qlgnv6bn-go-codeberg-org-tslocum-gmitohtml-1.0.6
 /gnu/store/97pfb0y45qfss9r4kl4vjvzlhsi4qqzw-go-connectrpc-com-connect-1.18.1
@@ -16611,6 +16617,8 @@
 /gnu/store/q3hacsv7kc22797119iixbz0xfnmg75x-go-github-com-bytedance-sonic-loader-0.5.1
 /gnu/store/8p8lrz8v9qgks9qjf2xil0i2i43qyrm1-go-github-com-c-bata-go-prompt-0.2.6
 /gnu/store/kyvrhj7s4cpq56k3j1kxs421k3yc936c-go-github-com-c-bata-go-prompt-0.2.6
+/gnu/store/dklzd35r6wlkvkzdqfd2zdj916vk1fzd-go-github-com-c2h5oh-datasize-0.0.0-20231215233829-aa82cc1e6500
+/gnu/store/m631w7cr218k9jc33n83hazb145an9fz-go-github-com-c2h5oh-datasize-0.0.0-20231215233829-aa82cc1e6500
 /gnu/store/8zg96dyp6xg7csxgcpzgj0zz9c0knqbh-go-github-com-c9s-goprocinfo-0.0.0-20210130143923-c95fcf8c64a8
 /gnu/store/skgdkpky1xpz6fz3gdnhsac3wp3r308b-go-github-com-c9s-goprocinfo-0.0.0-20210130143923-c95fcf8c64a8
 /gnu/store/a64bll365ng8a628r1prc435mgrrw4di-go-github-com-caarlos0-env-11.2.2
@@ -17409,6 +17417,8 @@
 /gnu/store/ywa7k6mjvw7v1cmiczzmj3xdk1pvr8ji-go-github-com-go-git-go-git-fixtures-v4-4.3.1
 /gnu/store/4anbb0fg2irv4dj6l2fwmi4k0pzy78q0-go-github-com-go-git-go-git-fixtures-v5-5.0.0
 /gnu/store/v851vcfvqqklzpyx29lkhnirjdgb6xgc-go-github-com-go-git-go-git-fixtures-v5-5.0.0
+/gnu/store/w5rvmxjghyim3b6jn1br2zv2va20wv27-go-github-com-go-git-go-git-fixtures-v6-6.0.0-alpha.1
+/gnu/store/yy9n5n1p6krv5vf9vijva10m6zysz8gz-go-github-com-go-git-go-git-fixtures-v6-6.0.0-alpha.1
 /gnu/store/8g9dhfalb7dbxd1k263z5nblcy8g37p6-go-github-com-go-git-go-git-v5-5.13.1
 /gnu/store/x7ja745i75905bdbm7in401k5m6i5g61-go-github-com-go-git-go-git-v5-5.13.1
 /gnu/store/c3v47g8pf9xgbp78i1pk4mc2mjv64b8x-go-github-com-go-git-go-git-v6-6.0.0-alpha.4
@@ -18233,6 +18243,8 @@
 /gnu/store/qdm3db833jwxk4dwgcgq9ani3bmf5cw2-go-github-com-kalafut-imohash-1.1.1
 /gnu/store/12hvcyy1rbd9dcffk2yslq5zc0mn941l-go-github-com-kamstrup-intmap-0.5.1
 /gnu/store/512sabykrz3d5aczqb8c3y9dgswsyb4w-go-github-com-kamstrup-intmap-0.5.1
+/gnu/store/8i1cpaa3v44n5l88rbnspgdrq36rhl1z-go-github-com-kankanreno-go-snowflake-1.2.0
+/gnu/store/h5lb3fpaiqvdvm1q8if2w3aw7lc13ycn-go-github-com-kankanreno-go-snowflake-1.2.0
 /gnu/store/4dyca0fy0d5zjyvlk3w1307jqwa01spj-go-github-com-kardianos-minwinsvc-1.0.2
 /gnu/store/5gd4b1yql90blqvwd506c7dq2g0qx902-go-github-com-kardianos-minwinsvc-1.0.2
 /gnu/store/m0a1a76hbshx97v5s7w3wfgiwpvxf5r6-go-github-com-kardianos-osext-0.0.0-20190222173326-2bc1f35cddc0
@@ -18325,6 +18337,8 @@
 /gnu/store/pdmgi2lvlil65ds5z4spkz3xi4c2qcvw-go-github-com-kr-fs-0.1.0-0.1455def
 /gnu/store/10222byv70qi7yrlaz3dlz3b17kq0rjb-go-github-com-kr-pretty-0.3.1
 /gnu/store/gv78kzj733n1i80c9f25sdf7sldca8gw-go-github-com-kr-pretty-0.3.1
+/gnu/store/431hpdnpy7bf3si08y0w0r94086b872i-go-github-com-kr-pty-1.1.8
+/gnu/store/i6shyn3rdr1k4fld0kpqym3v2ayzkabc-go-github-com-kr-pty-1.1.8
 /gnu/store/8niag3m7kyy7hmph4hrqflqai4s56s97-go-github-com-kr-text-0.2.0
 /gnu/store/hlmw85nhq9jz4pbi5rrxija735hq3d98-go-github-com-kr-text-0.2.0
 /gnu/store/pzxs83i2d5kmwk2hjclmny7iyflzc2mm-go-github-com-kshedden-dstream-0.0.0-20190512025041-c4c410631beb
@@ -18361,8 +18375,12 @@
 /gnu/store/z4skv0ahi94wv2jvm7q0fqpyh8c6fx2r-go-github-com-ldez-tagliatelle-0.5.0
 /gnu/store/chsqpwndgwig92mb4nq4vxsl43mv66zh-go-github-com-leaanthony-go-ansi-parser-1.6.1
 /gnu/store/ixalv5fnc1z8jq9h88gb3rk97fbhp1qk-go-github-com-leaanthony-go-ansi-parser-1.6.1
+/gnu/store/mk86r2yjl1q8vv5asa7r72s0ldhd0x0x-go-github-com-leodido-go-syslog-v4-4.5.0
+/gnu/store/s1wb28qa9iz9k4hkln0qixvj0gzxnqnh-go-github-com-leodido-go-syslog-v4-4.5.0
 /gnu/store/sd6hpkf6swcby6yybvdzzr23wqzdn8b9-go-github-com-leodido-go-urn-1.4.0
 /gnu/store/v93n0wz9mf5wk6m3ksh63pjidnjs4x8d-go-github-com-leodido-go-urn-1.4.0
+/gnu/store/6malflvvminc7j6q33skdj9c84h6r3ca-go-github-com-leodido-ragel-machinery-0.0.0-20190525184631-5f46317e436b
+/gnu/store/spjcvfb11afhr30ddyzp4h9grmhj4hgp-go-github-com-leodido-ragel-machinery-0.0.0-20190525184631-5f46317e436b
 /gnu/store/cpz6pnawzs8r86vjpjv657cgkx0vca2q-go-github-com-leonelquinteros-gotext-1.7.2
 /gnu/store/fsaqzb9jdq77rvchjk992nknl0xhfzid-go-github-com-leonelquinteros-gotext-1.7.2
 /gnu/store/3d79s59dvvmvnwkk237060zyh2cjv10k-go-github-com-lestrrat-go-backoff-v2-2.0.8
@@ -18601,6 +18619,8 @@
 /gnu/store/g92alwnsrrpzr05h4rg11cdh1d80irdq-go-github-com-maxatome-go-testdeep-1.15.0
 /gnu/store/pb6z8acb285x0gq6zbdmd3nxy3jghfjd-go-github-com-maxbrunsfeld-counterfeiter-6.12.2
 /gnu/store/snyic5f5la76cajkp78ib8d7v9j9yr6y-go-github-com-maxbrunsfeld-counterfeiter-6.12.2
+/gnu/store/nq5y1cvw1csqmbcj15nxqxc72xqraqrz-go-github-com-maypok86-otter-v2-2.3.0
+/gnu/store/x4n0mfj54pmzq18vi5nbfypq5i1ziz4i-go-github-com-maypok86-otter-v2-2.3.0
 /gnu/store/405ii1az9qhal84ip0hnn4zmfa7kyh0c-go-github-com-mdlayher-arp-0.0.0-20220512170110-6706a2966875
 /gnu/store/wxrjiwrbpcwglk91z6whafh6yjwpqny4-go-github-com-mdlayher-arp-0.0.0-20220512170110-6706a2966875
 /gnu/store/nkx9xxlvndizciadzspk24xmd130gk2n-go-github-com-mdlayher-ethernet-0.0.0-20220221185849-529eae5b6118
@@ -19365,6 +19385,10 @@
 /gnu/store/dci68nj3w01pzsd3587lszi3mns47z1a-go-github-com-sahilm-fuzzy-0.1.1
 /gnu/store/fcb6vfypgghkrr0kp9img3pj7kc34nqd-go-github-com-samber-lo-1.49.1
 /gnu/store/h0a37zqwhfyvyl70zjr5i035sy40i5ml-go-github-com-samber-lo-1.49.1
+/gnu/store/67fz08hsh4pzj9bcglh2xqpigfchqph5-go-github-com-samber-slog-common-0.22.0
+/gnu/store/x0915hgr1xw0djmk4gwsd8rlab9w57qh-go-github-com-samber-slog-common-0.22.0
+/gnu/store/3pyh7bxbiqm0wwp6y7g3r8fja3asr9g5-go-github-com-samber-slog-multi-1.8.0
+/gnu/store/gr8a7cqm84rqwqys83slipwyr6c7l5v8-go-github-com-samber-slog-multi-1.8.0
 /gnu/store/5dzz4w33z70b4wq4i46l8ll990hq62g1-go-github-com-santhosh-tekuri-jsonschema-v5-5.3.1
 /gnu/store/wq82djxsa13ib4k46ll73br7ynyhq9s3-go-github-com-santhosh-tekuri-jsonschema-v5-5.3.1
 /gnu/store/0340jzfv4ddm0ql6z1z1ki2rvlfv88zd-go-github-com-santhosh-tekuri-jsonschema-v6-6.0.2
@@ -19725,6 +19749,8 @@
 /gnu/store/slrjsgvygq7g4041s9cls9x9gra47xx3-go-github-com-tj-go-kinesis-0.0.0-20171128231115-08b17f58cb1b
 /gnu/store/gizn85wb6jyibzq1xghknm8byyfd2qsi-go-github-com-tj-go-naturaldate-1.3.0
 /gnu/store/kahyi68lsvmpahzms6qprxq3jbr1d98c-go-github-com-tj-go-naturaldate-1.3.0
+/gnu/store/b77hwrhsr0bsgnfxbf7934sfxzzxdy2a-go-github-com-tj-go-redirects-0.0.0-20200911105812-fd1ba1020b37
+/gnu/store/ydyilxwvayrvard1cw6mz8v82nswzdpy-go-github-com-tj-go-redirects-0.0.0-20200911105812-fd1ba1020b37
 /gnu/store/481y438hadz41hdfnmsgqrxwyyp6xfx6-go-github-com-tj-go-spin-1.1.0
 /gnu/store/x77qf9nnpimmcnxanddchpr738q435pp-go-github-com-tj-go-spin-1.1.0
 /gnu/store/2181df62jdlh7naql70rc6q5nfc78jr1-go-github-com-tjfoc-gmsm-1.4.1
