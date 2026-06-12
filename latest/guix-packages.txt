@@ -25624,12 +25624,12 @@
 /gnu/store/kzzi21h45mr2j3cgdwyc96wxkbbd93lm-koboldcpp-1.112.2
 /gnu/store/680wl41cnlrsgfpbgr2p1fdmxvn5rvpl-kochmorse-3.5.1
 /gnu/store/mmjjs1klqwzdj3jxyvffb4n8qshybrip-kochmorse-3.5.1
-/gnu/store/g5ninq42dc5vvg8b5gfbx6cb6f0v15qq-kodi-21.2
-/gnu/store/jqn92sx6d54nmy7n4wjypakkgqb5m29f-kodi-21.2
+/gnu/store/i64asngghqqkln2gv9va3gkrf2rk3ymx-kodi-21.3
+/gnu/store/xahhdyzg3bcjlk1c9bf5xy4myb36i36h-kodi-21.3
 /gnu/store/csm3b7ss29kr0srkflgy5va68489lm8z-kodi-cli-1.1-1.104dc23
 /gnu/store/j1mw08jx3wmbrj73g2279vkyfcfh8xla-kodi-cli-1.1-1.104dc23
-/gnu/store/yy7xc7i7risciibx72alal3hjaa2gv8n-kodi-wayland-21.2
-/gnu/store/zr0cp5lj1ij7raw1iwd6iva2ys7i3zfb-kodi-wayland-21.2
+/gnu/store/5kgn2jyfg8r0c4zz1bd3bg0dakznmpdk-kodi-wayland-21.3
+/gnu/store/p4wa6kdj3npxcvrivs4zbbhvknp2291f-kodi-wayland-21.3
 /gnu/store/9n9vvnz249fy42nw54q2k5v8yw5pqcb2-koi-0.6
 /gnu/store/j1wq2z764dpz4hwi2bahv5lj7svkkkpa-koi-0.6
 /gnu/store/0p3igcxbknqc6h6agvmm3fpsmv53ci1k-kokkos-4.6.02
