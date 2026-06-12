@@ -1300,8 +1300,8 @@
 /gnu/store/9vb69sj8hr639ci4k21nnswrknn04b0n-book-faif-2.0
 /gnu/store/1ayvjgjp5k80dr03q6hl0dx89s1pl161-book-sicp-20180718-3.bda03f7
 /gnu/store/cvnw1lvn847cxz6s7cc1g2wfywllxgyk-book-sicp-20180718-3.bda03f7
-/gnu/store/2f8jqvll35xdlk0d9npa3x5a5v4nd2yz-book-sparc-5.0.0
-/gnu/store/9558dhx6i1dmd9a9jqpfz20qb5ngacc2-book-sparc-5.0.0
+/gnu/store/7hpxdybkzh17vgbf477dwxxxdpbm7nxc-book-sparc-6.0.0
+/gnu/store/7zw8dp0khzikm33vsdhahzyhwilpsqb3-book-sparc-6.0.0
 /gnu/store/ia6avv6qr1fpfrjpxh1zkx7x4n307ik7-bookmarkfs-0.1.4
 /gnu/store/z6pl16amdhvb53g84ybxkg634lpkj8pq-bookmarkfs-0.1.4
 /gnu/store/l50by8645vlnlg74fh6rhb1mwindrf38-bool-0.2.2
