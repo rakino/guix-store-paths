@@ -52534,8 +52534,8 @@
 /gnu/store/wp90yr5lb7y9lmy7ql28ykz443rzw2sp-scanbd-1.5.1
 /gnu/store/36pzq04343ln6bdj7rycgnywdfax96m5-scanmem-0.17
 /gnu/store/gl23pqxmp18nfavzzmaqm6g9n667q40h-scanmem-0.17
-/gnu/store/jkzw8g1h3jqy7q01f3nv65xs14dwd1k3-scantailor-advanced-1.0.16-3d1e74e
-/gnu/store/m2h2r9i72la00s1irign21xcy2gfjqxd-scantailor-advanced-1.0.16-3d1e74e
+/gnu/store/jscxfz4grd4kbd7adkklssq9l8cbab23-scantailor-advanced-1.0.16-3d1e74e
+/gnu/store/ys9i2sghy3xazippd01s4ra74vxwqqbz-scantailor-advanced-1.0.16-3d1e74e
 /gnu/store/7xcmqcay47kpqfnawzwqqrpqyj1057ih-scasp-1.1.4
 /gnu/store/fa1r6vr0vll0ijx54b2nm9wqgkksrfhv-scasp-1.1.4
 /gnu/store/7mlz74ppqyqkwg1z5l8ma2xj0fwwjgd0-scc-3.7.0
@@ -53184,8 +53184,8 @@
 /gnu/store/jdzz6spnc85x21byhfvpljaj133d2gdf-soil-1.0.7
 /gnu/store/636rzqli42p4x1wgdprfx17xffqmp5xr-soju-0.10.1
 /gnu/store/n4jmhzd9c1ghl9z3x1naipqxg29qj7x2-soju-0.10.1
-/gnu/store/xdn272gfxzyp1lkxnvcjh7645hnyga42-solaar-1.1.19
-/gnu/store/ysgyskr33qqyp7k6qklyi2y0k3sy1df8-solaar-1.1.19
+/gnu/store/256j1y2l2gd6mpk0skj9zhb6ivx9z4va-solaar-1.1.19
+/gnu/store/hlr6m8frl8v5qdg289bhz1wiissa16in-solaar-1.1.19
 /gnu/store/8phmvsivnscxpj5jp7zm30x1y5x04v0x-solarus-2.0.3
 /gnu/store/wjb66gbk9xh74y63panyg9f21cz62g6h-solarus-2.0.3
 /gnu/store/pcn4bdbpls8qhcfzcy2qkrc9n6zsfhmz-solarus-launcher-2.0.3
