@@ -29113,8 +29113,8 @@
 /gnu/store/lafffryhgvxxi9yz15dszrbhicdrivh0-mblaze-1.4-contrib
 /gnu/store/5vbasdcpvnwm0nzp9advsxdznlfcn7js-mbpfan-2.4.0
 /gnu/store/lnf108j8nknfw4y4jnlb6qfspmjfpn4k-mbpfan-2.4.0
-/gnu/store/8b5fs6livhr647a4qzpbys80nf1wshlv-mbpoll-1.5.2
-/gnu/store/lhdy0h9wkmfj590n8367calxl25cgprw-mbpoll-1.5.2
+/gnu/store/mgnaiwaz77r9171wlnfqjv9dbdwjikwd-mbpoll-1.5.4
+/gnu/store/rv8bha3a58iw389kg24i3psgjb8z9nqr-mbpoll-1.5.4
 /gnu/store/pj2dy5m37fi8z5g20dqggqp9p18wc2q1-mbuffer-20230301
 /gnu/store/pqdvjvzfci4sy1gf00629dbnrfv1gs7w-mbuffer-20230301
 /gnu/store/9i804wrdsjdhl4jybrc4pigsr3mk383x-mc-4.8.33
@@ -29285,8 +29285,8 @@
 /gnu/store/vk4g0rjan491w4n9qqw4wjlxjdqg4bx2-mhonarc-2.6.24
 /gnu/store/4y9l6ci8fhzkcpspv9aipn8i7wf0jxs5-micro-2.0.14
 /gnu/store/8v76vrwql59j6314pc8n4aq814dy41v0-micro-2.0.14
-/gnu/store/jkpvj61q2kxjnbdqlab5wfvq31ax0mf6-microcom-2023.09.0
-/gnu/store/z5bkp81rvnd6iz6ms81wd25bf6byrrvq-microcom-2023.09.0
+/gnu/store/4vb7kz7vdkw7g17v08q5bya2in293ll8-microcom-2025.11.0
+/gnu/store/7zr8sbb15ihjkzjac3bhc0433g51za96-microcom-2025.11.0
 /gnu/store/45h7m51zarz2r07aylvz7iqiw5lcjcy5-micropython-1.28.0
 /gnu/store/vydp7yjm5sgjkjb68j5nymw59l1ap4qg-micropython-1.28.0
 /gnu/store/rhvnplj7dazm7nz65zb7gfwmwfaxciic-microscheme-0.9.4
@@ -74478,8 +74478,8 @@
 /gnu/store/z4ik8vlm6w869r8mc9ba3jvm94n9d9s1-vala-lint-0.1.0
 /gnu/store/gy2mf2cijsrnda3cz787xcyprlk2p155-vale-3.13.0
 /gnu/store/kgph3adb3d6fbbqz9kffmgm6fimskxlp-vale-3.13.0
-/gnu/store/9173yk7y6p8hs0nyy75067fyds32lbb2-valeronoi-0.2.2
-/gnu/store/b516492qnigik6q3qqpb4lg08cj316wm-valeronoi-0.2.2
+/gnu/store/v0jixj4p0i1x5wwfc2hn845f2jg2xb2s-valeronoi-0.3.1
+/gnu/store/zqcbany1bgj8pcymzyjl4lqd0y1v45jb-valeronoi-0.3.1
 /gnu/store/g8nfgj0xfdxp3f3wmxii6k0g80qjaa00-valgrind-3.25.1
 /gnu/store/d1a1l0nq30j12rzy41rxnrxs01jhhziv-valgrind-3.25.1-doc
 /gnu/store/6zcy07zgrnyygnj2h7fxrcbn15ka7w9f-valgrind-3.27.0
