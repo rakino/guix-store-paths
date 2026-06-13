@@ -2350,8 +2350,8 @@
 /gnu/store/hjvmahdshlw2l8xvcvjvvs4hi0s1mymp-cl-common-html-0.1.0-0.96987bd
 /gnu/store/24ym9lx9z57kv1qdsnqlhdm5s1vdrhfz-cl-common-lisp-jupyter-1.0-0.3555a00
 /gnu/store/h24sb60ns6sv01d35gxirc85xnwa6rxx-cl-common-lisp-jupyter-1.0-0.3555a00
-/gnu/store/9br544222ivgy5306ycsvpqryz6v1nfv-cl-common-macros-0-0.f261a4a
-/gnu/store/xmxhmax3in49xr0x565m3cvmd2xwbbc1-cl-common-macros-0-0.f261a4a
+/gnu/store/diksrpz7g9cc2rha6n1ah6nd0iphg5m8-cl-common-macros-0-1.4596ddf
+/gnu/store/v5gwjjambifhw87kdfqffk6rqy25wbp0-cl-common-macros-0-1.4596ddf
 /gnu/store/d8da7c28lx9p952wp47dvflrr110qxsg-cl-commondoc-markdown-0.5.0-0.7abd288
 /gnu/store/vix7vcijsdzaqvn4l823f3dx7ds0d89q-cl-commondoc-markdown-0.5.0-0.7abd288
 /gnu/store/1c85y5dh3zwjl4zadw0kagfh46fy95c5-cl-compatible-metaclasses-1.0
@@ -4080,8 +4080,8 @@
 /gnu/store/si2p7mqyn2ipz5ll7fh4ns9xcnkj4kl3-clasp-clunit2-0.7.0-1.dd654e1
 /gnu/store/id9agj27dd63fs4xag44ckggy8f5qwwx-clasp-command-line-arguments-2.0.0-1.fbac862
 /gnu/store/srs6ka3w613p6zscd7q4n0vk191afy9r-clasp-command-line-arguments-2.0.0-1.fbac862
-/gnu/store/bbxhy0md7ap55ym1bslki1872nkhh7bp-clasp-common-macros-0-0.f261a4a
-/gnu/store/sk5drx14qgfv09wk0056rnd9ynifccki-clasp-common-macros-0-0.f261a4a
+/gnu/store/4cc9aya1ir732m852azdv3gqcwwrzlxa-clasp-common-macros-0-1.4596ddf
+/gnu/store/aqjk9c4glnnhxvpkazhkmmbsw475g764-clasp-common-macros-0-1.4596ddf
 /gnu/store/bqnbi34bi5qqqakh384r2qxcjhq94g8k-clasp-compatible-metaclasses-1.0
 /gnu/store/glqja55rffp436h610fxijf37xglbcpd-clasp-compatible-metaclasses-1.0
 /gnu/store/aqh6yjgspivdbfr5mwfyb5gj3667m3gf-clasp-conduit-packages-5.0.0
@@ -6343,8 +6343,8 @@
 /gnu/store/v69qh5d9diyq6bwislcqchfw610pllqc-ecl-common-html-0.1.0-0.96987bd
 /gnu/store/awh0gcg82dif6wi6q9cspcy20z16pl60-ecl-common-lisp-jupyter-1.0-0.3555a00
 /gnu/store/ifq93haf7p2w7iw9x79zhn9qhy3knrv5-ecl-common-lisp-jupyter-1.0-0.3555a00
-/gnu/store/5fvdhm68bf9xx7klvq0387aiq593wzgr-ecl-common-macros-0-0.f261a4a
-/gnu/store/zggkigxy9dlrvyxvcx5xhar8irhnzv45-ecl-common-macros-0-0.f261a4a
+/gnu/store/5mwnk66zcpxivc63z7y7n6rnrj2kcxxr-ecl-common-macros-0-1.4596ddf
+/gnu/store/pknw2gxy5qzcm7xyr2rnyx7i616ha0q5-ecl-common-macros-0-1.4596ddf
 /gnu/store/37p1naasxnplgqhjbc4hq4mh4mh28pka-ecl-commondoc-markdown-0.5.0-0.7abd288
 /gnu/store/wx54cxhfzyddrbknyvg9vc6p46j5r6ds-ecl-commondoc-markdown-0.5.0-0.7abd288
 /gnu/store/g2xyc5yglc6l3bgsmprjfx8hfsz9v9kz-ecl-compatible-metaclasses-1.0
@@ -10953,6 +10953,8 @@
 /gnu/store/d1farkg60bal3vbywm7jaa3gp0lsyg53-emacs-suneater-theme-2.5.3
 /gnu/store/56z8vwkrwqi47j5aah5bqk6940i9j4pm-emacs-super-save-0.5.0
 /gnu/store/k90fhi8d6iayi5xzcr7dgm6k3b2r3b83-emacs-super-save-0.5.0
+/gnu/store/2q8k1v9rj8718rn7gpms3ba9ydxicjbh-emacs-surround-1.0.3-0.6807bf6
+/gnu/store/jjzkinrbdq3lgqh0zk3n0mk7i6caldc8-emacs-surround-1.0.3-0.6807bf6
 /gnu/store/d3dpd8l93x7yv103b9qcimz7fsh2fhz0-emacs-sv-kalender-namnsdagar-1.0
 /gnu/store/jqrhnqaygg81xjvkgwa8jbw90z4ph3ri-emacs-sv-kalender-namnsdagar-1.0
 /gnu/store/6icb9xl2vmx6frmrz57g59lk8v1sid22-emacs-svg-icon-0.1-1.ebc2b8d
@@ -51162,8 +51164,8 @@
 /gnu/store/pnchlj2d5x61j1f7jzlfv3bgsdcsf7jw-sbcl-common-html-0.1.0-0.96987bd
 /gnu/store/9j30grddc0g88gbs3hf7q7x3vgfckw79-sbcl-common-lisp-jupyter-1.0-0.3555a00
 /gnu/store/gdq7a4pkz2qmb65mw4jhsnahprf996bm-sbcl-common-lisp-jupyter-1.0-0.3555a00
-/gnu/store/1z5nvb26ifi5jd6ziiq40zycv5dvwm4a-sbcl-common-macros-0-0.f261a4a
-/gnu/store/f06cizb7cs6s8rxim4wg91w1gyhyd49k-sbcl-common-macros-0-0.f261a4a
+/gnu/store/5698lax5yv2p5ln62gsca3m1bcmv7gpn-sbcl-common-macros-0-1.4596ddf
+/gnu/store/vjr3kmnmlsb72bic1l6px20mckixiy1d-sbcl-common-macros-0-1.4596ddf
 /gnu/store/v4qbkncwcp0n3xxcbzc2xjvzalzbkwq4-sbcl-commondoc-markdown-0.5.0-0.7abd288
 /gnu/store/yd7s3m4qks7qkgx3bnjs7hkxd8bj2kll-sbcl-commondoc-markdown-0.5.0-0.7abd288
 /gnu/store/bykickicifw39hn7jckmxq0ag0gyrkk1-sbcl-compatible-metaclasses-1.0
@@ -72729,8 +72731,8 @@
 /gnu/store/gh2qjpgmzsjds6ycl426hki4dd0iklrl-trayer-srg-1.1.8
 /gnu/store/1d4swndn7b1l5745q4yg7js8dd8qqz1z-tre-0.9.0
 /gnu/store/83smqncf8sm15d0qaxy6p8aabcsz1yzj-tre-0.9.0
-/gnu/store/gizbzpdzpp0i7ci96r54cg1j8jrkyv2b-trealla-2.102.21
-/gnu/store/m9fnrxzis63fh3cyj4g5m1shd2ifb1s3-trealla-2.102.21
+/gnu/store/lvn8g9822ld8lh9wbzi0apf1dx1z3bra-trealla-2.102.26
+/gnu/store/rqq34rkx96fi8b4k6m00ly7lbfd124g0-trealla-2.102.26
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/vwf9bpj3kyzy5pfiiqy08qqjndxdsi07-tree-sitter-0.25.3
