@@ -34919,12 +34919,6 @@
 /gnu/store/xdpd9aqqsfc53clpbbsmmiqlk4nhdij3-python-3.12.12-idle
 /gnu/store/87l05z2i3fzagqqkqca9d9xan5ckbiz5-python-3.12.12-tk
 /gnu/store/9wmr029lk4zavpwj928p7ns41jgqj3r3-python-3.12.12-tk
-/gnu/store/5jlrhhsvf6p7h37jcxzakax8gq2qqryh-python-3.13.13
-/gnu/store/87ijxmvwfrdz6g80bw1vmch6ffd6xj08-python-3.13.13
-/gnu/store/wnl271bl8lbpdn5qyg0zks6iqcpqwd4h-python-3.13.13-idle
-/gnu/store/wy8rsc0m7ayfjw97yzh6w9n2blng3m1k-python-3.13.13-idle
-/gnu/store/c2yvs0gnxg0pn8j95695qddj6134r8q1-python-3.13.13-tk
-/gnu/store/xsfl3z024j8325gypmxfa9f2kay10a0v-python-3.13.13-tk
 /gnu/store/a15yl5r65a2b1r9plva9g7j6c2zdwqrk-python-a2wsgi-1.10.7
 /gnu/store/h5snwq35nn79pls1l5bp4nqah30s1a36-python-a2wsgi-1.10.7
 /gnu/store/q02qzsi38071mkzs2qfn59ihflrpjlmd-python-abjad-3.31
@@ -38363,6 +38357,12 @@
 /gnu/store/nyb969ppsc7ylmg80x2v80qvmnszb3xh-python-netifaces-0.11.0
 /gnu/store/safdxq2l1n603iryd3k02pa3gjw5g7d4-python-networkx-3.4.2
 /gnu/store/x9z83mnlimsfdi2bj8snanj8gqm48fzy-python-networkx-3.4.2
+/gnu/store/ah9df37n5swi0nzpxj5ga1qnh6xqf8y0-python-next-3.13.13
+/gnu/store/qcdbbfkg64l3jdwww9q985p2yrxa0ad4-python-next-3.13.13
+/gnu/store/rj39lb5mj72p5qi74v8n64rfbn1lmpgv-python-next-3.13.13-idle
+/gnu/store/rmpadag7nfkcn26f74sm2x0dhab2xcyc-python-next-3.13.13-idle
+/gnu/store/1jvvl37lvfbal5dmzmpfvklip7liyyb5-python-next-3.13.13-tk
+/gnu/store/1mrz285v9351hr7ssqx3cfigc48racm6-python-next-3.13.13-tk
 /gnu/store/hbrs5mcj35a7a1aqb8w42anzs88h19mk-python-nfcpy-1.0.4
 /gnu/store/hfd12gahrnkgc658cwvvw0b5lg8nkqwc-python-nfcpy-1.0.4
 /gnu/store/agn2ck5757qsjpfw38ws1y64jsy9947k-python-ngesh-1.0
