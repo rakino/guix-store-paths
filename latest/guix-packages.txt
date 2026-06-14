@@ -14295,8 +14295,8 @@
 /gnu/store/hgc1nyil261ymzckss431h8wp1b6pjc3-ghc-hex-0.2.0
 /gnu/store/64wla92j51fv680f9kmx2j71g54fr0jx-ghc-highlighting-kate-0.6.4
 /gnu/store/j6b3dg10am7676sj4ag4r2h99w88qbyp-ghc-highlighting-kate-0.6.4
-/gnu/store/apffc5zr5cq8wwbcf9mqfd93cqvi2kgf-ghc-hindent-5.3.4
-/gnu/store/vqsb6gp9qaz2a3h43krnl6l0qdlrj2lj-ghc-hindent-5.3.4
+/gnu/store/rybgk5yhfhhpywym13f63gx5gqj08b96-ghc-hindent-5.3.4
+/gnu/store/vmxi8v30vnfrn33b7hslj2vksyvj9z2f-ghc-hindent-5.3.4
 /gnu/store/a0ximwbynhiamhsj21kg655l73ckmwpc-ghc-hinotify-0.4.2
 /gnu/store/jvmcpqphbl1lz4pnxr0kn8jlbsvrwa5d-ghc-hinotify-0.4.2
 /gnu/store/gvwn60m69ds0yx2vdmfb7037yw1q5ncl-ghc-hjsmin-0.2.1
@@ -14757,10 +14757,10 @@
 /gnu/store/8v5bsfbcca6hiwalj3nim8bmq1by9d3k-ghc-parsers-0.12.12
 /gnu/store/2q42i98bs0z94jlv80fm9h7fbrf27lwj-ghc-patch-0.0.8.4
 /gnu/store/d63b0hzqm1dpqg91sl9h96qqq6q0cx7c-ghc-patch-0.0.8.4
-/gnu/store/iw3k8psx2k994y56ax0lvw8w69dlhz6f-ghc-path-0.9.6
-/gnu/store/lvj1a7jgzlpnr3lwyc18hvbz10rfwbjl-ghc-path-0.9.6
-/gnu/store/f59v9kc8hd27vwc7hl1b5hdxnmgb14fx-ghc-path-io-1.8.2
-/gnu/store/kqh9wji6r30vkvn6im2rdsb23jvz4q5l-ghc-path-io-1.8.2
+/gnu/store/378w61x4aq4rn043ws9sylqs1mg8nw0c-ghc-path-0.9.6-1.17294d1
+/gnu/store/vnpxzpgan9xdwwrsm9kdj8ngl63rwwpv-ghc-path-0.9.6-1.17294d1
+/gnu/store/52mnkjiz2rvp1pbxfry10kwim6qdmhb2-ghc-path-io-1.8.2
+/gnu/store/aws1b5b3349iv15qrz5gans7s1xmap72-ghc-path-io-1.8.2
 /gnu/store/rk619wzzzax5cyj9zvmkk6rnphign7x9-ghc-path-pieces-0.2.1
 /gnu/store/xxbr7k2mq0a3zqbvbskl4nd8r0wdqi2c-ghc-path-pieces-0.2.1
 /gnu/store/3zhw5s48dwg728jnqjg382p63y2qgd7l-ghc-paths-0.1.0.12
