@@ -14505,8 +14505,8 @@
 /gnu/store/d0y5zd82fvpa1kjr0r5xjs9z5956vpm5-ghc-js-chart-2.9.4.1
 /gnu/store/0yi6i9c2alyby89d71w0jskih0833w49-ghc-js-flot-0.8.3
 /gnu/store/plmmj749c6r3g6zw8lqz0ysj8sijn8hg-ghc-js-flot-0.8.3
-/gnu/store/nnfyn91pmcqi9hpdzaayvc2iqrb6jdmf-ghc-js-jquery-3.7.1
-/gnu/store/sny4kmqxgjjbpwkb8vdyxvv1cr1rlfr2-ghc-js-jquery-3.7.1
+/gnu/store/g3my6bh9fxq91r5153qfyaz1h2sz56rf-ghc-js-jquery-3.7.1
+/gnu/store/pdas8di2g2g6ngjpw2vcqmj8bp7al1ka-ghc-js-jquery-3.7.1
 /gnu/store/0k4indv2ar18nb80b1xgadl5cj8ql265-ghc-json-0.11
 /gnu/store/va8v25baiyy5i3kbpc9xvzlvbx3rqv5v-ghc-json-0.11
 /gnu/store/75ddssi424kq7k1lhvhqapgsk82i5515-ghc-juicypixels-3.3.9
@@ -22263,8 +22263,8 @@
 /gnu/store/nml6zb86w5fk0anm6yrpkiq4crcrcm4v-homebank-5.10
 /gnu/store/8ar5165ls3gjhn427hxar449vppz8fd1-homer-4.11.1
 /gnu/store/lcip576gpmhlk957qgrwx503jlzycf54-homer-4.11.1
-/gnu/store/bpqkkgc8fx338sp6z23cvvjfjzsrppv9-hoogle-5.0.18.4
-/gnu/store/rkx5j2cmkz849qvwgr30jf3wmkh69596-hoogle-5.0.18.4
+/gnu/store/cbc7advd5s7r61mzixwj70wyly6xgqbf-hoogle-5.0.18.4
+/gnu/store/w3y3f5a4cxkpxhy9qvmlkp8mwg80jzrq-hoogle-5.0.18.4
 /gnu/store/7lvqayavryqbw3v3wamg5bmbgf5zqdxh-hop-3.2.0-pre1
 /gnu/store/k9b14gra8iny334yfd19mnn5v9wvi58q-hop-3.2.0-pre1
 /gnu/store/fa8da3g695h8qp3n60g30dvbrldfxj78-horizon-eda-2.7.2
