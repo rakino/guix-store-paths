@@ -11849,8 +11849,8 @@
 /gnu/store/4ljsv4a6dd6vp6j29vcfcggd9r5y5706-fastboot-7.1.2_r36
 /gnu/store/726y8laqh02iwdry22y84f2byb7asm26-fastcap-2.0-18Sep92
 /gnu/store/9rvnaj1x00lnybrdnacca33ds4rmdvay-fastcap-2.0-18Sep92
-/gnu/store/llv9m8ibcdd1gn0hgdpwb9fq0mdvd3d9-fastfetch-2.63.1
-/gnu/store/vq68sccam1v3xiiw8qisa79xj2kpvqil-fastfetch-2.63.1
+/gnu/store/pi7i4n7kj18ix02x76y7h9xa0b43fq4a-fastfetch-2.63.1
+/gnu/store/sl9m23c5ag50z4zw2shdv9f4l5yqybb2-fastfetch-2.63.1
 /gnu/store/caymvd1l48n86f5nazr9w9pclifz1ppg-fastfetch-minimal-2.63.1
 /gnu/store/jcsxkwd3ih8qxl4nnpjyh0j58prj0i1g-fastfetch-minimal-2.63.1
 /gnu/store/710mhmw1bgbslzjpbrrkc4wr4774gw29-fasthenry-3.0-12Nov96
@@ -75988,9 +75988,9 @@
 /gnu/store/irnwmk1jp1lm80y4s51nap2aqdkq4sdp-zeromq-4.3.5
 /gnu/store/1rp4jhgwj26krz0fbc3qpniwwyj3s0q4-zeta-1.1.4
 /gnu/store/3wgd41rpar3y06fgsr8kc0flnjk2lif1-zeta-1.1.4
-/gnu/store/pahjnlk90krzfnspx1k4riwlfcqdfy4f-zfs-2.4.2.tar.gz
-/gnu/store/b8ix8yczkkn48m1baplwzm9r47z1p0lp-zfs-auto-snapshot-1.2.4
-/gnu/store/dd1nvcj2qllbqqszlal5jiwn34fw7jhw-zfs-auto-snapshot-1.2.4
+/gnu/store/vkpvs08csqw611pp5caxch3by5y51vms-zfs-2.4.3.tar.gz
+/gnu/store/bzxfvfn5gbwsyn179ihnymkvyzpw1jyd-zfs-auto-snapshot-1.2.4
+/gnu/store/s2chy284jyciwqd52772l3x2b4zdaqdn-zfs-auto-snapshot-1.2.4
 /gnu/store/aar88v49cbpkc8v2d68mqph3y8m6hx2j-zig-0.10.1
 /gnu/store/ssm2zz0zph2kn75v0s44svwv7mg7aikj-zig-0.10.1
 /gnu/store/grwwxdq3zr1ya54h4z1ra1va0yq24kkx-zig-0.11.0
