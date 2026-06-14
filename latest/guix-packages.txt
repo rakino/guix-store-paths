@@ -1540,8 +1540,8 @@
 /gnu/store/fm0w5v9444gh9jzwdm3bkqc112c2r7wq-c2rust-0.22.1
 /gnu/store/p6k6fadm7vmsgn93gq3ir1jb0l7gl5nl-cabal-doctest-1.0.11
 /gnu/store/p7850db3pzdrn1pk4ri010wl1nvxzp9b-cabal-doctest-1.0.11
-/gnu/store/0r6w0yawrcvdsm5f5c0jpajnbbmn9vxn-cabal-install-3.12.1.0
-/gnu/store/0ss9r5m0cgi1llynyivfndrkhbjpzp72-cabal-install-3.12.1.0
+/gnu/store/dz6mfwk8l93671fg2yzfnj3rbv60alav-cabal-install-3.12.1.0
+/gnu/store/jxx0gb5pf5bh6gx5yv5s0f0h7y4p0zsk-cabal-install-3.12.1.0
 /gnu/store/4zixh0994ilgmipmvhv9qhzd3pqzjvdk-cabextract-1.11
 /gnu/store/xiby2l16wx9fy3f8cgzl62qa8l54z6kh-cabextract-1.11
 /gnu/store/2d1vfdlzfvfwz401ld8c75f1pvdb49si-cable-0.9.21
@@ -5041,8 +5041,8 @@
 /gnu/store/bcvwx6ff7d5f0rn008k4wisqn13aplc8-dante-1.4.4
 /gnu/store/98q22fsmabnciyk4v90dc9nxrmd1ki6s-daphne-4.2.1
 /gnu/store/ls2yadz8h0sixi0gxxpq1hmz6l81vcc2-daphne-4.2.1
-/gnu/store/582s5s9ylj5d9lnq2j51xmkfcjvahnhv-darcs-2.16.5
-/gnu/store/drj59avbamwycqzp1mw89w27x5wgwrx8-darcs-2.16.5
+/gnu/store/3isdrzdxqgrbrdnmgf2nkd1wmf6ih0f4-darcs-2.16.5
+/gnu/store/8ll2ps13zpyzan5195w55sb2y8ggfpsy-darcs-2.16.5
 /gnu/store/6f52ymibyjy3cfs5aa0292f68cfkn32n-darkhttpd-1.17
 /gnu/store/sihccn720lsg321zk491amqn5sp959im-darkhttpd-1.17
 /gnu/store/fpvn1sqjkwiiq17i35h67qknc58mq4ly-darkice-1.5
@@ -13126,8 +13126,8 @@
 /gnu/store/r10yjgmgal14jxrlh3pjd9c2bb7mw19p-gamine-1.6
 /gnu/store/243i97k5lir59w5v30k9ikciwig95p6s-gammastep-2.0.11
 /gnu/store/dkx3ya4f5lnaay3cp22n8nlkirimwxzd-gammastep-2.0.11
-/gnu/store/58axjmki38ixpnl00vziq4pkhw17dik8-ganeti-3.1.0
-/gnu/store/5ys69rc1p3fk67hyf5k4ghqb4glck4pi-ganeti-3.1.0
+/gnu/store/1hdp9bnkgzg7prnmar330z8x952jyi2m-ganeti-3.1.0
+/gnu/store/9ah4g213lpyqgs7h2sbnkfrp4d3h6mz8-ganeti-3.1.0
 /gnu/store/88457ajja4jgxkh98hvc3vc0midjlhnj-ganeti-instance-debootstrap-0.16-2-ge145396
 /gnu/store/is96g7nyb494x55aw350i0fgv58fl76f-ganeti-instance-debootstrap-0.16-2-ge145396
 /gnu/store/0p28nh3l9a8frir7vzdprard22q6mqhh-ganeti-instance-guix-0.8
@@ -13897,6 +13897,8 @@
 /gnu/store/56py9n0p9cxd5dk5c2mc0hidc67zqf5d-ghc-chell-quickcheck-0.2.5.4
 /gnu/store/fb1f091k8g68743x2m645hp5zkx0x0n4-ghc-chell-quickcheck-bootstrap-0.2.5.2
 /gnu/store/kfbs8hg9qlwvlhk4v9wl9bbh59yaaqdj-ghc-chell-quickcheck-bootstrap-0.2.5.2
+/gnu/store/d7qmpmn48pizvg2s36xrb4lrp49ms6y7-ghc-choice-0.2.4.1
+/gnu/store/gv7cr80fgqdafk7j29cly7rxrk5ynml4-ghc-choice-0.2.4.1
 /gnu/store/gvv9wq7xk9ks5vhy4npx50zc2ghqllpb-ghc-chunked-data-0.3.1
 /gnu/store/ylndfi37si2x7w0hkc5k65i7jddymqbb-ghc-chunked-data-0.3.1
 /gnu/store/i89x9niwszz42jvbxsmf3i808rzcrb2x-ghc-cipher-aes-0.2.11
@@ -14245,8 +14247,8 @@
 /gnu/store/7x3ydjiq6wzlh7f84b6b9wcp3f9vlkv3-ghc-groups-0.5.3
 /gnu/store/0gxv2wm07ijjpxyh9gs69spvwsmcx3bx-ghc-gtk2hs-buildtools-0.13.12.0
 /gnu/store/z8w1gj6mg4cdi79aw92mm8idjhkl9lma-ghc-gtk2hs-buildtools-0.13.12.0
-/gnu/store/7lgcfpvxrdiwwzyfd7rwvvjhs1pwfzpn-ghc-hackage-security-0.6.3.1
-/gnu/store/wljprnxj1g7jp4zff9lc8q185n43690l-ghc-hackage-security-0.6.3.1
+/gnu/store/78940498xl38n84m0xxzan1j9lnmkpl7-ghc-hackage-security-0.6.3.1
+/gnu/store/kyj4a0671ysh1yzxw7xdf5jaa3lh9i2h-ghc-hackage-security-0.6.3.1
 /gnu/store/f997axhk854qg4s9rdmpbr0zg9xygvb3-ghc-haddock-2.26.0
 /gnu/store/ldh7w327ii74i6m9xkr6ir631gy430ip-ghc-haddock-2.26.0
 /gnu/store/mqb6qbw469669c5bi561p4lq308070yd-ghc-haddock-api-2.26.0
@@ -14295,8 +14297,8 @@
 /gnu/store/hgc1nyil261ymzckss431h8wp1b6pjc3-ghc-hex-0.2.0
 /gnu/store/64wla92j51fv680f9kmx2j71g54fr0jx-ghc-highlighting-kate-0.6.4
 /gnu/store/j6b3dg10am7676sj4ag4r2h99w88qbyp-ghc-highlighting-kate-0.6.4
-/gnu/store/rybgk5yhfhhpywym13f63gx5gqj08b96-ghc-hindent-5.3.4
-/gnu/store/vmxi8v30vnfrn33b7hslj2vksyvj9z2f-ghc-hindent-5.3.4
+/gnu/store/m2d70pyhik4yvmzd3zsrdf1ji909dbzm-ghc-hindent-6.3.0
+/gnu/store/prmzvjcp05hkbysy1p8cp136zkz6xmys-ghc-hindent-6.3.0
 /gnu/store/a0ximwbynhiamhsj21kg655l73ckmwpc-ghc-hinotify-0.4.2
 /gnu/store/jvmcpqphbl1lz4pnxr0kn8jlbsvrwa5d-ghc-hinotify-0.4.2
 /gnu/store/gvwn60m69ds0yx2vdmfb7037yw1q5ncl-ghc-hjsmin-0.2.1
@@ -15115,8 +15117,8 @@
 /gnu/store/zrxd1vw36xvx9445z9f60lp554qlwvyp-ghc-tagged-0.8.9
 /gnu/store/fqsirf31rk8xm25v7i5dkwr9icmq90af-ghc-tagsoup-0.14.8
 /gnu/store/y7m135n3c1q9qcb82vhylgazqlxxl5wr-ghc-tagsoup-0.14.8
-/gnu/store/asliywhc66s469llj7y3mzz5ap7y4fsr-ghc-tar-0.6.4.0
-/gnu/store/fryi640nz9wsrnn7h0fk9cg47msk6842-ghc-tar-0.6.4.0
+/gnu/store/jdikipzw318j1f746akq9219y7kknhf5-ghc-tar-0.6.4.0
+/gnu/store/ziks9vyx3hmfx1lvgd274ksilf1frryj-ghc-tar-0.6.4.0
 /gnu/store/0pvgwfgxwzjpxayk0ll0jlbrmz1kqv06-ghc-tar-conduit-0.4.1
 /gnu/store/qxk0nln8hqmssyjrsdb0x5y0cw3wl1l5-ghc-tar-conduit-0.4.1
 /gnu/store/mc34h4ayhdf8xkvahdjir3nxihhq7v9n-ghc-tasty-1.5.3
@@ -15209,6 +15211,8 @@
 /gnu/store/wlrsjwscnfi6wlxdib5c9mmkih9flw9p-ghc-th-abstraction-0.7.1.0
 /gnu/store/6amjz934bfh8zzrqc2z62awzzndkrmc8-ghc-th-compat-0.1.6
 /gnu/store/z828gfxrxh5gwp4kl5hidj57yilypfqr-ghc-th-compat-0.1.6
+/gnu/store/0jr245i2bxkk200bpbbgjy4pkmg60231-ghc-th-env-0.1.1
+/gnu/store/qlgzi7gaylnrqq49zz0v243m1vyagziz-ghc-th-env-0.1.1
 /gnu/store/6r5zx4kglzxyy2336gmf1fj5j49s9ik8-ghc-th-expand-syns-0.4.12.0
 /gnu/store/yx1mzin7k2knfibla127n8xrcmmr959y-ghc-th-expand-syns-0.4.12.0
 /gnu/store/3898n2xlzhcljy6iz3vdy09hyz7hd5nb-ghc-th-lift-0.8.6
@@ -15283,6 +15287,8 @@
 /gnu/store/qycgjaa57rnd6nky8yqx8zynaxbck4fq-ghc-unicode-collation-0.1.3.6
 /gnu/store/plhbc414z639bil72hdx18479q0xhazk-ghc-unicode-data-0.6.0
 /gnu/store/rgfr0rrr0qyyig23xhnhh6rw41z23i9v-ghc-unicode-data-0.6.0
+/gnu/store/54vq5z8i00k9bfg84ki3xd4za7q6mg0g-ghc-unicode-show-0.1.1.1
+/gnu/store/j91vhhgbky2wn59yj1hkz057y031pm1p-ghc-unicode-show-0.1.1.1
 /gnu/store/37jj1vy4wd7nri6pa6jq81w385g29gvr-ghc-unicode-transforms-0.4.0.1
 /gnu/store/69cxap4ayhkji0dvbix0i950nab2pjiv-ghc-unicode-transforms-0.4.0.1
 /gnu/store/946iwgj04sw3szqwvz8m6gfynfjhkcav-ghc-union-find-0.2
@@ -22263,8 +22269,8 @@
 /gnu/store/nml6zb86w5fk0anm6yrpkiq4crcrcm4v-homebank-5.10
 /gnu/store/8ar5165ls3gjhn427hxar449vppz8fd1-homer-4.11.1
 /gnu/store/lcip576gpmhlk957qgrwx503jlzycf54-homer-4.11.1
-/gnu/store/h40qf1728c25h6ifw8fjh8brchar7xz0-hoogle-5.0.18.4
-/gnu/store/kd73kc3ah5iiaxbcrw5al0g56qp3jz65-hoogle-5.0.18.4
+/gnu/store/hzi5s0hinwsvk1wpmyjkfn0wyf6sx6vp-hoogle-5.0.18.4
+/gnu/store/zh2zibddi618b6whqkdikzv4dsjskzn5-hoogle-5.0.18.4
 /gnu/store/7lvqayavryqbw3v3wamg5bmbgf5zqdxh-hop-3.2.0-pre1
 /gnu/store/k9b14gra8iny334yfd19mnn5v9wvi58q-hop-3.2.0-pre1
 /gnu/store/fa8da3g695h8qp3n60g30dvbrldfxj78-horizon-eda-2.7.2
@@ -30086,8 +30092,8 @@
 /gnu/store/fzf95ncbg0s21s4m7al7cnxb1fq8pq8n-ngircd-27
 /gnu/store/bbbr47sbmcrm2lsypp96s21kzhx4kj30-ngircd-27-debug
 /gnu/store/qds8s0dvs37sdxj9df5qhv77j8wqb410-ngircd-27-debug
-/gnu/store/3c64y4md61ypy56qb5kjbvlgnqkxwipk-ngless-1.5.0
-/gnu/store/bi40dn5zq1v42y9260jy11w8ssv9k36c-ngless-1.5.0
+/gnu/store/5p158v4smk155xks3wz9hivnfqvk7xq8-ngless-1.5.0
+/gnu/store/65plc0664w3g50313rcyxpwklmlnhgrd-ngless-1.5.0
 /gnu/store/0k1ia3yyqr5lhqcvb0a076v240vjkn4m-ngrep-1.47
 /gnu/store/yyi1i9zhis46fff5hizpgy939dvfmdx0-ngrep-1.47
 /gnu/store/5p5rxiij3ixgzwwbg71rnni8bnlj1idx-ngs-bits-2025_09
@@ -31794,6 +31800,8 @@
 /gnu/store/4pww5zgz7yyfrz6g9fwgp72xflcnlsmc-orfondl-1.0.1
 /gnu/store/dhy29ms9n3nlk0p138yybs0x7fr4zpx1-origami-7.1.1
 /gnu/store/j4w22ihavv9jj35z0dq8jj042nskfk3i-origami-7.1.1
+/gnu/store/8pqynbf74psb0ql8kdhzwsswzh1m71fx-ormolu-0.8.0.2
+/gnu/store/fbrw987zb0d5hqgp7cybqk985i6g18p9-ormolu-0.8.0.2
 /gnu/store/7fanq22rz2ivh9fcqy3c49zg775pd9nl-orocos-kinematics-dynamics-1.5.2-0.34ecff4
 /gnu/store/8cjpb06byxmkra7ynyly562hvm1jrwml-orocos-kinematics-dynamics-1.5.2-0.34ecff4
 /gnu/store/bpahfzw8l6mrmcl51qyi00pykc8i4w35-orthanc-1.12.10
