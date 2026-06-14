@@ -1624,8 +1624,8 @@
 /gnu/store/avnk93q7hsr2h68l4z6yazc3z3k7xvm2-camv-rnd-1.1.6
 /gnu/store/ka40w2lg4hlyimyj5z7hpizjb8nwaf4j-can-utils-2025.01
 /gnu/store/kya0p8i7z4vnw32xzh2m7h8mca8c22qz-can-utils-2025.01
-/gnu/store/71lk6xf893bihg7j9kgm7acq3sn44ypp-candle-10.11.1
-/gnu/store/qq4x3gxa9bmrk0mvfzfbfbx5j6zp1ij7-candle-10.11.1
+/gnu/store/cv3qkgads7d6ndhxxz36p8k9vglx1blv-candle-11.2
+/gnu/store/ny2s86q64x3saaf193dd3q8qci21f81q-candle-11.2
 /gnu/store/8mjha2yd9hcs7c6mnyfp3kcbdnpqgz0d-cantata-3.4.0
 /gnu/store/p81kn69gf3gmlrqnrj4vikmk07zawzlc-cantata-3.4.0
 /gnu/store/d5rjna0xw3gysmy19ncwwji625sqna4c-canvasblocker-icecat-1.12
@@ -5681,8 +5681,8 @@
 /gnu/store/2hg18b4ifvq5d6rp6fpmyxppx5q82zgq-e2fsprogs-1.47.2
 /gnu/store/c89jl9zrljkwclskndm94g8bn1cl39lp-e2fsprogs-1.47.2
 /gnu/store/m5q5f3bfq53r7k3zy670glb3c3paanxp-e3-2.82.1
-/gnu/store/0d0fv2idy8b01y5qd06djzkrrdcs2qxl-e9patch-1.0.0
-/gnu/store/njlljinami218wa9y427q1xm9mkpf4s4-e9patch-1.0.0
+/gnu/store/krbqj8l9zb8fh89blw89vmfcs3awdf01-e9patch-1.0.0
+/gnu/store/mzfdwz3x04a0qx0bc1699qsylf6lb64w-e9patch-1.0.0
 /gnu/store/6bhjx16l03a10bjsigz05z8695q3lnq4-earlyoom-1.7
 /gnu/store/89q4cmw0r8nirhbm1bqk6qj2wwz2lcd6-earlyoom-1.7
 /gnu/store/qf4rn0305kwdyhf8lplnmcnw5m97ddy1-easyeffects-7.2.5
@@ -27344,8 +27344,8 @@
 /gnu/store/hvbsj4wcdfbh6kg7rrgwvh4jphlfqbkk-libraw1394-2.1.2
 /gnu/store/kjfjfx6axhk3xj90fim0545hqgvhdq07-librdkafka-1.6.1
 /gnu/store/qmpa6f19iad6985x0bpfdjwh47lbnmir-librdkafka-1.6.1
-/gnu/store/fv9qn61r9k8gznxj5mm4s15khz81ckbl-librecad-2.2.1.4
-/gnu/store/rx5baqh3k8i91vmdvfbzq1q1wx7ljz8w-librecad-2.2.1.4
+/gnu/store/65limcmbh8dy66yjah1zc1ajyjp46mxc-librecad-2.2.1.5
+/gnu/store/qpc4h6kiyhy7j41d8c3ryrsfi5rg2ndl-librecad-2.2.1.5
 /gnu/store/16kvshs3hyssza7shd1asfyhb92h545m-librecast-0.11.2
 /gnu/store/1n8xapaz37vhvnh4kamsyfvc2b2rq5d2-librecast-0.11.2
 /gnu/store/dpxbsx40gwmszhlqah9s6y9bcfpvrfi3-libredwg-0.13.3
@@ -76144,10 +76144,10 @@
 /gnu/store/h2q49fspb85vn8773b1dm8pkq2bmvikz-zxcvbn-c-2.6
 /gnu/store/c3vlinmq05n107h2p22iszs9mh7613p2-zxing-cpp-2.3.0
 /gnu/store/qkwxsh6cijypnq96hzx1516gvgabcdsm-zxing-cpp-2.3.0
-/gnu/store/0r5gxig62y5g4jsjr9635drlnvzfqq8m-zycore-1.5.0
-/gnu/store/wyl8f6zvnvvx3875vc81p9danfjdnxkk-zycore-1.5.0
-/gnu/store/32v989fzgymx8nbz8wy0xq331hil2rc5-zydis-4.1.1
-/gnu/store/z0q8d0fcc295ckpissn5mzyapgkbv96c-zydis-4.1.1
+/gnu/store/lpxvxbdlik94w9mdq0ygmql7zry584nm-zycore-1.5.1
+/gnu/store/r5xbb97x4blk3dqqssr4680irpzra4cl-zycore-1.5.1
+/gnu/store/72z6rj88l8fys00zm420hpspwaxddx3w-zydis-4.1.1
+/gnu/store/81wf1m9c4yfjqk08gwwa1pifdhjxckz8-zydis-4.1.1
 /gnu/store/d5jgc484cgmxbdpfspykysd48qzgg97m-zynaddsubfx-3.0.6
 /gnu/store/n497gdnakqqvw9rw1cvyp1q2l9ny1iy3-zynaddsubfx-3.0.6
 /gnu/store/0lh97vlfdi6p89yak1l08xi87y1x9hwr-zyre-2.0.1
