@@ -46381,8 +46381,8 @@
 /gnu/store/mrz4jki85d3ihk8qfkrhpqrqaifvfk7h-r-piton-1.0.1
 /gnu/store/6iwxncaz8dg4fmwn365qq2ba6gi376dk-r-pixmap-0.4-14
 /gnu/store/fkz6kji2ai5liv9hg46p83vwwwk5krm9-r-pixmap-0.4-14
-/gnu/store/y8gr9a1cbzr52hgpmwzwspg270wf9vxi-r-pizzarr-0.2.0
-/gnu/store/zjd6rkmbqdcm469m4m4mhqqnafn6i659-r-pizzarr-0.2.0
+/gnu/store/mi57v8mm5lp3ywcssy0pwdyd553pylrl-r-pizzarr-0.2.0
+/gnu/store/rcs3a4nn4q4v0xdwwa2xbchqkgq1w00c-r-pizzarr-0.2.0
 /gnu/store/h30z3nfpl95rhl94a99vifk5dww7rnsx-r-pkgbuild-1.4.8
 /gnu/store/j8s84zni8m687jnmg9g7l31z5ppsmf18-r-pkgbuild-1.4.8
 /gnu/store/6bajmjigr8xxwbl2c284fmxd2wlkz3sa-r-pkgconfig-2.0.3
