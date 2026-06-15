@@ -39937,6 +39937,8 @@
 /gnu/store/i6npki7y2nb0i7f5xjvhr9xyb25l9kl0-python-pyunlocbox-0.6.1
 /gnu/store/2gr4ndpi79wc0zxfxlg5rsg0y964rymg-python-pyusb-1.2.1
 /gnu/store/bpj6rsb3lxxswjfi34ygw9vrk0klba4j-python-pyusb-1.2.1
+/gnu/store/07lin8gj1h7nszaf3lhwwwnqy1k9p3d8-python-pyuvm-4.0.1
+/gnu/store/pfzcsxv8f7hnlgy6gjjjgbdmnvs8k4z6-python-pyuvm-4.0.1
 /gnu/store/1qzpcnfj1l7fgky1iciq8hvs986brf99-python-pyvcd-0.4.1
 /gnu/store/wbgqddh3ldmwcvpja23ykc0byssg5862-python-pyvcd-0.4.1
 /gnu/store/47irnjbnwvx4pxkizmi86yqshrnzpwhk-python-pyvcf3-1.0.3-0.1fb3789
@@ -74516,8 +74518,8 @@
 /gnu/store/mgmv02anwdqaacdbabk8cac4xcbxh0cq-valkey-8.1.4
 /gnu/store/a1n5dp8yilbp82jqskrcpjavfx2d0djk-vamp-2.10.0
 /gnu/store/x2svjskazn55vyzr8alfzkjbrhb3zh0n-vamp-2.10.0
-/gnu/store/3grvynm1pwc2mkalnxsjk574dqybign4-vapoursynth-76
-/gnu/store/8zwy4qrlqccxl1g342zfh653fc336g7d-vapoursynth-76
+/gnu/store/fix41vrxzhhqfcrj3jr71j5vrg8y1ldh-vapoursynth-76
+/gnu/store/rdgxcnf0ycqc8m8cnav65l6lbgyrgcds-vapoursynth-76
 /gnu/store/gni0l62filjs6p8hn8c8pnqd1mvcpydb-varnish-7.6.0
 /gnu/store/s698jfpnqv4c2wj4jhw0wvi21qg6s7iw-varnish-7.6.0
 /gnu/store/lijjk3cvp84cj9i1spyzi6q9pnx0s0im-varnish-modules-0.25.0
