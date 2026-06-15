@@ -27635,6 +27635,8 @@
 /gnu/store/ps8ydd8qrbppm98jqdqr3mkp4i7zlaak-libtorrent-0.16.1
 /gnu/store/6rzq04y8pp59niqkz923jdlcsx42d739-libtorrent-rasterbar-2.0.13
 /gnu/store/h0ll9b7rkwc6fmqm0yx34mhsydary1xb-libtorrent-rasterbar-2.0.13
+/gnu/store/0hgz01py3wi9a349fjrzqz07l2bn3kmq-libtpms-0.10.2
+/gnu/store/jgd99c7ksn4q7adpsmwdm4l8ihpkwy85-libtpms-0.10.2
 /gnu/store/aa5lhzbhbqgl105da1ky8wqvcpwg0yc7-libtraceevent-1.9.0
 /gnu/store/sinpcxlak1a50d9q4l4pmppgcqjvpw8a-libtraceevent-1.9.0
 /gnu/store/b31bl1ax9a5x16m1zcjb3z8y0ip1l3zc-libtracefs-1.8.3
@@ -53849,6 +53851,8 @@
 /gnu/store/zvwpmhw4wxwlvfz1bb78sg9acsga0z60-swish-e-2.4.7
 /gnu/store/ca4slihbjsa9bk0hb0l8hwgcxl8kdx4b-sword-1.9.0
 /gnu/store/qayb0vlmh1ani7rqbkr2bj54qdiipmg4-sword-1.9.0
+/gnu/store/jzgxvw3bcwqknm7vvpbfvkqal8qvmhcw-swtpm-0.10.1
+/gnu/store/m01ajq56pbbngmrv7dxi5hmcgys6qr5n-swtpm-0.10.1
 /gnu/store/951i1mmj7dr26vnidvlp40bkglk3w2y6-sx-3.0
 /gnu/store/b51hi92wjs598ah6fgxjjv57jdx7yk5x-sx-3.0
 /gnu/store/0zwsdig7n4il0skbny02kymh9aj051jg-sxhkd-0.6.2
