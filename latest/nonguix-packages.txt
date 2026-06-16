@@ -148,10 +148,10 @@
 /gnu/store/ldq80b2lgfqf8wd8s3hav3v1gqjh253d-ffmpeg-8.0-debug
 /gnu/store/pyhbbmahalcsp0wdrz4yba3qbq0wx1r9-ffmpeg-8.0-debug
 /gnu/store/qqgnmh4zvb48g41nd33m1vkg9q6q5vsj-ffmpeg-8.0-debug
-/gnu/store/akcxiwc9lkbi1s5f1abl8bb5gdbbxnlg-firefox-151.0.3
-/gnu/store/q6mkahxq0w9mh5bwndyzpdvax2vsyd7h-firefox-151.0.3
-/gnu/store/mpx9kwxpf4hkhjynpmfn34mmlzibsynm-firefox-esr-140.11.0esr
-/gnu/store/wgvl0mwrr7qv7sy9vm0wmq5f2isqibb6-firefox-esr-140.11.0esr
+/gnu/store/2v0662mbh8qaj2gxc4zgnn0bsf5rlzvw-firefox-152.0
+/gnu/store/zzcz513kbwq774ca249h72k0bnfzj2qw-firefox-152.0
+/gnu/store/4xb7v7d127bkirhcxm4v4ispc2sy4wvx-firefox-esr-140.12.0esr
+/gnu/store/mkkr4fv3a93zzghn5l9ndxlcjm4105b8-firefox-esr-140.12.0esr
 /gnu/store/54rx69vijndxdfn2r7fdjnb5l7684zh2-font-apple-color-emoji-18.0d4e1
 /gnu/store/6jvs1jkqz1fi3qka724k1p13hcjjlc6n-font-apple-color-emoji-18.0d4e1
 /gnu/store/lyyyvfx701ahr0ww6kwx63zaf6z2c06d-font-apple-new-york-17.0d5e1
@@ -457,8 +457,8 @@
 /gnu/store/ng21gww3591xc42cy4h859zjbhdsrgmj-rtl8821cu-linux-module-0.0.0-4.7f63a9d-checkout
 /gnu/store/awx1x12w7yvq4ncspk96zzj7rl9yn4hf-sbcl-cl-electron-0.0.0-3.f2245dc
 /gnu/store/lp79bxv61bvlf9vcwin7np5mjwwm4rd8-sdrplay-3.07.1
-/gnu/store/74dy98cn3rrmspvy4xczmla9q65005xq-signal-cli-0.14.1
-/gnu/store/7l473wnfvh646ih6zc1n68hk0sbfrlan-signal-cli-0.14.1
+/gnu/store/9jk4xxfjzn8y20ww530bpc4z9xjhns2k-signal-cli-0.14.5
+/gnu/store/k7s4s8bbg6akkfjik2i7a3j6064n0qwm-signal-cli-0.14.5
 /gnu/store/g9pzncdyw13rb950ylh8ac580jv7w22l-signal-desktop-8.14.0
 /gnu/store/vra4xs2pwf5hmdcqn15wigg55acajgjg-soapysdrplay3-0.4.1-1.9e5c80c
 /gnu/store/jysfqba7875r0prvyhygkizjbhgnmz85-sof-firmware-2025.12.2

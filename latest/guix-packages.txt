@@ -21390,8 +21390,8 @@
 /gnu/store/rfji1c4yjr40hnssv6z0ix0askl5b4bj-guile-algorithms-0.1
 /gnu/store/nk04g0jbc43h3y9gcjf6x7z00w8qqyi5-guile-ares-rs-0.9.7
 /gnu/store/rj7ch5fdfqbmd0k30y5wkjgw0vkyc4h7-guile-ares-rs-0.9.7
-/gnu/store/7l1fm5jk9grkrpzgb91qa1mkm873b92w-guile-arguments-0.1.1
-/gnu/store/7sk2xzbzk6a38shyfn5lhg3w1pqnqxjm-guile-arguments-0.1.1
+/gnu/store/6sjyml4yi5pw28qpwn5fldcls7bi7qyb-guile-arguments-0.2.0
+/gnu/store/jfbk5rxmzfh4kmws6zqvzk8db82bxi38-guile-arguments-0.2.0
 /gnu/store/0pj82vidz0530f4g2s0hms6a57ma9slq-guile-aspell-0.4
 /gnu/store/pnqcq2lk3c6yisa2nh6g4x6zil9gn7b1-guile-aspell-0.4
 /gnu/store/9dx6vnzfcr50jgjhik38cvmdc8w7hrif-guile-avahi-0.4.1
