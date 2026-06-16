@@ -75702,8 +75702,8 @@
 /gnu/store/qbj7i17myghfqkmyw4i3cyamayq0svmr-xosd-2.2.14
 /gnu/store/2f2mnd7f4ms4fvw4pcl039s2sfmlimn8-xournal-0.4.8.2016
 /gnu/store/bc0kh9y9273afzifp2j2f55b1mskszsf-xournal-0.4.8.2016
-/gnu/store/nd78h4q6zpgaic23awbj3va8mxhqh6bl-xournalpp-1.3.4
-/gnu/store/rm0n8llhg1s5xd759kps9a86m8g5py7s-xournalpp-1.3.4
+/gnu/store/4psydi19gl68sjz1dyrw3j203gg9771v-xournalpp-1.3.5
+/gnu/store/y74wh6laj4yvp1zj5ypvg3wv69zm66v6-xournalpp-1.3.5
 /gnu/store/nzywl4z915g8fbxvl3biqkmg0vnqgb6d-xpad-5.8.0
 /gnu/store/zc1jfmia2h875kmcwa5f5r9hv2a1cwjw-xpad-5.8.0
 /gnu/store/1fwlg5lvlhbjq87aaq2i4bpzg2i3717d-xpadneo-0.9.8
