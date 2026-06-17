@@ -1117,6 +1117,8 @@
 /gnu/store/gjbx71y28sbaaz15x8nw38m2gbf96cgg-biblesync-2.1.0
 /gnu/store/0rz1c1k7i4j5q6g0f3xjqzyb2v2nm1nb-biboumi-9.0
 /gnu/store/lya2v6kyvhg09z1hc9biqjpn2ddg5lvc-biboumi-9.0
+/gnu/store/dxcxmqyr13d8bkn6kl6jb62i9q845plf-bibtex-format-0.2.0-0.dae63e9
+/gnu/store/mqlz1rrid86zh1ym4cg98dsa114ya1vs-bibtex-format-0.2.0-0.dae63e9
 /gnu/store/178jcrqmglxx9s441rg4qw628pw28b8g-bibtool-2.68
 /gnu/store/c926y809sd6shlr1sf4nmzlkc9f634z6-bibtool-2.68
 /gnu/store/77968g3sdwm7033n78ax97rix204l5ma-bibutils-7.2
