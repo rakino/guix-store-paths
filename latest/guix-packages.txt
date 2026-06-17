@@ -25812,10 +25812,10 @@
 /gnu/store/ccayyhhcvb51plf841jhffira1xjlc5r-kollision-25.12.3
 /gnu/store/8cj4xr9rcjr135vzkszkaag1aihsggs8-kolourpaint-25.12.3
 /gnu/store/brf1lfzwa4k8sbq386v3c3b8r1nsbav3-kolourpaint-25.12.3
-/gnu/store/22sa3dvsydbvivb2dzx223lyrxz88q99-komikku-50.4.0
-/gnu/store/r04hfvics92wv37pdb9z1cqq6ipkf4jx-komikku-50.4.0
-/gnu/store/kvhra9wpdcmww1zzbywb4m5gdfsqink9-komikku-servers-50.3.0
-/gnu/store/x5l9qfyas51pvfjb6ksc3pvyh2vv36cx-komikku-servers-50.3.0
+/gnu/store/6wbmpl4h2gkrphsldsjfsprm24pj5xi0-komikku-50.6.0
+/gnu/store/vmwkvbr5h35qq1kr5bgdm2bajb96gfnm-komikku-50.6.0
+/gnu/store/gxp061isj0lw67bcksj2rd26jfqr902y-komikku-servers-50.6.0
+/gnu/store/x3bdh321fblwigg6f3lw1y8ns3pcz1nk-komikku-servers-50.6.0
 /gnu/store/m6v99p085aq8pyqn1f7mb0ssd9dwxjiq-kommit-1.7.1
 /gnu/store/yix13j20w80qz1qjw9n1b5hn3kij25hi-kommit-1.7.1
 /gnu/store/i300wjvilppdl0cw7h2nlpgvlk56b7ib-komodo-1.6.0
