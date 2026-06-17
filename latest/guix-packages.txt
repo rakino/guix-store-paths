@@ -72843,10 +72843,10 @@
 /gnu/store/v5xggbv6l6azfyh5j0hj04qw2m7dpps6-translate-shell-0.9.7.1
 /gnu/store/9by9s8hyl8a49ffxdk4ri8nfrdxz66sr-translate2geda-0-2.2ec576e
 /gnu/store/ykh8ypjxg556s5lgjv4li630bmq8vbhk-translate2geda-0-2.2ec576e
-/gnu/store/a69mvi5297c02530jwwqd71wmwrykmcb-transmission-4.1.1
-/gnu/store/sqc7ikbv7592wy9rqd7kl1gjnrkzd4hv-transmission-4.1.1
-/gnu/store/61n9fbl6xkc3yw2nqb5m71y09szg1afk-transmission-4.1.1-gui
-/gnu/store/h9ipi6vvjvwqxkivsl2asirfag7bn884-transmission-4.1.1-gui
+/gnu/store/4jrgygw6as74yb47z8ql6ipbkw3lf7py-transmission-4.1.2
+/gnu/store/yi2fk510gsxdy91w25bw3bxiddb62ni2-transmission-4.1.2
+/gnu/store/k4glg867h39rkh4i7pw781hpb2cz5jgj-transmission-4.1.2-gui
+/gnu/store/yrimlc5zz793ih3gsbywn025x28v4xd3-transmission-4.1.2-gui
 /gnu/store/9mgri3z3b6hpn4961bjzr0dkmip2hfpc-transmission-remote-gtk-1.7.0
 /gnu/store/ajwl0qmqvqylzsgd0mhw9cn4qyxm6hwq-transmission-remote-gtk-1.7.0
 /gnu/store/m2w7jyjvas2rj0j8bi3622mqvyf5slhm-transset-1.0.4
