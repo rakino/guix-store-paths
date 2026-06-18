@@ -37456,8 +37456,8 @@
 /gnu/store/bj5f3slnfp4h10w5sfcwbig9li2dc6b2-python-interface-meta-1.3.0
 /gnu/store/79m96dbrz7kkhdnbv7j0x2ccfqlrbig3-python-interlap-0.2.7
 /gnu/store/a4pqa7bjk835405z1w8b28w38mxwlz15-python-interlap-0.2.7
-/gnu/store/7mp2b3licx88371fxdrg5gk5l7jmhh1x-python-internetarchive-5.8.0
-/gnu/store/dva78g4ky52ksfxr6x2wn52ppzh32yp5-python-internetarchive-5.8.0
+/gnu/store/86yg1djc3jc2nc0nka7nqfk9b0m76irw-python-internetarchive-5.9.0
+/gnu/store/faqksiczjayxlzgpwq50canja4hpc683-python-internetarchive-5.9.0
 /gnu/store/1kdjq8y1dqm2whywaibljab5rfidkdnp-python-intersphinx-registry-0.2705.27
 /gnu/store/9cyqmd0pzbnizgiv9bzxfn0kjhlcajj3-python-intersphinx-registry-0.2705.27
 /gnu/store/4w9brn8k5lh76gz5v1lkrmb85fxj8gv5-python-intervaltree-3.1.0
@@ -75858,8 +75858,8 @@
 /gnu/store/x31bam1q98fshnv6fgpwhf9bmwjkzlw2-xvkbd-4.1
 /gnu/store/qp5z60wbv9pnsa6vf6c3n7fkdvrpyg1w-xwallpaper-0.7.6
 /gnu/store/zkd91mx8a58nfk8bwj1dksjds299qcwm-xwallpaper-0.7.6
-/gnu/store/0qn12crghgxrwchp6mb6dxhik3dg2p61-xwayland-run-0.0.4
-/gnu/store/86bni2dgynn24xskxifspxzp2ajpsscy-xwayland-run-0.0.4
+/gnu/store/d38bmdx2viiwvfif4n5id5xy3sk74r3c-xwayland-run-0.0.6
+/gnu/store/db38ngdfaw1afhpkvfvfxr5psm45n9vp-xwayland-run-0.0.6
 /gnu/store/i93nq2b99ldvib96l9nx1nnvlxman7sn-xwayland-satellite-0.8.1
 /gnu/store/m6w382f7c0by64riqgsdqlzlgbig894k-xwayland-satellite-0.8.1
 /gnu/store/291ib2avyyqfmfaq4k38zdl6gddi5djy-xwd-1.0.9
