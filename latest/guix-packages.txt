@@ -2314,6 +2314,8 @@
 /gnu/store/j84vwxrmsgmawyp4hjhycb37jvzsi6na-cl-clx-truetype-0.0.1-1.c6e10a9
 /gnu/store/d9qxwc3n24k5csvmvsspy26w6ll72723-cl-clx-xembed-0.1-1.a5c4b84
 /gnu/store/y6n7h9ljlvx0ylfjsayc1x4hap3yaiz6-cl-clx-xembed-0.1-1.a5c4b84
+/gnu/store/9836v9dsdgv6b0n6fv31yq9x8xhdashp-cl-cm-2.12.0-0.4b72b9e
+/gnu/store/hii0q0yf9q6gb525bf057rkw13x7jrp7-cl-cm-2.12.0-0.4b72b9e
 /gnu/store/556pwng6pr2kgv0i43ziif1wzwndqsm2-cl-cmd-0.0.1-8.0164d57
 /gnu/store/ispdxg78mp9h02crmxrswv95c73fk8nh-cl-cmd-0.0.1-8.0164d57
 /gnu/store/549bc83z0lf59921japly86wmlf64if5-cl-cmn-2021.11.22
@@ -3494,6 +3496,8 @@
 /gnu/store/k78cs12aqjbk5637bsjwijn5wkg88mz3-cl-slice-0.1.0-1.c531683
 /gnu/store/npalz1vcrq7nck6b7m4v0cjabmw9xffn-cl-slime-swank-2.32
 /gnu/store/vn6yzcwhkvfrxzpxnvs7p9z4gnj788jw-cl-slime-swank-2.32
+/gnu/store/60kaw3ydndvfy6girvssf3bq4az6bsdi-cl-slippery-chicken-1.1.0
+/gnu/store/hmh76cylg80wk2zkld4w7swm9pd8i09j-cl-slippery-chicken-1.1.0
 /gnu/store/948h2v1dqiibjcgqs1lmfz3zrn7zlj2b-cl-slite-1.0.0-0.942a953
 /gnu/store/j40dqrp3giaqn5y2nrhvryf3xyh9pxkw-cl-slite-1.0.0-0.942a953
 /gnu/store/68hbbwdp1yq06bxmfrkghp3qxy4pvn51-cl-slot-extra-options-1.1.1-1.29517d9
@@ -5251,8 +5255,8 @@
 /gnu/store/bdy8vpj33ppw9sqvwhz7n6in3ww984zv-didjvu-0.11.0
 /gnu/store/d4hvwybawg1qnh7r1arc2dm8149nrsrp-diff-so-fancy-1.4.4
 /gnu/store/k38rqhsr2c3dz3i5k7434i7xqn0iqnfv-diff-so-fancy-1.4.4
-/gnu/store/f2lh2cl8v6jg504lva92vslq7kgfwcqw-diffoscope-317
-/gnu/store/yq1lb3fvrif7263b5khckiqyiyin321x-diffoscope-317
+/gnu/store/c2gdx94l217vq5rldwxv784dii5x0vd2-diffoscope-321
+/gnu/store/ngndlddy2sxwvm2zjilhlzjwbx45ycag-diffoscope-321
 /gnu/store/ailwg4r4cic3h28d5lnvvqy6sm3x19hg-diffpdf-2.1.3.1-1.ba68231
 /gnu/store/g53cckz2a0pamn97nnc0kyp22xpa8rk7-diffpdf-2.1.3.1-1.ba68231
 /gnu/store/lgbmsmkaqn0l4yj9d71bcn2b5g8pzsr0-diffr-0.1.5
@@ -6309,6 +6313,8 @@
 /gnu/store/92xkpr58n6mpx1nhk8i2mx4a91qgx8xn-ecl-clx-truetype-0.0.1-1.c6e10a9
 /gnu/store/4vyb3dlpc9xyf3k9fn826k9y3py0mcni-ecl-clx-xembed-0.1-1.a5c4b84
 /gnu/store/vbag9khbms7fhxr5b2l0qqpf5syd6jyl-ecl-clx-xembed-0.1-1.a5c4b84
+/gnu/store/02ap9si19xl5ba32n4vbmlgj47m3s2p1-ecl-cm-2.12.0-0.4b72b9e
+/gnu/store/a8k75baz83pr13b4p1r7z06585xspbim-ecl-cm-2.12.0-0.4b72b9e
 /gnu/store/a7ka4dj4pzapbfv53fvcq19iy1dr3k9x-ecl-cmd-0.0.1-8.0164d57
 /gnu/store/hv5ly0cp16v8cvi214a376qah5xl0r8m-ecl-cmd-0.0.1-8.0164d57
 /gnu/store/n7gh3jkyjhk2mvps2qcasanr0n2ss7bv-ecl-cmn-2021.11.22
@@ -48662,8 +48668,8 @@
 /gnu/store/zrjfs8lzambjx0sadk6bfi0b0wyk82xb-reprepro-5.3.0
 /gnu/store/4d960fyf7ibmp93alpmyq2s1pxczz0rv-reproc-14.2.5
 /gnu/store/kxgbccxdmkkbmwfmjhkahwj05clnfka5-reproc-14.2.5
-/gnu/store/85l7fa7iy9nl3bm95v6r8md9y9144qg9-reprotest-0.7.32
-/gnu/store/y7l8dbscw0bh3l9y8ad0md3a03bpnwaz-reprotest-0.7.32
+/gnu/store/1zmyaai6wk2533v9m0ik4x7r4pxr759j-reprotest-0.7.32
+/gnu/store/a3hfmdl8yzj71xjdmy6fkfb1ssi7fqin-reprotest-0.7.32
 /gnu/store/7six0mi48xxnwli7zz4awps06k1cm8bd-reptyr-0.10.0
 /gnu/store/nb6hzq4mpyxrf8kfa7ncgg2dg4cs5d0m-reptyr-0.10.0
 /gnu/store/2h4cn1s4612zjcbsl0njn90v7yj619bn-resample-1.8.1
@@ -51272,6 +51278,8 @@
 /gnu/store/yzbg7rlvqbnd72bmkrisbx0vh4fvkvb1-sbcl-clx-truetype-0.0.1-1.c6e10a9
 /gnu/store/d4akzyz5qkmdhy4jjsh6z5azq0m641dv-sbcl-clx-xembed-0.1-1.a5c4b84
 /gnu/store/yzb8kybg2zwarp8sadcsl9mr4kjbd2q2-sbcl-clx-xembed-0.1-1.a5c4b84
+/gnu/store/mqz90b6wr8mbvv2c3yyx3svczb6n54fa-sbcl-cm-2.12.0-0.4b72b9e
+/gnu/store/psp4j7z85fcg7vn98m84q40yd97kvn09-sbcl-cm-2.12.0-0.4b72b9e
 /gnu/store/9k8v1l31i6a16na2207xj25ff6cbgcnq-sbcl-cmd-0.0.1-8.0164d57
 /gnu/store/yv6xhcbfxs5mj050s51h0422cya70myz-sbcl-cmd-0.0.1-8.0164d57
 /gnu/store/6s86v9nhvrkpyl5l7zgmyr5nzhm06c7c-sbcl-cmn-2021.11.22
@@ -52200,6 +52208,8 @@
 /gnu/store/dxiwsmxq5zr6x8a3k7gkk7h6lymsr5pl-sbcl-skippy-1.3.12-0.e456210
 /gnu/store/0anwyzvjdv53h3yp1mbafg5l654ypjb2-sbcl-slime-swank-2.32
 /gnu/store/l7nkkzj4g4h7v56334df9l3hcsfd0i3b-sbcl-slime-swank-2.32
+/gnu/store/c2115ljncy4mp5v10wvbqhwibnhrizhh-sbcl-slippery-chicken-1.1.0
+/gnu/store/jby9qaf8i8wvh5hiai3vh120m8ib6g1d-sbcl-slippery-chicken-1.1.0
 /gnu/store/1l2ajwpki0xmnk2h3561x6bfx5dxp2fz-sbcl-slite-1.0.0-0.942a953
 /gnu/store/s0n3nxpypm37kyj9xsjxkd3crqkbqs1r-sbcl-slite-1.0.0-0.942a953
 /gnu/store/4kkc89f4bmn6ahdbm35zj77pjwyvxcka-sbcl-slot-extra-options-1.1.1-1.29517d9
