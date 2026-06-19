@@ -5275,8 +5275,8 @@
 /gnu/store/kl5w7las1fz7xk1bkg0sg2cyy3ab4i3q-diffutils-3.12
 /gnu/store/7vgsks86kvhfdhy9nl6c8iw47xwanv1n-digikam-9.0.0
 /gnu/store/lif50nfhcp5aivb3d1p6h0f5dy4ycldn-digikam-9.0.0
-/gnu/store/1virziw8qc1hg06r4briqv5nb9sm1k26-dillo-3.2.0
-/gnu/store/fxljicd2wf78s22wsazx9jgx85qligzh-dillo-3.2.0
+/gnu/store/51m9x9jrn09vlk4v89g9vwjjwgbiarhf-dillo-3.3.0
+/gnu/store/8vk8dn5g5x9mj7g883adf0dfkzq4xzv9-dillo-3.3.0
 /gnu/store/1npck0sx1pj8vzghkw8pv4mvgl7qmwvw-ding-1.9
 /gnu/store/fmmii2ny0aly3i1x27jwhppwjbaqz7zq-ding-1.9
 /gnu/store/8wa7475pwb8zx3rxw49qpsb4496imwn9-ding-libs-0.6.2
