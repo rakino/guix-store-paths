@@ -1698,6 +1698,8 @@
 /gnu/store/lak5hhp899is0zxm4q4rvn2vsry9psxs-catch2-1.12.2
 /gnu/store/gyllip5jkfcb406169pgp88fg4a81iyr-catch2-2.13.10
 /gnu/store/rq0zmxf370j699z4wap3xxqby5wair4r-catch2-2.13.10
+/gnu/store/67c14l40dr8rz12kxanjhviiyp7vfs9c-catch2-3.15.1
+/gnu/store/kijh6bmj0wzbc57w1h9ad37r7mcdx7rx-catch2-3.15.1
 /gnu/store/4w6h2pfj8n5xfbr5psa41n4cs33d6z7d-catch2-3.5.3
 /gnu/store/8zq31148wiiplsk2dqhk2jk15pb5pngp-catch2-3.5.3
 /gnu/store/k3w5m7f1v89pn7rjv40crrxq3nlwy4pq-catch2-3.8.1
@@ -53818,6 +53820,8 @@
 /gnu/store/nz79y3vyxjps0rzclbvy1wmgmcbj99by-surgescript-0.6.0
 /gnu/store/b10mnab725wd6al33sdjasc3rknijnk4-sushi-46.0
 /gnu/store/d899lzf53dr0jc39fciifkg3jbaai4v3-sushi-46.0
+/gnu/store/bw182jsf3mv19plvhf4s0qrfhml8q4k7-sv-lang-11.0
+/gnu/store/rrh922fb77fi42hjkchaimhx1jz9347b-sv-lang-11.0
 /gnu/store/5kpml3k668j1j6mj82ipykw81y8yj9v1-svd2rust-0.36.1
 /gnu/store/xsm6b592x66q1xmbicmvj6nkkdc3l9d8-svd2rust-0.36.1
 /gnu/store/0lh2s2hlahm1rzg401cmm2rcgm280ahl-svkbd-0.4.2
