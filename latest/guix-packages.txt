@@ -727,8 +727,8 @@
 /gnu/store/n4yxkv7zmn5dlsia6b8fjmx1izcjcna6-attica-6.23.0
 /gnu/store/9xb6n2hn1mh32yr76pmxvdxix63lcbri-attr-2.5.1
 /gnu/store/wmdgbsssyw60gdk8j2qmfxm285sg7xfn-attr-2.5.1
-/gnu/store/hkpdrl70d6l1kd0d1r6vmf6a68prjm1g-atuin-18.16.1
-/gnu/store/kqip26zvcf1785rq76qr7agml9kin2nr-atuin-18.16.1
+/gnu/store/5f6n8q1x3pjrcc9nlnksvhazyk0n8pg9-atuin-18.16.1
+/gnu/store/ap5jv56s69h82x3bxyg85060vgdn0swd-atuin-18.16.1
 /gnu/store/g9rhxmhq3lj21rzm06sjwdv67m69ixyf-aubio-0.4.9
 /gnu/store/yi3w4xvvk20472n3qi1pdpn3qcllibp2-aubio-0.4.9
 /gnu/store/pwxibm48zk6szl1y5818qm5vfvwfr9l4-audacious-4.4.2
@@ -3890,6 +3890,8 @@
 /gnu/store/r00a16z8ji4wh5bzchdq2ahi42md0466-clang-20.1.8
 /gnu/store/1dgjpg7hs9qqzjsvv8723jd4z3nvv9qk-clang-21.1.8
 /gnu/store/km9mkghng867y2519shm96c51mxpcnyy-clang-21.1.8
+/gnu/store/8v3y821f3za51hly7r7h9rydhnfi8nxg-clang-22.1.8
+/gnu/store/x8kiipckym2llj5iw1pklzzdb6vpyd4f-clang-22.1.8
 /gnu/store/854g80lb5fs66sqcq9mhnddsx3a9v4vn-clang-rocm-7.1.1
 /gnu/store/zn2d23n8fkinjbrlr1rdysk5y1sfhznp-clang-rocm-7.1.1
 /gnu/store/hwlp527iaqiwsd7v6h38r8pllghxy9cg-clang-rocm-toolchain-7.1.1
@@ -3916,6 +3918,8 @@
 /gnu/store/v6rawhx4p9xc1vi6akw1d9fqc848j44m-clang-runtime-20.1.8
 /gnu/store/mahqlmcm2cgcavypnvlc1yq3286hf49m-clang-runtime-21.1.8
 /gnu/store/rpb22wr1qg301hccydgdlfazlnmk91w0-clang-runtime-21.1.8
+/gnu/store/6kxxv08i4ynji0bj2sw4rsblkrsm8fal-clang-runtime-22.1.8
+/gnu/store/9dqml3x59wyk7m4p8dfavjy3y9h6wsx4-clang-runtime-22.1.8
 /gnu/store/2449068qafkfs4n8gl96dhkp2lp6ahwx-clang-runtime-rocm-7.1.1
 /gnu/store/ch59k7ni437sdfcgy8qnw39n22394i10-clang-runtime-rocm-7.1.1
 /gnu/store/jl0mzyd1b8wxzkdp1nwj11yrzwlrxxsh-clang-toolchain-13.0.1
@@ -3972,6 +3976,12 @@
 /gnu/store/8wgxncckmw7dr1rcsniyypsnn9srlyki-clang-toolchain-21.1.8-debug
 /gnu/store/3scn5qsadbprvj1kwk6apdmb1gaxhzx5-clang-toolchain-21.1.8-static
 /gnu/store/7lh2ib2ygdml8qskr4m5sgadqvccb955-clang-toolchain-21.1.8-static
+/gnu/store/ndgxk28kpj00r9svnz6p7x0sq5dy2rzz-clang-toolchain-22.1.8
+/gnu/store/qg99y88km7aja7509hbmsna5l2f25l7g-clang-toolchain-22.1.8
+/gnu/store/8k53h1x8w06pv2p4r0n14h4vvqa1acvc-clang-toolchain-22.1.8-debug
+/gnu/store/pnh18v4w5sxvk1l12d84maicz6g4m6g5-clang-toolchain-22.1.8-debug
+/gnu/store/4sdzfy49raa9y9j42pgdmdpa3zxqarbj-clang-toolchain-22.1.8-static
+/gnu/store/frrcg5rxmbmd76p92kzgx3zfrrc4bjaa-clang-toolchain-22.1.8-static
 /gnu/store/p07l0vaq6124qsin8dp08q2sng68323p-clap-1.1.10
 /gnu/store/q25lgbmxrpl1m9qyp0wvhk2m6r07ll1m-clap-1.1.10
 /gnu/store/2sa0ch6cry8n747cgf2bn8y4ibr685jm-clap-1.2.6
@@ -27202,6 +27212,8 @@
 /gnu/store/j14xzpah00bjk8b79ivr5rxm2wd7hy5m-libomp-20.1.8
 /gnu/store/agi7if18bqrc3k9m02zymg5bfdjr2q2x-libomp-21.1.8
 /gnu/store/x5shgdc7mpqz6y78z2x0k3yly2zcx4j3-libomp-21.1.8
+/gnu/store/93fmadfnqqigwjmvz3clhb73z1vnhh7k-libomp-22.1.8
+/gnu/store/z0dlqcm691zbxdfx3wqksp65lnmapzmg-libomp-22.1.8
 /gnu/store/czg7aycf5zzcvn56wxjf3a02z8yjyw5q-libomp-rocm-7.1.1
 /gnu/store/zqz8aynkilrzv1ih0fnnfzqb5qm20x9q-libomp-rocm-7.1.1
 /gnu/store/33889lp8b6g25p6x2cc7yiz7xr77gq26-liboop-1.0.1
@@ -28085,6 +28097,8 @@
 /gnu/store/qsv2gh7qngmzcdjinfxbrq0w9i4cq6vr-lld-20.1.8
 /gnu/store/nshnfm721kync7f5rn2h9s23zg1m6qgs-lld-21.1.8
 /gnu/store/xsk50yvb5j5h10q0c8j25xrd6paq4ij9-lld-21.1.8
+/gnu/store/2g685ys1hqhs11lx523zbig0nksdyngd-lld-22.1.8
+/gnu/store/2jhhwnqnp4cksgmjvqsnkhj4cbvwz840-lld-22.1.8
 /gnu/store/4zz28vwfibkrap7ibljmxhp16naip9m7-lld-as-ld-wrapper-14.0.6
 /gnu/store/yjgsbf9km6pn64v2gnvzi367p1znxgir-lld-as-ld-wrapper-14.0.6
 /gnu/store/fb74kzi7m8mmsf906d1z3j5hcgl7pfhn-lld-as-ld-wrapper-18.1.8
@@ -28095,8 +28109,8 @@
 /gnu/store/r84i8vwpvan6rs5dk06ahargwbpdy5n8-lld-wrapper-14.0.6
 /gnu/store/57rk41kd3y9wm97hfpp5q8wb5blscpff-lld-wrapper-rocm-7.1.1
 /gnu/store/8w6ss742kg4bl9bamxj4h3h2syfmv9z4-lld-wrapper-rocm-7.1.1
-/gnu/store/55s92x9gwla3b0pxi820gblam2n5v4rp-lldb-21.1.8
-/gnu/store/rbxrwm06hg936zvp6kp55qzfsdwara0m-lldb-21.1.8
+/gnu/store/cf2qlf56px6q6497k02hcr29zh2gbibl-lldb-22.1.8
+/gnu/store/frdpjmv5aa81kcf9nr5njcddc03mzsjx-lldb-22.1.8
 /gnu/store/blmlmv2n8x7q3q5lhd4hr204bfh3w0xd-lldpd-1.0.19
 /gnu/store/vwjnj797bfajxwyxyfrpbxh5vw9v3axn-lldpd-1.0.19
 /gnu/store/0l4359b6li1qa6d3ifrkgqsrl6zngml5-llhttp-9.1.3
@@ -28147,6 +28161,10 @@
 /gnu/store/w2hqdalna3ci0m6j884jk0ssxd46pzy7-llvm-21.1.8
 /gnu/store/2g58125ql59wg73fz3vj5kyx1v62zq1y-llvm-21.1.8-opt-viewer
 /gnu/store/zqkjhszn5wns0kx8pjbg7aiipn4nbql7-llvm-21.1.8-opt-viewer
+/gnu/store/7hnv2ds46mvrbr36l3dfig3hfp01q8kv-llvm-22.1.8
+/gnu/store/wxgr0vlm7jq1lfq0m6d7kx1c7zq7nskm-llvm-22.1.8
+/gnu/store/mhws02kkb9bjya7acm80v3k2r6z714m9-llvm-22.1.8-opt-viewer
+/gnu/store/n27jv7lgygs6pgw128l82dzl5q1vdk56-llvm-22.1.8-opt-viewer
 /gnu/store/hw6a883mgmgy1c34lvbxbrq96x8hxpp4-llvm-for-mesa-18.1.8
 /gnu/store/j49y669f3i8kadiqj36r0n9n4sqm0ba8-llvm-for-mesa-18.1.8
 /gnu/store/86i3kp2azv3rqq7cf5blwlrv5rd0cy8s-llvm-for-mesa-18.1.8-opt-viewer
@@ -39379,6 +39397,8 @@
 /gnu/store/2mi877qkx8vmbgp7wnj4m5d22mvcypd5-python-pyls-spyder-0.4.0
 /gnu/store/ficbp7174lclivhd85ikk0phbvi9qw74-python-pylsp-mypy-0.7.1
 /gnu/store/yy6cq6b63bmw2kqlhwrn2i6ln556rjg1-python-pylsp-mypy-0.7.1
+/gnu/store/cz7xbr7f030kcfbbja95k1q7kgsam4wx-python-pylsp-rope-0.1.17
+/gnu/store/hr8z7nm8hq094m4fqcf5fdvqfwlgp2sf-python-pylsp-rope-0.1.17
 /gnu/store/2jgdmqbv3i045llwjkh7m6phc85xjf7v-python-pylsqpack-0.3.22
 /gnu/store/saj0h1m88phc37djid5jzq6gg0k9rcmk-python-pylsqpack-0.3.22
 /gnu/store/0br2js6h533lhwqcd6w39z7hbkawb0bk-python-pymacaroons-0.13.0-0.78c55c1
@@ -48916,8 +48936,8 @@
 /gnu/store/gpj5j55b8yv4sd8051vmv7gjp83jw7ac-rpm-4.20.1
 /gnu/store/g9xc81sr5zm7b2rv84nx2f0j95ss36h3-rpm-4.20.1-debug
 /gnu/store/wf68s4vj998s3yrhz5scv41afy5pa6p0-rpm-4.20.1-debug
-/gnu/store/k8alfywgf9rb2n1g4mv7w5yn2djhxyzk-rr-5.9.0-0.7fe1e36
-/gnu/store/xhga5d721ymrk7ixb42fz59yayyvfvbk-rr-5.9.0-0.7fe1e36
+/gnu/store/5xzzn4r14851p6b091q3f2ni0y5v7ajk-rr-5.9.0-0.7fe1e36
+/gnu/store/j0xjvac766nav9cjai1ml1h4504lszm8-rr-5.9.0-0.7fe1e36
 /gnu/store/b12jdk47zhjl4193wpwsnlnyyk74azq5-rr-5.9.0-0.7fe1e36-checkout
 /gnu/store/39anlk54a2c1n5m814gxi8bg4pd8ynib-rr-zen-pmu-workaround-5.9.0-0.7fe1e36
 /gnu/store/8fa197bnbahdas6pdp8ycf9mjv6i467z-rr-zen-pmu-workaround-5.9.0-0.7fe1e36
@@ -76059,6 +76079,10 @@
 /gnu/store/v5fksq1kzqz0f57xg8qapayx4r5fk1xn-zig-0.15.2
 /gnu/store/7mwbr5yhmcjxwk5wdfidsnfcjrwb6jx6-zig-0.15.2-zig1
 /gnu/store/al26mp7dbly8x940f2zklh5gqfz4mlj6-zig-0.15.2-zig1
+/gnu/store/aw3nj0s0zydxsbr2wq77xb45b4w8nwd6-zig-0.16.0
+/gnu/store/fwfpncbz9zasqj389adkb4h529d28ypl-zig-0.16.0
+/gnu/store/kpq6piapx27f01nn93y4c82wd6xpcjrw-zig-0.16.0-zig1
+/gnu/store/mhkjx6wfwbaafs8xhs4i18dlsp7iqss6-zig-0.16.0-zig1
 /gnu/store/4ficz0r38h0zw60jshf5vki64954jm65-zig-0.9.1
 /gnu/store/hr2zsagbl53540zyqf70ww59bb0qm6rj-zig-0.9.1
 /gnu/store/gvf0mfm7pd8zi3yz8zc76sc2jy5rw6qz-zig-clap-0.9.1
@@ -76067,8 +76091,12 @@
 /gnu/store/q16in6hzw1hixln6kgx3784l4gbmv2y6-zig-diffz-0.0.1-0.420fcb2
 /gnu/store/lsg4xkjnppxz2k9hhx7a6nxxfy7g8kfj-zig-diffz-0.0.1-0.a20dd1f
 /gnu/store/yyw4hgrm1bx9l4ls95pq3c3izxvg2kjp-zig-diffz-0.0.1-0.a20dd1f
+/gnu/store/9x2zvzfnmq6f634ydn90z3ar572a18g1-zig-diffz-0.0.1-0.b39fe07
+/gnu/store/giy2l4wnyz15hafz281rvmz2jvq6pahz-zig-diffz-0.0.1-0.b39fe07
 /gnu/store/iigj6xx4qgr6yj3w4162mcfvrw67znwi-zig-diffz-0.0.1-1.ef45c00
 /gnu/store/khshzwcb667s8iddchpgkd3j14089na4-zig-diffz-0.0.1-1.ef45c00
+/gnu/store/q78866w4p4k7j69ms6sxn0jdvcrq4b07-zig-known-folders-0.16.0-0.7deb7aa
+/gnu/store/x7s18bbfr5crmqjkrs76g9jmx8skwana-zig-known-folders-0.16.0-0.7deb7aa
 /gnu/store/vwgz3vlsvk2v8jhmk74wbm6hb8xlsj7w-zig-known-folders-0.7.0-0.1cceeb7
 /gnu/store/vz12aylj1g4wmzg84l8q9222zyywfp3m-zig-known-folders-0.7.0-0.1cceeb7
 /gnu/store/4bmyrnd54698p8qx2psg5z34gq36na2n-zig-known-folders-0.7.0-0.83d3916
@@ -76079,6 +76107,8 @@
 /gnu/store/yb1yxl8z5yamzvhr2lxrgyzrgx4j90f5-zig-lsp-codegen-0.1.0-0.063a98c
 /gnu/store/1n6yidipprfasj0hi3hkrzmdib4ppii1-zig-lsp-kit-0.1.0-0.421ae64
 /gnu/store/v9k6a98wfccnvvwjms3nwdrkbgwrxv3d-zig-lsp-kit-0.1.0-0.421ae64
+/gnu/store/dv9wgbz80mqx025h711h10bli4fwsm1i-zig-lsp-kit-0.1.0-0.cf0ff08
+/gnu/store/xf76dgfb9vf00jnz524v50n2hmrpz0rv-zig-lsp-kit-0.1.0-0.cf0ff08
 /gnu/store/l6llj4dc3zcr0f2qga0jpjkd3lzhj1vj-zig-pixman-0.3.0
 /gnu/store/p9bgigs5q0svfip1l5mhssll8bsn2qcj-zig-pixman-0.3.0
 /gnu/store/g1xifyf9fjjksr6k883478cv5xx0zlh4-zig-scripty-0.1.0-0.50dbab8
@@ -76103,6 +76133,8 @@
 /gnu/store/qhzy60qyhnv0w4awqjd08ml5qydqd23s-zig-zls-0.14.0
 /gnu/store/hh86all7xlfkx2fs1qgfc02py6rkir0v-zig-zls-0.15.0
 /gnu/store/kxdgr17h8rr7hmhkmgnjwnkxzlvvlrys-zig-zls-0.15.0
+/gnu/store/6gdllh9rbi57x402xivq4k74n3l8jrzp-zig-zls-0.16.0
+/gnu/store/lp6piy3kcxpwkcnl89klxb9hw1nwgf9w-zig-zls-0.16.0
 /gnu/store/c9d2lrr2s1pbj2xcqwrla4a9zpy2ac7j-zile-2.6.4
 /gnu/store/fmlnh2xkz74wk8j3smx8zh43bwbzayi2-zile-2.6.4
 /gnu/store/jhmkybrl0hackzp71pfdnfsp19g8v4vi-zile-on-guile-2.6.4-0.fd09781
