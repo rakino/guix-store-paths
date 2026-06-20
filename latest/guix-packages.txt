@@ -27645,8 +27645,8 @@
 /gnu/store/pkz921yqgaziv5ch2gnzjw8rdp3y219v-libtommath-1.3.0-static
 /gnu/store/xy8agm0ily3sj77xhljsxlq6gj3dln4s-libtommath-1.3.0-static
 /gnu/store/5h8pbshanzg0mrkykj3p5aa05mp8zqpr-libtool-2.4.7
-/gnu/store/10c4y7s94xwd2fklg8z0k586g3wsrrjq-libtorrent-0.16.1
-/gnu/store/ps8ydd8qrbppm98jqdqr3mkp4i7zlaak-libtorrent-0.16.1
+/gnu/store/8nyr7qk2pgjhxccy5w17gkpphd62ys71-libtorrent-0.16.14
+/gnu/store/sv784gj82rnfz7ayqcr74vblwagl89jg-libtorrent-0.16.14
 /gnu/store/6rzq04y8pp59niqkz923jdlcsx42d739-libtorrent-rasterbar-2.0.13
 /gnu/store/h0ll9b7rkwc6fmqm0yx34mhsydary1xb-libtorrent-rasterbar-2.0.13
 /gnu/store/0hgz01py3wi9a349fjrzqz07l2bn3kmq-libtpms-0.10.2
@@ -48987,8 +48987,8 @@
 /gnu/store/klxlr6iw7vn1s7va12xmb1bx70fxcphm-rtmidi-6.0.0
 /gnu/store/jhlrddi4kbprwpnjlr7bklfipjj0q2wl-rtmpdump-2.4-0.c5f04a5
 /gnu/store/nbbg0zcwlinzrbg5cmpr29hqh4n0dldp-rtmpdump-2.4-0.c5f04a5
-/gnu/store/q523g1dfxz9f0gbx0q9y0cdmnwq8ir6m-rtorrent-0.16.1
-/gnu/store/wgffaglq3a81yrx8kx05p5brrnacmshg-rtorrent-0.16.1
+/gnu/store/5ss7bj0cirzjxhf9pynnlb19bk9bg4gv-rtorrent-0.16.14
+/gnu/store/wd1985xsnsbvb1cndydpm56wkr3l2r9w-rtorrent-0.16.14
 /gnu/store/ql2sh27zz4df2yvkqzijsh3b0497pmn8-rtosc-0.3.1
 /gnu/store/v54x4w7lx0adwxvqzink3qn017h7qpd3-rtosc-0.3.1
 /gnu/store/6yr69vxm8frhj4v4ibkkry773xk6q696-rtosc-0.3.1-doc
