@@ -34834,8 +34834,8 @@
 /gnu/store/syfsznq8gmq8dn7l46nk3l3x42wgjnli-psfex-3.24.2
 /gnu/store/9kcc43js8xkr1p6f4zy1igmhp0f10czm-psftools-1.1.1
 /gnu/store/lfkc0v24y9h34hg6hzy70254s5fnx6rk-psftools-1.1.1
-/gnu/store/a11rl2if5dglmylf0zi0d2r983493n44-psi-plus-1.5.2115
-/gnu/store/i0221lb6zfp1k7fmm9gz9f552vkz5bdi-psi-plus-1.5.2115
+/gnu/store/gz02y6fiilg0mdgk9c4wf446njksqykg-psi-plus-1.5.2140
+/gnu/store/x1gvbgbzll3lyh2cwmwdkc2jsbvp6mgp-psi-plus-1.5.2140
 /gnu/store/m6wd0malkk84xjs05sgblysf0qy61cj3-psimd-0.0-1.072586a
 /gnu/store/v77azc6wdanibcpjnrhy4cv72v3g676x-psimd-0.0-1.072586a
 /gnu/store/p31jcp3s855n2qadg3wh9lzjpyivlwks-psm-3.3.20170428
@@ -41964,8 +41964,8 @@
 /gnu/store/nc111ixcgp67v85ws9zjc0qb0lfa3v98-qhull-2020.2
 /gnu/store/bmn7g6yfmz893g1lz6pbbchslmp7klg6-qimgv-1.0.3-alpha
 /gnu/store/pcyqrykhqbpbasak7hf4lr67xj0yf9ml-qimgv-1.0.3-alpha
-/gnu/store/rsbkcrpn32k55l5i0lk1dg47b4j06cqi-qite-0-74.75fb3b6
-/gnu/store/yxyw2kxkpr0ks6k4z7phcz9dscxgj2yj-qite-0-74.75fb3b6
+/gnu/store/536y93jg7jfk3p2li492wwivhv3rydhh-qite-0-75.e9d33c8
+/gnu/store/is1g9aw12af0dbqh28001fylf8z4s662-qite-0-75.e9d33c8
 /gnu/store/16ccv1i40hgbhk32qcqvf8x58nrzs79b-qiv-2.3.3
 /gnu/store/ymqnhja7yd900nlhviq22abh306v11dc-qiv-2.3.3
 /gnu/store/2gpzz9cyshl1d66x7vspzakyvaggbcil-qjackctl-1.0.4
