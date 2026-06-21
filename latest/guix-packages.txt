@@ -28814,8 +28814,8 @@
 /gnu/store/sg007sps8vkspvii56a1i812ldqc9lrr-man-pages-posix-2013-a
 /gnu/store/gv7mp04gp6fg0myrznbmm7rl0q748f6b-man2html-1.6g-16
 /gnu/store/m9brn7cgqlqhyy6nb7k8q9ia3hp7sqsk-man2html-1.6g-16
-/gnu/store/4zlz63ga3qmasn4xcs1ccl64wzvr8fli-manaplus-2.1.3.17
-/gnu/store/n3b59vk0x6g7p07c7x3h1w4a3xjdq7ml-manaplus-2.1.3.17
+/gnu/store/5i4mfnyrgx15m3a7hxn88jrda1qmvz8n-manaplus-2.1.3.17
+/gnu/store/wpy61q6cghq4jr3glmsx2dxs6y67qr8r-manaplus-2.1.3.17
 /gnu/store/2hlx4355l5wvc4g04sgmllbqz0873cms-mandoc-1.14.6
 /gnu/store/6vj28pgy3nrnnxc454m0j1rhy81pqimc-mandoc-1.14.6
 /gnu/store/i65mis499xsaazriq108q03wxkfsvccg-mangohud-0.7.0
