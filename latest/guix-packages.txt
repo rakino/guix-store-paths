@@ -5299,8 +5299,8 @@
 /gnu/store/ln90q054fsrm65vizwsg8hgf0hsqys4j-directfb-1.7.7
 /gnu/store/7x4y5irc9qg6ffqziwac4q49zdfkjc1v-direnv-2.37.1
 /gnu/store/sjjcxfi79s7jqyb22fh6h3rxgv5h7r7k-direnv-2.37.1
-/gnu/store/58vxl25j1vm22gbz5wdzs2b2ighbm3b5-direvent-5.4
-/gnu/store/az5kks5hid84gxqa364laqj9s86mcmly-direvent-5.4
+/gnu/store/3ag50521pmcvils8rw863piir6z685m9-direvent-5.5
+/gnu/store/7b9v5n98xxyiff53kkw9yj953dggbjhm-direvent-5.5
 /gnu/store/9yxfikhhkjc3nb8kwzljqc0xzbqxy8y8-direwolf-1.7
 /gnu/store/bil6ah9c8x2wd33r23p7v3l1r6yj4p57-direwolf-1.7
 /gnu/store/bainby309bvg3b3x797d5vf0ipvbhsxl-dirvish-1.2.1
@@ -36589,8 +36589,8 @@
 /gnu/store/2viyqjjm51rccsmq7lkj7nipnyqmq65f-python-escapism-1.0.1
 /gnu/store/0c6dd7k0sqvvlqm6c976w6mqf9y4f9z9-python-esprima-4.0.1
 /gnu/store/85bd6ppa811wck8cp6inqa3224yp11rr-python-esprima-4.0.1
-/gnu/store/qw0c32izaq56qw4ai49sv8id5d89inkw-python-esptool-5.2.0
-/gnu/store/wajpz67ccndyfjdjascwiaxbd5gc1cdg-python-esptool-5.2.0
+/gnu/store/6dz941xhpjxy5ib3swrj4v37jhy971dj-python-esptool-5.3.0
+/gnu/store/c82vyqsis99g1mjmr7yyp9pc35rc46sk-python-esptool-5.3.0
 /gnu/store/hdpf232camka6k5lbkp778x9q9vradv6-python-essentials-1.1.8
 /gnu/store/li22j2vc225xxanwkllwgaqpr1cii0k3-python-essentials-1.1.8
 /gnu/store/3v3vhvw8fijvjspb1jn87ymykd974ig0-python-essentials-openapi-1.2.1
@@ -50546,8 +50546,8 @@
 /gnu/store/g6bl929fbpwz5cpf33ljn5c9p8f44i3n-ryzenadj-0.17.0
 /gnu/store/dr6jijx1sq459cc6m0s0161nc23qsip1-s-shell-0.0.0-2.da2e5c2
 /gnu/store/i42440rxg4v2vmps3q7jvbpm5jjdsimz-s-shell-0.0.0-2.da2e5c2
-/gnu/store/ag7cpm1gg59ghayzp9pzlljng92f0x03-s-tui-1.3.0
-/gnu/store/xjvixjqn2v88nn8avdj2hag232xgg9xb-s-tui-1.3.0
+/gnu/store/grnjz387qi9fbira8qv35j22iis13330-s-tui-1.4.0
+/gnu/store/pd4d9qn6xc8v7s09xv350b15swwdqg04-s-tui-1.4.0
 /gnu/store/8by6cs7jpcy87jcssgdjlh72b1j3x6xq-s2n-1.5.15
 /gnu/store/b000d0lq1g15g94l263v4cfq22maa9sz-s2n-1.5.15
 /gnu/store/9ii2aj82142lmkvqn739y4c5n118id33-s2tc-1.0
