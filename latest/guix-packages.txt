@@ -5299,8 +5299,8 @@
 /gnu/store/ln90q054fsrm65vizwsg8hgf0hsqys4j-directfb-1.7.7
 /gnu/store/7x4y5irc9qg6ffqziwac4q49zdfkjc1v-direnv-2.37.1
 /gnu/store/sjjcxfi79s7jqyb22fh6h3rxgv5h7r7k-direnv-2.37.1
-/gnu/store/3ag50521pmcvils8rw863piir6z685m9-direvent-5.5
-/gnu/store/7b9v5n98xxyiff53kkw9yj953dggbjhm-direvent-5.5
+/gnu/store/mhdx1p6g5wg1l86iskl1w1jcxw1lqrdy-direvent-5.5
+/gnu/store/xcqiw7mkjv7rq2hzklwaff68xq898652-direvent-5.5
 /gnu/store/9yxfikhhkjc3nb8kwzljqc0xzbqxy8y8-direwolf-1.7
 /gnu/store/bil6ah9c8x2wd33r23p7v3l1r6yj4p57-direwolf-1.7
 /gnu/store/bainby309bvg3b3x797d5vf0ipvbhsxl-dirvish-1.2.1
@@ -28249,8 +28249,8 @@
 /gnu/store/njrr28bm6pjls71yaznd1nqjvipv58c8-lowdown-1.1.0
 /gnu/store/abaz13a0d6np2yssk5n5rskwfskmhwd8-lpsolve-5.5.2.5
 /gnu/store/jqx77fqijanr7iqh34kpdqz577g36mbn-lpsolve-5.5.2.5
-/gnu/store/c18x0hrcixjzqsdjr5q7gbn8fksx7dn6-lr-2.0.1
-/gnu/store/sylgqm04qdr84nhnmmgndyqfv3ilp9bk-lr-2.0.1
+/gnu/store/qchwlr5ly466hmx2f7wl1gy8bncdybl1-lr-2.0.1
+/gnu/store/wxikcfqzf0iy0xf2l6w795566sfn7hbw-lr-2.0.1
 /gnu/store/fci6nsjy141sry791gh952iibny42k42-lrcalc-2.1
 /gnu/store/n37dkjlw68vk3ih71g5zavmm1y50dw41-lrcalc-2.1
 /gnu/store/6l68gd72rbhanqk6y0g59sfyyg2aadak-lrdf-0.6.1
