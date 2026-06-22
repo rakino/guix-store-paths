@@ -29782,8 +29782,8 @@
 /gnu/store/cqxx5vnbgs6mz9pq5w56wncar2vzirgc-mudskipper-0.1.0-1.effd3fa
 /gnu/store/azcdryhvg4gyb8wbhp143yij7r0ddz09-mujs-1.3.9
 /gnu/store/qhsjs3v8c2hq2xjx6wwzidnsjpyj5g55-mujs-1.3.9
-/gnu/store/lpqnydfz2r9g9ag72jjys810q0drgaqv-mullvadbrowser-15.0.14
-/gnu/store/nzdjbwzc83283sp7z3rg9ypvfm541wgh-mullvadbrowser-15.0.14
+/gnu/store/28dm6p4hzddflnlg8bd9h2qiqp1zvk10-mullvadbrowser-15.0.16
+/gnu/store/6dijc0gvx2kql6pb3qv27jjcl8hcz60m-mullvadbrowser-15.0.16
 /gnu/store/4rng4zrpg6f2q4swj314k6884hxmmbgp-multichoose-1.0.3
 /gnu/store/kw79cbmgy2pwksqmp3fd8clqqqf2jldr-multichoose-1.0.3
 /gnu/store/qbi44w10vfja62xg12ydbpimqlb3m7b7-multimon-ng-1.3.1
