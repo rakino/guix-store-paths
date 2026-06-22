@@ -53492,6 +53492,8 @@
 /gnu/store/r1cvh4n42glg3zniiyln5frjv27165v1-sqlite-3.53.1-static
 /gnu/store/2wg1nzp8zajmw3a2ld2svgaw84xs7yyq-sqlitebrowser-3.13.1
 /gnu/store/b819zw0vk7385h23lv6pj2g7fj4q61j9-sqlitebrowser-3.13.1
+/gnu/store/5ry7a6yz017124wpdhfi27x9n3bd40gs-sqlitecpp-3.3.3
+/gnu/store/qnxabn8v2hbr3zrms369ps9czam2xjph-sqlitecpp-3.3.3
 /gnu/store/5smw77031i6hn3ij2aqzx1rwjrlfb7y4-sqliteodbc-0.99991
 /gnu/store/7adqi9qvirsylq89a75i04ri2sqlfjjm-sqliteodbc-0.99991
 /gnu/store/3rjsqliwcj4jql8fwhkb3fiadm9v0wxn-sqlitestudio-3.4.19
@@ -53613,6 +53615,8 @@
 /gnu/store/lq6gnn41hsp8bzygm995s05r4r337yyh-stddoc-1.0.2-1.6eef9de
 /gnu/store/296s6g6hqg7pdr2vxy7klrfk22h3a4dn-stdman-20240610
 /gnu/store/97fdjrkgbx9dnikfhy5rbq6qr1rjpr95-stdman-20240610
+/gnu/store/0s46xnnlhg5w0h77cn1rirgbr2a4zch1-stduuid-1.2.3
+/gnu/store/as7vvsy74zff84wk5hxc3b86hc13xqf3-stduuid-1.2.3
 /gnu/store/swr4vcjfhibq2haf6npsvfl9r69qygr6-ste-plugins-0.0.2
 /gnu/store/xl43f7zbr5giwzm30xk6q6i3751hkygc-ste-plugins-0.0.2
 /gnu/store/gic3h7wzmnp1s8grali7m51p42k0z8r8-steam-devices-udev-rules-1.0.0.61-2.7dde9ec
@@ -72850,8 +72854,8 @@
 /gnu/store/wqd6lvla3hrbqr9b94kj35qsppj35d45-tor-0.4.9.9
 /gnu/store/skdrhykc5p102vc49j0jxnv16nhfnc9n-tor-client-0.4.9.9
 /gnu/store/xxgpihas3krqzrd8zy5l3md4vj301x0y-tor-client-0.4.9.9
-/gnu/store/h4z8n0m0kiaxxh2fy594kf6vyc43xdxf-torbrowser-15.0.14
-/gnu/store/qzddys70awvmgv0qfcqacpbprbz21ia9-torbrowser-15.0.14
+/gnu/store/inhci10np83zxqlzfj58y0cs1cw3v191-torbrowser-15.0.16
+/gnu/store/n75h92rjb7sqifqqpc72f4p979a66svg-torbrowser-15.0.16
 /gnu/store/895nw760vx7bnn6almfrrawc10v8a9kb-torcs-1.3.8
 /gnu/store/wzrywk9h105j2kba8x0a1g5gj3i9xa09-torcs-1.3.8
 /gnu/store/cr3zxzwj1r3ip6ijf0v64fa8g216ih69-torsocks-2.4.0
