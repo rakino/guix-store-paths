@@ -1270,8 +1270,8 @@
 /gnu/store/mlcy504186lqjr4zhddh702qwajv7b3l-bluez-qt-6.23.0
 /gnu/store/gbj0941f4g87qb342v63g0kr84x87rjp-blurhash-0.2.0
 /gnu/store/zmhah1bms3z3q9vgrll3i9p44i338mng-blurhash-0.2.0
-/gnu/store/dvhk5n0xqshik05mbwmapqh6yqyfrpja-bmake-20260508
-/gnu/store/wr0vz0c4lfm3zclzdqj1nb1gg8sdx3gx-bmake-20260508
+/gnu/store/2l6va7scia9mq93kyvq9z3rcpyyjnwyi-bmake-20260619
+/gnu/store/95hvi7x81412va5mddh6ki0y0qxmadxh-bmake-20260619
 /gnu/store/vifnvvrp320sxr4bwfgjc79210k594x6-bmon-4.0
 /gnu/store/yqj1619jgyzsq09v4gqnmba06zd183ds-bmon-4.0
 /gnu/store/9vm6ifhvdr66p5ig82p5k14wvn5apcik-bochs-3.0
@@ -22231,8 +22231,8 @@
 /gnu/store/mchkcz39s8wbb8ycbzb1765g7dqrg2sa-highs-1.14.0
 /gnu/store/42pwi547my6ppvdb4nj2vpcig987637c-hiir-0-0.4a9a1e6
 /gnu/store/xdy8hj8cmlibyrjnqf74mr0yqkyss8s9-hiir-0-0.4a9a1e6
-/gnu/store/fsamsxz7s4jy3zzqlqp0ibaga571clmy-hikari-2.3.3
-/gnu/store/g44ybr6aqmc8n182lnd3mxzfydi4126x-hikari-2.3.3
+/gnu/store/g9zck1l1c2sy900cwdmirhw46l7f3a5y-hikari-2.3.3
+/gnu/store/lxcbs1cxqk7sgxj9553qa3y5x6ppg13y-hikari-2.3.3
 /gnu/store/6hr0ii00pwm7llfi43jdg3hdpgr9jqnq-hime-0.9.11
 /gnu/store/qd1i20wbh9i1zsr32ly2sv92qsc9j5qb-hime-0.9.11
 /gnu/store/dfnvyi3fn7ia6dgkrr7xh4kkbhxik7mw-himitsu-0.10
@@ -25399,8 +25399,8 @@
 /gnu/store/x12id9jpqgl2phl4d5g8avv23043xjb0-kcalendarsupport-25.12.3
 /gnu/store/0i3dysaf7pwfyl72lcdc4w76hx1vkir1-kcalutils-25.12.3
 /gnu/store/nifpkjwb661vg6mr88kaxy36v11qi1xg-kcalutils-25.12.3
-/gnu/store/m4zs29ghfwgqznw5gbylvk8n7ms34nly-kcgi-1.0.1
-/gnu/store/vi6ym8q3jzx5lnyfn0fwc91s0k1g045r-kcgi-1.0.1
+/gnu/store/dc03fh58mgkvnivm8d105kswbx91bgxw-kcgi-1.0.1
+/gnu/store/qfhjiphvxdxg5llv23fsz9gk0sis07c7-kcgi-1.0.1
 /gnu/store/j12c4zcwbsmkncy8h73zdpa81na7sccw-kcharselect-25.12.3
 /gnu/store/q294qrilscslc7g7six5qvs46942gj4i-kcharselect-25.12.3
 /gnu/store/c5gbjqz6cna1w3jaczk0jlhi6r88cxna-kcmutils-5.116.0
@@ -52654,8 +52654,8 @@
 /gnu/store/yys9pbvdfmg7zyksdvzsgvqvsckvcfi8-scn-4.0.1
 /gnu/store/97xpvd5qi39qrxxdb71ymgq6p81zs05x-scons-4.9.1
 /gnu/store/lwavq75irw0c8vfkwkyambnjz5j10iak-scons-4.9.1
-/gnu/store/985by1mvsnil1kf170y6gk8gl2lladq5-scooper-1.3
-/gnu/store/rvl57q0hzpw30fl2hrjh95ay2m9yj8ah-scooper-1.3
+/gnu/store/ch540nkg2cp9cc7r3ds8nqrjw1vvmqsm-scooper-1.3
+/gnu/store/kk4w0jf2bgnb89rn1yryqnmirxhp66hp-scooper-1.3
 /gnu/store/8zryq5w3x3zc2gb0v2qr0ravvbv35jk3-scorep-openmpi-9.0
 /gnu/store/mnclks9m3llrhbk0wg75ylh450q03c8y-scorep-openmpi-9.0
 /gnu/store/87pb9sbnvgnsssrap8rbhbbl099virkb-scotch-7.0.7
