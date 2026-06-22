@@ -39952,8 +39952,8 @@
 /gnu/store/xmpbawxhnyd3788nzgv5r0dhf55l1qy9-python-pytoml-0.1.21
 /gnu/store/ha8qs6cjphn7ynczd1v3v5xrfdi06n60-python-pytoolconfig-1.3.1
 /gnu/store/x552pk03dpwskr8i0r2h5krrsvw9v5k3-python-pytoolconfig-1.3.1
-/gnu/store/r93yjcqc5mazyf6yf18hd337zy61rhna-python-pytooling-8.14.0
-/gnu/store/w5fkk293khdfilzxy723ssjwi6wibc7n-python-pytooling-8.14.0
+/gnu/store/jfvj09kh76ngxyg12dg52mg4gsjirh52-python-pytooling-8.15.0
+/gnu/store/kgv43sn4primp35syb921dx7b5kl48yn-python-pytooling-8.15.0
 /gnu/store/2kgiibg4c72y868xqbj02xh1gc918ywq-python-pytools-2025.2.5
 /gnu/store/fyr22cnxyacwwm6xyy5nql39c4bfh77b-python-pytools-2025.2.5
 /gnu/store/k9q3h9km1s2qqzrblm9xxlzh581jn701-python-pytorch-2.10.0
