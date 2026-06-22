@@ -25802,8 +25802,8 @@
 /gnu/store/hv1hw6293g06y555yrwfq7z1zj7baqwz-knotifyconfig-6.23.0
 /gnu/store/53kc1pmi0dka2cx45b4as1gbim56q9a6-kobodeluxe-0.5.1
 /gnu/store/95mdaccrvpj1z1hbqdxl3i2dz882wck1-kobodeluxe-0.5.1
-/gnu/store/2a77hvydc6hpxwipkk7smv7if16dr2k7-koboldcpp-1.115.2
-/gnu/store/8asp3ap2fvwskfj2fl18a1gflpag2qql-koboldcpp-1.115.2
+/gnu/store/fgq2j93jj0yrd064c8d29k21i2pri7cm-koboldcpp-1.115.2
+/gnu/store/pycc28wqfnjgh1rx49i1zxv9z63ibc4d-koboldcpp-1.115.2
 /gnu/store/5ziiyirjlp9jshzvjq75xmhrv2pbpkpp-kochmorse-3.5.1
 /gnu/store/kisxcpa0v3na1yymrzm04mxrl9kgqan4-kochmorse-3.5.1
 /gnu/store/bl34a85zzsl96p4gq32062rfap64az76-kodi-21.3
