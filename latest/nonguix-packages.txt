@@ -470,8 +470,8 @@
 /gnu/store/l73y5461ck962kwwai6l16bchmwfcxn5-steam-1.0.0.85
 /gnu/store/q6p3ikfzj74mkr49bayphfhcm56dwzlm-steam-1.0.0.85
 /gnu/store/xxqchws7fv3blmlj2hdlv01zqrnsadrl-steam-1.0.0.85
-/gnu/store/j80bkx8yw40ypz7nx8slsg2c4112z16i-steamvr-openhmd-0.0.1-0.19dabd2
-/gnu/store/mqf8p3czis65hib9b1nr9h3aahw65sf7-steamvr-openhmd-0.0.1-0.19dabd2
+/gnu/store/qkz67px6cq6mhx1zx0cqn8j5fqaw3yyb-steamvr-openhmd-0.0.1-0.19dabd2
+/gnu/store/zcwylqiscw6ghld5n84xwj8rpx4sywmi-steamvr-openhmd-0.0.1-0.19dabd2
 /gnu/store/mhjv1s23rj8yyjmshvdm18nlifz2zd23-unrar-7.0.9
 /gnu/store/ymzkbqx8rvlyqqizqqicvj7hwiy12zyz-unrar-7.0.9
 /gnu/store/qlc7svqx475jfdm7q0pzvl7440svd62j-wasi-libc-sdk-19
