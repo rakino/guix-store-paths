@@ -4823,8 +4823,8 @@
 /gnu/store/mj7jr2hppk9iq4w785cj0s3dsyd9gaqi-cppawk-20220703
 /gnu/store/7h6f654mny6bsr5inkc7s5mqp7zngrzy-cppawk-egawk-20220703
 /gnu/store/yhlidzhlk5l0y3cd8vygxcjy48s5x8sm-cppawk-egawk-20220703
-/gnu/store/c5i2wxb0pqslw7qga1aw5lv2qa0xzhk5-cppcheck-2.20.0
-/gnu/store/q3q5dqjjwbyhyafnxzl3kb4p14cd1152-cppcheck-2.20.0
+/gnu/store/fwngaa4hj7mr52c5qqhf28ixg4r0cyi3-cppcheck-2.21.0
+/gnu/store/z55j0wy9hcf1s8k4367hy5hscsricfqh-cppcheck-2.21.0
 /gnu/store/llfkdz8bc1hg6xizddiif40q9226d09z-cppcodec-0.2
 /gnu/store/yj20iwqffjcq8kdj5far4ccp9s8468pf-cppcodec-0.2
 /gnu/store/hqvqlds438hj7bwv22j7a1qghg2gw16c-cppdap-1.58.0-a
@@ -5691,8 +5691,8 @@
 /gnu/store/m5q5f3bfq53r7k3zy670glb3c3paanxp-e3-2.82.1
 /gnu/store/krbqj8l9zb8fh89blw89vmfcs3awdf01-e9patch-1.0.0
 /gnu/store/mzfdwz3x04a0qx0bc1699qsylf6lb64w-e9patch-1.0.0
-/gnu/store/6bhjx16l03a10bjsigz05z8695q3lnq4-earlyoom-1.7
-/gnu/store/89q4cmw0r8nirhbm1bqk6qj2wwz2lcd6-earlyoom-1.7
+/gnu/store/23hdmlpfjyd7d1lp04i766b4zmh5i21z-earlyoom-1.7
+/gnu/store/nvf82apq63sk59fqg8m5gdhzaljsghzw-earlyoom-1.7
 /gnu/store/353lvcmpgnaqdsvvvhafbz74p7mffzgn-easyeffects-7.2.5
 /gnu/store/4yy28yb9gly9wlk1mfjpcnbg0xh2bcgy-easyeffects-7.2.5
 /gnu/store/8gb5p7w4hy7j6xza9ac6mlsfiwlrww4n-easyrpg-player-0.8.1.1
@@ -22374,8 +22374,8 @@
 /gnu/store/8xc060px7flmhp4ha8zhasm7bqf9jksf-hugs-Sep2006
 /gnu/store/mr9rxjbdhzk8ilv3wgyar3x9pss4bia1-human-0.3
 /gnu/store/zvkligvl3hv91i9y60hhvk6nbzj996ys-human-0.3
-/gnu/store/a3b1d53v98xgg9571wx7s02c2gka6iwr-hungrycat-0.4.2
-/gnu/store/r29mz7i5fmzpj2mvywr24hp297i610k7-hungrycat-0.4.2
+/gnu/store/f2l8s1i9fzn1swkz5hq8i7g8z0la26l2-hungrycat-0.4.2
+/gnu/store/z4i8crs50mpy970qzgb6iw632j8m1vbg-hungrycat-0.4.2
 /gnu/store/1xnlf99ncrb7cblrklnbrjg1y0sff5nk-hunspell-1.7.0
 /gnu/store/9a14z04zvmnkc348f4j8pjw5zlp4dqam-hunspell-1.7.0
 /gnu/store/4bjbgvvqlj5n9y4gyqpm8r13zbbfsjkm-hunspell-dict-de-20161207
@@ -24426,8 +24426,8 @@
 /gnu/store/d4p8vvrl0dlshgmdfv5mnajz445sdkjb-jg-cega-0.6.1
 /gnu/store/3lw7hgfxhl4px5bcyxp9fszisrb10d91-jg-nestopia-1.53.1
 /gnu/store/x4ig4agcw37hmsqc8lh526byl9a5daic-jg-nestopia-1.53.1
-/gnu/store/bz3pd2w3kvsbxhpjsh8nnf3q56ps4bvx-jgmenu-4.4.1
-/gnu/store/q5g4zr99gkhf7hw85kh9i016myfss667-jgmenu-4.4.1
+/gnu/store/06cfr91lpwdqlclj10ryypn0r2352jmi-jgmenu-4.4.1
+/gnu/store/gd8bhia30qyjfpshy53n1vkbi09qqniq-jgmenu-4.4.1
 /gnu/store/nzx8i3qy9fm9ms517pildabbva1lkpcd-jgrf-1.2.1
 /gnu/store/w1mp784hxrsjymjd362mdvfzf14f680n-jgrf-1.2.1
 /gnu/store/cirx1pjpw5qxpj0b5cj14xhga1s03a69-jhead-3.08
@@ -31441,8 +31441,8 @@
 /gnu/store/iy04bac8bxxnmk8496160ka7w2xvxbc2-opam-installer-2.5.1
 /gnu/store/5vladfi1yv5y7pf5ccnr8k6x4kz8xpf9-opari2-2.0.9
 /gnu/store/aka08ckpdix058s4ldikz94i7w23yi01-opari2-2.0.9
-/gnu/store/16m1jrl4zkzdiimm3fkiwcrxvn40l0gr-open-adventure-1.20
-/gnu/store/8mj0scpi9aspj9ayv38m64wf6d6qywpw-open-adventure-1.20
+/gnu/store/09112lq1v42ildi1mmlwc1jcydjhlidn-open-adventure-1.20
+/gnu/store/z5aa14gq7ng8b033irv2n5bz75zni8p0-open-adventure-1.20
 /gnu/store/f61n389i8y5zvqv427ig9mn18mhdi4qv-open-iscsi-2.1.11
 /gnu/store/wacyksrm5p7f386b0gl2h9nb44ldislc-open-iscsi-2.1.11
 /gnu/store/ipgyfcspmic73hm19q7w4dsxnr4y60nb-open-isns-0.103
