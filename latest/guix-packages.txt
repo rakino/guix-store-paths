@@ -1526,6 +1526,8 @@
 /gnu/store/ggy5dvxk6gxqqfbbnqpb3wgw8miwhjr1-c-reduce-2.10.0-0.31e855e
 /gnu/store/qx5d9j8fw3bdmmjdd08q609l5smnbs8w-c-rrb-0.1.0-0.d908617
 /gnu/store/r29ds51lpkif1sz5fkzlypclijlf8icq-c-rrb-0.1.0-0.d908617
+/gnu/store/d5nabgawragsj3hb4d9kkgqmgiq1n3ba-c-sbsv-0.2.3
+/gnu/store/m00pylmxh9hbwrr6l89kb6ajr63bv6am-c-sbsv-0.2.3
 /gnu/store/jkkmf43x4baxi2fr9xw1lxd2hi89vfdg-c-siphash-1.1.0
 /gnu/store/nmwcr42ilyr8drdnqbb6phnqij1v2qba-c-siphash-1.1.0
 /gnu/store/lrnvxjjx685whl0i6hfm914g52h5fgad-c-stdaux-1.6.0
@@ -40401,6 +40403,8 @@
 /gnu/store/i44ypqnj99mbrym17d5gcbysdhr9v9am-python-sarge-0.1.7.post1
 /gnu/store/f2kwx70ncafrjcps9hfc1gcziy3mblp7-python-sbpy-0.6.0
 /gnu/store/vkql7zxsvlrpnjwicax6vcg2zykind5w-python-sbpy-0.6.0
+/gnu/store/hyyai8scml371gl6r2vp998gin9c25zj-python-sbsv-0.2.3
+/gnu/store/rbpwx2dsky5f9msqfc0yhnsnvl4av364-python-sbsv-0.2.3
 /gnu/store/9cp8nn0pqzxkp12ld28wq7q3d8iajg1a-python-scanorama-1.7.4
 /gnu/store/z1fhsgs9a9x2fr3317ashqaq2s7vija8-python-scanorama-1.7.4
 /gnu/store/1qwkmy0xwcwjgxcnncjfw3x00j6sxvcg-python-scanpy-1.11.5
