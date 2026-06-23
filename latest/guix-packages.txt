@@ -28945,6 +28945,8 @@
 /gnu/store/z5ss530wfvc38xw719y74q477xyn9r5a-materialdecoration-1.1.0-9.6a5de23
 /gnu/store/nnxakmsi5a98j3m0gmx2qlikzplls19b-matio-1.5.23
 /gnu/store/ycmlnif4l4v4hdvjwaiy3xk7c8nxi06d-matio-1.5.23
+/gnu/store/1glhsyrs2lml8ggmjibn8vv3m0hif6pa-matplotplusplus-1.2.2
+/gnu/store/s07bm7ck2pq56fqsindw50hgbi6iwk7m-matplotplusplus-1.2.2
 /gnu/store/w5ci81sjlw3q01xk95ni1bgr3p8dpx5z-matterbridge-1.26.0
 /gnu/store/zdfb80cjl27glzygsp9q380xrx7p6x6s-matterbridge-1.26.0
 /gnu/store/ks0rf33isa3gbyaxfmsjvi7p297m5zhw-matterhorn-90000.0.0
@@ -30523,6 +30525,8 @@
 /gnu/store/k7jclpm77as1p1syss9lx9qqh7xrgwam-node-yauzl-2.10.0
 /gnu/store/1b34h20l2gib6ypnli3fviqjfzmlp61s-node-yazl-2.5.1
 /gnu/store/a4nb5b4d85hb0lmymqz19rygx0bj04q8-node-yazl-2.5.1
+/gnu/store/1zf0h8wjbfs0q7lhha9y68xngwz3z4qv-nodesoup-0.1.0-0.3158ad0
+/gnu/store/w7hjmy70fprzq0cz8inp1i7dydkwjgd5-nodesoup-0.1.0-0.3158ad0
 /gnu/store/rcydb678q4vkglk1f9qzhi60a45jbka6-noice-0.8
 /gnu/store/rvq8hib3443fxiw88lhivwsmh03xy200-noice-0.8
 /gnu/store/jzgs47bllwz2cax0dx05xz9z2bczc3jn-noise-repellent-0.2.3
@@ -31790,8 +31794,8 @@
 /gnu/store/95ih8i2pfq92m8jxl6yigj5r431a6jvv-openttd-15.3
 /gnu/store/64zvdhn2q67cm44yypyjv3s3rdg1w0w0-openttd-engine-15.3
 /gnu/store/hzcy8lv28ap5k5a0m1k3ccvfsfiacy4n-openttd-engine-15.3
-/gnu/store/rfrbhr5707jnnmghslcfaq31sfg3h224-openttd-jgrpp-0.72.2
-/gnu/store/zbr84ax308x7mlkrn83fxjx6swx94v4m-openttd-jgrpp-0.72.2
+/gnu/store/3jznf1hhd26rf2ql1ysmwwicp84nbw4y-openttd-jgrpp-0.72.4
+/gnu/store/75w6ffhqqwpav8h7i4yz5a1bjhjc19gx-openttd-jgrpp-0.72.4
 /gnu/store/g33ymviwca9za4zax8v3niz8781hikpd-openttd-opengfx-8.0
 /gnu/store/zigl4s8mjwbl0wrxb6klhmiss9xidlgg-openttd-opengfx-8.0
 /gnu/store/hiwmhbh031i0r35j0j29g23mgqkxsy7j-openttd-openmsx-0.4.2
