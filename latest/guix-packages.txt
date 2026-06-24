@@ -10751,6 +10751,8 @@
 /gnu/store/kbz0dvpldgwj70iwnif516d1ng93am69-emacs-scel-20170629-1.aeea3ad
 /gnu/store/fp65lp78fbd6isnp5fz20bs3xfn59yn7-emacs-scheme-complete-0.9.9
 /gnu/store/n2sr8xawy8k4nrkq5q7vv760bsia25yi-emacs-scheme-complete-0.9.9
+/gnu/store/4dszhw781v1zdb8bjbpmfjzfda6adwdm-emacs-scopeline-0.1-47.eaaac14
+/gnu/store/mwndz4yp2kyj7xki94jf5vqn4am2x0j5-emacs-scopeline-0.1-47.eaaac14
 /gnu/store/f20hswxzw055kwl5sc7vyvgx4yk0bwwg-emacs-scpaste-0.7.0
 /gnu/store/shgzw4k5fwmdys1ks9pnd52pmdif35il-emacs-scpaste-0.7.0
 /gnu/store/ahk6j57v07b67zdw3481zq8a39i1g0w6-emacs-scratch-1.4
@@ -11191,8 +11193,16 @@
 /gnu/store/s2kgxfv40lmjihhjrb7z4qj220n2mgmx-emacs-valign-3.1.1
 /gnu/store/kh8blhkyh8sclczwkxf053gvs9yr39n2-emacs-varuga-0.2.0
 /gnu/store/ql2nqlvr2a3lya7xwg4avqnimclk9mgl-emacs-varuga-0.2.0
+/gnu/store/5azrhk9z1kxwslhw6fcdxsm1vpn2vggq-emacs-vc-backup-1.1.1-31.0cb6b9c
+/gnu/store/jv12n0s3272yxl8rizkdp1mqx30qngr2-emacs-vc-backup-1.1.1-31.0cb6b9c
+/gnu/store/rvvv0d4jibiqlsya4wwb9gafamj81hfv-emacs-vc-fossil-20230504-153.a5a35f440a
+/gnu/store/s4546sh7mcfj5ddwvqncj290y2l1dfyc-emacs-vc-fossil-20230504-153.a5a35f440a
+/gnu/store/jw5garimgcdgzglz6n5w8ar7kxhr5hbb-emacs-vc-got-1.2
+/gnu/store/zy1x60b14bi4nl43n31gxlbkbz90c8mx-emacs-vc-got-1.2
 /gnu/store/3ikj8r5dsj91r5xq9cd8g06j4j684max-emacs-vc-hgcmd-1.14.1
 /gnu/store/m6i1fbi4gwqv3p2y7qfspbh3cr2kkam7-emacs-vc-hgcmd-1.14.1
+/gnu/store/5mh1r97vsyj983skiidiqvb3qyq1v05n-emacs-vc-jj-0.5
+/gnu/store/fx63m05zd77s4y0i3gmhca6km04viqdx-emacs-vc-jj-0.5
 /gnu/store/h8h7hkfnc7hxwag50k6s41595zkly083-emacs-vcard-mode-0.0.0-0.ab1a288
 /gnu/store/s3v08647b2qsa0m7s15ndag21mi7w1fi-emacs-vcard-mode-0.0.0-0.ab1a288
 /gnu/store/ch49qdqbx0kaf8hv6hfj04q3rc29rhw0-emacs-vcsh-0.4.4
@@ -34266,8 +34276,6 @@
 /gnu/store/zhdlwx76s8m59jlmq9sx9szpw1scbmfa-php-8.4.20
 /gnu/store/0qyyf2c2wsf47vr6rfyvrmn9615if60g-php-8.5.5
 /gnu/store/a502y0iq9824xscdprrklprn3s9i1ljp-php-8.5.5
-/gnu/store/0n3068sdpq5lshf6mcx09z38dk3mqnv7-phylip-3.697
-/gnu/store/rys6i1priraxzj90q381zvrrms10iiw0-phylip-3.697
 /gnu/store/yyqmamz7k5id1nycqhr97czzszgs4fd2-phyml-3.3.20220408
 /gnu/store/589vnakbdhd6rpy0pxj8w3b8c2zq899p-physfs-3.0.2
 /gnu/store/i7g6li0r5ggycpr23687xylwqf92y4zn-physfs-3.0.2
@@ -35677,8 +35685,8 @@
 /gnu/store/zfj2zw6nh434gl5r0k8x48fsq4yh987p-python-capablerobot-usbhub-0.5.0
 /gnu/store/7j20dykcynkhmc01ws8glvm9iy822byw-python-capstone-5.0.1
 /gnu/store/c32bxj8jip13q33gb7xmz7zcfs3azl0k-python-capstone-5.0.1
-/gnu/store/7i73k5vp8k07qwcx8czkh7ac2js8rarb-python-captum-0.8.0-0.4fade3a
-/gnu/store/m7qckkwf08zwfsnf8nwgn4f2hbmgsnaj-python-captum-0.8.0-0.4fade3a
+/gnu/store/8i2adad6ln1hmh2wxl1bdihhwnl6rxm7-python-captum-0.8.0-0.4fade3a
+/gnu/store/izqrslrpxshmcsb8hsyxhw0w2ik0j82g-python-captum-0.8.0-0.4fade3a
 /gnu/store/550zc321bbzja1dici24h9arwrx73zys-python-capturer-3.0
 /gnu/store/qiivm1lsxn689vs0sjkn3biv532mwk8i-python-capturer-3.0
 /gnu/store/b498khh7ikjzb4n17v47v3g3cd6kdn69-python-carbon-1.1.10-0.697bc3b
@@ -37640,6 +37648,8 @@
 /gnu/store/nb749hzdx5dw3bblvy0r2qla7kbfhs6p-python-jinja2-fragments-1.11.0
 /gnu/store/15rsagl68fzxwf20g52d1044qn4wzyzj-python-jinxed-1.3.0
 /gnu/store/imdrbn2gx77cc4q46wgkdh9m60ds1229-python-jinxed-1.3.0
+/gnu/store/gi6rqfc2aa8ihvar1nkjn0gv7bixx75d-python-jiter-0.15.0
+/gnu/store/qa6dkk1rikcg1sfbs3j86fh647rn45ly-python-jiter-0.15.0
 /gnu/store/875hd0k88qw0f0qckzk6rkv21swi1jk0-python-jmespath-1.0.1
 /gnu/store/hykll43dvxm6m4akx5yxd4fdcz57xbvb-python-jmespath-1.0.1
 /gnu/store/8czl3dzf8ypbmw4x66b4dpis0qdfqaf3-python-joblib-1.5.2
@@ -38577,8 +38587,8 @@
 /gnu/store/zfslafias27xqz04j7ndlwwvf5z8y2qj-python-opcodes-0.3.14
 /gnu/store/k1qm4ccxm09xw54klvn8i481pxzn5dns-python-open-simulation-interface-3.5.0
 /gnu/store/mzl1kj1xf9pwlwmx3n27lncrzcifvk30-python-open-simulation-interface-3.5.0
-/gnu/store/jwiiq10rpdzhcb0dnr6c12044hmcmg1n-python-openai-1.3.5
-/gnu/store/mjf9qnv9mmz842qlag0qc6rskd5fswsk-python-openai-1.3.5
+/gnu/store/3hqqss6zpb65hchkx7wfa67fh05dfxrk-python-openai-2.42.0
+/gnu/store/i6nb2py7qcha8m0chajar6740qc7aywx-python-openai-2.42.0
 /gnu/store/9aqdkddpddishxvymzcgk3ky5mrar1ql-python-openapi-core-0.19.4
 /gnu/store/gvh4n3sczd5frakih4ycw6xp735lpk5a-python-openapi-core-0.19.4
 /gnu/store/jdxqdirjrzgi8m4qxl2f8rd5pxrwyypa-python-openapi-schema-validator-0.6.2
@@ -38985,8 +38995,8 @@
 /gnu/store/l2wblj27gh0jrj2if0hmb2mc6cfrbky6-python-portpicker-1.6.0
 /gnu/store/51h6sv9c5gss9ncb91pfhw9a6x6lxcdi-python-posix-ipc-1.3.2
 /gnu/store/vdzqnbacqf7sk9bhg6sbb8z33kb8g0zm-python-posix-ipc-1.3.2
-/gnu/store/hghjhlcdag280rgrgqb4i9ypjlndlmq7-python-pot-0.9.6.post1
-/gnu/store/jsjz7mhrca9anb2qch3blj6xffiv486n-python-pot-0.9.6.post1
+/gnu/store/6iqgm7dnj9yzgpdkw3ks99w6kfmznx0w-python-pot-0.9.6.post1
+/gnu/store/cm2gkcj74f8v74lc9w3ylfgskqigk1wf-python-pot-0.9.6.post1
 /gnu/store/cbi2ncinncq8fwc552srd0q5calm8alv-python-pox-0.3.6
 /gnu/store/sjx35nkbxd543jcbq4hz29wcmv696lnd-python-pox-0.3.6
 /gnu/store/0rlyhhzrlnlibf3125bk7fwxk4j0h58q-python-poyo-0.5.0
@@ -40003,8 +40013,8 @@
 /gnu/store/0d6xj9gdfp72qhaqd592wdggf40xx37n-python-pytorch-2.7.1
 /gnu/store/41gmcd5g8491ygi0d5rq1afkmnfk9hsi-python-pytorch-2.7.1
 /gnu/store/b7y5filrjrfq591s2b9gj33n12f3h41n-python-pytorch-avx-2.10.0
-/gnu/store/fydhvsmjm0l3jnrik4idb5sflk958rbv-python-pytorch-geometric-2.7.0
-/gnu/store/iywr46bhr489615pfwj37h64zki0d505-python-pytorch-geometric-2.7.0
+/gnu/store/1w56bzvklnmih21h3c62wxhgzhcr2cii-python-pytorch-geometric-2.7.0
+/gnu/store/nlv6z6w2111lddg4bzdjjkqs6s5fd86m-python-pytorch-geometric-2.7.0
 /gnu/store/fr2j7dg7ib3cw7mn59c8h3zllw16xrdd-python-pytorch-lightning-2.6.0
 /gnu/store/wvrl1a6gr5bw7xqzc07c3ihqqhrx3jyx-python-pytorch-lightning-2.6.0
 /gnu/store/c8xzlkcp58zfm1aqn2iwk084pmb47d4k-python-pyts-0.13.0-0.4f3d97b
@@ -48694,6 +48704,8 @@
 /gnu/store/x8nh09hsvbqy2d08rxsiqgwylmbs6hlk-refind-0.14.2
 /gnu/store/7xk56l1dfwi4vsij63jkzqf5195lyciy-refind-0.14.2-doc
 /gnu/store/w26kfh7v181qi33rm14fhq2f5h4aimdj-refind-0.14.2-doc
+/gnu/store/60nvwljv3gcdxa6mr4ba9cj8lgs4izly-reflex-20260131
+/gnu/store/ap6wfwd4xbki2hgkx86iagyl0nigg8x7-reflex-20260131
 /gnu/store/cjdlg4ismhgmav118lwxh4pf1yd0dhxh-reform-debian-packages-2023-07-10-320-gaf0a461
 /gnu/store/ryd0ssbmwg5ja203iqxhxcin7i05yvzd-reform-debian-packages-2023-07-10-320-gaf0a461
 /gnu/store/7b5j09mf4wrby0xfyc9p9lmf7x25npw2-reform-debian-packages-2023-07-10-525-g7e8a95c
@@ -53225,10 +53237,6 @@
 /gnu/store/ynkvmxh30pw32prj81g8rhqx2g60gs9k-snac-2.89
 /gnu/store/3v8n80ii7b9hqgihlnii86d4mr1nlw6b-snafu-0.0.0-0.e436fb4
 /gnu/store/qy207bikqs18pk5hl76d6w6wq3sbd5pg-snafu-0.0.0-0.e436fb4
-/gnu/store/clxwflrqnhkrw77viz8r73gcbinbl3zx-snakemake-6.15.5
-/gnu/store/mimxnz8qj7n4r1isavsicygc69q1jlxf-snakemake-6.15.5
-/gnu/store/2qwjccn73nkckhp4sykip4j0j6ckmxy6-snakemake-7.32.4
-/gnu/store/gipk52prjya4a4jlmbarvfcsp5660wqb-snakemake-7.32.4
 /gnu/store/0a6wcshxjvyxa3j93kszy79476rryqi6-snakemake-8.30.0
 /gnu/store/njrnvc1wg1xnzlpsg5r8282m2d65vijl-snakemake-8.30.0
 /gnu/store/gzj6sp2h8a9d1fjxqgagi4mh8chm9msv-snap-7.0.5
@@ -74583,6 +74591,8 @@
 /gnu/store/b8gsqkz23qna8k74rj882d69as41qqai-uxn-1.0-1.f2e8582
 /gnu/store/9w965372pba0fk6kwbwv7sy37r017g5z-uxn11-1.0-0.9483266
 /gnu/store/ij96hq8gif9bz9i210k6nxj0dmvh58c4-uxn11-1.0-0.9483266
+/gnu/store/09q5j8y62xbgwvrkjxqiyb9nl1x2416d-uzdoom-4.14.3-0.1458bf0
+/gnu/store/jn472r79v01pqzj6l5v0qbvzpqjr3qhj-uzdoom-4.14.3-0.1458bf0
 /gnu/store/37d6d8ydx6rqrgva1rxmkq710n0wmp1f-v4l-utils-1.24.1
 /gnu/store/v1dx5cn38p7qvf57ycgam3cr0z6i4alf-v4l-utils-1.24.1
 /gnu/store/247sigfiyryym9iban0afhk3ny20ydg9-v4l2loopback-linux-module-0.15.3
@@ -76228,6 +76238,8 @@
 /gnu/store/68rm5hpwdcn4a747lkm4jvl290bfis7k-zlib-ng-compat-2.3.3
 /gnu/store/d3xswfn8lz8c1q9lwlw6rca04jp7kx39-zlint-3.6.8
 /gnu/store/vi9bpwcc452k4s7z6pldrxn0ql1208rc-zlint-3.6.8
+/gnu/store/6mqpry4j0lx4q7lrcs10554w34ixf343-zmusic-1.3.0
+/gnu/store/dpq681gadr88pls3w0l5yhgrm0sgx2r0-zmusic-1.3.0
 /gnu/store/k7yaw2bx4iy28xm3avbnzb747jww2b3h-znc-1.10.1
 /gnu/store/k8fyx5jr9grf6phfx170wn2v0f91rkiw-znc-1.10.1
 /gnu/store/cj546g5mz16z0h4x2qk62yl07zp0lyw3-zola-0.22.1
