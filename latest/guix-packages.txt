@@ -3500,8 +3500,8 @@
 /gnu/store/k78cs12aqjbk5637bsjwijn5wkg88mz3-cl-slice-0.1.0-1.c531683
 /gnu/store/npalz1vcrq7nck6b7m4v0cjabmw9xffn-cl-slime-swank-2.32
 /gnu/store/vn6yzcwhkvfrxzpxnvs7p9z4gnj788jw-cl-slime-swank-2.32
-/gnu/store/5vd6hpgql0crj41anm37ych0fch32rqd-cl-slippery-chicken-1.1.0
-/gnu/store/zrklqaspdaifsm1phmnk3zbaix8w27rb-cl-slippery-chicken-1.1.0
+/gnu/store/1cnscc87cy4hbfqqlbbphcdwnpkzvnlw-cl-slippery-chicken-1.1.0
+/gnu/store/34s7829npz09xs8qqgic8x20q1aq3zsh-cl-slippery-chicken-1.1.0
 /gnu/store/948h2v1dqiibjcgqs1lmfz3zrn7zlj2b-cl-slite-1.0.0-0.942a953
 /gnu/store/j40dqrp3giaqn5y2nrhvryf3xyh9pxkw-cl-slite-1.0.0-0.942a953
 /gnu/store/68hbbwdp1yq06bxmfrkghp3qxy4pvn51-cl-slot-extra-options-1.1.1-1.29517d9
@@ -7181,6 +7181,8 @@
 /gnu/store/rqq6sad28c6bz0wa8bzyz02mqd6g3wsg-ecl-skippy-1.3.12-0.e456210
 /gnu/store/0jx2scham4rrppmzma5jbabkydilv8ks-ecl-slime-swank-2.32
 /gnu/store/8r49v9l38c0lj4ynl5d7mnra0vb456g2-ecl-slime-swank-2.32
+/gnu/store/w9d5c49n45c5w9azsmfw1bx02w8n1axx-ecl-slippery-chicken-1.1.0
+/gnu/store/y5zs1z7qpg22ivx66riq6l7as2l2g2p0-ecl-slippery-chicken-1.1.0
 /gnu/store/48dqkvb3jmvq3nlad15a0hy4ifsimjj2-ecl-slite-1.0.0-0.942a953
 /gnu/store/7l3rhwfi6zbp1gjb26g9as3bm1m0xhdk-ecl-slite-1.0.0-0.942a953
 /gnu/store/cl09d5jjm62m7pamv35wfrwg81r9p76l-ecl-slot-extra-options-1.1.1-1.29517d9
@@ -52292,8 +52294,8 @@
 /gnu/store/dxiwsmxq5zr6x8a3k7gkk7h6lymsr5pl-sbcl-skippy-1.3.12-0.e456210
 /gnu/store/0anwyzvjdv53h3yp1mbafg5l654ypjb2-sbcl-slime-swank-2.32
 /gnu/store/l7nkkzj4g4h7v56334df9l3hcsfd0i3b-sbcl-slime-swank-2.32
-/gnu/store/a9fxy0z9v06klrqaw30p5kfvdl0igqra-sbcl-slippery-chicken-1.1.0
-/gnu/store/i9g9370p4kh7jwx2c45g7nnxbkcgyyx3-sbcl-slippery-chicken-1.1.0
+/gnu/store/0wv91lmgbd899gc9xyicx41z1qnxbg46-sbcl-slippery-chicken-1.1.0
+/gnu/store/2a3l78scp5d1bzb3hllh5aqycxn97h7n-sbcl-slippery-chicken-1.1.0
 /gnu/store/1l2ajwpki0xmnk2h3561x6bfx5dxp2fz-sbcl-slite-1.0.0-0.942a953
 /gnu/store/s0n3nxpypm37kyj9xsjxkd3crqkbqs1r-sbcl-slite-1.0.0-0.942a953
 /gnu/store/4kkc89f4bmn6ahdbm35zj77pjwyvxcka-sbcl-slot-extra-options-1.1.1-1.29517d9
