@@ -8039,6 +8039,8 @@
 /gnu/store/pbh5ddz3vpg36ixlmindqxp775y94dwy-emacs-async-1.9.9
 /gnu/store/jd60ia0hpih315yq5jcnqg1fq9xn5kzm-emacs-async-await-1.1
 /gnu/store/xcbnlk73dsj222sx87hw53v50s4jlk1b-emacs-async-await-1.1
+/gnu/store/6ih31msw98mqq1z4wz2vgskb3vl7msf3-emacs-async-http-queue-0.1.0
+/gnu/store/j0vzrf1ycj2br1l1k8b9mlz8z5xnd7q6-emacs-async-http-queue-0.1.0
 /gnu/store/0chrj74krvc5586k1a5g8hm9an2ds478-emacs-atom-one-dark-theme-0.4.0-0.1f1185b
 /gnu/store/vd7bbdqkkdb1wwmhsgkjlyf0mv13c1l9-emacs-atom-one-dark-theme-0.4.0-0.1f1185b
 /gnu/store/81px5k6xkd1rl3qfdc1g3ajqcxg036lg-emacs-atomic-chrome-2.0.0-1.072a137
@@ -9999,8 +10001,8 @@
 /gnu/store/wg4ykmk78dyhc7cazyidwqgq8mnzxfx0-emacs-nano-modeline-1.1.0
 /gnu/store/6qy39xdcb8if2nyvgw2vganynmy22myp-emacs-nano-theme-0.3.4-0.ffe414c
 /gnu/store/8zklm546knp8n7k3x8lxn2iq2r62hb9q-emacs-nano-theme-0.3.4-0.ffe414c
-/gnu/store/6n0sjp3y6pr53m4jnxpp4g6wb8w7n7c0-emacs-nasm-mode-1.2.0
-/gnu/store/s6xkf2z210ryiwl51z8g5jj5khz5cc63-emacs-nasm-mode-1.2.0
+/gnu/store/k30f93m1j4gp5dckjxy7zwkm8jq6l717-emacs-nasm-mode-1.2.0
+/gnu/store/pb71pg9slamwqb9jkihgfkppay3k0s9i-emacs-nasm-mode-1.2.0
 /gnu/store/4vgknx741q5dqdjj19yd955b783zg2mm-emacs-navi-mode-2.0-1.c1d38e8
 /gnu/store/cpwk7a9fw6lwg2zgfdn6vfrbyvd70lln-emacs-navi-mode-2.0-1.c1d38e8
 /gnu/store/biz3v3901mg4bmbvfz5h9wpfyd400qpd-emacs-navigel-1.1.0
@@ -10279,8 +10281,8 @@
 /gnu/store/z1ka5k6iqpra2cxg2xk8gynzcksiixwv-emacs-org-rss-publishing-0.8-0.7f7d1e0
 /gnu/store/cg591xs2l92jivrsqwqqgvia2pciax8r-emacs-org-sidebar-0.4
 /gnu/store/hf3rbd21k1bi80l5apjab5y8r5kkjk5m-emacs-org-sidebar-0.4
-/gnu/store/3gqf626mv7kvmb5kaq0kfy8v8xhv0bc8-emacs-org-social-2.13
-/gnu/store/3wv6glb2p954bgglalrdfgqh2vsyi9fi-emacs-org-social-2.13
+/gnu/store/6k67rfxfb2fjpcpd6p2haksv04zn78cd-emacs-org-social-2.13
+/gnu/store/h9bkklmn64ghmcy4ymy3jsxykmgvq5cj-emacs-org-social-2.13
 /gnu/store/8bdj3083myiwz0jsw2qdnyb8n121ddlr-emacs-org-static-blog-1.7.0
 /gnu/store/bv6kd3yb0pk59wpkkc51brqb92z5x2q4-emacs-org-static-blog-1.7.0
 /gnu/store/8dnplfgyp78r0g1f43kb51qxl4qpmwny-emacs-org-sticky-header-1.1
@@ -10777,8 +10779,8 @@
 /gnu/store/kw8aqyzr0lxm2wmpik9r37hkz75a9nzd-emacs-setup-1.5.0
 /gnu/store/9nbrsgzx8z000y0gq12n0nrrb07sl715-emacs-shackle-1.0.4
 /gnu/store/hnrljjh17ygb5sqwn5zm5dgbwmlyxmzz-emacs-shackle-1.0.4
-/gnu/store/h779h5gg2d88xsc13rnl0j86dd224v54-emacs-shell-command+-2.4.2
-/gnu/store/r3vc12jwhy04fx2zq342h65misxlrk7d-emacs-shell-command+-2.4.2
+/gnu/store/a2dscfng1mys51c6dbwp36zp05njia7l-emacs-shell-command+-2.4.2
+/gnu/store/mgcg9dbyr29dafznvj1j6ipbm9w1vmiv-emacs-shell-command+-2.4.2
 /gnu/store/2c8xfzfhqklj94zmars0vlz72ismlnig-emacs-shell-here-1.3-1.eeb437f
 /gnu/store/6xvyf4r0443004fpvk8diylkaz2pagj1-emacs-shell-here-1.3-1.eeb437f
 /gnu/store/28rys1j9jssy5frm7ay8l6m0nlpvg51f-emacs-shell-maker-0.90.1
