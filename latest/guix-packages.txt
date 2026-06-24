@@ -31711,8 +31711,8 @@
 /gnu/store/rcz047darr7ja8d90q7zlvmp724fbj2d-openmpi-thread-multiple-4.1.6
 /gnu/store/36flcbhxrqkv7w7zr7c7w6iq7fa93cr8-openmpi-thread-multiple-4.1.6-debug
 /gnu/store/4nspgybk1ix65siw7qlbh4dkhnv0iav6-openmpi-thread-multiple-4.1.6-debug
-/gnu/store/6g4vab87qg9r1337bv6hpxlfka82x5fy-openmw-0.50.0
-/gnu/store/9lx2rm3z9n9qb8hknacphsmfk3cbisvp-openmw-0.50.0
+/gnu/store/47vmins70s3wvhfml2wyc6dhykahsbqh-openmw-0.51.0
+/gnu/store/ypg2vfqaix4yn4yxcsayy1f6zm6ynlms-openmw-0.51.0
 /gnu/store/p7jvq5ifjzwzizyrj6zll3nw5z75vviv-openntpd-7.2
 /gnu/store/xfxlp0yz3as2h4kkf8hnksg46vpmgybd-openntpd-7.2
 /gnu/store/705v039k1lyxpxjy74y852hncvz7d9b5-openocd-0.12.0
@@ -31755,8 +31755,8 @@
 /gnu/store/l9ba0izn771jigym9apn7dcgzhbc1fp8-opensc-0.26.1
 /gnu/store/431cc4d1hx00kx0hqvij9xhldl08fcgy-openscad-2025.09.02-0.5d6e37d
 /gnu/store/9iimii9af47mgqpy9nc46ikcc0d8qbas-openscad-2025.09.02-0.5d6e37d
-/gnu/store/4fbif88s13fbvr2szb79sa6pzq7pq0a3-openscenegraph-3.6-4.ff19a67
-/gnu/store/mv73v1qqaw31g6nhr932z4y67ghm1ayn-openscenegraph-3.6-4.ff19a67
+/gnu/store/0p6n61kgj1klsjik8g7clbwsfzgl66kv-openscenegraph-3.6-5.8aa8d91
+/gnu/store/0q6m67gxkscas78k8w50pax2cwj6rxz3-openscenegraph-3.6-5.8aa8d91
 /gnu/store/3k5namis319lav28vkajvbs3vsa3pfzz-openscenegraph-3.6.5
 /gnu/store/gzmshmlbj6g6ilq5p7ap26l1jq7ngasm-openscenegraph-3.6.5
 /gnu/store/1c8a8rj9sjcq2c8lilqcmxpv0z8hr1ya-openscenegraph-3.6.5-pluginlib
@@ -34686,8 +34686,8 @@
 /gnu/store/zw45wnrzrnp6nmdxk7jn8h11vlfsbffm-ppsspp-1.20.3
 /gnu/store/1f96c2yf57agp0avbz96agkfbnsba6h4-pqiv-2.13.2
 /gnu/store/aa7jj31210iazk127qxax2nv0j39v8dg-pqiv-2.13.2
-/gnu/store/ji0i2xzhpqmyxhkl0xbrmb7yn8bnpjzp-praat-6.4.62
-/gnu/store/zfi1pp0pvbk8nk67q8nwdhimzcgfdf0g-praat-6.4.62
+/gnu/store/57w4brzgbz27qxbljnjbicdvkcblyhxb-praat-6.4.67
+/gnu/store/8gwn3d82f4hnz95k5g0cfa887szbcs15-praat-6.4.67
 /gnu/store/4c0knbvm2h1il24qfqqz39v4jh81vr0p-pragha-1.3.4
 /gnu/store/5836ss8lqq0jjxsrh853633ryr9209k4-pragha-1.3.4
 /gnu/store/l2z6jix9lksz4m2qd2ixbn4wv8ahk58k-prank-170427
