@@ -215,7 +215,7 @@
 /gnu/store/bmv56z8kmlr56igg4fl60xbnn7d66b3w-geekbench5-5.5.1
 /gnu/store/20zrcqv1rv6dlk1ajg8hm355mhgp7kb3-gmmlib-22.10.0
 /gnu/store/6mc91h87b5kmwvq8gjbhg5fc9gchw65w-gmmlib-22.10.0
-/gnu/store/zn09241a2s628p5ricpzid8a4bvy07nh-godot-mono-4.6
+/gnu/store/bvzzfv7z8qcaxhl3np02wr1bzqyfig88-godot-mono-4.6
 /gnu/store/2wgn5mgl4ry82gjns0a0ic4vsjd3afid-gpustat-1.0
 /gnu/store/nshr0lhmvisym22q67hgzap90q6vj5q4-gpustat-1.0
 /gnu/store/pd27qlcb96c272r0q4adjnswzppl4pib-gradle-9.2.1
