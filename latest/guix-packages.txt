@@ -73019,8 +73019,8 @@
 /gnu/store/gh2qjpgmzsjds6ycl426hki4dd0iklrl-trayer-srg-1.1.8
 /gnu/store/1d4swndn7b1l5745q4yg7js8dd8qqz1z-tre-0.9.0
 /gnu/store/83smqncf8sm15d0qaxy6p8aabcsz1yzj-tre-0.9.0
-/gnu/store/vwqygmg9kx2dvnav181mmwgqv5mqdn8x-trealla-2.102.38
-/gnu/store/xw0sp5359icg5mw1scbb1qn5cjwri39d-trealla-2.102.38
+/gnu/store/f1vdxmzf145rnzvb6c0iqcwqll42v5l7-trealla-2.102.39
+/gnu/store/l67qzxzm1ppq1bzyws8qbnav5vxji258-trealla-2.102.39
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/vwf9bpj3kyzy5pfiiqy08qqjndxdsi07-tree-sitter-0.25.3
@@ -76076,8 +76076,8 @@
 /gnu/store/igi9cgrxpvmpkgv55xsbvnmlvk1ywj72-yosys-0.66
 /gnu/store/7ap904c5pahq7yzh2glal0xii7g5jla7-yosys-0.66-doc
 /gnu/store/df2nwkmsv7r8gbm3lsippp6y4gfp3y0x-yosys-0.66-doc
-/gnu/store/icmswqqv4wy0pvi2kvcbdryh4g1ydr8q-yosys-slang-0.0.0-0.3251530
-/gnu/store/jcviz30l5kmf7ry5xvd47z4zy3xdwm9x-yosys-slang-0.0.0-0.3251530
+/gnu/store/8m401x4qkyjlxwc0azpzvcwfixq9qmzy-yosys-slang-0.0.0-0.3251530
+/gnu/store/fj3pdwdsa0r0qray7dx8312j5axbl6xn-yosys-slang-0.0.0-0.3251530
 /gnu/store/c0l5mcwi65w79apjshd83601y5830llm-you-get-0.4.1743
 /gnu/store/wmixgs98sbnlf6h8nfw9l0d34spz74h9-you-get-0.4.1743
 /gnu/store/8v5ag3ndsvnlmjd0yasm87900xv4mmlm-youplot-0.4.6
