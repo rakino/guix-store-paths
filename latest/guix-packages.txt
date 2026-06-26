@@ -8787,8 +8787,8 @@
 /gnu/store/zpl38ivly0mwh8c7kgm2lzcq99ywg63v-emacs-enlight-0.3
 /gnu/store/8sd04bl81xgjrqg36fb5n9mqxlnq959f-emacs-enlive-0.0.1
 /gnu/store/y71wba3vzgvllyz61lpxybl4rjcgk419-emacs-enlive-0.0.1
-/gnu/store/afk4dbyjy45c6cjhgl4bd2qlscdr2vfm-emacs-envrc-0.12-0.06d72d1
-/gnu/store/i7a0pwvdqrisdxydwf8p0ndjdk3ynvnj-emacs-envrc-0.12-0.06d72d1
+/gnu/store/0a65rp6l6ha7l9igj81azc89xqlh9s5q-emacs-envrc-0.12-1.77e9dec
+/gnu/store/0bw128lym9w6ia73mja68wazl04xwb4l-emacs-envrc-0.12-1.77e9dec
 /gnu/store/085iq8s9fd600z3dsdl9nr2cqvah5d7l-emacs-enwc-2.0
 /gnu/store/aniwv8616633czqdjl2jzm1padjnwycy-emacs-enwc-2.0
 /gnu/store/b4xzxxdlb0imlpgh7rp9fjbr06jmp6q8-emacs-epc-0.1.1-1.e1bfa5c
