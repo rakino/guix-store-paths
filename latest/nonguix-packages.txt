@@ -96,7 +96,7 @@
 /gnu/store/wmxg4hd3ck4wf2bxyfg40hr3la9wvlgz-electron-node-headers-40.8.4
 /gnu/store/7bqdvyb324n3rc43d7806yw4b3y8442p-electron-node-headers-41.0.4
 /gnu/store/wv38dlnz1dp8x9x6s38vs9cc9bk3zb35-electron-node-headers-41.0.4
-/gnu/store/6lcdzr4jg79c05sbccljywvrgzw5xjx9-element-desktop-1.12.2
+/gnu/store/483zark1dw48ix9i10kybp851vbzxbr5-element-desktop-1.12.22
 /gnu/store/246igvv2p63wnhb3qvvw0rg354377cb0-emacs-eli-acl10.1express_Feb2022update2022-02-11-1.8f9a8b9
 /gnu/store/la34r38ar37cpq8lbcb82k179a5ljb2z-emacs-eli-acl10.1express_Feb2022update2022-02-11-1.8f9a8b9
 /gnu/store/qpxgx7n1vh7bvraxah79x1any681xzn8-emacs-org-roam-ui-0-0.c75fc75
@@ -148,8 +148,8 @@
 /gnu/store/ldq80b2lgfqf8wd8s3hav3v1gqjh253d-ffmpeg-8.0-debug
 /gnu/store/pyhbbmahalcsp0wdrz4yba3qbq0wx1r9-ffmpeg-8.0-debug
 /gnu/store/qqgnmh4zvb48g41nd33m1vkg9q6q5vsj-ffmpeg-8.0-debug
-/gnu/store/8xpn38iv8kgapw94r0wfypf91c96gyxg-firefox-152.0
-/gnu/store/ww023brlgxc8sqng5vwx40arbchsd4d3-firefox-152.0
+/gnu/store/4sgd70gzvkl05i4n168gr8qzhwb0lp5a-firefox-152.0.3
+/gnu/store/h08wm9rp0mpdj76058j9h1l5v1wc46sq-firefox-152.0.3
 /gnu/store/ccmq7azc3qzysjj9rwdjz26ms1pbrmnc-firefox-esr-140.12.0esr
 /gnu/store/pywi6gwq4109y5hjrpmgblh61p5h2rgg-firefox-esr-140.12.0esr
 /gnu/store/54rx69vijndxdfn2r7fdjnb5l7684zh2-font-apple-color-emoji-18.0d4e1

@@ -8135,8 +8135,8 @@
 /gnu/store/k8773nvq3cyvrfpj93j3974czq4gypvv-emacs-blight-1.1
 /gnu/store/pq15wf1kpxc2ipf78i04xcmbqr77mhpq-emacs-blimp-0.0.0-1.e420763
 /gnu/store/zv7ybq6wx7nks3vssplwcnrnwxkf8y0y-emacs-blimp-0.0.0-1.e420763
-/gnu/store/0j9xr8dr3biavh7dgk19j20r0a20372k-emacs-bluetooth-0.4.1
-/gnu/store/brp1g4ss4f9q8dri166f1y7lfz9bxb5v-emacs-bluetooth-0.4.1
+/gnu/store/gqkyyrx8d0k163i2gyrmnr66g1hn606z-emacs-bluetooth-0.4.1
+/gnu/store/vnrvh1r59c3x3wvkn8rmwcy01qr9fnhg-emacs-bluetooth-0.4.1
 /gnu/store/39100czsnhm4hyyzi6yxafd3z7rbkwv5-emacs-bm-202506
 /gnu/store/q9azajxsigzbhmhj9b78xj2vaqjw55h1-emacs-bm-202506
 /gnu/store/6hk67vn2gk33ardx580279k6n6x59v4w-emacs-bongo-1.1
