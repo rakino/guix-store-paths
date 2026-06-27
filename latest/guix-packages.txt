@@ -29868,6 +29868,8 @@
 /gnu/store/yfiz423n95kjfbf0d1gxj4s87k0yx5j1-mtd-utils-2.1.5
 /gnu/store/bl92g4b7nvm6yvlijr82svplvjykd1gx-mtdev-1.1.6
 /gnu/store/dg9k9i5bda77ad9nf9lr152nl5w63b7s-mtdev-1.1.6
+/gnu/store/976b06kpp3mi2n0j0knxdvzgvfc54sgz-mtfmapper-0.7.41
+/gnu/store/vp0gv7dwp3j4k6jyc7gbi1mjr4zqigq4-mtfmapper-0.7.41
 /gnu/store/85x443mmdfx270cyyvyhrdmyg7l2zfjy-mtm-1.2.1
 /gnu/store/x4hh3c6pv84w2rkkbmaxzq406frkrzxh-mtm-1.2.1
 /gnu/store/883in9jgiaw7mv6padiwrjbd15svicmm-mtools-4.0.49
