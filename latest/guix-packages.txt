@@ -30201,8 +30201,8 @@
 /gnu/store/sf3gs03c1z5scwrbj57lcs1yjc1kkvmf-netdiscover-0.21
 /gnu/store/9k654k5zjgk36xxvcapl0hghzniwygfr-netgen-1.5.320
 /gnu/store/f68yzdbyicw4mjkk1acrka14g64vi1yx-netgen-1.5.320
-/gnu/store/j90id69k9mz1pnx2550dslrqmxbkjd64-nethack-5.0.0
-/gnu/store/jfcx5kq0gm5dl591pkp0sl5w8svfbxpm-nethack-5.0.0
+/gnu/store/0h5gbdjijg8f5irl1yfixisbd7nw5mc9-nethack-5.0.0
+/gnu/store/cg3rpfv9szbryj04wf08710vx8kb28xw-nethack-5.0.0
 /gnu/store/a2z8mh06hjxw8kpskp885h8046s1cxpg-nethogs-0.8.8
 /gnu/store/kca3c8rd1anc50yrfn36wwk6bwd0xy3n-nethogs-0.8.8
 /gnu/store/ky3h3aav3w6ilax96fp75h1manchflj9-netpanzer-0.9.0-RC-7
@@ -48784,6 +48784,8 @@
 /gnu/store/1kndvdpc6smlq04cpxcjj1d10wzxdkzw-rawtherapee-5.12
 /gnu/store/rrwxrjvx5p1px4jv23nxglbdqbfnqdch-rawtherapee-5.12
 /gnu/store/q15nd948xp4nm832d215ccc421kzl3im-raxml-8.2.12
+/gnu/store/s3z8fx85kn2dp0nx9g75d4pnvdz8bzy9-rayforce-2.1.0-1.a4a4d05
+/gnu/store/s4abl0chf4l373ya03gxjawqw2im89px-rayforce-2.1.0-1.a4a4d05
 /gnu/store/iiscdz2z1c5qa809ghljs2qn263i37h3-rayforge-1.7.7
 /gnu/store/ygdakszm1qx6scikyilshylmx851g5ka-rayforge-1.7.7
 /gnu/store/1r5gp4gpgpq6i74d415ss642i4gi5j2z-raygui-4.0
