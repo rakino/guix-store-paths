@@ -28974,8 +28974,8 @@
 /gnu/store/fgfc7n17zm544v01mcykh2f8n9lgfv2d-mangowm-0.14.0
 /gnu/store/8y9a3vyj7q4899v64daxsbmay9f84chk-manifold-3.4.1
 /gnu/store/z2gyqhclbvs9h0yx6l0s0ywrfpi4q8p1-manifold-3.4.1
-/gnu/store/3rijkhpchakl2rxjhf5maljvcmflvx4v-mantid-6.14.0.3
-/gnu/store/bvq9i4wpddwrh8srv6hph4hj1cik5mwy-mantid-6.14.0.3
+/gnu/store/s4ba0vj9z0cyrl62gzr9j7fkqva4sbmm-mantid-6.16.0
+/gnu/store/y9brbqc6cqpnyfs3jij8jbhdwbmz9wij-mantid-6.16.0
 /gnu/store/agdh8nixjbh5ia9y8assv5lcsh0gczwm-manuskript-0.17.0
 /gnu/store/k1akmr62dd36gvv7lmpsb94lcak8v96k-manuskript-0.17.0
 /gnu/store/rhna52vzzgnk93z4p5c04sn2d7g443dl-mapbox-variant-1.2.0
