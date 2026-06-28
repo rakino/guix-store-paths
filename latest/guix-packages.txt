@@ -21423,6 +21423,8 @@
 /gnu/store/rybp7fw74v79zr07lqragf4ij3bk0djh-gtg-0.6
 /gnu/store/45q0579yzdajxhjnbka0facfb5x5an86-gthumb-3.12.4
 /gnu/store/cphn6f1as9gj52n3p0mj2hfzmb6a07xb-gthumb-3.12.4
+/gnu/store/91731bhl4c6ws5kkzy0nyrznvmnl2jj2-gtimelog-0.12.0
+/gnu/store/cyh3gmrydvmkgsyzf8p2k4qq5a0v2rlv-gtimelog-0.12.0
 /gnu/store/8b63bkv7ywrxfiffdij7mjcfzkd4fha2-gtk+-2.24.33
 /gnu/store/bsmbgz1cshs8bqrp1iavvla84mbksfbi-gtk+-2.24.33
 /gnu/store/720zp8icpib9sih1x3mi5sxm422f737d-gtk+-2.24.33-bin
@@ -29466,6 +29468,8 @@
 /gnu/store/hd48w1j6z2ccin3ckkaxckv7akx679a2-meshoptimizer-0.25
 /gnu/store/sqjhnc6gjgj9y8dmkj70n32mxrirp5zb-meshoptimizer-0.25
 /gnu/store/z7dw57a9va31kxliswchpw7g805mls1k-meson-1.9.0
+/gnu/store/3s67x5i35b5rfaaqbm0q2df8xs53l8pz-meta-package-manager-7.0.1
+/gnu/store/j6ixyawc5y373gvx90r6nm84kbh210yv-meta-package-manager-7.0.1
 /gnu/store/kfn2lrvkfkhnhmhdw1ic68rw3alxzii4-metabat-2.15
 /gnu/store/98jwly6gyv6x8v3i3mzyp2zp7v3wnfhn-metacity-3.46.1
 /gnu/store/vv6alm72wqichmqnif44k01diai04mhk-metacity-3.46.1
@@ -35763,6 +35767,8 @@
 /gnu/store/n0zvyyhazaq5nn17gks2fcdq9gqi108q-python-bottleneck-1.4.2
 /gnu/store/7d627zv92n7xvb5xgj9p5vz3hsb161wb-python-box-7.3.2
 /gnu/store/ansj4zc3afl42jgj19wwcmpi49353a4s-python-box-7.3.2
+/gnu/store/fhp961c7p0gidm0b4b6paa880dnw3w0z-python-bracex-2.6
+/gnu/store/ywdr970g6wn8n8vsczqv1v5i4cg71hmd-python-bracex-2.6
 /gnu/store/71q8zg5cmk9zgzipnmvd9q4zik4qvsk3-python-braintree-4.40.0
 /gnu/store/fspqhwl0y6wdzy59w6qyhkdysmlnyxxk-python-braintree-4.40.0
 /gnu/store/597dfzakl9c6jl481xs46ycxdm40v72r-python-branca-0.7.2
@@ -35984,6 +35990,8 @@
 /gnu/store/hyq53hj866jkgmhi0sb720nw4gyfpgli-python-click-default-group-1.2.4
 /gnu/store/7yygm53q2qpjmjf1gb8lsfl696b1wk32-python-click-didyoumean-0.3.1
 /gnu/store/lvj0pimjfz5navhscvzm4cp0g57xs2kc-python-click-didyoumean-0.3.1
+/gnu/store/59i7i3qypg95x6znq5axyzajg17dl0ar-python-click-extra-8.1.4
+/gnu/store/s48w95gks8h4n2x85ra07cv9fjb9pvmd-python-click-extra-8.1.4
 /gnu/store/6cwh1rddb62xgqlfkqg9n9xq6lxq6gdf-python-click-log-0.3.2
 /gnu/store/jkxrg20pl7q5xsmqj8sx5rdxyyfmjq19-python-click-log-0.3.2
 /gnu/store/brhnd3i5v6a6jhrafyl8c2ghcbvhpm8x-python-click-option-group-0.5.9
@@ -36857,6 +36865,8 @@
 /gnu/store/ngv7i914lq6wvdvvwfwml5f7lfdm3r57-python-extension-helpers-1.4.0
 /gnu/store/8bhp3z6wwwly6dnsrhfdw82l2hcxf38q-python-extinction-0.4.8
 /gnu/store/paiivb286vpmcz969ihajfdjy5z9ljak-python-extinction-0.4.8
+/gnu/store/72js499j7dk3d7jrxnz4a7sp5pl4hfn3-python-extra-platforms-13.0.1
+/gnu/store/ndh0fldka68vm6v2rkkqvn7fmx4sl7v8-python-extra-platforms-13.0.1
 /gnu/store/ar8xw7vy5gpa8d5kaqifaqp9cisdz8mb-python-extract-dtb-1.2.3
 /gnu/store/inlyq1db0ch2818r19qxxgnvrs5jrd39-python-extract-dtb-1.2.3
 /gnu/store/0kzjfp1lk5dqwy1xl7iw4xrpma8xz6h4-python-extruct-0.18.0
@@ -38895,6 +38905,8 @@
 /gnu/store/i60gzm9kb1qrbjn5hcyr05ji4f2lffml-python-owslib-0.34.1
 /gnu/store/hadym7vcanmj1pdv0d4ky0rrk8za1sjm-python-p-winds-1.4.7
 /gnu/store/vd4wji7cl3ixy0362lryg0iyw3ydszg9-python-p-winds-1.4.7
+/gnu/store/5lmnk0dms046lygv3rh62w76c36d9y8r-python-packageurl-0.17.6
+/gnu/store/z76bdgk2ylax279sx0i27ykywscy2c7r-python-packageurl-0.17.6
 /gnu/store/254kb0pxxw2yiqnxv8bvq89fdrf1kkxr-python-packaging-25.0
 /gnu/store/z9didrd8r3mdial8nv0zl1dfwn659d81-python-packaging-bootstrap-25.0
 /gnu/store/6fab74dir0zgm7f7m0hnfghyrb4by6r1-python-packaging-legacy-23.0.post0
@@ -41832,6 +41844,8 @@
 /gnu/store/75gjpbm4dl126pknw8sad7fpw30wv9wg-python-wavefile-1.6.3
 /gnu/store/cjmw8mswhzj91l9k32i434473ch3hpir-python-waybackpack-0.6.4
 /gnu/store/f9xypg3894fm3afcsxlmn8c1prlrdbs8-python-waybackpack-0.6.4
+/gnu/store/5qcv8ghbcyg94ncnbr2q3l870jcfz0g0-python-wcmatch-10.1
+/gnu/store/ih5q94krg1zs8lyhcpz7ic4mrh8hgsgv-python-wcmatch-10.1
 /gnu/store/4xjmvyz4vg79salq6a9dl8zjsgc7hpsb-python-wcwidth-0.2.13
 /gnu/store/9vs04rzmizaf4klsf9ii3srs7w8wvbv8-python-wcwidth-0.2.13
 /gnu/store/b0q82nnlwwwa88p07kbng9xfaj9w4qli-python-weasel-1.0.0
