@@ -25731,8 +25731,8 @@
 /gnu/store/zjbyhd4swnmfmzyvmviprpaj3baq6rb3-ki18n-6.23.0
 /gnu/store/5mdn6davzq7sr4caxddlvsbrz2mghcza-kibi-0.3.3
 /gnu/store/bp9bi4mnmdp4diiisi70hf7lkfp74v57-kibi-0.3.3
-/gnu/store/89vdq16wz0kzc5j2lnfmwk3wkdx31khr-kicad-10.0.4
-/gnu/store/wcsq4yqdl1pk822jkn1qqxlp607v30y0-kicad-10.0.4
+/gnu/store/ay86msxzwi511apa6ir9bqp2q6cmmjav-kicad-10.0.4
+/gnu/store/fhq66k8dl43ayfxi4jaja7n9swkqd6n0-kicad-10.0.4
 /gnu/store/acg3b70i5zkkfb01ma3kx3rxx1m5ddcs-kicad-cern-libraries-0-0.980670f
 /gnu/store/sqx2rscfckg2c9b8bznr2pj8p9aaka05-kicad-cern-libraries-0-0.980670f
 /gnu/store/iav20s0vpw2x1j4xgqhci474dkdqzj0h-kicad-doc-10.0.4
@@ -48724,8 +48724,8 @@
 /gnu/store/jm8m9b76si12zgix38rmm1df76yfb769-radeontop-1.4
 /gnu/store/lhaar4hvmix6i6g3ha54fn9a7r8nq4yh-radicale-3.3.2
 /gnu/store/x6097vnbfi2bvc8g3chgw1na09yr3wcv-radicale-3.3.2
-/gnu/store/l961aanjn23vkwclbqsd1yfhs8ry817z-radicle-1.8.0
-/gnu/store/z55h1gy0p63hx1yl56rzbrknn54k5kiz-radicle-1.8.0
+/gnu/store/9nr9vppjz680nym0l6qnnpdphhzyzgzz-radicle-1.9.1
+/gnu/store/ixq181477nijlyv7k2zjzlsx5j2013cl-radicle-1.9.1
 /gnu/store/2gpwn63hspfp0shvnznlxnb5viib3mn6-radio-tool-0.3.0
 /gnu/store/bsm79as5kl26ihnj121lfbaaymyafp56-radio-tool-0.3.0
 /gnu/store/0dbh9jfn0ydsl2idbiq4qahdh5s6isxm-radius-1.7
