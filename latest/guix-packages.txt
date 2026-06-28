@@ -1457,8 +1457,8 @@
 /gnu/store/7hghmgsyambddmw56r7yb5sjg11m9hn9-bucts-26.03
 /gnu/store/b4zjmmgaqkzblf0x678nrh9adx3s663w-build-0.3.10
 /gnu/store/hnb7x92532dv80ha0c8zyczgynqmpia0-build-0.3.10
-/gnu/store/63wdagg0p39mbh8r26q54b3iiij14xzh-buildah-1.43.1
-/gnu/store/qbmvnygal4d6v071s34hmr7nqiv457h8-buildah-1.43.1
+/gnu/store/4z8mb2v1rwaydciqhdvaximcgvca2y8m-buildah-1.44.0
+/gnu/store/wbb6rpmbzq49ll21f2nj4n8jk3dwg9xk-buildah-1.44.0
 /gnu/store/mg6gf80lp1w46zpdcdqpdznyrbfb9h7f-buildapp-1.5.6
 /gnu/store/ppfxxnf014vb9rxj5m94qmlp2b07y7l8-buildapp-1.5.6
 /gnu/store/qw56iijmx29vqm6vbbn9qvy0nv6p3x2z-buku-5.1
@@ -34716,8 +34716,8 @@
 /gnu/store/hlzfslddkwvy78ygswcr524bbj0f2qif-podman-5.8.3
 /gnu/store/dgzqliwk52a2ilaqqyg5bxgnwdsfz3vq-podman-5.8.3-docker
 /gnu/store/p3n4h8jxd40h42l5iwczccgnqcdq9zih-podman-5.8.3-docker
-/gnu/store/4vp3wha38y2awxarxh9z8z6gk4zxb09z-podman-compose-1.5.0
-/gnu/store/dxgpajyi91mhrj91f084n1yngazngc1v-podman-compose-1.5.0
+/gnu/store/98xgy7xyl404ak7c5gjhhv9p9mkjk5qw-podman-compose-1.6.0
+/gnu/store/l141c4d5154ahdwyg9jwgvmkabp7gnwd-podman-compose-1.6.0
 /gnu/store/j2bzm207wq9pv7ixs1ldgn7vy77m3irh-podofo-0.10.4
 /gnu/store/rmr8jg1xq07sl9fdspbx2ijdxk9nwjak-podofo-0.10.4
 /gnu/store/cw1vlymr2hmvdavdswhgx0yjv6gl54s1-podofo-0.9.8
@@ -73171,8 +73171,8 @@
 /gnu/store/gh2qjpgmzsjds6ycl426hki4dd0iklrl-trayer-srg-1.1.8
 /gnu/store/1d4swndn7b1l5745q4yg7js8dd8qqz1z-tre-0.9.0
 /gnu/store/83smqncf8sm15d0qaxy6p8aabcsz1yzj-tre-0.9.0
-/gnu/store/qv0y65llas7gznf1gbw2m3z24ymgi4iv-trealla-2.102.40
-/gnu/store/qwbbqfvgb1xb0h6sd8fhjigxyg50bc3f-trealla-2.102.40
+/gnu/store/6y4iz8zjp2q2286wb0fw7pr9mcjf6vi8-trealla-2.102.42
+/gnu/store/vwhnn2ikib7bkww3iq674g4rbybqx61c-trealla-2.102.42
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/vwf9bpj3kyzy5pfiiqy08qqjndxdsi07-tree-sitter-0.25.3
