@@ -347,8 +347,8 @@
 /gnu/store/il9bz3c7hp53jzv9r68sswwbjvqlm32h-nvidia-driver-new-feature-610.43.02
 /gnu/store/1nnljnw8775lwfif1bxpixnxdlzamb9d-nvidia-driver-source-390.157-checkout
 /gnu/store/5al6644hidihfxn9jklg7ch35nnl7nhc-nvidia-driver-source-390.157-checkout
-/gnu/store/w2kspapissqm2c2yxp2qqmxx63xrnkzb-nvidia-exec-0.1.0
-/gnu/store/za5addlqpirxxh0fsfrhw279axx7ic0s-nvidia-exec-0.1.0
+/gnu/store/61v71n29rdlzs7mnmfjr9538yx7pp1x4-nvidia-exec-0.1.0
+/gnu/store/dlwrsyd4kc7fkhmfls433f23airadyap-nvidia-exec-0.1.0
 /gnu/store/ib82nym7hqpcb0dr27axh8prcqgn3vqd-nvidia-firmware-470.256.02
 /gnu/store/5r82fxq7xh0bqdyzrqxzsh3g2gcwyy8j-nvidia-firmware-580.159.04
 /gnu/store/7bkjpsdvl7p0cwl351bmb81qz6jmyss3-nvidia-firmware-580.159.04
@@ -426,7 +426,7 @@
 /gnu/store/gvq66rgp1cvvgmwb3wh2fi7ymilngj4v-obs-with-cef-nvidia-32.0.4
 /gnu/store/h6ax2aw3lbyj2r3ip67frkz94fg1ndiz-obs-with-cef-nvidia-32.0.4
 /gnu/store/hxk415pdad06svllzzry800n1jb4na6p-omnisharp-1.37.7
-/gnu/store/vd8ybdhdhm6lwp8vhh5l6nad8fcnhmas-playonlinux-4.4
+/gnu/store/1ca0fs9gjsmn0h56qkzrf3yvw7jff6kr-playonlinux-4.4
 /gnu/store/80hiscj6rprya25f8jx4m92sdjyrbkhn-protonup-0.1.5
 /gnu/store/dap7sqhrf5yy1p8vbl8gcv0ab2zsy621-protonup-0.1.5
 /gnu/store/nkci6sf92cil6zdb1i50r6hf1vkimdck-python-nvidia-ml-py-11.495.46
