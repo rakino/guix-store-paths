@@ -11477,8 +11477,8 @@
 /gnu/store/3sb3sqca7lgfxsnj2y1md7kr2ii1in3j-endeavour-43.0
 /gnu/store/8qr23rxbaaf64swxd1d9dinyaxc81dmd-endgame-singularity-1.1
 /gnu/store/gqdcplv7bqblssrz41pwbqnshv23cp11-endgame-singularity-1.1
-/gnu/store/785sm5ach3prds32zfs21a766rlv7yqw-endless-sky-0.10.16
-/gnu/store/w6rijxzckx9d53p3b4fz5kn6ybvjbfs6-endless-sky-0.10.16
+/gnu/store/a95bxq1lkwbdd3g62ij4cw8bnyn9zf3a-endless-sky-0.11.2
+/gnu/store/hdbzlg10mdfb8637pjp0vyyld511pk2k-endless-sky-0.11.2
 /gnu/store/4k8aci1bz5r47skfkvknm76adsssy46j-endlessh-1.1
 /gnu/store/5b5p4gwxsha5jx1b034b3fccw9km9xdl-endlessh-1.1
 /gnu/store/1pbc30qparb9im9191imhwr5s3d1jm7h-enet-1.3.17-1.4cde9cc
