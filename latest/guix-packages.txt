@@ -9819,8 +9819,8 @@
 /gnu/store/wzk55g0856laailvakpwq339vdscpjdf-emacs-magit-annex-1.9.0
 /gnu/store/j1phf3fl0xwmm1pfknrrm15b88dq5zw8-emacs-magit-delta-0.1-0.5fc7dbd
 /gnu/store/z7lv9l2hj9095jj6xp9k1b5j04n0vzib-emacs-magit-delta-0.1-0.5fc7dbd
-/gnu/store/877q0cifzzjlrs9fs3z6w9ah8fv3f4w2-emacs-magit-difftastic-0.0.0-0.1e2a1f6
-/gnu/store/hqxnlbxvx8lmv15p3nmmn9a6wvjkv5wx-emacs-magit-difftastic-0.0.0-0.1e2a1f6
+/gnu/store/025rvbvjxp82ch33gp34jyvldvm0s0d5-emacs-magit-difftastic-0.1.0-0.925cc8f
+/gnu/store/6jg7imgjk906fyap15afq3n3qb5b63k2-emacs-magit-difftastic-0.1.0-0.925cc8f
 /gnu/store/ai5v9jfk0q5777zb1skarbj4hi2mjkkx-emacs-magit-gerrit-0.4-1.a975215
 /gnu/store/pvzwf9is890mi50lzwr098zjawx8b0ny-emacs-magit-gerrit-0.4-1.a975215
 /gnu/store/4028cnyzq2wcgj0csis40pgy418zyhj9-emacs-magit-lfs-0.4.1-0.cd9f46e
@@ -25563,6 +25563,8 @@
 /gnu/store/qfhjiphvxdxg5llv23fsz9gk0sis07c7-kcgi-1.0.1
 /gnu/store/2167ay5h33801y5fjj102hvs0j6snx8d-kcharselect-25.12.3
 /gnu/store/60qasza0f1lnc6y51s0b9hixpva2776z-kcharselect-25.12.3
+/gnu/store/4ylwgzd27qrqv8f8dg4p2vy1a1v3hnks-kclock-25.12.3
+/gnu/store/hdp6ianqigs3ak4c02b356f38r5w1ffa-kclock-25.12.3
 /gnu/store/i9ll4crk4pzr9kbdihk51kwh65hpvc6q-kcmutils-5.116.0
 /gnu/store/zwyck2gd3qv4ah9fkvsxvzh5mpjcwngq-kcmutils-5.116.0
 /gnu/store/fdzbby9bik3n4npqij0hygkrqpsiiza9-kcmutils-6.23.0
