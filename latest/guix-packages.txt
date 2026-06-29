@@ -9345,8 +9345,8 @@
 /gnu/store/wbw95aszclq1y208q4y4hbasfb7df92x-emacs-heaven-and-hell-0.0.5
 /gnu/store/9gdc2bkbksc9i1higbcbrwlyqiszkrdp-emacs-hel-0.10.0
 /gnu/store/sayhqb90dc471ikldlj5ndq1fzzbpibq-emacs-hel-0.10.0
-/gnu/store/ix9hcb39wqlvf49svmrnphspvkcnnrhr-emacs-helix-0.9.0
-/gnu/store/rms9yi0hv8gcbzlpj16aiigk4aqid0z6-emacs-helix-0.9.0
+/gnu/store/0kfa7bl1va0zxaax5dirzw8zg4nwjdwn-emacs-helix-0.10.0
+/gnu/store/c0vl2z2zm9r18i5cm9rbw1x13qfj4l2z-emacs-helix-0.10.0
 /gnu/store/k4llqrv46604f2yfsbfnff75ihrarnyp-emacs-helm-4.0.7
 /gnu/store/v5ksg9ksxy8r0dvmwr848b337kqcydis-emacs-helm-4.0.7
 /gnu/store/10c8knw3gxjmwsf4gzv90rz5v00m1f78-emacs-helm-ag-0.64
@@ -24556,8 +24556,8 @@
 /gnu/store/wfw2fqm6pbi2db4shjcv8d7v6rmc20b2-jbr-25.0.2b329.72-doc
 /gnu/store/6a3py29rcwngq9jkicgdlwf7hkianmsn-jbr-25.0.2b329.72-jdk
 /gnu/store/gpqpvmy0v3zfz59a6nxy59sgvm816cj2-jbr-25.0.2b329.72-jdk
-/gnu/store/mqqkhkgzv7250qza52yydh15yvp85jch-jc-1.25.6
-/gnu/store/pz9zkwyvqzvd8yjv8g0rdnwgdhj00d94-jc-1.25.6
+/gnu/store/hrj0w08ihm48458pl0qkmv56768ldlr3-jc-1.25.7
+/gnu/store/v6w21zidh5y8nlwr34dj0h00la8wzrxb-jc-1.25.7
 /gnu/store/mq3j7j7im31187f1p73rhmdzfjmxc4dr-jed-0.99-19
 /gnu/store/v85rpxmfkhn9lyvpi2gfmpqwfxny1l1n-jed-0.99-19
 /gnu/store/95ds7hsxn9q5blmgc9cnfrvcbm45bh4x-jekyll-4.4.1
@@ -53295,8 +53295,8 @@
 /gnu/store/y2khiqy2apf6pbrr064p458g45cqw2h7-silc-toolkit-1.1.12
 /gnu/store/clmg1yxv7dj0d232m3iy1r4rb6w4yzjj-silkaj-0.12.1-0.dabe484
 /gnu/store/r7v80zd974qy4b75dbb6q4293ndhzs0j-silkaj-0.12.1-0.dabe484
-/gnu/store/99chy36276yfmm2awgrrjzzkp6vdhb7v-simavr-1.7
-/gnu/store/iv7vwzd7n8c8ly00ggk9ib08xf968wqd-simavr-1.7
+/gnu/store/6kfw7bxmgrr41cndhszx1420nb59flpw-simavr-1.8
+/gnu/store/fp24vqz7qx52b1kbvnmjksypczbk0s00-simavr-1.8
 /gnu/store/4aqcna952is2sqm1scn5pwgs443kx73c-simde-0.8.2
 /gnu/store/f08wikpxs6aiwfgjf7gfnagcvcgzpps6-simde-0.8.2
 /gnu/store/58bfsn3x5w8000ckyn1127kgbn50bia5-simdjson-4.6.3
@@ -72945,7 +72945,7 @@
 /gnu/store/spyb0yrk8zanjf2jby85ahbb82nrkpf4-thefuck-3.32-0.c7e7e1d
 /gnu/store/qvls896x8nn7pvgay3ldi1isdiy4m4fi-theorafile-0.0.0-2.ea5fd6d
 /gnu/store/ym04jg9fl95n61y5msjwms6j318a7n41-theorafile-0.0.0-2.ea5fd6d
-/gnu/store/mdp979jfd9d8vlqkw1h2xhp6icj19jx7-thermald-2.5.11
+/gnu/store/dbs2ya13n9wfi1i25769yiwaj0gwjjk5-thermald-2.5.12
 /gnu/store/4jh5q18ax02fhhfq2daq02f1zjq6mhs1-thin-provisioning-tools-0.8.5
 /gnu/store/p7c9apa581kgl51riam4xskh209pma8x-thin-provisioning-tools-0.8.5
 /gnu/store/765bylfzaa4sr8wdq2063j9jqqjs4pf1-thinkfan-2.0.0
@@ -73198,8 +73198,8 @@
 /gnu/store/gh2qjpgmzsjds6ycl426hki4dd0iklrl-trayer-srg-1.1.8
 /gnu/store/1d4swndn7b1l5745q4yg7js8dd8qqz1z-tre-0.9.0
 /gnu/store/83smqncf8sm15d0qaxy6p8aabcsz1yzj-tre-0.9.0
-/gnu/store/6y4iz8zjp2q2286wb0fw7pr9mcjf6vi8-trealla-2.102.42
-/gnu/store/vwhnn2ikib7bkww3iq674g4rbybqx61c-trealla-2.102.42
+/gnu/store/6xa102rfrbs8hapjcc3ad70sakjxcd56-trealla-2.102.45
+/gnu/store/7kb1c36lwn87s9w7c5arxa2vsx6ch296-trealla-2.102.45
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/vwf9bpj3kyzy5pfiiqy08qqjndxdsi07-tree-sitter-0.25.3
