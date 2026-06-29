@@ -21588,8 +21588,8 @@
 /gnu/store/xvbd3r70vx5ks9fyh6p18cx3ry6qr61b-guile-cairo-next-1.11.2-0.30da459
 /gnu/store/5qjhpf1vji236l2x4ixa83cyzhc47zp5-guile-cbor-0.1.0
 /gnu/store/gpx7l1qq0f0zhxw5029v7plwrdx4fqby-guile-cbor-0.1.0
-/gnu/store/j3qi6q4lv3vdm5jf6pd8f0qx6hbipfav-guile-charting-0.2.0-1.75f755b
-/gnu/store/mzyhw0s6jl6b9x1llz1nsklxh4ybvicr-guile-charting-0.2.0-1.75f755b
+/gnu/store/l5qpkvhi3gn6bixrg66lhpvm8vwlr57m-guile-charting-0.2.0-2.72c148f
+/gnu/store/vhbwfi375jmayg51r835758nyn5hmxsa-guile-charting-0.2.0-2.72c148f
 /gnu/store/h9x643gp2ja4r0dfk3z0bcqqw7ixyf6n-guile-chickadee-0.10.0
 /gnu/store/skicgf66b9c62ilrpnaqw15yg2bdwv4v-guile-chickadee-0.10.0
 /gnu/store/n71vnzhfcdk923qgsz9hdk3939lfmd4l-guile-coap-0.2.0
@@ -21977,8 +21977,8 @@
 /gnu/store/lg5bdlqh9nr10inra4df95qwhi209vi2-guile2.2-bytestructures-2.0.2
 /gnu/store/bf4x15bhbrsma14pz3sndd1h4nrp69x9-guile2.2-cairo-1.11.2
 /gnu/store/rg7vpj8qixyhbaa2qp2l4m4r9brkznz7-guile2.2-cairo-1.11.2
-/gnu/store/hxkpsznd5901x9vcsqwj0r86skdc403a-guile2.2-charting-0.2.0-1.75f755b
-/gnu/store/lchgnlihl8c58xgfazh5z16flcwy6ahg-guile2.2-charting-0.2.0-1.75f755b
+/gnu/store/1fdqrh38zqg3k7arrhh71j9dwn8288nw-guile2.2-charting-0.2.0-2.72c148f
+/gnu/store/snx2b1d5x9n08qaxskjdw8l7rzh4wfqa-guile2.2-charting-0.2.0-2.72c148f
 /gnu/store/61bxpn9jkdaajkhydhc5h2yvs8cx9fnd-guile2.2-colorized-0.1
 /gnu/store/qqfyha1w96mkrp7bm94hz8bd0pnfbp49-guile2.2-colorized-0.1
 /gnu/store/as32b0269y83j3xw379npj0bprhcpfkw-guile2.2-commonmark-0.1.2-0.8ebb304
