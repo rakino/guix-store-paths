@@ -5213,8 +5213,8 @@
 /gnu/store/jwdavswdikczqrgxz5v1v0aw543mihb8-devhelp-43.0
 /gnu/store/wb8h1dcxz9ixln0ry35ngypcfh0msn1r-devour-12
 /gnu/store/yayi7s3s5vw70j3zcrrxqps1p0v73iqj-devour-12
-/gnu/store/67x8nk0rkgyqbg3n69mq6k9p4918qpdx-devours-3-0.d50e745
-/gnu/store/9qy1pizl1dimccparibizdm5zpm2l2mc-devours-3-0.d50e745
+/gnu/store/k42jz8mnrrmp044sw2jadckm2md4ymhf-devours-3-0.d50e745
+/gnu/store/p36cnsx817r8v2p0y1p529grg4sb21ix-devours-3-0.d50e745
 /gnu/store/5w3078zfr18scf88d4g5xay4j1sy7m8w-dex-0.10.1
 /gnu/store/8fvmlj34j30zr6chd5njblij87nc2src-dex-0.10.1
 /gnu/store/cg4d8ybn0wl14p0z4dqdg23kvj5al5b1-dexed-1.0.1
@@ -31922,8 +31922,8 @@
 /gnu/store/bhrykf7skhgbq6wx4dwi9gjxx0ns00xy-openpmix-5.0.10
 /gnu/store/7v7pqj8y6h84y7n4lbqa8ncam0amk4yq-openpmix-6.1.0
 /gnu/store/x9pkxnbpqkcwxhn88ajs17x4ziz0c1c5-openpmix-6.1.0
-/gnu/store/mdpbgrrzk386kpm8ag2wczpgr9w85hab-openquest-0.2.1
-/gnu/store/qkvqg9cqqi7q0k93irrc20mcwy7zr26c-openquest-0.2.1
+/gnu/store/j06m3d6qikqh1j1l2xxg6b4gndci46yx-openquest-0.2.1
+/gnu/store/skl2bg646ssxh5ipqs9c9nbzsnh643lk-openquest-0.2.1
 /gnu/store/5j3xayclz52pbmp2m3kzsgy3bqrrni2z-openrct2-0.5.0
 /gnu/store/7bjqy4j26wfv256yinflqyl0j5nrprc5-openrct2-0.5.0
 /gnu/store/4anli2nnzn7n18zky1a43hvbxgn0ykyg-openrct2-objects-1.7.9
@@ -52975,8 +52975,8 @@
 /gnu/store/kcgxs2fr3bjlk359ich8vi4cbss8w6ax-sct-0.5
 /gnu/store/fjckah1a8cs650cf962vc98q843ns7ka-scummc-0.2.1
 /gnu/store/jhf1qjpa2b7m36nji60s4a0ai0jzzh70-scummc-0.2.1
-/gnu/store/67kghpbdgxssryr332axnbridikc217x-scummvm-2026.2.0
-/gnu/store/fgwr8ai4c744ps4wi8s2hjvxbrb14qc7-scummvm-2026.2.0
+/gnu/store/4vrwbhks6pq0ybhy3b1kxz6609hhdbv5-scummvm-2026.3.0
+/gnu/store/zl48vibnrxhrcbsjkzv7iw1dkgkxbg5g-scummvm-2026.3.0
 /gnu/store/3lrww1ymj6cc8bfyqccdsi8l5rqlaz7x-sd-1.0.0
 /gnu/store/6acq7ylj0zx62a2c95x2447ycvmpc6jq-sd-1.0.0
 /gnu/store/0r0hnd0av2az5pp2amzxrk4szw93c843-sdb-2.4.6
