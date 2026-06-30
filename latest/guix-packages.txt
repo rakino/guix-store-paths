@@ -26693,6 +26693,8 @@
 /gnu/store/zyhvx4ippw0lbzckd03wj4f7jar37dfl-libdmtx-0.7.7
 /gnu/store/4z95vkb351jcnbglpwbghalpj5igjksv-libdmx-1.1.5
 /gnu/store/hd9zqsfral5i22vk7y1h93snmvf0ygcb-libdmx-1.1.5
+/gnu/store/63jpq7f4lnj0vwr6iq8h8a23v6igqf1r-libdnet-1.18.2
+/gnu/store/hikj3rlk5dika8z370hqqxr3dwwab8mn-libdnet-1.18.2
 /gnu/store/r5nhnfq8dz84ja359x505xih8c0pkxab-libdom-0.4.2
 /gnu/store/x6svanrirdppljqchs9r8jx3gfndy903-libdom-0.4.2
 /gnu/store/5ihmdv8gpriaz0273k4f9445f3ccf8zs-libdqlite-1.9.0
@@ -29588,8 +29590,8 @@
 /gnu/store/gca0n1xl8xjzv1xb3rxwjqd562ixyg3a-minidjvu-0.8
 /gnu/store/ikk7di2dm0bni9604nivc4klbbfrg9qf-minifb-0-1.43f8c13
 /gnu/store/vaa5qn2w5msncl1gjl85vp4ddh4chg77-minifb-0-1.43f8c13
-/gnu/store/8994macqrmarl8gvsnjw7909wl5180kr-miniflux-2.3.1
-/gnu/store/9khcm34cpsgakmsq1fh49i1daz78q70f-miniflux-2.3.1
+/gnu/store/g6kvjw1r7ijsaa4a578r55a8nz59lp89-miniflux-2.3.2
+/gnu/store/wh35jyxnmw6hsg7dy1f89j8r93p85zdw-miniflux-2.3.2
 /gnu/store/hzn2x67h514f4xlwr24kvi6siwv85hzf-minimap2-2.28
 /gnu/store/rsmc9kvv071g67513m76pxxqvsvc8p4n-minimap2-2.28
 /gnu/store/8dpa5w75x7z3sw2b8qcr8zsfzfcynj3w-minimodem-0.24
