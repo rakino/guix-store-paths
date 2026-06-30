@@ -49280,8 +49280,8 @@
 /gnu/store/pcdhimmzhgk48h3agrga737q1cpwp7x0-rttr-0.9.6
 /gnu/store/1mpzs3iq122szvccndzl461jsh28g4gf-rtv-1.27.0
 /gnu/store/k4p2gpsvvba8msg8r2vg9dvbf0hpxcn4-rtv-1.27.0
-/gnu/store/p1jg1l8jixw5s3n38fgi83fnvn2mk7d7-rubber-1.6.7
-/gnu/store/rfy5sbvpgvsvmsk9clv3pzp2lq560qwr-rubber-1.6.7
+/gnu/store/4inp53jjjbajhdz396kwx3zzldpb3rv3-rubber-1.6.7
+/gnu/store/4jfwx5dkjzszcklhhsm6ws526q04yqs2-rubber-1.6.7
 /gnu/store/f30vkbwnfxxyzsb1fmqqna9cyrn0dyw9-rubberband-4.0.0
 /gnu/store/s57ab9q7v39rx3mb5hiclc3nj061z6f1-rubberband-4.0.0
 /gnu/store/bk560aqhrivlx4qqv2wm7rbfqr2hsgw2-ruby-2.7.8
