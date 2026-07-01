@@ -13154,8 +13154,8 @@
 /gnu/store/vmvm8wfym7fxn55x4yl4hwnwzvjyq0fm-gallia-2.1.1
 /gnu/store/1aaw8mzg4s5qyfhw1qpsmgnqz6s72nsa-gama-2.33
 /gnu/store/7vph43kr9bqn72mxlgylz56qfc7bl03b-gama-2.33
-/gnu/store/840a9w246brvvhrl53car2pyycm421fs-gambas-3.21.1
-/gnu/store/xvi9niw76r5z2qxm9bqi8hzk7piixbn8-gambas-3.21.1
+/gnu/store/7ldl5y5krz04p9vhr144m98z05nv3cdv-gambas-3.21.6
+/gnu/store/91z2nwzcpsb95y1y01qdvnbbs4aw2ink-gambas-3.21.6
 /gnu/store/h43782hyi0yjdascvgj8q1hyrx848dw2-gambit-c-4.9.7
 /gnu/store/zk5swypq6h0rrfb5sq6kmm1zmfm125gi-gambit-c-4.9.7
 /gnu/store/ahbqnnym1f8mjaqb5kfsak7z8fsjgm1k-gamemode-1.8.2
