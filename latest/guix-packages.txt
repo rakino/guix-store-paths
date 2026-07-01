@@ -5281,8 +5281,8 @@
 /gnu/store/bdy8vpj33ppw9sqvwhz7n6in3ww984zv-didjvu-0.11.0
 /gnu/store/d4hvwybawg1qnh7r1arc2dm8149nrsrp-diff-so-fancy-1.4.4
 /gnu/store/k38rqhsr2c3dz3i5k7434i7xqn0iqnfv-diff-so-fancy-1.4.4
-/gnu/store/5kc64gjyjkcg4qdwz72q7jqz8f9f521i-diffoscope-321
-/gnu/store/zjv3qakjvzcyxbz6ass2b9xb3z40pwzk-diffoscope-321
+/gnu/store/j0q44x6lq7r7xkas5rd8psa6dd8ah63q-diffoscope-323
+/gnu/store/knj3nxmjzhxakv769rlmia5cmwnhzadn-diffoscope-323
 /gnu/store/2r91wm5zw637mavpbxf4v0sgz86xbnq0-diffpdf-2.1.3.1-1.ba68231
 /gnu/store/ybfv5pi7asl2v51jdf8xdm742zh3mb9m-diffpdf-2.1.3.1-1.ba68231
 /gnu/store/lgbmsmkaqn0l4yj9d71bcn2b5g8pzsr0-diffr-0.1.5
@@ -29670,8 +29670,8 @@
 /gnu/store/sn3hmvvplnypipsz3zpsqihcmpdbzjw1-mkvtoolnix-97.0
 /gnu/store/ljylp7xxz1h94p0fgabmz9x8y6wkl0ff-mkvtoolnix-97.0-gui
 /gnu/store/xi8hy1vfmjl3590kl5wix533vlzszsaw-mkvtoolnix-97.0-gui
-/gnu/store/av21vbls15pdap5gfx9svrsn2f0f34m9-mle-1.5.0
-/gnu/store/nd6i517ifl4pzvy8p3g3s45520170ygr-mle-1.5.0
+/gnu/store/81dmcyq4lawznic4dbanhx96kwv2fggb-mle-1.8.1
+/gnu/store/9vg578ji85af40c9dac9xdfcps6ms0wb-mle-1.8.1
 /gnu/store/gs1vi3i25b296zcc8cknsqnjy292s0bd-mlir-15.0.7
 /gnu/store/zn0p4g8ijk2qryqsmjgns73a2mq900r4-mlir-15.0.7
 /gnu/store/pbd8zg0fn6ny60yyi9q3vzw8wg098r4b-mlir-19.1.7
@@ -49002,8 +49002,8 @@
 /gnu/store/zrjfs8lzambjx0sadk6bfi0b0wyk82xb-reprepro-5.3.0
 /gnu/store/4d960fyf7ibmp93alpmyq2s1pxczz0rv-reproc-14.2.5
 /gnu/store/kxgbccxdmkkbmwfmjhkahwj05clnfka5-reproc-14.2.5
-/gnu/store/76vbl0sm1xz2kdi4srw1z1mx1vz5461m-reprotest-0.7.32
-/gnu/store/h6yzx1mwq6jbn3rrc8ji2963y93cn7g9-reprotest-0.7.32
+/gnu/store/v49msn1rgf4i9q86r932k0pxvc8qsxin-reprotest-0.7.32
+/gnu/store/wv3l2lax655sc98q7vg1lfsshaxkzwc2-reprotest-0.7.32
 /gnu/store/7six0mi48xxnwli7zz4awps06k1cm8bd-reptyr-0.10.0
 /gnu/store/nb6hzq4mpyxrf8kfa7ncgg2dg4cs5d0m-reptyr-0.10.0
 /gnu/store/2h4cn1s4612zjcbsl0njn90v7yj619bn-resample-1.8.1
