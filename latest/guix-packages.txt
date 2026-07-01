@@ -4709,8 +4709,8 @@
 /gnu/store/sypwdvxj3n5avbbp98pk3k09np1yx6hm-config-0.0.0-1.c8ddc84
 /gnu/store/yd4vgzsr30w6in54vgpr99vs2kv0drkl-conflict-20221002
 /gnu/store/zm0kqm1310pci4mfi2fhsvs83mvrc49z-conflict-20221002
-/gnu/store/2jv8ybh39r0c9rzcrin6k2my86zlfvci-confy-0.8.0
-/gnu/store/s2vvs1z7fdk3ljbsbccvlcs8ggn4krp2-confy-0.8.0
+/gnu/store/ilgl2fn6ah38rkbjyqrhlbfs03d01va3-confy-0.8.0
+/gnu/store/xyhyy58rr42rqyhkxajwsgir5gy5k3iz-confy-0.8.0
 /gnu/store/kz53xakczg0mnamg7aqzgikccnl38zfl-conky-1.19.8
 /gnu/store/n3c1vrva8fn7kgz6lkixf7a8g1i63mka-conky-1.19.8
 /gnu/store/ccp0v5arh8c4sgpk7x5q88lpgl7zbvyd-conmon-2.2.1
@@ -4735,6 +4735,8 @@
 /gnu/store/426hlgph2sgij1c6lhc9wsiz61ga1nax-cool-retro-term-1.2.0
 /gnu/store/9ls7msp2j0kpfjgdyv5dw31qkbf138an-coordgenlibs-3.0.2
 /gnu/store/zlxr91cmmqc5bdm9a54a9k1158c2150h-coordgenlibs-3.0.2
+/gnu/store/bl4f76iqb4k925ipsaj3kqz3al8j0k5l-copyparty-1.20.16
+/gnu/store/vhq5xr2b32zvhhvq1c9gk96i7fq0vhyb-copyparty-1.20.16
 /gnu/store/0ifpnyd1mi2fdcfc0zzvshc87wn67lp9-copyq-13.0.0
 /gnu/store/gf67zpvw044z3wnd925xff772bfqjzca-copyq-13.0.0
 /gnu/store/g16paajvy090clzakhijnm57kl6a3dag-coq-8.18.0
@@ -9673,8 +9675,8 @@
 /gnu/store/qcn1k6pxyymw61f9jmi6cvj7li1s5igp-emacs-keymap-popup-0.3.0
 /gnu/store/08iwc9ihnv03rnplihwkbljw1dx9f7c2-emacs-keystore-mode-0.0.1-0.43bd592
 /gnu/store/rwm5jgk6jdkd6qws8q5vjvrnv7bq0x6y-emacs-keystore-mode-0.0.1-0.43bd592
-/gnu/store/gapzvv6a8wgcl7g2lfhs1szqwdhflb1h-emacs-khalel-0.1.15
-/gnu/store/kwhwzccn87cj43vikzgxgvszbs0p99gx-emacs-khalel-0.1.15
+/gnu/store/6vc740hhxa5aclswdfx1l4kvi7i87y3w-emacs-khalel-0.1.15
+/gnu/store/yxqi9n14h1vsi370jvi82p3ays0cl25b-emacs-khalel-0.1.15
 /gnu/store/9093crs3f6cl794mwxm8lq776lsz5xfm-emacs-khardel-2.0.0
 /gnu/store/xpsixrqr8h7gddqf1pvs618pinsjn5sx-emacs-khardel-2.0.0
 /gnu/store/1w92hnfwppg68bdwkdislf7djhb63d9g-emacs-kibit-helper-0.1.1
@@ -17371,6 +17373,8 @@
 /gnu/store/dfg1lfnd0ndgi24ljh43imb73dvvc40x-go-github-com-elazarl-goproxy-0.0.0-20241221210044-9faedc2f9e9f
 /gnu/store/ipny67l8zm3p96k3mi9gajw2igmyg0c3-go-github-com-elgris-jsondiff-0.0.0-20160530203242-765b5c24c302
 /gnu/store/pjspf4chlbcsglrdjs4qnnyxzv6nmiw7-go-github-com-elgris-jsondiff-0.0.0-20160530203242-765b5c24c302
+/gnu/store/hypnnp2f64qkdwmz96c0gavdxnxh6h7k-go-github-com-eliben-go-sentencepiece-0.7.0
+/gnu/store/yzjc3xsgfif5na42hn0krykdrsyy3msf-go-github-com-eliben-go-sentencepiece-0.7.0
 /gnu/store/kk9rbz3p4nlpddnxb55n8md5k691avzz-go-github-com-elithrar-simple-scrypt-1.3.0
 /gnu/store/mbyz531bzmjfli8p3mbns4bvy0rgghxy-go-github-com-elithrar-simple-scrypt-1.3.0
 /gnu/store/206r4kh22xxsl0mml3wj1in5bxklh81j-go-github-com-elliotchance-orderedmap-1.6.0
@@ -25750,8 +25754,8 @@
 /gnu/store/wnk7fc7cv57yapqmqwcvbsp82aacsdaa-kguiaddons-5.116.0
 /gnu/store/a30kywvdikmcmi02jmxp2zr8j914h2l3-kguiaddons-6.23.1
 /gnu/store/cb0fk408z2c9agq7ma0s9rg4398lzwly-kguiaddons-6.23.1
-/gnu/store/bnwkva1fngrhmfsjpjj47v5h95lpqg5l-khal-0.12.0
-/gnu/store/sgmfnp8za8skj9lj8av48b6cgxdszchw-khal-0.12.0
+/gnu/store/230l856bc1fham042mki8kzlgv19zr92-khal-0.12.0
+/gnu/store/xkxjc9pbbd28i59jzk2y7wvmidhbfz0n-khal-0.12.0
 /gnu/store/1y7kdx6hxqkancfsy77wc7fxk7rlvccf-khard-0.20.0
 /gnu/store/wzzmzrbfyd6i5prdibh9ywxwqplkvqz9-khard-0.20.0
 /gnu/store/9c5hpiasp57fr4zz99va2x02yiqx6zdp-khealthcertificate-25.12.3
@@ -36648,6 +36652,8 @@
 /gnu/store/lz4kihbxcjr34sa8pnjwvyph6xg2wpkj-python-dnaio-0.10.0
 /gnu/store/9vmp2fb91b730rzrr0i9mm5dddngj3xc-python-dns-lexicon-3.21.1
 /gnu/store/ffai40d1h29rc4riicvn5zbfz8pif4j3-python-dns-lexicon-3.21.1
+/gnu/store/1g5d44w2g0636z4s9338ylj4lp5y02dq-python-dnslib-0.9.26
+/gnu/store/75fm72ni7ai8l8lad9sgl5prx0si0dyk-python-dnslib-0.9.26
 /gnu/store/sqr57w5wycndihgqji21ayiij9zbpss4-python-dnspython-2.8.0
 /gnu/store/v03bnhb2syswhac4yj5x5na90z9qr39x-python-dnspython-2.8.0
 /gnu/store/8g687089bsl6hrzyjk8v7nnfdax2mhfq-python-doc8-1.1.2
@@ -37635,8 +37641,8 @@
 /gnu/store/jzs3ff1av4vxg5c00ifrk5nzws6lkcwp-python-i3-py-0.6.5
 /gnu/store/1jzx2gla3mk9bsiw73wc162s6qrfhpb3-python-i3ipc-2.2.1-0.a670f24
 /gnu/store/440gdg6w5jjf3x3a7zs71avbj43pia8m-python-i3ipc-2.2.1-0.a670f24
-/gnu/store/6q48dpk0k8q9ajpcx1x0rbzpadjrx19f-python-icalendar-5.0.13
-/gnu/store/a5j4sjimx3ik4m8brqwxsyb5dswdaxkl-python-icalendar-5.0.13
+/gnu/store/4849hnif9jdadwm81xvjgqbq0rw4i093-python-icalendar-6.3.2
+/gnu/store/9qr0d4n52rxdgkajnhyvixw1imf2wnfb-python-icalendar-6.3.2
 /gnu/store/m05zhrpxy1cnrb156ar38pzzaz2ky2mk-python-icdiff-2.0.7
 /gnu/store/n3k4zaab136wnhpzl1i59wpb2q2jjlwj-python-icdiff-2.0.7
 /gnu/store/85ai6r123l9ahd54f1xa3yaxd77rqkn1-python-icecream-2.1.9
@@ -38417,6 +38423,8 @@
 /gnu/store/wxq0yfga1qjnj9y10drgns7cs9w8101h-python-metpy-1.7.1
 /gnu/store/2z929mvbxikkxx18q91zd0par3d7zpk0-python-mf2py-2.0.1
 /gnu/store/s4b3dnb67dk2vhakaick48alvx3w8dgc-python-mf2py-2.0.1
+/gnu/store/5vmhs8szjxpbqjpfjfzj5l1m9d02izvv-python-mfusepy-3.1.1
+/gnu/store/b5lb1w6ckv2kmn7055w7v8ilzpm2z2h4-python-mfusepy-3.1.1
 /gnu/store/6k9fllx7r6j2ppbnaq82nglq1rpn52c7-python-mgatk-0.7.0
 /gnu/store/kcs0mnclv4jvdvhcq9kfaqzx1r6fpi4d-python-mgatk-0.7.0
 /gnu/store/6dvrfmzv9bmn6y58w8i2z1i7pamgzfgv-python-mido-1.3.2
@@ -40354,6 +40362,8 @@
 /gnu/store/77vj1nnipv8126p2a0dx60qv1z2rdrqp-python-qnorm-0.9.0
 /gnu/store/1dv72lj4sw07rr8il9fq4yn6q1wzd3z7-python-qrcode-8.2
 /gnu/store/lyc4hv7fiy8mpbvyb23qw2sbvq103xq7-python-qrcode-8.2
+/gnu/store/753lnhs689d91d8qjn7qnjhkggqmhf0i-python-qrcodegen-1.8.0
+/gnu/store/vgbg5q41iw3jwiykl1y7h603h4r0y2p2-python-qrcodegen-1.8.0
 /gnu/store/0zb57aybhkxzs89nzhxhc9k8758cyvcb-python-qscintilla-2.13.4
 /gnu/store/haggvd1g4zqk6nkb3p3j2i20spamaarp-python-qscintilla-2.13.4
 /gnu/store/41l4cfqaxrmgkm8y2sf8adhj8r08y2yz-python-qstylizer-0.2.4
@@ -73128,8 +73138,8 @@
 /gnu/store/sf17k1p72xfmx669h1nkig3vviwh20cy-tng-1.8.2
 /gnu/store/14qdd1nqpm7bm9frs2wvjni40zxckip2-tocc-1.0.1
 /gnu/store/fh3l2spr9hlaqk26z95xd005pbcr8mfp-tocc-1.0.1
-/gnu/store/0h9gc21a39hv8ax5wqlwym24y21sn0rf-todoman-4.4.0
-/gnu/store/w2kzvzw3gyqvm2ihrnvmgxsvigfh92g1-todoman-4.4.0
+/gnu/store/0bjsxm9j2fd7pspvg3imkwdh8c0in0rs-todoman-4.4.0
+/gnu/store/3f7kgwm0dpf50rm00ngavk2jn5bk6400-todoman-4.4.0
 /gnu/store/vfgpli3xmbs41dkq79jzghrr50k0yqpy-tofi-0.9.1
 /gnu/store/wkqmbgbvcqjca8j4ccbpi2y0d53v13nq-tofi-0.9.1
 /gnu/store/1994s2nrn57dmdvpyvj8xyp2x2224fka-toilet-0.3
@@ -73215,10 +73225,10 @@
 /gnu/store/v5xggbv6l6azfyh5j0hj04qw2m7dpps6-translate-shell-0.9.7.1
 /gnu/store/4qp5nzzxxq7wvdkpm6m6kjccfm61md56-translate2geda-0-2.2ec576e
 /gnu/store/r0qx1sgzd7sxrgkv6b1136w5smdbzb26-translate2geda-0-2.2ec576e
-/gnu/store/2nnj9a6ah53l899qkpnv34dil56jd7w6-transmission-4.1.2
-/gnu/store/7vad82mgdj333imijrxkjknvqprjjkl2-transmission-4.1.2
-/gnu/store/77c3v28rfvmwxp475wr5gh4lp9adswvx-transmission-4.1.2-gui
-/gnu/store/kzymiqk11ki2c82y05d7aj2wbwyli3cq-transmission-4.1.2-gui
+/gnu/store/8qcwx5hfvic5h2c3bqhzhmvjs319mry6-transmission-4.1.3
+/gnu/store/r2cwi9j9z86sgmcspazliz8423f65x89-transmission-4.1.3
+/gnu/store/4sda5rgmy4csnmb4qpmdb4bvsspz0m7v-transmission-4.1.3-gui
+/gnu/store/f2bd1a2l6m4bbvr1z4qqsys518cz9q2i-transmission-4.1.3-gui
 /gnu/store/l4n0absnpd2hi57vg78w5f5ivn3q59ib-transmission-remote-gtk-1.7.0
 /gnu/store/rba5zz49yz75q62xzd2wazd0mlhdrdkg-transmission-remote-gtk-1.7.0
 /gnu/store/m2w7jyjvas2rj0j8bi3622mqvyf5slhm-transset-1.0.4
@@ -75596,8 +75606,8 @@
 /gnu/store/0qgwxgsafgd30hcy81d1sjrmynchybg6-x86-energy-perf-policy-7.0.14
 /gnu/store/hyr9c90flg3h93v4wdviw40nrx6bqam7-xa-2.4.1
 /gnu/store/vmqf48zqhkgiarvk6ig1b0gjhfihs84b-xa-2.4.1
-/gnu/store/hig33ks63bzx156jak9arm2iz0mzw00w-xandikos-0.3.3
-/gnu/store/jl78bdgczb7ymd9p0srw8vqhhb861cpj-xandikos-0.3.3
+/gnu/store/k90yxys9dbf4fgqrh30pjfg314vnxaq7-xandikos-0.3.3
+/gnu/store/s4c6f6942cjmll462pmvnjrp7by6sjvj-xandikos-0.3.3
 /gnu/store/34xnm9ggnfdcw7fsxf2bfc2znl8y83iw-xaos-4.3.3
 /gnu/store/w05l4xqiq7d90m63rw8crszqqsg2lfjn-xaos-4.3.3
 /gnu/store/i2ryzld1n47h2pgxqvfdxblnmzcchgr0-xapers-0.8.2
