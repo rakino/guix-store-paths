@@ -22343,8 +22343,8 @@
 /gnu/store/rmnn7rmncjqplcwn9i6l55whdamfdpn8-heatwave-1.2.1
 /gnu/store/f9pxr7c73rdx7dkyfl2f0ryy8japma5j-hebcal-5.12.3
 /gnu/store/yzdpc161askf4pbwpzf08pc218as7jxw-hebcal-5.12.3
-/gnu/store/1m2hhmrka7i34r1yvh3mrl60821rxi92-hedgewars-1.0.2
-/gnu/store/5a92nkdj9q3lwbsfj2agsr0yh150yk2r-hedgewars-1.0.2
+/gnu/store/8c1gdlg3y7c7hns0wvr7yyiirrd4wfpk-hedgewars-1.0.2
+/gnu/store/r8mlq4gmla3ivhw184zfpd6hmk1zq5ra-hedgewars-1.0.2
 /gnu/store/5mpv28wq5i5b16lpy3sgd797l66ja0g4-heimdall-2.2.1
 /gnu/store/608bj00cfwl2kz572qf1z409w03hi749-heimdall-2.2.1
 /gnu/store/77br3lazhyjw7pcgh5hbvwjpfbsjchhb-helix-25.07.1
