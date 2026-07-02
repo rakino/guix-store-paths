@@ -5169,8 +5169,8 @@
 /gnu/store/n0qj5jj8g2d52mkrwgcimqcbspmx9qpz-debianutils-5.7-0.4
 /gnu/store/9p1jk4aa23nsk6rpbiwi81d5jrd11r42-debootstrap-1.0.141
 /gnu/store/xzzhjiv01xq8mar2p8bq42m25ixia3w2-debootstrap-1.0.141
-/gnu/store/680snnmws7an90lapxmn31xrai1f5yfj-debops-3.3.0
-/gnu/store/gx20wwsg81iaqzipmv0nw5jhmfrvvr6j-debops-3.3.0
+/gnu/store/3ili3d2rphwm0afs45abf1dkslj0niab-debops-3.3.0
+/gnu/store/c4qvhvad0fal7fp3as7qcxf9nq75qx4s-debops-3.3.0
 /gnu/store/74finz7vk2d3rjxxr90iv0ab2gq9kpmb-debug-assert-1.3.4
 /gnu/store/rddidq1aifb48q5k4wb9j2crg88ha7i2-debug-assert-1.3.4
 /gnu/store/ifmz223ib5vci6xbf61fic4hkn672fzn-decibels-49.0
@@ -8249,10 +8249,10 @@
 /gnu/store/ff82k3x4jkzsiw00m4s32mnn6j6gxjfm-emacs-citre-0.4.2
 /gnu/store/dqfrvdhcwxpnbs8h6bkb9nn3ymiw4gnw-emacs-cl-print-1.0-1.1a70c55
 /gnu/store/vwmnz9pz24fpyp47lrd5r8y7984dbv06-emacs-cl-print-1.0-1.1a70c55
-/gnu/store/3l3p7sg5idaxl9kr410df4qv7gn3wkvl-emacs-clang-format-13.0.1
-/gnu/store/pbggs9yf3i7sr20kgmqigqr3wz3824kc-emacs-clang-format-13.0.1
-/gnu/store/9fng3fxng16mrqxanqkvxcp164rxvixw-emacs-clang-rename-13.0.1
-/gnu/store/g5kmym27acg047982barn78rrlg3r7gj-emacs-clang-rename-13.0.1
+/gnu/store/05p6frl8qjdfrc2iva8g71w18qdc69j5-emacs-clang-format-22.1.8
+/gnu/store/8mp9911yx008qliymgn48n2y8lb67b5y-emacs-clang-format-22.1.8
+/gnu/store/i1bjxzfvh7gq5bhqz1gg5il11njsg3ll-emacs-clang-rename-19.1.7
+/gnu/store/nk0199lyz7v6y320hkkpvn3qkbybpqk3-emacs-clang-rename-19.1.7
 /gnu/store/0k5h5kcqgw8k8mpdsksk829gch8ni5va-emacs-claude-code-0.8.1
 /gnu/store/ljbj12xy4z1gaqz8s6ijr84fa521r4xv-emacs-claude-code-0.8.1
 /gnu/store/jhp2gywm2hi19rj2l9zpz42rw48jdv00-emacs-claude-code-ide-0.2.7-2.56db02e
@@ -74867,8 +74867,8 @@
 /gnu/store/g7fwlfbcqbpfladr0blx4l0zz0gz0aaj-uxn-1.0-1.f2e8582
 /gnu/store/9w965372pba0fk6kwbwv7sy37r017g5z-uxn11-1.0-0.9483266
 /gnu/store/ij96hq8gif9bz9i210k6nxj0dmvh58c4-uxn11-1.0-0.9483266
-/gnu/store/i3h86fmvbgq0a3xm7k77l6qd2cqn6qjx-uzdoom-4.14.3-0.1458bf0
-/gnu/store/jn63j8803f8yla7lvmqv7fx9z7b0c39k-uzdoom-4.14.3-0.1458bf0
+/gnu/store/c57nas6ihaj5x5viq78ac141liqadxww-uzdoom-4.14.3-0.1458bf0
+/gnu/store/lz7kvnnmni71yp13wf3i8n9d9fqn0c3h-uzdoom-4.14.3-0.1458bf0
 /gnu/store/37d6d8ydx6rqrgva1rxmkq710n0wmp1f-v4l-utils-1.24.1
 /gnu/store/v1dx5cn38p7qvf57ycgam3cr0z6i4alf-v4l-utils-1.24.1
 /gnu/store/id8a630k9y2w7yawx61y1bgbhwjzhvqv-v4l2loopback-linux-module-0.15.3
