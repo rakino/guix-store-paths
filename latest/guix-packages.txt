@@ -12055,8 +12055,8 @@
 /gnu/store/inb8cfkya1m5c5gmmv3n0vqs3r278lk7-ffmpeg-jami-6.1.5
 /gnu/store/f910bwwn7js2cjr0aj8f0qqzms2552nh-ffmpeg-jami-6.1.5-debug
 /gnu/store/wjn3dwica886cljvihcpkbz79kpbdr58-ffmpeg-jami-6.1.5-debug
-/gnu/store/bj4rbjfx2vnkw3lrs2iv3zj4zbc71cmp-ffmpeg-normalize-1.37.8
-/gnu/store/f01q764vk9krdi8ng0m7g949by29cspb-ffmpeg-normalize-1.37.8
+/gnu/store/1f476gfslxx2bkx980gl8ck0zh51lm14-ffmpeg-normalize-1.41.0
+/gnu/store/pcvg04z6xy8pi5vczvvlxfp7nfp966ld-ffmpeg-normalize-1.41.0
 /gnu/store/3mxynblafyi4qxdd353kcw400hb4l2s9-ffmpeg-progress-yield-1.1.3
 /gnu/store/yccxdzcp26i2jmrjfarffbh2zhbfcp50-ffmpeg-progress-yield-1.1.3
 /gnu/store/64vscr06h2rmvrmkngsyqw56alzn1wsc-ffmpegthumbnailer-2.2.2
