@@ -510,8 +510,8 @@
 /gnu/store/ywmcqhmmif0skvy4nf61ch00jyy99nkh-archivemount-0.9.1
 /gnu/store/a599awk3jawj1y86g2czjf611y8xyca0-ardour-9.2
 /gnu/store/qcyxwfnlvy4lp4ly833ic3kwznfszzy4-ardour-9.2
-/gnu/store/2v5z61b42w2zswfh61aqb23drnq4r2ym-arduino-cli-1.5.1
-/gnu/store/ppryn6ixhih9bc6bq3wp03c56b26adr2-arduino-cli-1.5.1
+/gnu/store/d1phm5irp5iq1mxg3knzgcfli8gzv9hb-arduino-cli-1.5.1
+/gnu/store/r9wnkxgdqfc0wgw53chsqg15k1q1bs5x-arduino-cli-1.5.1
 /gnu/store/65n6ii45v4b3xd41gsp9xg2592wfippv-ares-147
 /gnu/store/rw4vh0zsgcq96nf18krh85ls2cg75c51-ares-147
 /gnu/store/hh3b43ih0dihjyhgdg7r7hrk0glakn9k-argagg-0.4.7
@@ -585,8 +585,8 @@
 /gnu/store/lgsi0mbgbaqf6ixs2plzj6aldg72yy28-asco-0.4.11
 /gnu/store/cvyrkk9w0bdb0gpj42byqb6wbgnf2pa3-asdf-cli-0.2.1
 /gnu/store/mw5akq4b4761ph1yakz2vf78vzpr5vp8-asdf-cli-0.2.1
-/gnu/store/jmfzscb22i83q2wz3wil8fn2k23f2gbf-asdf-vm-0.18.0
-/gnu/store/qhrx877d3pq9pr7zg1hcxppi93ywmj0x-asdf-vm-0.18.0
+/gnu/store/b1rqrgymzd8scwjdl1vgr3q889z9jknx-asdf-vm-0.19.0
+/gnu/store/sliljrg9jkgfafvflsixddwbmb1rzla6-asdf-vm-0.19.0
 /gnu/store/ili4716q5793dzgfldwqc67jrxc4j7fd-ashuffle-3.14.9
 /gnu/store/yyl12ib1g8qw0zakw7fc5hkhddlvbzfx-ashuffle-3.14.9
 /gnu/store/1phgd8jwvrrb7n2vijwqqli6z7svy7v7-asignify-1.1-2.d6b3651
@@ -18867,6 +18867,10 @@
 /gnu/store/iha9q4gfh79q5zj38yd41xp6vcxd9ffb-go-github-com-mesilliac-pulse-simple-0.0.0-0.75ac54e
 /gnu/store/44ggw1v48wn44bj3x03cq619dpgrm0ch-go-github-com-mfridman-tparse-0.18.0
 /gnu/store/8jkdi138h1fgmibw3slj2amcr5bdgpb3-go-github-com-mfridman-tparse-0.18.0
+/gnu/store/54rjspmlls3sy7wmarq2czk82gkk1xhl-go-github-com-mgechev-dots-1.0.0
+/gnu/store/rb7qn0zbpz1yjrqk3raf26yamw8dshkr-go-github-com-mgechev-dots-1.0.0
+/gnu/store/lfw465dz1p9il5a7xds34bkgxp88gv55-go-github-com-mgechev-revive-1.15.0
+/gnu/store/wksia6ifx3blzi05ly5ngxcvgnqijhid-go-github-com-mgechev-revive-1.15.0
 /gnu/store/77v20qg8izq0hv31n20jjf0xdczl9m81-go-github-com-mgutz-ansi-0.0.0-20200706080929-d51e80ef957d
 /gnu/store/glm7xqvmhbiia3a24py6bvx5awbicahh-go-github-com-mgutz-ansi-0.0.0-20200706080929-d51e80ef957d
 /gnu/store/djal9dwp88y2krfkfdpzdi1hk4jq3xms-go-github-com-mholt-acmez-v2-2.0.3
@@ -49048,6 +49052,8 @@
 /gnu/store/qp0l3hhbv3qjzd8n5v9q9imix8nwr0jc-reuse-6.2.0
 /gnu/store/1f7ja33plbfjkmm6dy07jixwbjg6q4b9-rev-plugins-0.8.1
 /gnu/store/1n9gafl5yaszp2fgnrnlgib06mh1jcxc-rev-plugins-0.8.1
+/gnu/store/p0rrzljq6c094n1zj2rx9fws6jws9kpy-revive-1.15.0
+/gnu/store/q5jmpwkc3cbgsd81zdnh8306vy9ng8dw-revive-1.15.0
 /gnu/store/86wggi4q8450mxqhnbg9h6b2rgrhr1j1-rewritefs-0.0.0-1.3a56de8
 /gnu/store/z68qwibq4r2dc3gvdwd1csa66lb8f1yb-rewritefs-0.0.0-1.3a56de8
 /gnu/store/cj7a8qwmqjf8sh2gg9n15gwlm4v7rh94-rex-4.1
