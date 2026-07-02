@@ -7515,8 +7515,8 @@
 /gnu/store/vfz09d4llyyicji1pka8v8jifmvzpq42-edlib-1.2.7
 /gnu/store/6xwm2cm8v2sc83bjlyd26y9y2xgg91mn-edlin-2.20
 /gnu/store/x0vy2xqaivsbd9bw2lj7k7601927a7br-edlin-2.20
-/gnu/store/6r7ziia5cwvqny1ym0yscqirwnyyzykr-eel2-0-0.3024ec8
-/gnu/store/dh2l881y0c48kxc4p3bvz19jigih466d-eel2-0-0.3024ec8
+/gnu/store/n96frav4l1rv1qa38blwr2d4viz2k7gp-eel2-0-1.599228f
+/gnu/store/w2hc4k6dgrdnrn8lxkcjymj2437ncjiz-eel2-0-1.599228f
 /gnu/store/72782av5wng15waqw9i1jz6nvl91p0ln-efi-analyzer-0.0.0-0.77c9e3a
 /gnu/store/7crwaaz1w5nda432sp8g1i05562q5wf3-efi-analyzer-0.0.0-0.77c9e3a
 /gnu/store/9rbphgkgk961i4xry74l626vy9ykr394-efibootmgr-18
@@ -24617,8 +24617,8 @@
 /gnu/store/ijyzdzk8iv87hb6dh3r2z4dni4h6bmjq-jless-0.9.0
 /gnu/store/vvf60mgmv82p279dxb19zb1h2rrbb1pa-jmtpfs-0.5
 /gnu/store/wikvphqgw4n06q6nz8x4ward4sm9hjn4-jmtpfs-0.5
-/gnu/store/2zz2hp61wqr1nf21rgnzrwvj3yvr6j5f-jnetlib-0-0.3024ec8
-/gnu/store/cgp10xhy6gavfwjc5avyy6n04d033q8g-jnetlib-0-0.3024ec8
+/gnu/store/97z8dxp8av4yxjq878h35ai0h3vkp5dn-jnetlib-0-1.599228f
+/gnu/store/xlnbm4rrf8ss1hh7bkf1kxbfzipglrfc-jnetlib-0-1.599228f
 /gnu/store/4hn0m92p21p1zq4l8a4ps1d6f0lawyfb-jnettop-0.13.0
 /gnu/store/cdvvciyw1zisnw9bzrkyy9qn9jphj33m-jnettop-0.13.0
 /gnu/store/1ibjhy0ib261n1389ix5rv87zha8k14m-jni-0.21.1
@@ -48792,8 +48792,8 @@
 /gnu/store/jm8m9b76si12zgix38rmm1df76yfb769-radeontop-1.4
 /gnu/store/lhaar4hvmix6i6g3ha54fn9a7r8nq4yh-radicale-3.3.2
 /gnu/store/x6097vnbfi2bvc8g3chgw1na09yr3wcv-radicale-3.3.2
-/gnu/store/9nr9vppjz680nym0l6qnnpdphhzyzgzz-radicle-1.9.1
-/gnu/store/ixq181477nijlyv7k2zjzlsx5j2013cl-radicle-1.9.1
+/gnu/store/6q3a4r2gy7r8akymfyvl5zs5g5c3w79d-radicle-1.9.1
+/gnu/store/xi6fxjz46h109fz88n28ixb29q2wh7sk-radicle-1.9.1
 /gnu/store/2gpwn63hspfp0shvnznlxnb5viib3mn6-radio-tool-0.3.0
 /gnu/store/bsm79as5kl26ihnj121lfbaaymyafp56-radio-tool-0.3.0
 /gnu/store/0dbh9jfn0ydsl2idbiq4qahdh5s6isxm-radius-1.7
@@ -54204,10 +54204,10 @@
 /gnu/store/p4sw9qvggy4hb209hmy1hy6n4ipjpicy-swc-0-1.a7b6155
 /gnu/store/3ryz96jdayvd4rccpmqf14kmv2s2c1hc-sweeper-25.12.3
 /gnu/store/xwhxqsp20dpn34d3n0wcsb1fgfkzrx05-sweeper-25.12.3
-/gnu/store/31d7inqflkfibj0hhplj2zq12bv3pbzh-swell-0-0.3024ec8
-/gnu/store/64c4nkarj4a91c5gi75al8kb5g50kvw5-swell-0-0.3024ec8
-/gnu/store/af1f7zf9ib0mmadq65g0i5rlqddl6r0a-swell-colortheme-0-0.3024ec8
-/gnu/store/sb8zhrsyylks8f38h3456i3cf9asqf02-swell-colortheme-0-0.3024ec8
+/gnu/store/0pwz1ran97fjn77ag1m29f95biz23lkg-swell-0-1.599228f
+/gnu/store/wjfjq7dggxr7bmxwxqp33gpg43lbjf41-swell-0-1.599228f
+/gnu/store/c5yi3ibc2hy9rcnhdwrmjbbl1b93dsdc-swell-colortheme-0-1.599228f
+/gnu/store/m7kwj18x90rsdf3wc7wwnrxr5kbadx8x-swell-colortheme-0-1.599228f
 /gnu/store/f2l5g0hjbpm8k2v1973fwaxyhnb67icy-swftools-0.9.2-2.c6a18ab
 /gnu/store/m7vwzsipwgfyawssx3kpcmm2xv7dnljh-swftools-0.9.2-2.c6a18ab
 /gnu/store/abdrz2ngkgpwi3g76k1hz2qrfc1lxl7b-swh-plugins-0.4.17

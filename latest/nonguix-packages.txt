@@ -441,8 +441,8 @@
 /gnu/store/nbwx7y7ha021qp4vnb3q6h8vkjyb87hd-raspberrypi-firmware-1.20220331
 /gnu/store/pnfxajv4p1vrg3qqfq4nq7kcysx1fpm6-realtek-firmware-20260622
 /gnu/store/pznbmr951yza28yrjlw5c8dbmwhpwlyk-realtek-firmware-20260622
-/gnu/store/1ja3myrry1hy4hjdrs0hr5i27riv4g08-reaper-6.73
-/gnu/store/qnwxg2h3arimpalg4yifvcicakbixvnb-reaper-6.73
+/gnu/store/m10rji93bini4spa16k1r5kxb3zzp9qy-reaper-6.73
+/gnu/store/wwy20wwim1cydf3n1kb1wd3ip5wb6j0v-reaper-6.73
 /gnu/store/sp7x8zsvrwkvpjppcjh2xvc0pn6lwqf4-rtl8192eu-linux-module-5.11.2.3-9.ed045d0
 /gnu/store/yx02a2hzp88ll1iprl3q8csvrbd56mm8-rtl8192eu-linux-module-5.11.2.3-9.ed045d0
 /gnu/store/dy35xc6pnzyfa311v9kxfcl6r7dspxj4-rtl8192eu-linux-module-5.11.2.3-9.ed045d0-checkout
