@@ -8251,8 +8251,10 @@
 /gnu/store/vwmnz9pz24fpyp47lrd5r8y7984dbv06-emacs-cl-print-1.0-1.1a70c55
 /gnu/store/05p6frl8qjdfrc2iva8g71w18qdc69j5-emacs-clang-format-22.1.8
 /gnu/store/8mp9911yx008qliymgn48n2y8lb67b5y-emacs-clang-format-22.1.8
-/gnu/store/i1bjxzfvh7gq5bhqz1gg5il11njsg3ll-emacs-clang-rename-19.1.7
-/gnu/store/nk0199lyz7v6y320hkkpvn3qkbybpqk3-emacs-clang-rename-19.1.7
+/gnu/store/ccpxg14mx8bpzxmpbdpxkcnij0x5l231-emacs-clang-include-fixer-22.1.8
+/gnu/store/wsqx042k56mjxhhyv5xczrvqg77kskpy-emacs-clang-include-fixer-22.1.8
+/gnu/store/41ab57wnypaxmgjnib38iqx8ma2lhpja-emacs-clang-rename-19.1.7
+/gnu/store/q9by1nnlzky9w2fh0y52yvyv9ljbq5sz-emacs-clang-rename-19.1.7
 /gnu/store/0k5h5kcqgw8k8mpdsksk829gch8ni5va-emacs-claude-code-0.8.1
 /gnu/store/ljbj12xy4z1gaqz8s6ijr84fa521r4xv-emacs-claude-code-0.8.1
 /gnu/store/jhp2gywm2hi19rj2l9zpz42rw48jdv00-emacs-claude-code-ide-0.2.7-2.56db02e
@@ -21463,8 +21465,8 @@
 /gnu/store/rybp7fw74v79zr07lqragf4ij3bk0djh-gtg-0.6
 /gnu/store/45q0579yzdajxhjnbka0facfb5x5an86-gthumb-3.12.4
 /gnu/store/cphn6f1as9gj52n3p0mj2hfzmb6a07xb-gthumb-3.12.4
-/gnu/store/91731bhl4c6ws5kkzy0nyrznvmnl2jj2-gtimelog-0.12.0
-/gnu/store/cyh3gmrydvmkgsyzf8p2k4qq5a0v2rlv-gtimelog-0.12.0
+/gnu/store/l58iw90pxin4a3ik4rylwnmagb6dr1x0-gtimelog-0.12.0
+/gnu/store/xsnnxarkzhmd253jvv6rcg49p4pbvm9j-gtimelog-0.12.0
 /gnu/store/8b63bkv7ywrxfiffdij7mjcfzkd4fha2-gtk+-2.24.33
 /gnu/store/bsmbgz1cshs8bqrp1iavvla84mbksfbi-gtk+-2.24.33
 /gnu/store/720zp8icpib9sih1x3mi5sxm422f737d-gtk+-2.24.33-bin
