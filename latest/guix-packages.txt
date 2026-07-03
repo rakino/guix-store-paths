@@ -38053,8 +38053,8 @@
 /gnu/store/ijxqncb2w8fh1362whnpnl8n3gx9zbzj-python-kivymd-1.1.1
 /gnu/store/6g32mgp4shwz048qgc1mliidq1kas5yv-python-kiwisolver-1.4.6
 /gnu/store/8i8rfpa83yz1wplxs9fc2jwpgy1hlksx-python-kiwisolver-1.4.6
-/gnu/store/55zysa7s36javrydj1799zi01i9y5bil-python-klaus-3.0.1
-/gnu/store/bf63ipiz2x8x95gdr26bvkv9jhhj5mbd-python-klaus-3.0.1
+/gnu/store/0k3qn4i1d9c7grq9hhapcykv23h7xz9v-python-klaus-3.0.1
+/gnu/store/z36jnyzi3mrwv9jaj7zw0m2gbk2jv3l8-python-klaus-3.0.1
 /gnu/store/4km4x6sfqjibrlqhjxv3czzf0nqfhhgf-python-klayout-0.30.9
 /gnu/store/nrms79rizm2xrwk45k18ing9dgwa7d3x-python-klayout-0.30.9
 /gnu/store/7i8w6nwngn927drgmasw1nghybr6rwav-python-kneed-0.8.5
