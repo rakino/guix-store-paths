@@ -16219,6 +16219,8 @@
 /gnu/store/mvmmqb8mdswgg65wfrknwr3hpkrblq2r-go-code-forgejo-org-forgejo-reply-1.0.2
 /gnu/store/jzjzm20yjpw2z7xmxdk1m5gyk79i6zz3-go-code-forgejo-org-go-chi-binding-1.0.1
 /gnu/store/wb8wvn0j7rd7c2q3n73a2jar128xclg2-go-code-forgejo-org-go-chi-binding-1.0.1
+/gnu/store/81x4546lkw8lxxp4rkb8fk4gfknk2q90-go-code-forgejo-org-go-chi-captcha-1.0.2
+/gnu/store/a1ciln1xxfgr49as4wcir1h24h0hf6lq-go-code-forgejo-org-go-chi-captcha-1.0.2
 /gnu/store/5frm8iyi6qw605aik6rs1v5fq5v63gf5-go-code-gitea-io-actions-proto-go-ping-0.4.1
 /gnu/store/j9lf0058b0ygks7829vsc6qb19a68w99-go-code-gitea-io-actions-proto-go-ping-0.4.1
 /gnu/store/5qm5swyblhds4xkj12vidx508fplhi5x-go-code-gitea-io-actions-proto-go-runner-0.4.1
@@ -16227,6 +16229,12 @@
 /gnu/store/jbhvmsn2qcbkym9n3k1wgazqk9sg1z9z-go-code-gitea-io-sdk-gitea-0.20.0
 /gnu/store/74s44l5r8knwsa5ll7fk51ph76w8kr7r-go-code-rocketnine-space-tslocum-cbind-0.1.5
 /gnu/store/ml271y0whxbg2qynz6wr3yb449mh14g3-go-code-rocketnine-space-tslocum-cbind-0.1.5
+/gnu/store/207a1mj676mzsqxfdcq7mlr2a91gq1as-go-code-superseriousbusiness-org-exif-terminator-0.11.4
+/gnu/store/agn3ql0r0wspgjbkjj7b5awsjnyrr23q-go-code-superseriousbusiness-org-exif-terminator-0.11.4
+/gnu/store/7n02n1wzgdjhgaw6g41r3wmrg7i5hm3s-go-code-superseriousbusiness-org-go-jpeg-image-structure-v2-2.3.0
+/gnu/store/n7b11nyyvlmb4jjm7bk7y2pva6a9j1jl-go-code-superseriousbusiness-org-go-jpeg-image-structure-v2-2.3.0
+/gnu/store/97g1v95wgzvn4bdal84plbnjz10xv6dj-go-code-superseriousbusiness-org-go-png-image-structure-v2-2.3.0
+/gnu/store/sy55ihrmg88jd3lgcsfqkly4h0cxvyxr-go-code-superseriousbusiness-org-go-png-image-structure-v2-2.3.0
 /gnu/store/1hl9dcs1gni1h30ygrmw6qklsprj1jnr-go-codeberg-org-anaseto-gothic-0.2.0
 /gnu/store/plwj40i6080hj8lwafgl8zl5mj46vdj8-go-codeberg-org-anaseto-gothic-0.2.0
 /gnu/store/p1hlp2883syih39m5v9lsxplwp6isz4i-go-codeberg-org-anaseto-gruid-0.25.0
@@ -17351,6 +17359,16 @@
 /gnu/store/s25xzixbx8c9xcq7zzcc8d8kgcw2ndkz-go-github-com-dsnet-golib-1.0.2
 /gnu/store/jbfn2mlvwcj375km813r930d2742ypg8-go-github-com-dsnet-try-0.0.3
 /gnu/store/jjn4dqvlisx97gykghbikl1qpcq82g4y-go-github-com-dsnet-try-0.0.3
+/gnu/store/7jcjpcr5ang9arrzyqwg53jaq95ahy0b-go-github-com-dsoprea-go-exif-v3-3.0.1
+/gnu/store/8nl34fvqfazrf84mvzbxv2wn2q7figa8-go-github-com-dsoprea-go-exif-v3-3.0.1
+/gnu/store/812ncxrgpzj0qy1hr7sl79j1i6lh00vz-go-github-com-dsoprea-go-iptc-0.0.0-20200610044640-bc9ca208b413
+/gnu/store/x777mf0zzq2vavjm2jc7r3577jwmd3bf-go-github-com-dsoprea-go-iptc-0.0.0-20200610044640-bc9ca208b413
+/gnu/store/5mc27f2qw87dgb0dl99a5qkdv5j34akd-go-github-com-dsoprea-go-logging-0.0.0-20200710184922-b02d349568dd
+/gnu/store/i8vd17ljx0i5w9lxzgfibvq0mk27mvim-go-github-com-dsoprea-go-logging-0.0.0-20200710184922-b02d349568dd
+/gnu/store/v99lar9j1wfy56sbll62d7hysxqfnqxm-go-github-com-dsoprea-go-photoshop-info-format-0.0.0-20200610045659-121dd752914d
+/gnu/store/xrylrbp50bxdw34k3r4h5bg8k668c9bq-go-github-com-dsoprea-go-photoshop-info-format-0.0.0-20200610045659-121dd752914d
+/gnu/store/5i73fa699xr4c23hxvxl9b95y4vp951r-go-github-com-dsoprea-go-utility-v2-2.0.0-20221003172846-a3e1774ef349
+/gnu/store/xif8yi0cnrs55fzfp242nxh92qj1y9r2-go-github-com-dsoprea-go-utility-v2-2.0.0-20221003172846-a3e1774ef349
 /gnu/store/5x40b55l9qam0aaya5hqzly0nm7ajwy9-go-github-com-dunglas-httpsfv-1.1.0
 /gnu/store/cc91ybahmwwk38r3b99abqfvp2ajc9dc-go-github-com-dunglas-httpsfv-1.1.0
 /gnu/store/1rwqlbm1bn5vq8zhayv3s88z9zv0mq6p-go-github-com-dustin-go-humanize-1.0.1
@@ -17615,6 +17633,8 @@
 /gnu/store/pny68qg8fg01psp77bbj2d83l244zpjk-go-github-com-go-chi-chi-4.1.3
 /gnu/store/dp7l9iijlzfjwc2s6mls1nff20028xhs-go-github-com-go-chi-chi-v5-5.2.1
 /gnu/store/kr251x8jzarlcilmq7qbvb2326vvcgqf-go-github-com-go-chi-chi-v5-5.2.1
+/gnu/store/5lpvv4m6a0svaamcy6ikzfsgh86j9clh-go-github-com-go-chi-cors-1.2.2
+/gnu/store/gz96q05k9721vr8xm00wxk9r8982cgzz-go-github-com-go-chi-cors-1.2.2
 /gnu/store/0r7ki23zwnbvx5mavd6k3fhx1h6br40c-go-github-com-go-cmd-cmd-1.4.3
 /gnu/store/m3w29j7iwf0i2qjp8bhv4nimy6mxk9gk-go-github-com-go-cmd-cmd-1.4.3
 /gnu/store/14jxdmwh28h81kmp56wjwcwxxy57m854-go-github-com-go-delve-liner-1.2.3-0.20231231155935-4726ab1d7f62
@@ -17787,6 +17807,8 @@
 /gnu/store/xv0ls8zd9nq7csr7y29sc2xwg1rgxxk4-go-github-com-gogs-chardet-0.0.0-20211120154057-b7413eaefb8f
 /gnu/store/cqnmpc5wzbk18wi9g8pvz0xqjafggvn1-go-github-com-golang-freetype-0.0.0-20170609003504-e2365dfdc4a0
 /gnu/store/f73hix0mz1f0yw3i95bdpnfrsfmh8fhw-go-github-com-golang-freetype-0.0.0-20170609003504-e2365dfdc4a0
+/gnu/store/9zqc321v4q3l3ampjsr265i73d36bv0h-go-github-com-golang-geo-0.0.0-20260625163123-7c0e84413537
+/gnu/store/rsa33bwsxh3ryvw9dckxa0p8n5n7sshn-go-github-com-golang-geo-0.0.0-20260625163123-7c0e84413537
 /gnu/store/j0vda6l4dfnrv06kxshnvwq4hhcwfqi2-go-github-com-golang-glog-1.2.5
 /gnu/store/yifw1m3gim1b826hby3q8wcd9w7pmw2i-go-github-com-golang-glog-1.2.5
 /gnu/store/1f810hlxl7f49g6s6pfx2yz1nf4wsd77-go-github-com-golang-groupcache-0.0.0-20210331224755-41bb18bfe9da
@@ -17859,6 +17881,8 @@
 /gnu/store/bx1ccvlsn8bjqxfw9i1kv17jzy2lnh1j-go-github-com-google-go-querystring-1.1.0
 /gnu/store/41ahkyaawnjp9cw4a6ki23sxdmn6bjvb-go-github-com-google-go-tpm-0.9.8
 /gnu/store/r1wsxc3p9mm8qi15l5blfvsmdw01hy4c-go-github-com-google-go-tpm-0.9.8
+/gnu/store/gq41cpx39kijvhzw8b52kp06iq0833m6-go-github-com-google-go-units-0.0.0-20260624172601-62e5ee3ae5ce
+/gnu/store/zs87fj8hcc4zyd2dkr98fkkk8ndp11ih-go-github-com-google-go-units-0.0.0-20260624172601-62e5ee3ae5ce
 /gnu/store/ng6ssj5jvs2rxhimd45xm3zryv0dq6wz-go-github-com-google-gofuzz-1.2.0
 /gnu/store/vp6m8jfnqf96aw5k20m745y7zd1jlca7-go-github-com-google-gofuzz-1.2.0
 /gnu/store/nhx1yd3a9ldapamqq51azd5njrzq1hzn-go-github-com-google-gopacket-1.1.19
@@ -18147,6 +18171,8 @@
 /gnu/store/vj3ahlmzyc0y4s5qn7kfgc2ndl4xfwhm-go-github-com-in-toto-attestation-1.1.2
 /gnu/store/868vc3ldf7jz1kazxi8hmiipichii4p0-go-github-com-in-toto-in-toto-golang-0.9.0
 /gnu/store/hr4fgm9xl23lw3hab0cazlkd8xnci05v-go-github-com-in-toto-in-toto-golang-0.9.0
+/gnu/store/n5dn3mwnjjprvi29sx77bjqfm228l0lr-go-github-com-inbucket-html2text-1.0.0
+/gnu/store/xlrgssf3sn0lfiad5rgj13dp01134pig-go-github-com-inbucket-html2text-1.0.0
 /gnu/store/iyh4cdsdf258d5v3mpqfk4r76z521ngn-go-github-com-inetaf-tcpproxy-0.0.0-20250222171855-c4b9df066048
 /gnu/store/qbd90gk02s0fcglvnd02y97aydvzcrlm-go-github-com-inetaf-tcpproxy-0.0.0-20250222171855-c4b9df066048
 /gnu/store/11wlf1xk4w5mriq7c6hrp1kdb5zcsf64-go-github-com-influxdata-cron-0.0.0-20201006132531-4bb0a200dcbe
@@ -18443,6 +18469,8 @@
 /gnu/store/fbl7ip0gsj3m8x02srri66vg6zlgma2n-go-github-com-jsimonetti-rtnetlink-v2-2.0.2
 /gnu/store/882rvz4cf0n4n20b6idr9kmjyygkpd75-go-github-com-json-iterator-go-1.1.12
 /gnu/store/vci68677p1n3r7zhbc8c2mhxdgwrfg42-go-github-com-json-iterator-go-1.1.12
+/gnu/store/q69z21i8s7alz5b2i2lj6qhbi8wjwp84-go-github-com-jstemmer-go-junit-report-1.0.0
+/gnu/store/w0g1x8sjvgqjd1im2qljhr2qkdxsi5cl-go-github-com-jstemmer-go-junit-report-1.0.0
 /gnu/store/290kxh9jwhwn8wm4v378n3zdr6fa0b1p-go-github-com-jtolds-gls-4.20.0
 /gnu/store/6fkvpggqh5swm476vvqg50i1qfcv7i6x-go-github-com-jtolds-gls-4.20.0
 /gnu/store/014a8n805b9z12qsm69hg7hhswni6k8c-go-github-com-jtolds-tracetagger-v2-2.0.0-rc5
@@ -19653,6 +19681,8 @@
 /gnu/store/qi159xkxsagb8z2fvj6jg4vkbfl5daxx-go-github-com-sassoftware-go-rpmutils-0.4.0
 /gnu/store/8m1bzabwgixj7fjbq4z45dyypi9xw0d7-go-github-com-satori-go-uuid-1.2.0
 /gnu/store/hm0z502499dqy8ws32r41s4qsg4vz4aa-go-github-com-satori-go-uuid-1.2.0
+/gnu/store/0ygdikknyv0247fq35isvqkhhq02mwbd-go-github-com-savetherbtz-zstd-seekable-format-go-pkg-0.10.0
+/gnu/store/9nx8gx1n3vvjzvr9dnk2nrj5xx2hdl1v-go-github-com-savetherbtz-zstd-seekable-format-go-pkg-0.10.0
 /gnu/store/216662xn48g8iivza383l885a3mny5n0-go-github-com-savsgio-gotils-0.0.0-20240704082632-aef3928b8a38
 /gnu/store/2gwwkpbddwj7bxdcj6ajdj7v0w2y9s3r-go-github-com-savsgio-gotils-0.0.0-20240704082632-aef3928b8a38
 /gnu/store/5brmy36g2bnmh39cgxyy9c1700wpgymv-go-github-com-schachmat-ingo-0.0.0-20170403011506-a4bdc0729a3f
