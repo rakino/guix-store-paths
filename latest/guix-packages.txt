@@ -28458,8 +28458,8 @@
 /gnu/store/w6r7gjqjvj4xvqxmznv7khpshzw5shay-logtalk-3.99.0
 /gnu/store/lnmpzrdnvfyjp7gzqzyqrjrvfmgz8h59-lokke-0.0.0-2.10dfebe
 /gnu/store/wf6nqw9krnxdd29cj6i4sxr01admka2n-lokke-0.0.0-2.10dfebe
-/gnu/store/153fal7npsgf4kr3kg4vla1mkijh0mzr-loko-scheme-0.12.2
-/gnu/store/8n5ri1rdl0lzrmqn8p846xi027x3jxhi-loko-scheme-0.12.2
+/gnu/store/b2fajpgic9n2gbrmshvwrns6vklglaam-loko-scheme-0.13.0
+/gnu/store/zbnn3g4f4l01q8mj58xp29k32rxdjswk-loko-scheme-0.13.0
 /gnu/store/5gwqy6m9888ss80ra2vm2k92aqk23945-loksh-7.9
 /gnu/store/il6jy9y9bkv8fnmwsxh3hzhw66as8fl3-loksh-7.9
 /gnu/store/ra512dydifgwfhrq22v6qhg1crba7pw7-lolcat-1.5
