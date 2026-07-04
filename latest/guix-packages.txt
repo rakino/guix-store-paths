@@ -35291,6 +35291,8 @@
 /gnu/store/k1n3m7s2y29w73c92aajgcl4ay2anz59-python-adjusttext-1.3.0
 /gnu/store/3w9pzndrpzp5yq2vv83v6d76g7h6n1l4-python-ads-0.12.7
 /gnu/store/xswja2lz9d53nli1fn6x0skni7047jv6-python-ads-0.12.7
+/gnu/store/1w99x3y004nni576zb5yaqf5zfg076h4-python-aenum-3.1.17
+/gnu/store/5zdag076qpw4ggahx7l40c5carrvs0pi-python-aenum-3.1.17
 /gnu/store/0kh8h70jrpc1rk9hw9ca9ml2bnn56zxv-python-afdko-3.6.1
 /gnu/store/qnqjrzlq21vg3mzcagvcrnld1dlrzff0-python-afdko-3.6.1
 /gnu/store/s9230hw58wzrp588nql2wdppxslsq4kk-python-afdko-4.0.2
@@ -40508,6 +40510,8 @@
 /gnu/store/varfw02n23m0niwiazxl849ydszdawnw-python-readpaf-0.0.10
 /gnu/store/824vsdvkwap42f2fhx339q5wcykb8b5j-python-recommonmark-0.7.1
 /gnu/store/gn9m42lbks43xlj0giypw6kqg5r2rxxg-python-recommonmark-0.7.1
+/gnu/store/if100by39w4fmjy7pfl34kv1irsx7gsa-python-rectangle-packer-2.1.0
+/gnu/store/m77j31z5bx9lqv603qvb32gvlg8jcjas-python-rectangle-packer-2.1.0
 /gnu/store/ddpjlybwn3aavyn02zxmqdc4c2jhbm88-python-redis-7.1.0
 /gnu/store/nna1bn99fk3pv2ykgwfdmdkai9gzs50j-python-redis-7.1.0
 /gnu/store/2yy4sa92skk0ry9d5frp7gqwgbg10m3i-python-redo-3.0.0
