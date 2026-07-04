@@ -22293,8 +22293,8 @@
 /gnu/store/py7500rlkyazrj5613cs73ndh8s9zd82-harmonist-1.0.2
 /gnu/store/d0lxi28fis1a10p8wrnmyq0zwhkmncd9-harmonist-sdl-1.0.2
 /gnu/store/s4ji6y4qq6035d5524c5ah0dpp7l69in-harmonist-sdl-1.0.2
-/gnu/store/gsficqznpsic6wfg1wlvkg8pk262lx3x-haruna-1.7.1
-/gnu/store/ib6cra1nqcj7j10qd68hvd4xl41hjmcd-haruna-1.7.1
+/gnu/store/jcir4l9gp2r8jw5ipj8dapzam2g6z579-haruna-1.8.1
+/gnu/store/jnpdlkyn3hdfy2m3xn4m5vs19wmmx4ka-haruna-1.8.1
 /gnu/store/mfbqgzwjgzi4j7wkg5054i4pcvr288cs-hash-extender-0.02-0.f00b1a0
 /gnu/store/w0xigijvirq5d85k8748r73ha2mamq26-hash-extender-0.02-0.f00b1a0
 /gnu/store/hjirzzhgw9chzsp70fv5n109d5aayf7b-hashcash-1.22
