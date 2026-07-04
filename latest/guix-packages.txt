@@ -40710,6 +40710,8 @@
 /gnu/store/vrqnw97ilbicg4l7jd4vsxgmr1zppjw8-python-ruamel.yaml-0.18.14
 /gnu/store/5f8pkplagl7m57a90sdd941v71d8qqfs-python-ruamel.yaml.clib-0.2.12
 /gnu/store/gci8a135li8v6g5kl3bkb2i2h1va42bp-python-ruamel.yaml.clib-0.2.12
+/gnu/store/72ckvsp5zkq03yg0ldsf697mrzm1cmr8-python-ruamel.yaml.string-0.1.1
+/gnu/store/h575zzdjld3ispwzs6h59gk699v9szsa-python-ruamel.yaml.string-0.1.1
 /gnu/store/6cqmlxxarpwhlswvzdlbv7kyss4v17l5-python-ruffus-2.8.4
 /gnu/store/nfvhj9cm64qdnkida1ljrjpj3psv3jw0-python-ruffus-2.8.4
 /gnu/store/qirh58fia5j85zpsm4f3wgq9af86nzx7-python-rush-2021.04.0
