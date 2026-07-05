@@ -5340,8 +5340,8 @@
 /gnu/store/znynhbzp3fric24v94797m799qw18lkk-distcc-3.4
 /gnu/store/398q7sgfs9rn8v0j6qszra270c7nj82h-distrho-ports-2021-03-15-0.f2dbade
 /gnu/store/pbybld12ksv171ndxkkjbxrln43wk75y-distrho-ports-2021-03-15-0.f2dbade
-/gnu/store/a0gacalvnal8420fy6pmv9c289rzwb7b-distrobox-1.8.2.4
-/gnu/store/mw7f2d1dm8ddn313hyii7rnpasx41av5-distrobox-1.8.2.4
+/gnu/store/8przafywz29sbsx97gs6rdqlzabfzrvw-distrobox-1.8.2.4
+/gnu/store/apyvsxxnbnxfj8rgkbyfw1bj8nxv02w5-distrobox-1.8.2.4
 /gnu/store/5mdc15px8idcgk5c61v1mfyhybbfas5f-ditaa-0.11.0
 /gnu/store/9d75w1rg2jpl4w84q4bmi2dbqn25bq3b-ditaa-0.11.0
 /gnu/store/pnhh3giasbzqd2c4y51grb9awq9zv2n5-dive-0.12.0
@@ -34808,10 +34808,10 @@
 /gnu/store/grhalavwra2vqinc01h84n3ynhy6rc0g-pod2pdf-0.42
 /gnu/store/51k71sfi308q4ydcf3w39xs0d5fkfg2q-podlet-0.3.0
 /gnu/store/gvdjqdz5fvp9by1266hrlvdgmxc3sq0c-podlet-0.3.0
-/gnu/store/hw5a8h04az0yxcm7vwqnn9v2rr50jyxy-podman-5.8.4
-/gnu/store/k9h5941wg67qwfp9pkqj1qr76y2wlgc6-podman-5.8.4
-/gnu/store/k198wfn6j1af30as3r0ci391miy2ws36-podman-5.8.4-docker
-/gnu/store/mndp8j6h48rz81i311afq0xylf0zaab7-podman-5.8.4-docker
+/gnu/store/5gbay12k54w71lnwq118wfbl3v1pixg1-podman-6.0.0
+/gnu/store/5rlpz7yn3wcaii5yn9j4xpb5zkf1s0gm-podman-6.0.0
+/gnu/store/7pgqimrg4kimz4b9v7frb4nvxxqv6gb5-podman-6.0.0-docker
+/gnu/store/nc312dkvvdaray9ikny7c29lypax1y59-podman-6.0.0-docker
 /gnu/store/98xgy7xyl404ak7c5gjhhv9p9mkjk5qw-podman-compose-1.6.0
 /gnu/store/l141c4d5154ahdwyg9jwgvmkabp7gnwd-podman-compose-1.6.0
 /gnu/store/j2bzm207wq9pv7ixs1ldgn7vy77m3irh-podofo-0.10.4
