@@ -9677,8 +9677,8 @@
 /gnu/store/qcn1k6pxyymw61f9jmi6cvj7li1s5igp-emacs-keymap-popup-0.3.0
 /gnu/store/08iwc9ihnv03rnplihwkbljw1dx9f7c2-emacs-keystore-mode-0.0.1-0.43bd592
 /gnu/store/rwm5jgk6jdkd6qws8q5vjvrnv7bq0x6y-emacs-keystore-mode-0.0.1-0.43bd592
-/gnu/store/6vc740hhxa5aclswdfx1l4kvi7i87y3w-emacs-khalel-0.1.15
-/gnu/store/yxqi9n14h1vsi370jvi82p3ays0cl25b-emacs-khalel-0.1.15
+/gnu/store/72pwd9vwjbq4ns21dbvcaksyjj7nvppy-emacs-khalel-0.1.15
+/gnu/store/rm208snrnsvpd5drbwmqkxa6ndjnbnwh-emacs-khalel-0.1.15
 /gnu/store/9093crs3f6cl794mwxm8lq776lsz5xfm-emacs-khardel-2.0.0
 /gnu/store/xpsixrqr8h7gddqf1pvs618pinsjn5sx-emacs-khardel-2.0.0
 /gnu/store/1w92hnfwppg68bdwkdislf7djhb63d9g-emacs-kibit-helper-0.1.1
@@ -25806,8 +25806,8 @@
 /gnu/store/wnk7fc7cv57yapqmqwcvbsp82aacsdaa-kguiaddons-5.116.0
 /gnu/store/a30kywvdikmcmi02jmxp2zr8j914h2l3-kguiaddons-6.23.1
 /gnu/store/cb0fk408z2c9agq7ma0s9rg4398lzwly-kguiaddons-6.23.1
-/gnu/store/230l856bc1fham042mki8kzlgv19zr92-khal-0.12.0
-/gnu/store/xkxjc9pbbd28i59jzk2y7wvmidhbfz0n-khal-0.12.0
+/gnu/store/5xcmcijvm95924q7c8gqs32y7d8kcf4q-khal-0.14.0
+/gnu/store/hzmdjqprg67ma9k0i6g551036d0admz0-khal-0.14.0
 /gnu/store/1y7kdx6hxqkancfsy77wc7fxk7rlvccf-khard-0.20.0
 /gnu/store/wzzmzrbfyd6i5prdibh9ywxwqplkvqz9-khard-0.20.0
 /gnu/store/9c5hpiasp57fr4zz99va2x02yiqx6zdp-khealthcertificate-25.12.3
@@ -41217,6 +41217,8 @@
 /gnu/store/rd09kqpmp4w2nrzzbpf843jlrr66v7cj-python-sphinxext-opengraph-0.13.0
 /gnu/store/k5my2asjhk6nlwznnggbx80i0fwchlyx-python-sphinxext-rediraffe-0.2.7
 /gnu/store/w1zh84ifkgr9v4zwgsany1i58sa10ia1-python-sphinxext-rediraffe-0.2.7
+/gnu/store/a264grdzw3ik9q2csz2yidvwnrpjyhzz-python-sphinxfeed-0.3.6
+/gnu/store/zlakmzar1bqksnafasv684k11lm9g18n-python-sphinxfeed-0.3.6
 /gnu/store/3mc5wa70s64ik5jalxxpgy127pqldkyc-python-sphobjinv-2.3.1.3
 /gnu/store/fcaiifk9cyr6priqkgiq2a94h2i159s4-python-sphobjinv-2.3.1.3
 /gnu/store/29dnfpkyadswkxicqcz0pi5s4plywqyi-python-spin-0.8
