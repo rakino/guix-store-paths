@@ -19,7 +19,7 @@
 /gnu/store/xwwbndkhg57md2zdsh7b5dfq7vkc1prh-brscan4-0.4.8
 /gnu/store/6ps4h0p2spagy6ksmkx52wn9szmw8sfa-chromium-embedded-framework-117.2.4
 /gnu/store/wgwfnzc6219qk18gdjv7gjb0rmpirjbm-chromium-embedded-framework-117.2.4
-/gnu/store/4grj7ny6bwg30dxhqkqrsvcw3zj5jvzp-cl-electron-0.0.0-3.f2245dc
+/gnu/store/4fnhwmpz5c36bw8j81j2z9xc16an4dm4-cl-electron-0.0.0-3.f2245dc
 /gnu/store/f2sss3rs3h8bb8jk6v7ianihpn6nd6n1-clang-runtime-17.0.6
 /gnu/store/g4qqs6p1sizlng3mwl7l93rqfjms0hz5-clang-runtime-17.0.6
 /gnu/store/vbmxlbvw4divs8w6xga4qpwh04jkcyw1-clhs-0.6.3
@@ -42,7 +42,7 @@
 /gnu/store/badlmbv9angwzdzkcmh28lgx7jiglva2-dxvk-2.0
 /gnu/store/gqk1ch04iak0j7s5vb197nhhghis0wzm-dyalog-19.0.50027
 /gnu/store/ir1zbsr39vi78zi2r9s67xxnlm0bkjzi-dyalog-19.0.50027-fonts
-/gnu/store/p9hxsp58ajxfq5kckrfsc47v5rhwjbiv-ecl-cl-electron-0.0.0-3.f2245dc
+/gnu/store/2rgkrqv4db1k735373ygq0mfyhjr1kfl-ecl-cl-electron-0.0.0-3.f2245dc
 /gnu/store/3p34ddcll4c7fmpnbqj6sfflvv879003-eduke32-20240316-10564-0bc78c53d
 /gnu/store/47zcdmjafl892n47jppin9sjnvk7vbgz-eduke32-20240316-10564-0bc78c53d
 /gnu/store/c0wl30jwxmnw048g7fijwjirvq5aq2dx-egl-gbm-1.1.3
@@ -455,7 +455,7 @@
 /gnu/store/angm2lc6fzbf9d64m7afqd37725cs21z-rtl8821cu-linux-module-0.0.0-4.7f63a9d
 /gnu/store/bda1fnxya43cwx7brwdpmf0asirgiwy3-rtl8821cu-linux-module-0.0.0-4.7f63a9d
 /gnu/store/ng21gww3591xc42cy4h859zjbhdsrgmj-rtl8821cu-linux-module-0.0.0-4.7f63a9d-checkout
-/gnu/store/sn1s0i5vmqqvwal5n57ivwxazh83jqby-sbcl-cl-electron-0.0.0-3.f2245dc
+/gnu/store/3iqa2j22jhrncnr0p1s6dwqgyxhbga91-sbcl-cl-electron-0.0.0-3.f2245dc
 /gnu/store/lp79bxv61bvlf9vcwin7np5mjwwm4rd8-sdrplay-3.07.1
 /gnu/store/2f0riazighbc85dnr3dhzvri55n1ch2g-signal-cli-0.14.5
 /gnu/store/w6giya7a0vyrqfznwnca5bx6kj20kqaf-signal-cli-0.14.5
