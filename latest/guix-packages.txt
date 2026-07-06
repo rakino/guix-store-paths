@@ -27481,7 +27481,7 @@
 /gnu/store/rar9gp0bdza8cpp4fm1xfrwxrfbqn93g-libparserutils-0.2.5
 /gnu/store/2hmg5ja89asp1k6rfpy2fpn3ahsl3myx-libpasastro-1.4.3
 /gnu/store/yqz4994iyla1h69vnafp4ld716vgxn0s-libpasastro-1.4.3
-/gnu/store/5qkx6vqzxq26qhajv9ssw3s9fy7khwig-libpatch-1.0.0
+/gnu/store/k82jngrwd01zfwmrzcgawfybfknf67w8-libpatch-1.0.0
 /gnu/store/99sgslrq5izwfv86x6yagqw65d5rbcbc-libpcap-1.10.1
 /gnu/store/k6nk48yh03b20224cp1wx9bqkkqsn0bp-libpciaccess-0.18.1
 /gnu/store/y077mqp7snadlm7avc5f799mzy72dfdp-libpciaccess-0.18.1
