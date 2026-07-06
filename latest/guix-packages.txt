@@ -73290,8 +73290,8 @@
 /gnu/store/gh2qjpgmzsjds6ycl426hki4dd0iklrl-trayer-srg-1.1.8
 /gnu/store/1d4swndn7b1l5745q4yg7js8dd8qqz1z-tre-0.9.0
 /gnu/store/83smqncf8sm15d0qaxy6p8aabcsz1yzj-tre-0.9.0
-/gnu/store/0di030d2cp1fwmjvlmnybs8fbdxla67f-trealla-2.103.1
-/gnu/store/ydvvsyzp5vzx7arb18ldw9znhw44d8d3-trealla-2.103.1
+/gnu/store/9fx7lfkdw6i73fbx94lmfmgrmbfzzanh-trealla-2.103.6
+/gnu/store/kv448d1c9hq25d04dqmfyrgdw8mp6f4m-trealla-2.103.6
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/vwf9bpj3kyzy5pfiiqy08qqjndxdsi07-tree-sitter-0.25.3
