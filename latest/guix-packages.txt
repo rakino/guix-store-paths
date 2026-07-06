@@ -13775,8 +13775,6 @@
 /gnu/store/zklkj3m6k7w9dkwrlqg3bw6knc0926gd-ghc-aeson-2.2.3.0
 /gnu/store/d3q3vcscr89q7nc1f3bnmz7zc0vb7amv-ghc-aeson-better-errors-0.9.1.3
 /gnu/store/izhxxwr86dzhh91401blx14kp51xkzdm-ghc-aeson-better-errors-0.9.1.3
-/gnu/store/9ardzv6bykjsg0s7pzd6ik8s5lm7xxfr-ghc-aeson-compat-0.3.10
-/gnu/store/ynm771kw382lyr7bjz61vmnby99kp5m8-ghc-aeson-compat-0.3.10
 /gnu/store/pnv0jrm9mrpffazck7h1xzmvj0q5h6mk-ghc-aeson-diff-1.1.0.13
 /gnu/store/z6jn587i15477adlbq4ay3ndznlfsa40-ghc-aeson-diff-1.1.0.13
 /gnu/store/fgqhkrrn30vf1nsry4h43d4xq23xifar-ghc-aeson-pretty-0.8.10
@@ -13903,8 +13901,6 @@
 /gnu/store/ndvfrm7bcn2hb9c73mj0nf7z8pnfz51f-ghc-bytes-0.17.4
 /gnu/store/3hbrcawmc64kn40sz8njhgm1w467r9dj-ghc-bytestring-builder-0.10.8.2.0
 /gnu/store/mk0k3cfgvq1wn5mhz4wdjvvk90019xxc-ghc-bytestring-builder-0.10.8.2.0
-/gnu/store/2di867bdk1h3f1bmalc43f1q1ajxb5bg-ghc-bytestring-handle-0.1.0.6
-/gnu/store/zf5cnnxvs95zdixw60j7aliqp1xdxnrn-ghc-bytestring-handle-0.1.0.6
 /gnu/store/kr09ycfpb6whvl8dzas8n2fpvwhnly8g-ghc-bytestring-lexing-0.5.0.15
 /gnu/store/m3j6n2wx7z19vwv03rv7brw1dibnrqga-ghc-bytestring-lexing-0.5.0.15
 /gnu/store/fm0icqbr4kpf85nr8h1zzx57ibcgv3dk-ghc-bzlib-conduit-0.3.0.4
@@ -13955,8 +13951,6 @@
 /gnu/store/7sgpxfd9syqs5jsclakscipl0vxc9yvi-ghc-chell-0.5.0.2
 /gnu/store/0cikbgvr4ggkg95ri0d8qyiciix4q1w1-ghc-chell-quickcheck-0.2.5.4
 /gnu/store/znh5rx3wasq0vjhwwwqqvq8qvvzv36d7-ghc-chell-quickcheck-0.2.5.4
-/gnu/store/fb1f091k8g68743x2m645hp5zkx0x0n4-ghc-chell-quickcheck-bootstrap-0.2.5.2
-/gnu/store/kfbs8hg9qlwvlhk4v9wl9bbh59yaaqdj-ghc-chell-quickcheck-bootstrap-0.2.5.2
 /gnu/store/d7qmpmn48pizvg2s36xrb4lrp49ms6y7-ghc-choice-0.2.4.1
 /gnu/store/gv7cr80fgqdafk7j29cly7rxrk5ynml4-ghc-choice-0.2.4.1
 /gnu/store/gvv9wq7xk9ks5vhy4npx50zc2ghqllpb-ghc-chunked-data-0.3.1
@@ -14031,8 +14025,6 @@
 /gnu/store/lq6dg111wwsvalgi85ly0v5aggyplfii-ghc-convertible-1.1.1.1
 /gnu/store/mhnpg3k6wdjf7i05zpyp037zikyiz4gr-ghc-cookie-0.5.1
 /gnu/store/mnisvirm77righ3n94zc2wddsjifcr2l-ghc-cookie-0.5.1
-/gnu/store/bym4jy51ki2x18yqf8f6wg37jwbyvpsh-ghc-cprng-aes-0.6.1
-/gnu/store/rmgy199x8di7d5gymhzply16nnmpr36x-ghc-cprng-aes-0.6.1
 /gnu/store/5idbmv3by08fxg0qaqn9xq64b5kb1v3a-ghc-criterion-1.6.4.0
 /gnu/store/bd2z8nlvp3qbip9jyy5a6p99d2yz594q-ghc-criterion-1.6.4.0
 /gnu/store/i858mynmyarbagxxfwz75h1pcg24chp8-ghc-criterion-measurement-0.2.3.0
@@ -14047,8 +14039,6 @@
 /gnu/store/j6j5yp8dhl3fs0npgxymr2mw7w002k0z-ghc-crypto-cipher-types-0.0.9
 /gnu/store/kihgsmv85ilm7ng79wqcmm097s65iqdg-ghc-crypto-pubkey-types-0.4.3
 /gnu/store/z0y6n35jzxs0drhy0psndxgdqnp0kil4-ghc-crypto-pubkey-types-0.4.3
-/gnu/store/afcww94k8wfn8k2sqcrizr6zs5ik9nqr-ghc-crypto-random-0.0.9
-/gnu/store/fz2wrpr09pn2md0gib8v4gk6l29d24n8-ghc-crypto-random-0.0.9
 /gnu/store/cg4vs4v1ygk55p9v2aw9yhgddcr00wxb-ghc-crypto-token-0.1.2
 /gnu/store/gb4j3qnahggyancqcj48g5glrz7c11bq-ghc-crypto-token-0.1.2
 /gnu/store/flcf3i5wqsjm12mipn14r0bki4y5dw0j-ghc-cryptohash-0.11.9
@@ -14097,14 +14087,6 @@
 /gnu/store/jzd27ydh2gv9k8mdk14idn1z1wvbjfz6-ghc-data-default-0.8.0.1
 /gnu/store/6wgkmlyr61fq5fwkng4zwb0zawp4zas9-ghc-data-default-class-0.2.0.0
 /gnu/store/pxn82kwnvxmlqf4qv3dh2d8y7q56lx3q-ghc-data-default-class-0.2.0.0
-/gnu/store/aw8cxadpry7wxrk1nsl7yirn7nkbajk4-ghc-data-default-instances-base-0.1.0.1
-/gnu/store/x9mrhfylhj4lvnkfayp8xq6ldya4iwz0-ghc-data-default-instances-base-0.1.0.1
-/gnu/store/1g02arnz6lg262l74cqik20sf12psbxg-ghc-data-default-instances-containers-0.0.1
-/gnu/store/n4whpvq0mxgqk28029dc7c60n932196n-ghc-data-default-instances-containers-0.0.1
-/gnu/store/aiqza3g25c9fkncjhnhh9bzxk5b22bw5-ghc-data-default-instances-dlist-0.0.1
-/gnu/store/pvi8z0nslq4mx76i57p74vsm9862ciyi-ghc-data-default-instances-dlist-0.0.1
-/gnu/store/mk4x07b4wmavlbpbhp68825mpphibyv7-ghc-data-default-instances-old-locale-0.0.1
-/gnu/store/qi95llkmw985mmykslcdgszxdcxyjy9j-ghc-data-default-instances-old-locale-0.0.1
 /gnu/store/c0ia89y2jvqqvd7hiq518pc5441hf2x6-ghc-data-fix-0.3.4
 /gnu/store/qfz6cn5zmmv3zv6lqws3cyp29rbcy1dr-ghc-data-fix-0.3.4
 /gnu/store/hs1jly3g0jqz4ka7x04bqdpkwp0fnqy6-ghc-data-hash-0.2.0.1
@@ -14201,8 +14183,6 @@
 /gnu/store/nay3nvsfakr37pg1g5mqz8vkvrp4lihm-ghc-equivalence-0.4.1.1
 /gnu/store/6ccfarx2y180rkxia0ls53ykp8zypcxh-ghc-erf-2.0.0.0
 /gnu/store/cp8y6ah8l8v3hysw36iyvhyrf5laqf45-ghc-erf-2.0.0.0
-/gnu/store/c5a8nhnjf052a7v3mm0viqmm676an3ha-ghc-errorcall-eq-instance-0.3.0
-/gnu/store/qkj1dlllq25690rvrgys7fx0zf5lwnb7-ghc-errorcall-eq-instance-0.3.0
 /gnu/store/7v2mx0jhayd7rlmfaa8hay70xl4i7qxi-ghc-errors-2.3.0
 /gnu/store/zm1v57br312p6arhvjrbjmhkh7hzl63f-ghc-errors-2.3.0
 /gnu/store/r96x39gcqazbjnhcvxrsf8bspn0m1xa3-ghc-esqueleto-3.6.0.0
@@ -14355,8 +14335,6 @@
 /gnu/store/ybw8cq79xp3w4i92wmnni5wbvxkxsqfv-ghc-hedgehog-1.5
 /gnu/store/8r12gbq02k619lfl2s6dkppcdjf56xvp-ghc-hex-0.2.0
 /gnu/store/hgc1nyil261ymzckss431h8wp1b6pjc3-ghc-hex-0.2.0
-/gnu/store/64wla92j51fv680f9kmx2j71g54fr0jx-ghc-highlighting-kate-0.6.4
-/gnu/store/j6b3dg10am7676sj4ag4r2h99w88qbyp-ghc-highlighting-kate-0.6.4
 /gnu/store/m2d70pyhik4yvmzd3zsrdf1ji909dbzm-ghc-hindent-6.3.0
 /gnu/store/prmzvjcp05hkbysy1p8cp136zkz6xmys-ghc-hindent-6.3.0
 /gnu/store/a0ximwbynhiamhsj21kg655l73ckmwpc-ghc-hinotify-0.4.2
@@ -15351,8 +15329,6 @@
 /gnu/store/j91vhhgbky2wn59yj1hkz057y031pm1p-ghc-unicode-show-0.1.1.1
 /gnu/store/37jj1vy4wd7nri6pa6jq81w385g29gvr-ghc-unicode-transforms-0.4.0.1
 /gnu/store/69cxap4ayhkji0dvbix0i950nab2pjiv-ghc-unicode-transforms-0.4.0.1
-/gnu/store/946iwgj04sw3szqwvz8m6gfynfjhkcav-ghc-union-find-0.2
-/gnu/store/a5lgcqqzsh10mm904vjmzvg4r2gx2rsa-ghc-union-find-0.2
 /gnu/store/4w5n9bl11k0z6g5x6fw3n8s7jlnjngd2-ghc-uniplate-1.6.13
 /gnu/store/gzpcrgkqj3g6idls0720cavsrbh9abfn-ghc-uniplate-1.6.13
 /gnu/store/hj6dq0r8z1fcq59n7h2mblg94clsi9qi-ghc-unique-0.4.7.9
@@ -35315,8 +35291,6 @@
 /gnu/store/12cj1rjvj0misl89vvjmvvivijphdzq8-python-agate-sql-0.7.3
 /gnu/store/0j0yvbfbg2i7mf4wdvp3m53zva57ql19-python-aiapy-0.12.0
 /gnu/store/lzckzqy26kgdcpcq4p13zghi4fgxkf55-python-aiapy-0.12.0
-/gnu/store/ys6ff0a31zwvw3142j8ihlk91zii1hrx-python-ailment-9.2.112
-/gnu/store/yz56nhamjdqavpcsigz4rcfv1xdh9v1p-python-ailment-9.2.112
 /gnu/store/bd2as83lqgbpa1d2v3kwvl9rdgiik2wv-python-aioboto3-15.5.0
 /gnu/store/q10a73920l9bjqby8aqsws178z2vrcci-python-aioboto3-15.5.0
 /gnu/store/c2zpdic6rg9cjns688y19xmwr201f33q-python-aiobotocore-3.0.0
@@ -35705,8 +35679,6 @@
 /gnu/store/v04vh8wyrvfj0dw7q8ndzkiax0qn0h0p-python-babel-2.16.0
 /gnu/store/4kdwhnr2wnc9870pffhps7bimlk78512-python-backcall-0.2.0
 /gnu/store/lpwgh7hdw1r6g3vmq8qc775pi22v10yw-python-backcall-0.2.0
-/gnu/store/57djl342xip87vcvsdlw6sylq97sizjf-python-backports-strenum-1.3.1
-/gnu/store/yc665sp2n7jwiw8p0mpd8p3kn0k0gs0v-python-backports-strenum-1.3.1
 /gnu/store/685568w3vqibjb6yj00hh8vz6qxi8ixf-python-backports-tarfile-1.2.0
 /gnu/store/5a8sp2nzg6q4q5cw0hcqixysgziylslz-python-backports-zstd-1.2.0
 /gnu/store/jhfb12p6v32m96lm4nyr3a8c4q6yq3c6-python-backports-zstd-1.2.0
