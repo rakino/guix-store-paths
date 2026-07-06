@@ -24623,8 +24623,8 @@
 /gnu/store/wfw2fqm6pbi2db4shjcv8d7v6rmc20b2-jbr-25.0.2b329.72-doc
 /gnu/store/6a3py29rcwngq9jkicgdlwf7hkianmsn-jbr-25.0.2b329.72-jdk
 /gnu/store/gpqpvmy0v3zfz59a6nxy59sgvm816cj2-jbr-25.0.2b329.72-jdk
-/gnu/store/hrj0w08ihm48458pl0qkmv56768ldlr3-jc-1.25.7
-/gnu/store/v6w21zidh5y8nlwr34dj0h00la8wzrxb-jc-1.25.7
+/gnu/store/g9xs1g0yqgikyhw9m6jjlp50avy09pqi-jc-1.25.7
+/gnu/store/rns1vlhdzil0pv413q2kq1ws602gwv3x-jc-1.25.7
 /gnu/store/mq3j7j7im31187f1p73rhmdzfjmxc4dr-jed-0.99-19
 /gnu/store/v85rpxmfkhn9lyvpi2gfmpqwfxny1l1n-jed-0.99-19
 /gnu/store/95ds7hsxn9q5blmgc9cnfrvcbm45bh4x-jekyll-4.4.1
