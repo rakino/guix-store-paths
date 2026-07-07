@@ -4912,8 +4912,6 @@
 /gnu/store/wssh0rg1h065nf9g4j9hvg4sadb2x9ca-crust-pine64-plus-0.6
 /gnu/store/1lscrg70jf5i1irs9vr29c1440a7pbnk-crust-pinebook-0.6
 /gnu/store/h0b1pl5s91jgji7jq0mh6fqrc783jgz6-crust-pinebook-0.6
-/gnu/store/3cfvzl5nzccs3x09bz31n1v4d0klmcdq-cryfs-1.0.1
-/gnu/store/dk038789az6p1y4bvcm4xj73hkzglzp8-cryfs-1.0.1
 /gnu/store/1rp175a70b2r9hiplfxf2x8iaq5wa47z-crypto++-8.9.0
 /gnu/store/yj9hw5x5xxqxspj2cvyckn5qxj1wjgly-crypto++-8.9.0
 /gnu/store/5jgnnx0ax2igxsm8w7rcj8izdn15y2vs-cryptominisat-5.11.22
@@ -11475,8 +11473,6 @@
 /gnu/store/1p8jabs7p65b8sjxilj7aqwlcvvv58wr-enblend-enfuse-4.2-doc
 /gnu/store/3gm8iv5wqg7zb48vlx3x6ny6hf25n6li-enca-1.19
 /gnu/store/fhsdvya57hvy0rd4xsxg7i473s9pwm1s-enca-1.19
-/gnu/store/mvg929zqnqqj2rn8f8qkhdfvsn24g4jj-encfs-1.9.5
-/gnu/store/x38912b5mpml07as3av8dhwrc4bl98wj-encfs-1.9.5
 /gnu/store/zd1ykbkl912dsrlysbw6bsk64jxpfhpv-enchant-1.6.0
 /gnu/store/zjfzcklf0cy0v26dqz5vnmjrr6k86cmb-enchant-1.6.0
 /gnu/store/4bw24wh60g3cnm3hcg8fhziidcrsc8px-enchant-2.6.9
@@ -32466,8 +32462,8 @@
 /gnu/store/shfbmfnrkfrww5vixvhf1l9828hgr29p-pcsx2-patches-2025.12.11-0.10239de
 /gnu/store/6wvxwbn3jc501lhw05xw7h5qanyv51ax-pcsxr-1.9.94-1.6666043
 /gnu/store/skp7d73zbis903gvnd4sbvmhldlvy93x-pcsxr-1.9.94-1.6666043
-/gnu/store/2qrlg9f95mr5mng22788xblrisp3pkga-pd-0.56-1
-/gnu/store/vdvx69ry3p72zkah7aly3wqhwvfvjx9l-pd-0.56-1
+/gnu/store/cfdkc9cnisi0h91l5y5g67rnxl1x8ixm-pd-0.56-5
+/gnu/store/zaf7diid4gjclwgxyaycpfa8pish4y3b-pd-0.56-5
 /gnu/store/s8amm1a9ihs8nbik0wfmx9npq1ybqzff-pdal-2.10.2
 /gnu/store/ss868niijxvji53xjn1hgjwmh27caacz-pdal-2.10.2
 /gnu/store/79c1pqyb69bmc70n6xxgwp8nql4zsrza-pdf-tocgen-1.3.4
@@ -34658,8 +34654,8 @@
 /gnu/store/x72cln46x2jfibidbfdx82zwcs9z55d5-plantri-5.5
 /gnu/store/4c07b5mlbc9a8d33161ka5nffvn4fwyg-plantuml-1.2024.6
 /gnu/store/bnd0zyha1m47m3wkdxrdg3ndlldl8xcg-plantuml-1.2024.6
-/gnu/store/13rqw5nznksbjld0aaay0s060rpw2asg-plasma-6.5.5
-/gnu/store/8wd0zszd663q1n9ka6w8wl1whg8vndy7-plasma-6.5.5
+/gnu/store/86izrqzhgjxzw14ipjdfkc9337kgy4k7-plasma-6.5.5
+/gnu/store/l5kc7r8a2xxx7843hv3r1ba8sird3q1a-plasma-6.5.5
 /gnu/store/4n99n7hwjsj1zv99jj33xifkd9fpqy15-plasma-activities-6.5.5
 /gnu/store/kjrb0fsbfq2ad555yla1sysy23mczb43-plasma-activities-6.5.5
 /gnu/store/9fqrfh7ipmpm2a4fsfp8zb0biaid0si3-plasma-activities-stats-6.5.5
@@ -34694,8 +34690,8 @@
 /gnu/store/kn1z29ffsp0vszc4xrwx1iic93yhcpgy-plasma-systemmonitor-6.5.5
 /gnu/store/fpa15rpgapqx8yj3iqsq88v8nbhxd2wr-plasma-thunderbolt-6.5.5
 /gnu/store/immp6zjjz386lr2ybkmykrbbmip3d26m-plasma-thunderbolt-6.5.5
-/gnu/store/6lkzkf0kj6mzr1c68kyckcp2vkxm8y0a-plasma-vault-6.5.5
-/gnu/store/kn7w9zxfd1myy4rp8jhrsh5a7qknab4f-plasma-vault-6.5.5
+/gnu/store/fz80crsd6jh4xylznqa79hhg5r6glrga-plasma-vault-6.5.5
+/gnu/store/ic8v02czzbbwjrg4wx7wvway4q506l67-plasma-vault-6.5.5
 /gnu/store/lhwrramljr10fg1y2235a5n4lzivfv6z-plasma-wayland-protocols-1.20.0
 /gnu/store/vhisl0sqgpm6ngp0k852qgis9a42ir70-plasma-wayland-protocols-1.20.0
 /gnu/store/dg3hxn21jb1rbvilyp06m6wf29nvziiq-plasma-welcome-6.5.5
@@ -36480,8 +36476,8 @@
 /gnu/store/qwxc2znd5pfmhpn5mrlfw59kh81qhnfi-python-decopatch-1.4.10
 /gnu/store/hcs93h3b31hwrd02w3albkmv5rd53q4z-python-decorator-5.2.1
 /gnu/store/ikcinb09z3s91cxds72cj5kqfg3pwlg9-python-decorator-5.2.1
-/gnu/store/1qr0kffxmsifsp1f0ikczyxwv8cxnb1c-python-decoupler-2.1.4
-/gnu/store/4c1ivygizm158vb0l9pc9mfa2wiaycrj-python-decoupler-2.1.4
+/gnu/store/smcqk68n4hlhs5jk758q6j0xmb29v7l5-python-decoupler-2.1.4
+/gnu/store/yxq5hay0lsrcabbdbda6gcrzfs2n299z-python-decoupler-2.1.4
 /gnu/store/3yl71d3iv5j7k7gimb4nf9fw3f29ywi5-python-deepdiff-8.6.1
 /gnu/store/k8xxddfbk4ikmd3kafxk34f05wvfm3h0-python-deepdiff-8.6.1
 /gnu/store/71g7qp8hk2yb6yqy0xb9mjmvinvsnlkd-python-deepdish-0.3.7-0.3f2dff7
@@ -36741,6 +36737,8 @@
 /gnu/store/m45bv824qykh23dh3racjv1b6yzhssn7-python-domdf-python-tools-3.10.0
 /gnu/store/avpdbnd9j6qy0v8n12ys8skdrhzkynwb-python-dominate-2.9.1
 /gnu/store/fji2yhi65a2ghqj5k32kqa5p23h7swm9-python-dominate-2.9.1
+/gnu/store/79i91jcrp84syrr30wkj04jl8lxwrs5x-python-donfig-0.8.1.post1
+/gnu/store/hrkqmqskhnqsyhc8qfjw43mkhnc79dyc-python-donfig-0.8.1.post1
 /gnu/store/20lyszh4vb5vs809rvh3wp6gi7ipjcxl-python-dotenv-0.13.0
 /gnu/store/icxbk7dcwa6lssqv2iy81h7gjqx2bf89-python-dotenv-0.13.0
 /gnu/store/9cwz5yqyyp0v748f2l5j4jqjfi9qqlh9-python-dotenv-1.1.1
@@ -38166,8 +38164,8 @@
 /gnu/store/wg1rjwhxrx9qj5marma5wglx6nyqp90a-python-lexilang-1.0.7
 /gnu/store/2w4irc36h6kz9p7k08v9jjk32x7y81hp-python-lfdfiles-2026.4.30
 /gnu/store/a7rvxpz1l7b20ngp6qr08d7d9hi7dhv7-python-lfdfiles-2026.4.30
-/gnu/store/b1sn7vvkvn8bg9kb131mjbrxsghz7b05-python-liana-py-1.6.1
-/gnu/store/zn0477qz6myvl4jyl4fw65ycv1caz2m3-python-liana-py-1.6.1
+/gnu/store/jrpx0pn17pj42fv47q4ffcm4zg6cd3cn-python-liana-py-1.6.1
+/gnu/store/xq2s3y72dsbr5j77sk6rxi8yi2r5b1vy-python-liana-py-1.6.1
 /gnu/store/hshpkid59rn7hp606qiyx4f7fs940al4-python-libarchive-c-5.2
 /gnu/store/shrw64db0y4h8kiqy6m9sxcgc89j71bv-python-libarchive-c-5.2
 /gnu/store/k2czx6kgbdqmhdqajj9pc15mnmjgxlyb-python-libcst-1.6.0
@@ -38368,8 +38366,8 @@
 /gnu/store/wl93nwiq676iazsb6xmk5vp2kwr96q89-python-marshmallow-4.0.0
 /gnu/store/kcjfbaqvf6m7570zyj8vpf7q557l8b2f-python-marshmallow-jsonapi-0.26.0
 /gnu/store/w9q85dkg1w14h01vxg33fypn4skmdnsc-python-marshmallow-jsonapi-0.26.0
-/gnu/store/0w6d9bclmyhbvk8494frdrr1w3gv6ax3-python-marsilea-0.5.4
-/gnu/store/izlwzflzn8pq4mrc8hd061d7fpchhbs5-python-marsilea-0.5.4
+/gnu/store/hh1sm7h2fri7h6xi5l18ngl7hz2fqrdb-python-marsilea-0.6.2
+/gnu/store/s0qymrdw7h630gigijcvm0fgvkj9292y-python-marsilea-0.6.2
 /gnu/store/gkw13rphnzaszi47sbhvwv89shn57j8f-python-mastodon-py-2.1.4
 /gnu/store/hjs6srcgj5bx0kakl6dzapk02l1ssml8-python-mastodon-py-2.1.4
 /gnu/store/1ncr0b505saczqbqfixf98ycn5bcs9yq-python-mathics-core-9.0.0
@@ -38404,6 +38402,8 @@
 /gnu/store/5d1z761w9nq12qr18fmlf09c9qdy6ayi-python-matrix-nio-0.25.2
 /gnu/store/8wkwh30s34r2gabn1jlmkxcspcwgaxk0-python-matrix-synapse-ldap3-0.1.4
 /gnu/store/xbvfmrvk51713sfbaqjkc0plmq7jg08n-python-matrix-synapse-ldap3-0.1.4
+/gnu/store/97lp0p7qgdh160l6cq91cbdmng4hjxmv-python-maxent-disaggregation-1.3.1
+/gnu/store/lh67ld3d2ah8430y1w39v5mmlzzyh0ff-python-maxent-disaggregation-1.3.1
 /gnu/store/5j6kxvkaxi7p9pbdbqclsnzcliqlb9kx-python-maxminddb-2.6.3
 /gnu/store/y1n1cyw5hmgg8bqhhbddkncv9q0wrqr8-python-maxminddb-2.6.3
 /gnu/store/gcjiib0r85fakavk24kb1sl315nlnn07-python-mccabe-0.7.0
@@ -40836,6 +40836,8 @@
 /gnu/store/y4j74aq4v995kks1h7max8bhx8vw20bi-python-scspell3k-2.3.0-0.df55035
 /gnu/store/9bmanf73mxdx0ykxjpr2zb41zp4327bc-python-scvelo-0.3.3
 /gnu/store/wkz8w3ji8pzb7cs2j6civ1lv7dlpdg6a-python-scvelo-0.3.3
+/gnu/store/8bwhmwyikjyxpqhvcvxrl6q11jicg4j0-python-scverse-misc-0.1.1
+/gnu/store/rq6piad4xcnsgmvc39aa6wg4mi8wdr83-python-scverse-misc-0.1.1
 /gnu/store/dawb9pgayy26rc4a2v497d6vzj96hlkm-python-sdmx1-2.26.0
 /gnu/store/y2jlc7d011zni705h2bczdzs9bkd2gq0-python-sdmx1-2.26.0
 /gnu/store/34m2y20zdf9ym7i9jzn1ad1clv25nl88-python-seaborn-0.13.2
@@ -73290,8 +73292,8 @@
 /gnu/store/gh2qjpgmzsjds6ycl426hki4dd0iklrl-trayer-srg-1.1.8
 /gnu/store/1d4swndn7b1l5745q4yg7js8dd8qqz1z-tre-0.9.0
 /gnu/store/83smqncf8sm15d0qaxy6p8aabcsz1yzj-tre-0.9.0
-/gnu/store/9fx7lfkdw6i73fbx94lmfmgrmbfzzanh-trealla-2.103.6
-/gnu/store/kv448d1c9hq25d04dqmfyrgdw8mp6f4m-trealla-2.103.6
+/gnu/store/d9vkm201a5yyh7063zpz6vnz2id2y6hr-trealla-2.103.8
+/gnu/store/r4pf0j3gs5fhl4pr8hfns9wr54x9swhc-trealla-2.103.8
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/vwf9bpj3kyzy5pfiiqy08qqjndxdsi07-tree-sitter-0.25.3
