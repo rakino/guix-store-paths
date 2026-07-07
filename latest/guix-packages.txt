@@ -1947,8 +1947,8 @@
 /gnu/store/s6kmfb34y7fikcmhwh02pvz332m9f9h5-chimerautils-15.0.3
 /gnu/store/3nw1hizvzgjc6zilad88ixi7vkypzj3y-chipmunk-7.0.3-1.d0239ef
 /gnu/store/r6l8liqf1s5pdbx2g54k1y0ka5a5n406-chipmunk-7.0.3-1.d0239ef
-/gnu/store/3sxzlw4cl9kaxb5ivc6i126vh8z78a49-chirp-0.4.0-4.bc27f66
-/gnu/store/ad3c8wnh53yx3hc2sqygxnhsjsglccl0-chirp-0.4.0-4.bc27f66
+/gnu/store/65hynixikikchm66cdwa13cdvr40mc9b-chirp-0.4.0-5.6ff3339
+/gnu/store/9qw3kgyknx3pjxid64vv545na0d4xdp2-chirp-0.4.0-5.6ff3339
 /gnu/store/4fm2i679dap0hcfjf19vqhf7b5nkymx1-chmlib-0.40
 /gnu/store/z4sqqrnk26ldyvn5qxqz92kck1a2v01l-chmlib-0.40
 /gnu/store/0vmwi0kmk2ylqrm6jwrb3jjsyzd7152c-chocolate-doom-3.1.1
@@ -5126,8 +5126,8 @@
 /gnu/store/kijw8szvplj6smfi3kfj6i6j3glah1d2-dbus-verbose-1.16.2
 /gnu/store/5sq94lj3bsgqw58ln7dhd35m7ghy9mf8-dbus-verbose-1.16.2-doc
 /gnu/store/mkff7vjmbjpsp4kkbkb6dpqmw5p5zb1p-dbus-verbose-1.16.2-doc
-/gnu/store/nkmvnbl1d3zqkwm5in1bzs0w6m16nf0n-dbxfs-2.0.1
-/gnu/store/rjaaqis7h2q8h3irrnjwrmlszxqmx1pk-dbxfs-2.0.1
+/gnu/store/ls6p2lcqqvbcj5sx7c9634x4fkb21zwr-dbxfs-2.0.1
+/gnu/store/w880hzy9mv9fw1zva3a695ggk5jvnv1w-dbxfs-2.0.1
 /gnu/store/fz3aipwq9wpwrdhqfwn57nkh1hgs9yah-dcadec-0.2.0
 /gnu/store/m7nf0mr478wajb6kgyz4mdz63brhyyi5-dcadec-0.2.0
 /gnu/store/76pbw69vsv8kg3fil13n6qrrg5m1nb7w-dcmtk-3.6.9
@@ -34937,8 +34937,8 @@
 /gnu/store/qljlzrkrzgcs293b178b82filq5c2qh7-ppsspp-1.20.3
 /gnu/store/q1bxm8frxjrkckxwa3azdjki2z1j5pz6-pqiv-2.13.2
 /gnu/store/rj7lshkdfpf8ick9crapiyk35xnpp5c7-pqiv-2.13.2
-/gnu/store/6k2bqrpzc5xrif4x2v96biir0mg38zp2-praat-6.4.67
-/gnu/store/lbf6ayc7km98640sg5wrvhhrmm19gxq5-praat-6.4.67
+/gnu/store/fjjb9cs8yh2139plr13l6zmqs2ywnqh2-praat-6.6.30
+/gnu/store/pxn65557pqqnda5hflx3bnf694gmq96k-praat-6.6.30
 /gnu/store/39m6r9psfjxl1wda7v8h1xwp24wykmab-pragha-1.3.4
 /gnu/store/r90fhmfvbhfagq75si33czsx9n8jind8-pragha-1.3.4
 /gnu/store/l2z6jix9lksz4m2qd2ixbn4wv8ahk58k-prank-170427
@@ -35767,8 +35767,8 @@
 /gnu/store/j37zm5ms6p8d71694i46kc2gz4v5a3zz-python-billiard-4.2.2
 /gnu/store/ahksbyppji70mxw7il5dpwixdirlh4ih-python-binaryornot-0.4.4
 /gnu/store/ya8by4whxx0ciyf9ncvnpjvpa6vcbm37-python-binaryornot-0.4.4
-/gnu/store/rwzbs1g9jf02zwwcx2762x0dk6ig4j6z-python-bioframe-0.6.4
-/gnu/store/xlrqjlw5sgzjmldvbk846xjb3z8qp6bv-python-bioframe-0.6.4
+/gnu/store/dignnqj62vrk96ahc1kdpwfjxbr5lbcd-python-bioframe-0.8.0
+/gnu/store/h5p26ranh4z2qv1ylkgx5hvdc4iz7mnh-python-bioframe-0.8.0
 /gnu/store/2jymgza3qchjz1f7x5dk5954p0k2apc9-python-biom-format-2.1.17
 /gnu/store/irqpk46azswvc4s075jqnr702bjxvz6r-python-biom-format-2.1.17
 /gnu/store/67vkzdmzr0rn9zsl1fzsrzcr93wna48c-python-biopython-1.73
@@ -35985,8 +35985,8 @@
 /gnu/store/d0k8rpz9zks4m2mpvsbn8a5qfnli81yq-python-certifi-2025.06.15
 /gnu/store/2dv0adlxhj2wn5awxf7m1hi671lm0v2g-python-certipy-0.2.2
 /gnu/store/i4mw9r0ki47arfhpzm5kjs2m6vk5vfjg-python-certipy-0.2.2
-/gnu/store/5jpdcj21ndgphskxdz7j9z94aiavhfhf-python-cesium-0.12.4
-/gnu/store/gj8293bckds93aq02gkjg076a07jwfg9-python-cesium-0.12.4
+/gnu/store/sp5g8flpgmjngva7093j7iwjbpw6854r-python-cesium-0.12.4
+/gnu/store/x1mzlgg7z8pkl7qclmdsqjp5ricbxyid-python-cesium-0.12.4
 /gnu/store/1xrnxlakkalb5pmml6hlrg1gcn8dqnhi-python-cf-units-3.3.0
 /gnu/store/cakn40dkxifim1d0ijhfxad25g3mq1dr-python-cf-units-3.3.0
 /gnu/store/62pqpnh7v31qzhvfq79kmw6y8hvrk2mv-python-cffi-1.17.1
@@ -36253,8 +36253,8 @@
 /gnu/store/imj1iffida1yqq9lzsc1l8891zr5czxi-python-cooler-0.10.4-0.6c2d65b
 /gnu/store/as7dcfx9zqgb3jy5dpag36a03x6km4d9-python-coolest-0.1.11
 /gnu/store/mfcb7i89v7s6svkw7jxch37nb3f1b0lw-python-coolest-0.1.11
-/gnu/store/3kzrnfbsnr0n06nw0m54w74j30h416bn-python-cooltools-0.7.1
-/gnu/store/rz92l6cvs9ycr2hzclnd7ppnnf9h9gjr-python-cooltools-0.7.1
+/gnu/store/58azwl98q7sy51yj55agf43rfz91mrb3-python-cooltools-0.7.1
+/gnu/store/ir7m82jxsxipbs8gs9y70d0237wa9dcf-python-cooltools-0.7.1
 /gnu/store/286rqwlnaxgzxjy2cp49f6app2gai5l6-python-copydetect-0.5.0
 /gnu/store/wrbwaczbyi80lwcqcnwsq5k8fj83n02l-python-copydetect-0.5.0
 /gnu/store/arfs75f5lxx6bgzzczjj1z95zhjpbnnb-python-core-sr-ht-0.83.3
@@ -38993,8 +38993,8 @@
 /gnu/store/gk6mbrmq8yk7qprd3mqrbk2k4hzlnmik-python-packaging-legacy-23.0.post0
 /gnu/store/1qfjdswiviakrkqz9ijdm52nl7m387fj-python-paho-mqtt-2.1.0
 /gnu/store/lmkgbw0kh0445z9s3h439qj54j4k9x46-python-paho-mqtt-2.1.0
-/gnu/store/aa6xnplgl5iz6rmf1qgv4krgm5gpg5js-python-pairtools-1.1.0-fix
-/gnu/store/ffycm5gg9m4qvh7sdi6xhhycy0v2866b-python-pairtools-1.1.0-fix
+/gnu/store/sazk2adn8iw4rlmzhnafwkzcvgx9mq8y-python-pairtools-1.1.0-fix
+/gnu/store/yqzs9wl8lp6fyj8sslhqbz8cbb6lnp5m-python-pairtools-1.1.0-fix
 /gnu/store/i82a8qyclf4249x7rckp1g7as8c1s6qg-python-palettable-3.3.3
 /gnu/store/rdklg3f4269flkcxwf4yf23ayhydhnmd-python-palettable-3.3.3
 /gnu/store/gl6ra50capxqac5wnslvx0lkkgv8zzs2-python-pamela-1.0.0
@@ -41834,8 +41834,8 @@
 /gnu/store/71bmnfvy49c7r3234jbvn31hbc7wqa7y-python-user-agents-2.2.0
 /gnu/store/29r9ih6ja9rsir24kz4ffncbznlv58da-python-userpath-1.9.2
 /gnu/store/5s8y30gzms6phqifrb1z3pj31hmrimv0-python-userpath-1.9.2
-/gnu/store/04pa2khvms6c9lp4ffn5qpf9kv5kx6v4-python-userspacefs-3.1.1
-/gnu/store/l9iqhyp04vp7vb1fdr5pcikbz7p6z2is-python-userspacefs-3.1.1
+/gnu/store/2xbszy2yz22m9v6zssmfwsxi8f6s3nzi-python-userspacefs-3.2.1
+/gnu/store/g1rlyvvdjn6dyl97a7yh636xyqplmnc8-python-userspacefs-3.2.1
 /gnu/store/wgj2szzviqzbxnnfkzi2i9a94rax3cwj-python-utilities-awetzel-1.0.4
 /gnu/store/zj21nasnl8m5zqf9arx7r5yj2iypp71i-python-utilities-awetzel-1.0.4
 /gnu/store/2wa5xqlnl93j561v3rgbs7kz3kdaj2w6-python-utils-3.9.1
