@@ -7981,8 +7981,8 @@
 /gnu/store/laxhsb0x7xv768xnx76a0k98ad95p189-emacs-agda2-mode-2.7.0.1
 /gnu/store/gcgsclk20wrywx9xb1n5z9cgybk4296v-emacs-age-0.1.9
 /gnu/store/icvjz5cld7h2912vh5b6dvwan0bb6xp7-emacs-age-0.1.9
-/gnu/store/dg879g0hsrzi8z3r69aiz9amnc43j7zx-emacs-agent-shell-0.57.1
-/gnu/store/will5j4ah4vnvnh83jx0qy9v7m6mz4hf-emacs-agent-shell-0.57.1
+/gnu/store/s1sjci2bxi1jnsmgbjbj9s4xxjxl8p4c-emacs-agent-shell-0.57.3
+/gnu/store/s88aimn15mhm63nmhn912mbaaymj8i7s-emacs-agent-shell-0.57.3
 /gnu/store/2vmyn6wwmn4z51qna9jnxc62x0qn9jzp-emacs-aggressive-indent-1.10.0
 /gnu/store/ww7dmwgvr23fzwv1f2avr06ipdsns6mk-emacs-aggressive-indent-1.10.0
 /gnu/store/czb7rx7di08rav241bwlncdzm6g7y9gg-emacs-agitjo-2.0.0
