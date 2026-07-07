@@ -4466,8 +4466,8 @@
 /gnu/store/fw4rkmgjyhkm8w2liz4n3ky93cscg5lv-clitest-0.4.0
 /gnu/store/0q48lb3vl8irp1pwdwryh2yw7yf3pbiw-cln-1.3.6
 /gnu/store/qn7536qzjq2qi1v2h0xmd4ddn1v8kax1-cln-1.3.6
-/gnu/store/2j2rwkibja0n99lhz6cjfr5c1bbnl1np-cloc-2.08
-/gnu/store/303ih7wjb101f3f4909x8bxdszi0qj1b-cloc-2.08
+/gnu/store/dpw4ybdrhrg8a5cap0pd78m3mg171rxa-cloc-2.10
+/gnu/store/r0ym4hiidx5718j35a4nz9zhh17lyl21-cloc-2.10
 /gnu/store/9in0k1p213di0ii5bcq5vvapkhykzq8p-clog-0.0-8.84818a4
 /gnu/store/hpvj0w1lf3f4gbqbxkpki9ra6d7mivpd-clog-0.0-8.84818a4
 /gnu/store/5vqb24h8cys19lh31024872km6a249dn-clojure-1.12.4
@@ -28866,8 +28866,8 @@
 /gnu/store/cagdpccf6mgj33r2vhqiygf44cvg9q74-lxmenu-data-0.1.6
 /gnu/store/g5fz2hf982bpz7cbwzlazr40k2z6ms8h-lxpanel-0.11.1
 /gnu/store/yh69nsl6pdp5wvdmc68fhx13wrn37r7v-lxpanel-0.11.1
-/gnu/store/0p97hz3h3g5r0gf3sldg0kbhcbl286jj-lxqt-2.4.0
-/gnu/store/2nbza4m6k3d5v92asavf6fmdsy36jqb5-lxqt-2.4.0
+/gnu/store/a0wvgkwd6v0fghy6gk1j5g9bplnw3jhg-lxqt-2.4.0
+/gnu/store/pcq01zrbh3j6pbrca4mqnmakbqjjrzwf-lxqt-2.4.0
 /gnu/store/fv8mmsmgyan24wkgcdh7plpi6xm7myw4-lxqt-about-2.4.0
 /gnu/store/nid62w276pcvnxsq64cg1qwqjjh5i0mi-lxqt-about-2.4.0
 /gnu/store/jiqhchpg2pqkcxnk4vp9aq9k79rxi70p-lxqt-admin-2.4.0
@@ -75752,6 +75752,8 @@
 /gnu/store/h3w3d889f0bhj2vlzj7hdn0ad0gr8z8f-xdg-desktop-portal-hyprland-1.3.12
 /gnu/store/mjjqihjnl68gli0w2k845lfli99m3bc0-xdg-desktop-portal-kde-6.5.5
 /gnu/store/sd8lw39hq0chgpcj8wlwf400h2pwg0ma-xdg-desktop-portal-kde-6.5.5
+/gnu/store/inn27bl1d0g0ml5f5zh19mvrylgink46-xdg-desktop-portal-lxqt-1.4.0
+/gnu/store/pmgk954fmn105yav23lg86qfkm65v2n5-xdg-desktop-portal-lxqt-1.4.0
 /gnu/store/85djzyrwc5978jnh35p27z5aw70gi3jn-xdg-desktop-portal-termfilechooser-1.3.0
 /gnu/store/9yw55v2ajx791w379yi419x7hi8q7r1l-xdg-desktop-portal-termfilechooser-1.3.0
 /gnu/store/00c9j0yylc8k09rhfyf0v7jf2inb3h3s-xdg-desktop-portal-wlr-0.8.2
