@@ -512,8 +512,8 @@
 /gnu/store/ywmcqhmmif0skvy4nf61ch00jyy99nkh-archivemount-0.9.1
 /gnu/store/a599awk3jawj1y86g2czjf611y8xyca0-ardour-9.2
 /gnu/store/qcyxwfnlvy4lp4ly833ic3kwznfszzy4-ardour-9.2
-/gnu/store/d1phm5irp5iq1mxg3knzgcfli8gzv9hb-arduino-cli-1.5.1
-/gnu/store/r9wnkxgdqfc0wgw53chsqg15k1q1bs5x-arduino-cli-1.5.1
+/gnu/store/byzhvvhdsxpdwvi9ljx2jyfxrsqa28xp-arduino-cli-1.5.1
+/gnu/store/vl3djiddg3rf90wcvdydwiy1parwmxqr-arduino-cli-1.5.1
 /gnu/store/65n6ii45v4b3xd41gsp9xg2592wfippv-ares-147
 /gnu/store/rw4vh0zsgcq96nf18krh85ls2cg75c51-ares-147
 /gnu/store/hh3b43ih0dihjyhgdg7r7hrk0glakn9k-argagg-0.4.7
@@ -20955,6 +20955,10 @@
 /gnu/store/wi8iaxj9x4xjwg9b377m1w2qpcqin412-go-mvdan-cc-unparam-0.0.0-20251027182757-5beb8c8f8f15
 /gnu/store/cb73fivqar4dcwydifwzv3y49i29wx8q-go-mvdan-cc-xurls-v2-2.6.0
 /gnu/store/inb5vr8667bv93ahr20xf9x90az3vfl4-go-mvdan-cc-xurls-v2-2.6.0
+/gnu/store/6alcp3xhp91m1qmqac0g2pa4f00xshqy-go-next-1.27rc1
+/gnu/store/qvraarplp3j3bvzy5qhybx30vg30jh3v-go-next-1.27rc1
+/gnu/store/8pb5pibsnzx7srf93kshc2s75lrm1q99-go-next-1.27rc1-tests
+/gnu/store/gb0q1mvxaxlhh9b34j7g7hv34vfy3bac-go-next-1.27rc1-tests
 /gnu/store/0bzkcml7bjlvrv48qa7c0b9qh0wbapmj-go-nhooyr-io-websocket-1.8.11
 /gnu/store/mikwwf83xgvxjagi0px7ggs66663qy41-go-nhooyr-io-websocket-1.8.11
 /gnu/store/b78y8v375bs4c12ip9ayqvha95fsvhpc-go-ninefans-net-go-0.0.7
