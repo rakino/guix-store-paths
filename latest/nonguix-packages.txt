@@ -291,6 +291,10 @@
 /gnu/store/p195id1irkxvak63zcrr0nl51v3knk84-linux-7.0.14
 /gnu/store/7jj1i5zizfw0pcvfy8gmjvim6hi4zfsw-linux-7.0.14.tar.zst
 /gnu/store/gzvmvcxmxzfz875v99l0bqv85bdrrv61-linux-7.0.14.tar.zst
+/gnu/store/w6s8f4gy5dw842h8da7bpfxm2cl3ky7m-linux-7.1.3
+/gnu/store/wiawv80cmi2fh380w7hss70lz25blv9f-linux-7.1.3
+/gnu/store/dxx67pdh89358b5496waz32dkfdac36n-linux-7.1.3.tar.zst
+/gnu/store/pj9inc3l322b3fackqbr8kx5i0r1nadw-linux-7.1.3.tar.zst
 /gnu/store/lrkx8gfwn3jl7xfdnhx55s29gg5wir02-linux-arm64-generic-5.10.260
 /gnu/store/ffvq6b5qmy3cnxblgzyyi4wh0p1gfqbz-linux-arm64-generic-7.0.14
 /gnu/store/7i0bv4apisk7gbpdzln16gakrgmj1l8j-linux-firmware-20260622

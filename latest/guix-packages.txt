@@ -75391,10 +75391,10 @@
 /gnu/store/ryxzqc314xsd4mvcglq3hyiz4djx6n1s-websockify-0.13.0
 /gnu/store/b309fywkll9hribd0889q4m1z5xyd6hf-webssh-1.6.3
 /gnu/store/dl4k78nhkwprzqrjc3wnyq4gj6m71lam-webssh-1.6.3
-/gnu/store/95adsw8kvxp5n7m8j2gddi38wjnqy49j-weechat-4.9.2
-/gnu/store/mbwzsvfjplh7bvq7qi7pwpl4a6j907y5-weechat-4.9.2
-/gnu/store/3cz0pwjkxypf0kz03a45nbvbmb7iz969-weechat-4.9.2-doc
-/gnu/store/yig685j1iivvkzsr2q31fppqn8s1x50s-weechat-4.9.2-doc
+/gnu/store/csy8s5vbl2rl8ff3cf470gsx4d420wl6-weechat-4.9.3
+/gnu/store/p6dv07pjcn43g02jzxjgy62sxgpxxj0m-weechat-4.9.3
+/gnu/store/2lfqs40iyd89d01ij3qjsg25fdck3q7n-weechat-4.9.3-doc
+/gnu/store/v6sypp3cy6pz4044m1s8l4znc8xja44x-weechat-4.9.3-doc
 /gnu/store/fjwaxh6x1rw79lizf53zkixvckrm3ki2-weechat-wee-slack-2.11.0
 /gnu/store/mkjskdyq356al4vfxfx4fdb12rnpgzwh-weechat-wee-slack-2.11.0
 /gnu/store/hx1a1n1iv1vi250b5k46j4w0pyw8kx1r-weex-2.8.3
