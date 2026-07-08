@@ -31994,8 +31994,8 @@
 /gnu/store/v4f6agnfl76mz39f7n01kkpmnqf6dyms-openresolv-3.17.4
 /gnu/store/99x5akgnjcfrhahcy7sgg9fz9038896h-openrgb-0.9
 /gnu/store/cwjnmp2a9b4mgclc2db5yzf35zv590lf-openrgb-0.9
-/gnu/store/avbycb1yrlgfbk5xzq27l9r68w8n54p0-openriichi-0.2.1.1
-/gnu/store/xv1chivn9fybmb6n2w67q103gkkc6b4q-openriichi-0.2.1.1
+/gnu/store/dqdqshh31np4aa4c96cq754z54asd5ir-openriichi-0.2.1.1
+/gnu/store/yilxgfalm21259yjkc4ly39877ci03qg-openriichi-0.2.1.1
 /gnu/store/44db8h0z6785snx6xj63pp5irzlqfda3-openroad-26Q2
 /gnu/store/mid11c7kd8200vi6fc8jhrklnvdf13q6-openroad-26Q2
 /gnu/store/8hhi08lmgrxn21al66xpi72s7mlf3mk8-openroad-cli-26Q2
