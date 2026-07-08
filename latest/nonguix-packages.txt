@@ -148,10 +148,10 @@
 /gnu/store/l4fzcy2q0yf23qmfbc7mpaz2pj1mzayz-ffmpeg-8.1.1-debug
 /gnu/store/pdg0dnpg59jz595rdi532g4241ldbbna-ffmpeg-8.1.1-debug
 /gnu/store/x3bnx3zmf1xc3ab3dlvq63q3h42bfvyq-ffmpeg-8.1.1-debug
-/gnu/store/6rimhx2k52jgajjfx058jlh3wh329ls6-firefox-152.0.3
-/gnu/store/ndbjih3prmplwchwp6r9c9a80rakxs09-firefox-152.0.3
-/gnu/store/b0yh9353i7x763h7c4ycxi5jb2s60arw-firefox-esr-140.12.0esr
-/gnu/store/cgcphsa40ijak5c7h19aqr46v037hv25-firefox-esr-140.12.0esr
+/gnu/store/0ljmn7bxpgphxi9ll2mvyymz7ndh575h-firefox-152.0.3
+/gnu/store/llhkc3j68zjrwbzsdr0g389y491vypyx-firefox-152.0.3
+/gnu/store/071zj9ylw4n90qpl5dry4dcy41ra1f24-firefox-esr-140.12.0esr
+/gnu/store/g3ipkaijmfqpbg368pa33b68ryb6d7gd-firefox-esr-140.12.0esr
 /gnu/store/54rx69vijndxdfn2r7fdjnb5l7684zh2-font-apple-color-emoji-18.0d4e1
 /gnu/store/6jvs1jkqz1fi3qka724k1p13hcjjlc6n-font-apple-color-emoji-18.0d4e1
 /gnu/store/lyyyvfx701ahr0ww6kwx63zaf6z2c06d-font-apple-new-york-17.0d5e1
@@ -249,8 +249,8 @@
 /gnu/store/58dnplm9n14vyaijwzjzb940xfx0d10c-iwlwifi-firmware-20260622
 /gnu/store/dkh8rm2lfc85nzzf56hx9lpx9jlnz742-leiningen-2.12.0
 /gnu/store/hv5f3s5v7giham8c7c140m4as560sws4-leiningen-2.12.0
-/gnu/store/1gx9zqcbwcfzzx6i4pmwspn5m0mxha3f-lgogdownloader-3.17
-/gnu/store/ad16zgsg0s1rl562ml169d1x8s2w3wia-lgogdownloader-3.17
+/gnu/store/ckv3kqlnmzfri3ccpgvjpg3jkh9lcyb9-lgogdownloader-3.17
+/gnu/store/d1jymr4mdk7bjgr95qz7kmx5mhymn4vs-lgogdownloader-3.17
 /gnu/store/hvg7znsazwhlm608n59ldjyv6a5f7gal-libglvnd-1.7.0
 /gnu/store/w52z6j8gkridsi4kqzhslay6sdcsx2dp-libglvnd-1.7.0
 /gnu/store/78az2pdqnz9ra9mg8k96f27b24fbval0-libretro-genesis-plus-gx-0-0.a80e3b3
@@ -488,8 +488,8 @@
 /gnu/store/dq6z289x67vmqvpssfy56hdrmc8vl99v-wasm32-wasi-libcxx-17.0.6
 /gnu/store/ks8lhklrrgr8zgmcc8gwsk7763p9smw0-winetricks-20250102
 /gnu/store/xzqlx8n31kycz4qnckyg3ygilpliwia0-winetricks-20250102
-/gnu/store/0w0a3il7mfsl96p1mlshbdazv1d22yfc-yarn-1.22.22
-/gnu/store/jrdkaayjgrdfm0g7gv4ays9mh134vbp8-yarn-1.22.22
+/gnu/store/0w40zfdlcwijblsg25x7rlc246dph635-yarn-1.22.22
+/gnu/store/n5za36vfk499vyasr3qd1pv6jiqfrvim-yarn-1.22.22
 /gnu/store/3f4x4lf1si1wii7my2cfqablndqms5gk-zerotier-1.12.2
 /gnu/store/v99kb53h9n6fvrdj5lksnqzlky0bvcfm-zerotier-1.12.2
 /gnu/store/k95f5cp83mxs4w7762z36hr13ixnp7c7-zoom-5.17.5.2543
