@@ -12,7 +12,7 @@
        (name 'guix)
        (url "https://git.guix.gnu.org/guix.git")
        (branch "master")
-       (commit "733be4b68b4521e86bd66cc2e35e250383e78175")
+       (commit "d17165da1a1480290099c4d0a644bb1f479b2488")
        (introduction
         (make-channel-introduction
          "9edb3f66fd807b096b48283debdcddccfea34bad"
