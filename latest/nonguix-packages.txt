@@ -148,8 +148,8 @@
 /gnu/store/l4fzcy2q0yf23qmfbc7mpaz2pj1mzayz-ffmpeg-8.1.1-debug
 /gnu/store/pdg0dnpg59jz595rdi532g4241ldbbna-ffmpeg-8.1.1-debug
 /gnu/store/x3bnx3zmf1xc3ab3dlvq63q3h42bfvyq-ffmpeg-8.1.1-debug
-/gnu/store/0ljmn7bxpgphxi9ll2mvyymz7ndh575h-firefox-152.0.3
-/gnu/store/llhkc3j68zjrwbzsdr0g389y491vypyx-firefox-152.0.3
+/gnu/store/fi4w6d41jbz41397dpyw4d2w848a7wzk-firefox-152.0.5
+/gnu/store/pzdij5g6k3hff2q1jh7hyc38i0zlkbyh-firefox-152.0.5
 /gnu/store/071zj9ylw4n90qpl5dry4dcy41ra1f24-firefox-esr-140.12.0esr
 /gnu/store/g3ipkaijmfqpbg368pa33b68ryb6d7gd-firefox-esr-140.12.0esr
 /gnu/store/54rx69vijndxdfn2r7fdjnb5l7684zh2-font-apple-color-emoji-18.0d4e1
