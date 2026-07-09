@@ -808,8 +808,8 @@
 /gnu/store/zqdxw2sds7qd4qarn4sy1vbsdr0bshqp-avidemux-2.8.1
 /gnu/store/awwfpc2pv89315jkqn0six3ql6nnjalr-avizo-1.3
 /gnu/store/zbapwkfjxmzqlwglkhyah4axy969cxx1-avizo-1.3
-/gnu/store/hfc7f8ags6h003nqbwx3c2j9ab63xj00-avldrums-lv2-0.7.3
-/gnu/store/n4z0xvfy7p0afhkddbdlj14y5c03g522-avldrums-lv2-0.7.3
+/gnu/store/0c7dqccbc4mi6bi8r9jy7hf3djrvwi3s-avldrums-lv2-0.7.3
+/gnu/store/pli0c6qj3fsd9xyfv3n3n6mhw4hgfrd3-avldrums-lv2-0.7.3
 /gnu/store/70m59cpm21prr59nyim8b6wcyjhsy6sy-avogadro2-1.102.1
 /gnu/store/p5cczpc5mmas6y4jx5myd6c443sf225k-avogadro2-1.102.1
 /gnu/store/6sximp6amiyjkx022bkixbvi729dpl8c-avogadrolibs-1.102.1
@@ -5509,8 +5509,8 @@
 /gnu/store/nymbxcwj926ccqkrmzpw2w6dggzn42vl-dparser-1.33a
 /gnu/store/h9s3qqjx8q2gp94wycmg8150g8zkm1mn-dpdk-25.07
 /gnu/store/q66wr7mk38ckawnf1y83xqxch2k5gwnl-dpdk-25.07
-/gnu/store/10lgmc8w8khgaijfxz74a2r5d238vps1-dpf-plugins-1.7
-/gnu/store/l2w2b8qa8h37s8a8i2vlgyp0hm3kw0ys-dpf-plugins-1.7
+/gnu/store/hzzqq5qx5s7yybmfmnc081jd0frm2881-dpf-plugins-1.7
+/gnu/store/sim3crvh53y3n8v4x3254a7c2kraj2z4-dpf-plugins-1.7
 /gnu/store/2xzxaa26ysbgcravcp3b9m664x0wlbkq-dpic-2025.08.01-0.1354b63
 /gnu/store/ganv8hnaf25f7vp2vh8kdg2zksr3h2dh-dpic-2025.08.01-0.1354b63
 /gnu/store/4qlflg0xd7a701dhb3qqw2v9lfadp4pn-dpkg-1.22.21
@@ -5570,8 +5570,8 @@
 /gnu/store/wlwxq30sd2xb2f4cp4b808f16m9rzlw3-dsfmt-2.2.3
 /gnu/store/1gygz7mxv2d71ib7fgkhcnnk0pciy6i5-dsp-2.0
 /gnu/store/6d7zng5r7w12wbqiazij5zsqb7hi7yga-dsp-2.0
-/gnu/store/5wdbrhy5zxmw4bx4vqkwiqzyh26yfx6r-dssi-1.1.1
-/gnu/store/snw1hn6jpyyf8gral5qj4q1zhqffvfx9-dssi-1.1.1
+/gnu/store/45znccr1grnfzzf7flzh97gjpcgwcy76-dssi-1.1.1
+/gnu/store/4p7zh63sz9chc4zicqx2lh3ifl6c052l-dssi-1.1.1
 /gnu/store/n4xmgrv4g9xyjp4822plxf265pvb95wx-dstask-1.0.1
 /gnu/store/zn9jn0as2g5wngvxfjdqf41bklv0p534-dstask-1.0.1
 /gnu/store/11avy70fpq4d1xp1bipm4g4sgl261x50-dstat-0.7.4
@@ -21425,8 +21425,8 @@
 /gnu/store/rk0rl16wj5cx4fxrlian3wq2sv6ifsrw-gsasl-2.2.2
 /gnu/store/f5zicmxsn6nyn1ijsavv6sijldndbxag-gsegrafix-1.0.7.2
 /gnu/store/n2r9f2s3xy4gzdhyxl6gplzkvrsw54jv-gsegrafix-1.0.7.2
-/gnu/store/56clkbj6620nv662v8wzdb11nh8qsn88-gsequencer-8.1.24
-/gnu/store/znpccbfdhk9plf0y3v5ffcl8m8kgiamy-gsequencer-8.1.24
+/gnu/store/lbxg9qfkaq40wg97z6ziqrz2mzyjnka4-gsequencer-8.1.24
+/gnu/store/qijbxkipjd9hgn47lyzpjk9lc34fjzjl-gsequencer-8.1.24
 /gnu/store/dkmm79d8bi847k54m0gk9bm2hfbrp4vc-gsettings-desktop-schemas-48.0
 /gnu/store/dsz4f5jrkg36v04klys74fh0xi399bhy-gsettings-desktop-schemas-48.0
 /gnu/store/c2has9yxci5j8rcw48cb2y3q2i91i3z2-gsimplecal-2.4.1
@@ -30087,8 +30087,8 @@
 /gnu/store/fpijpa2aivbaazj3w9yz614wp2bzp50c-murrine-0.98.2
 /gnu/store/pbjwsvl85sg2h9mqgrdpjzrkq40vxi0j-muscle-3.8.1551
 /gnu/store/qmgyw63bnqfv90cm9nlwcj46zqhp2j2s-muscle-3.8.1551
-/gnu/store/82cdhpabmyfxwlcan6hy74f9z8ygbnyp-muse-sequencer-4.2.1
-/gnu/store/r4wsdpz8b45qw9vgi6vpq0wd6qdn8hkk-muse-sequencer-4.2.1
+/gnu/store/dfs1182j30sy3yv7xa95hvw9ayc6rwf8-muse-sequencer-4.2.1
+/gnu/store/lc9b78r5zhnvpck6gd0qdpbfwcvhys8m-muse-sequencer-4.2.1
 /gnu/store/jf6hyzh7fig4b4q5zr44jslahy26gysp-musescore-4.6.5
 /gnu/store/kilf56dgyy0bn6q5n0iw0akslv30la3r-musescore-4.6.5
 /gnu/store/q9z94s9rslvc1fvdvwc091c84hvjm6va-music-0.0.0-1.b1caecd
@@ -49335,8 +49335,8 @@
 /gnu/store/xvgnnxfg8c36lc9022cglgbmc2y2cgin-ronn-ng-0.10.1
 /gnu/store/56yg841bccd3zlzy0r7g2277kflq93zp-ropgadget-7.7
 /gnu/store/y5vjkc1hnk7m1b79al0pbgi9p98v013c-ropgadget-7.7
-/gnu/store/bmk1nkf17qlk2qlaz22yrjrg1q01i0ic-rosegarden-25.06
-/gnu/store/fxj0l1866rnqhysh624lzqdvfvs848lj-rosegarden-25.06
+/gnu/store/0mzb5q99h18id7cpvhysmz16v8hiah6j-rosegarden-25.06
+/gnu/store/7p3la3qs07az4qjd46jqsx9i4cjqbpyz-rosegarden-25.06
 /gnu/store/dbsybabvzmc6qa3yfcyx3bi793b6r14w-roswell-24.10.115
 /gnu/store/plbr5r52q13msxzjv60j56bsal1r0h5a-roswell-24.10.115
 /gnu/store/31wdnd21glyl1vz2ypcw8v9raj7ya2d3-rot8-1.0.0
@@ -75484,8 +75484,8 @@
 /gnu/store/slf1mbv122dcav7wx5ylckvavx5hnvnz-whoogle-search-0.8.4
 /gnu/store/gnpcngnsni6i0s4pbhq3jkpy4w8fsjpr-why3-1.7.2
 /gnu/store/rvhl9skqsgcphwcija0h2x2z3d7h2x4r-why3-1.7.2
-/gnu/store/b5f8iq11p5kr1gzahwd66wkmmr7zkbhr-whysynth-20170701
-/gnu/store/r3xvsm4v9ywsb4r8ks1lmj2np7qxav01-whysynth-20170701
+/gnu/store/cbjwaq89rmfk9rvi5qikcwrbhrqzirzf-whysynth-20170701
+/gnu/store/nigad9r0sg852b74ig847d8pyj6ps2rl-whysynth-20170701
 /gnu/store/8rmnb8jqblwch2hzmsmnk10z348mq276-wide-integer-0-1314.22b8428
 /gnu/store/dv0yl8vxrqh0ixnrc4l9vgk46rcbn20l-wide-integer-0-1314.22b8428
 /gnu/store/nm9m0c972yr8kky4drh2x8d457dm3ppl-widelands-1.3.1
