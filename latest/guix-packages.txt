@@ -37887,10 +37887,10 @@
 /gnu/store/4b06kgaqjnb3sppdifzn48gylygq4y2d-python-isal-1.8.0
 /gnu/store/7958z07yczlx5kgwi74mrnghd3c9dabl-python-isbnlib-3.10.14
 /gnu/store/92jd4aj2klvmhkbavm92hp6ljckjfsc3-python-isbnlib-3.10.14
-/gnu/store/b4rn03pa6qcc138hr7zcb27pp71qpiza-python-islenska-1.1.1
-/gnu/store/l9bqf466385ssc6n1mhc3g5dm27m02by-python-islenska-1.1.1
-/gnu/store/bz6a4ydssfc0ysxs9m3fd38n8g4xknpw-python-islenska-bootstrap-1.1.1
-/gnu/store/vd5nvcg4dgyvl3cnsr718hygnpywlqgp-python-islenska-bootstrap-1.1.1
+/gnu/store/80bncvi6dpn0i0cja0xh0a3a73m05qhb-python-islenska-1.3.2
+/gnu/store/xyfrb3pwssqhn1a5a6n1k4wzzn5h953g-python-islenska-1.3.2
+/gnu/store/bf9is7882k3vxgbkahy2lsqx41mv6l0m-python-islenska-bootstrap-1.3.2
+/gnu/store/xcn9gph7fxrg2zrgf47pya80f2hr3pzb-python-islenska-bootstrap-1.3.2
 /gnu/store/2akkm30c90sidh1vfad7gdxqw9klh6l9-python-iso3166-2.1.1
 /gnu/store/98h8l4kz912j63zmgqkrvgx83lycc7r4-python-iso3166-2.1.1
 /gnu/store/8bqms7ikkc1ljgziiy9vr82cyinp8n2y-python-iso639-0.4.5
