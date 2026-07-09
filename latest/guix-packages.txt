@@ -22279,8 +22279,8 @@
 /gnu/store/fp3xkygp6pgh9kma3nxmp0y0x7gxyrx6-hare-json-0.26.0.0
 /gnu/store/2zd2gkrvp0xxcy0z93dy3j0jsan7wzg0-hare-lex-0.26.0.0
 /gnu/store/j2r5apih4zm4lvrm5q2cgaxjgwkms5j0-hare-lex-0.26.0.0
-/gnu/store/9yj8ds0c3mjmgr0bww3q3fz4wmqmvzk7-hare-lsp-0.2.0
-/gnu/store/hbiwlbc1674c047ix4kq3x791x9g94r9-hare-lsp-0.2.0
+/gnu/store/ssjfd4r428bcfq1b0y9djyslh6ifhljd-hare-lsp-0.2.1
+/gnu/store/y3m60vayhmm1c85yfp3s5b3sg0z0igpr-hare-lsp-0.2.1
 /gnu/store/52jg87k7d165h8bdxb4yp2bm6nmynym4-hare-mcron-1.3.0
 /gnu/store/azigrdah5ssrcwphiw8a8ky4wzana0zj-hare-mcron-1.3.0
 /gnu/store/9hc0hjh799mvcllm5my4izjwkaaa9wlj-hare-scfg-0.25.2
@@ -73343,8 +73343,8 @@
 /gnu/store/gh2qjpgmzsjds6ycl426hki4dd0iklrl-trayer-srg-1.1.8
 /gnu/store/1d4swndn7b1l5745q4yg7js8dd8qqz1z-tre-0.9.0
 /gnu/store/83smqncf8sm15d0qaxy6p8aabcsz1yzj-tre-0.9.0
-/gnu/store/d9vkm201a5yyh7063zpz6vnz2id2y6hr-trealla-2.103.8
-/gnu/store/r4pf0j3gs5fhl4pr8hfns9wr54x9swhc-trealla-2.103.8
+/gnu/store/17fjspvnp1p4s89imk0fh0ln8nyj3c2q-trealla-2.103.10
+/gnu/store/gwza0h09w0xjizh24pd5idbp74fq9xkg-trealla-2.103.10
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/vwf9bpj3kyzy5pfiiqy08qqjndxdsi07-tree-sitter-0.25.3
