@@ -53702,8 +53702,8 @@
 /gnu/store/jdzz6spnc85x21byhfvpljaj133d2gdf-soil-1.0.7
 /gnu/store/636rzqli42p4x1wgdprfx17xffqmp5xr-soju-0.10.1
 /gnu/store/n4jmhzd9c1ghl9z3x1naipqxg29qj7x2-soju-0.10.1
-/gnu/store/c0xsw3l85qhssp09d6i3s0z3qywabjhk-solaar-1.1.19
-/gnu/store/scrlrxg8hxaaz5dicw6n7ld63pd36i07-solaar-1.1.19
+/gnu/store/1jbx62bmzgk7b0wz4sca5iqsly6jq9p1-solaar-1.1.20
+/gnu/store/xg9kw677b56rn6xhdpp7242c2l4jw1iq-solaar-1.1.20
 /gnu/store/662wj6gv93jry5iw1922x0pi57xfca64-solarus-2.0.3
 /gnu/store/834im8vzj939p800hqqxydy6wd9ld3h0-solarus-2.0.3
 /gnu/store/482731yz87648ikck0kkhjk8xhga3iq1-solarus-launcher-2.0.3
@@ -54112,8 +54112,8 @@
 /gnu/store/2vlc5n18g769lcgylns65sjmj5qw2gkr-stress-1.0.7
 /gnu/store/c8qlw523qvwra71nblhji09602hq8s8x-stress-make-1.0-2.97815be
 /gnu/store/p8v5imyisyj15wfqm5c4cdw73h3hixky-stress-make-1.0-2.97815be
-/gnu/store/sfiwgq8kkvbz0gckg5d89rp314ysifra-stress-ng-0.21.01
-/gnu/store/ylp5na7i9fi3psi1c0vsyajip7whrwij-stress-ng-0.21.01
+/gnu/store/5siwa1qms90lnpil9lr8q8pbdbmn7qqz-stress-ng-0.21.03
+/gnu/store/azd8ks6sjzwf5bgwqvyh7fmqbwj4pl5z-stress-ng-0.21.03
 /gnu/store/11qqfwf32rghxlknvgwlq9ldks9xah75-string-view-lite-1.8.0
 /gnu/store/i1lri9ar3pyqclnj4bymzx52v8593kk1-string-view-lite-1.8.0
 /gnu/store/0bbil5la5hqlyf33j9jw0fdx4kid4v0g-stringtie-3.0.2
