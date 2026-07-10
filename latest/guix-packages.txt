@@ -892,8 +892,8 @@
 /gnu/store/wbjzjs8gd0qlmy6n9acnsza3fgz4691b-axoloti-runtime-1.0.12-2
 /gnu/store/0acgx5cpl2xa64nc6dds17js6xm9bsxq-azimuth-1.0.3-0.050f838
 /gnu/store/lv1r6aksnn6yl88lw4v3rb5wyl98f8dy-azimuth-1.0.3-0.050f838
-/gnu/store/abcvvbb89zyqf06kk73qzi79ps1409i7-azote-1.16.0
-/gnu/store/az2a69jk5igzi2i7ry5y57cydqmcjchl-azote-1.16.0
+/gnu/store/pkm0562ca5ab50h52qp24rbflajqcqaa-azote-1.16.0
+/gnu/store/za6g13ksy43am4aqybyi28sqz5mv70cx-azote-1.16.0
 /gnu/store/64nnhbimfrr9gxajn5p4l8bj61gh867z-azpainter-3.0.6
 /gnu/store/n929rwcx27ilyysm0a29aqfv8sp6l5w0-azpainter-3.0.6
 /gnu/store/j68bgjvyjmnnkqfrpagpkfypvaccq1hv-azr3-1.2.3-1.3391a0a
@@ -21344,8 +21344,8 @@
 /gnu/store/knzx0p892qrf7b3smzfimddhal1ky19i-grim-1.5.0
 /gnu/store/b209fgx4dbyg9dmn022qf226fiwvr7mp-grimblast-0.1-1.9d67858
 /gnu/store/yzmc5z6sfavm52i6226n5cxf9i0n552c-grimblast-0.1-1.9d67858
-/gnu/store/4x2z1nkd9n4crfkffkmkpl79mym64bna-grimshot-1.9-contrib.0
-/gnu/store/7dzhd54q4qzr9qi93zn67ry0za4njjrc-grimshot-1.9-contrib.0
+/gnu/store/85gx57a1wiyf6aw1310bv2rv9qqggzwq-grimshot-1.9-contrib.0
+/gnu/store/v9mpz7z6kdscprvqfs0r7sbh9z4v7q3m-grimshot-1.9-contrib.0
 /gnu/store/5a930zjl9v94pj1nhpzindh1pdlmi71s-grip-4.6.1
 /gnu/store/himvg8scz1kx5kqs1m5h475qy3wpbwwl-grip-4.6.1
 /gnu/store/7jnx97yyxq0lm8n0qlxp28m5g8bh8zgi-grisbi-2.0.5
@@ -26292,8 +26292,8 @@
 /gnu/store/qw9rh7pxxyza8iapq9y5z55z87zxv3wm-lablgtk-3.1.3
 /gnu/store/bi6v3d92gd9ik7mndm2jykxzjk4il7ai-labplot-2.12.1
 /gnu/store/jv2li812r2wplhn2q6syz1kq7l5xcxzm-labplot-2.12.1
-/gnu/store/crv9pr8f6d36r5brkh3h6ks693r1cgkf-labwc-0.20.1
-/gnu/store/xnh6r2nw19np5x0pr3bxzgw6v0dh41ws-labwc-0.20.1
+/gnu/store/93c93p4rahcsrryi4wzbyc9zdnz5ckvs-labwc-0.20.1
+/gnu/store/p9fk70hc4z9p6n651fa5rsdn2j9xkym2-labwc-0.20.1
 /gnu/store/12y0ic40qasji52scil5m4cwlvasbb8b-laby-0.7.0
 /gnu/store/f0x30n6ksmlb261i08yk910c4pimxdv5-laby-0.7.0
 /gnu/store/1i76mjdaijk6jcad0fvlkza8ifdhsznx-ladspa-1.13
@@ -28901,8 +28901,8 @@
 /gnu/store/cagdpccf6mgj33r2vhqiygf44cvg9q74-lxmenu-data-0.1.6
 /gnu/store/g5fz2hf982bpz7cbwzlazr40k2z6ms8h-lxpanel-0.11.1
 /gnu/store/yh69nsl6pdp5wvdmc68fhx13wrn37r7v-lxpanel-0.11.1
-/gnu/store/8203iv9wvlxbcljks98wi6a25fmqg2mq-lxqt-2.4.0
-/gnu/store/92qf3adqnkcf9kakv9pz4ac1frl0d9kk-lxqt-2.4.0
+/gnu/store/gf4y56b2j2i7skr68f54qah1y2fg46xk-lxqt-2.4.0
+/gnu/store/snvdfa9hgp2a8wyzn2ghpg4q8lvn4az2-lxqt-2.4.0
 /gnu/store/fv8mmsmgyan24wkgcdh7plpi6xm7myw4-lxqt-about-2.4.0
 /gnu/store/nid62w276pcvnxsq64cg1qwqjjh5i0mi-lxqt-about-2.4.0
 /gnu/store/jiqhchpg2pqkcxnk4vp9aq9k79rxi70p-lxqt-admin-2.4.0
@@ -30979,8 +30979,8 @@
 /gnu/store/b7lyl4fkfbldvj7rpmjlv5rs4vc6azfi-nwg-panel-0.10.13
 /gnu/store/r9vxwk43p478ydpam3g6axlkdq7x84in-nwg-readme-browser-0.1.7
 /gnu/store/ww775baqzcsjcbbbr7aw82brixa7ls61-nwg-readme-browser-0.1.7
-/gnu/store/a6wfylx7a65363qskkyj4lnr0klfvw6q-nwg-shell-0.5.50
-/gnu/store/zds91j7zjzdgp50p1748317r3xqahd33-nwg-shell-0.5.50
+/gnu/store/azrs1a1d47544cybq5q09hixz9h261vv-nwg-shell-0.5.50
+/gnu/store/r4n9fw25liabv9qwxwimlccs11p0fidq-nwg-shell-0.5.50
 /gnu/store/2bsrkk53bwhvg68my6aqzbjhmq59s0wc-nwg-shell-config-0.5.64
 /gnu/store/zy21baw0vkw7zrdfnb62y88252lkz27f-nwg-shell-config-0.5.64
 /gnu/store/5sjdw1i2rpfqarjvqf3pvrn5yg83djm6-nwg-shell-wallpapers-1.5
@@ -54302,8 +54302,8 @@
 /gnu/store/igy624pj5gmb160mjz477lsf7x1m4ksb-swapspace-1.18.1
 /gnu/store/hmpd9l358racikplrr3csi6gagz4fk75-swarp-2.41.5
 /gnu/store/wza9dbiyz79jyl7hgxmdl66vj9f162p8-swarp-2.41.5
-/gnu/store/byvz82m87v4pmw48i4zd69aq0d6vx8ad-sway-1.12
-/gnu/store/kw6c9irvac198sxys48ia6pkmw2w68p6-sway-1.12
+/gnu/store/2c3gpzxyr76fspvnhr6ygf2lcc8z4aqz-sway-1.12
+/gnu/store/9c6mpcppx02ikj9i08n3vsjair2zipf1-sway-1.12
 /gnu/store/003x07smwfnssjw5a3y3i3mxv5fhbymm-sway-audio-idle-inhibit-0.2.0-1.f1e9246
 /gnu/store/3dkn20w71m6gckrkgn06pgw25zzlqyvf-sway-audio-idle-inhibit-0.2.0-1.f1e9246
 /gnu/store/iq4y0n5dpz36fkfvag8m8dbab3ksm86p-swaybg-1.2.1
@@ -75601,8 +75601,8 @@
 /gnu/store/rcgzxzrsxqldp2n84hl1anprhs0d86yd-wlroots-0.18.2
 /gnu/store/hr2ih6lg60pysz4jgwc8lna6330qybaz-wlroots-0.19.3
 /gnu/store/qwg3gh9wvr6gls7zzdgn5dw7vz91xrwq-wlroots-0.19.3
-/gnu/store/25n4bgbm1cdg6axlwakfzcs7hc3knhw1-wlroots-0.20.1
-/gnu/store/d9nlpkk4dhvczd2wqb3r65p3c78pp41v-wlroots-0.20.1
+/gnu/store/4dby3c2vwg8zsgx071wgn0gxbgccwz9v-wlroots-0.20.2
+/gnu/store/y823qnwrwgyqvk26paly9j4dbchz2lxs-wlroots-0.20.2
 /gnu/store/gb5sb362wkppv9k7v6y8gyv2xqkhk9mi-wlrsetroot-0.1.0-0.1b9c2bc
 /gnu/store/krwn2wzi5221j80hwhxc4qx01hzy3mml-wlrsetroot-0.1.0-0.1b9c2bc
 /gnu/store/dg601z73zi0ribfzywhshlwh6xzf2gzz-wlstream-0.0-1.182076a
