@@ -35631,6 +35631,8 @@
 /gnu/store/zyzff46n19p27qdvzi2i1fkjyjkxb2nh-python-astropy-healpix-1.1.3
 /gnu/store/bpmk51fr3w5m89bmipq8yxvr0swa7lqx-python-astropy-iers-data-0.2026.6.15.15.33.16
 /gnu/store/mjbrlsmmq5kyymxlgv6iam7icdy04qla-python-astropy-iers-data-0.2026.6.15.15.33.16
+/gnu/store/gsk6f6vlwx0ll8qc5w3171nd69qc665h-python-astropy-iers-data-0.2026.7.6.1.1.20
+/gnu/store/pb7virjy0zcgp9rrpclfzyn7rq3yg8c6-python-astropy-iers-data-0.2026.7.6.1.1.20
 /gnu/store/qndmw0fah29fy0hxxhaj1ramfpli8dpz-python-astropy-minimal-8.0.0
 /gnu/store/wl8ckp4nlq3khz92h2x7pj3sfcv0xk5s-python-astropy-minimal-8.0.0
 /gnu/store/0p997ngcrr660i69vdwpyqf0r3dy4krs-python-astropydantic-0.1.0
