@@ -1978,8 +1978,8 @@
 /gnu/store/cmg82bhgh0mpap4xca3dwax1rqi17a7s-chuffed-0.13.2
 /gnu/store/7788jbz3gxngvf1iih4r77clx95184x3-cianna-1.0.1.4-1.7e22ab3
 /gnu/store/qn1f0yknmi5gayjb17xsi407hayv405p-cianna-1.0.1.4-1.7e22ab3
-/gnu/store/1pcanvzq5jvqbip9qkx70kmvjbp89rwc-ciel-2.5.0
-/gnu/store/793xcdyfbr6x7nfb0ycjqj28iyby7dxr-ciel-2.5.0
+/gnu/store/l7zv6rrnkgmbisxgjyrr0smq9mablszx-ciel-2.6.1
+/gnu/store/r1dzrx6dmpqyviyihh0al1jn10z8vf5v-ciel-2.6.1
 /gnu/store/71n5ly3x2dgi698pkh48gpsjy9r1pq6l-cif-core-3.0.13
 /gnu/store/f0954jk5vvdcvk15jabbidgdnfiddwpd-cif-core-3.0.13
 /gnu/store/aa22mjarif57sy83vp641fr46lh5blyk-cifs-utils-7.1
@@ -5531,10 +5531,10 @@
 /gnu/store/gaqh0xr0j4x9ansvsc8yavx7vshz4pza-drawing-1.0.2
 /gnu/store/cbwwr0nq7xldk9ww9izzypxds5ag1m96-drawpile-2.2.2-beta.5
 /gnu/store/k76jbd684qf1hb01rra2vc5vkp810yhh-drawpile-2.2.2-beta.5
-/gnu/store/59dw4fw3w96yn1v50yw6s9nidk77bg1i-drawterm-20251123-2.e551ef4
-/gnu/store/wkkkjgphhpa9z18lsw4xrgy4q1kmwm35-drawterm-20251123-2.e551ef4
-/gnu/store/ij611mnm23v0v0nnpx14qg76vksj2rg2-drawterm-wayland-20251123-2.e551ef4
-/gnu/store/njdlhjh2ng3371biyn7y8q123pfq6k4j-drawterm-wayland-20251123-2.e551ef4
+/gnu/store/l0hjjhllxp64ppr7xiwap9brkfpgv406-drawterm-20260701-3.fbfcaea
+/gnu/store/qxzzd5xakilydympwbaml1lqzq0729dm-drawterm-20260701-3.fbfcaea
+/gnu/store/8nmnsdmj1pd0gq6yydsl2nxhayr8lfwa-drawterm-wayland-20260701-3.fbfcaea
+/gnu/store/z874r09qlhpy63y3pyi8hyr62c9vadl4-drawterm-wayland-20260701-3.fbfcaea
 /gnu/store/h6vn7dmxrafv0hfy4cwid8xmh95na15k-drbd-utils-9.31.0
 /gnu/store/rsj6jm44694wdjirirk6q1vzh7znsxk0-drbd-utils-9.31.0
 /gnu/store/cqvpng6prqlrm79gy637wirp4azksvnj-drc-3.2.3
@@ -5692,8 +5692,8 @@
 /gnu/store/z4ymr8zr4kqwraljwc00k6kqz3mf526p-dwarfs-0.14.1
 /gnu/store/5cv86mbgw62cvkfl34k1prhwd0d9f89i-dwarves-1.29
 /gnu/store/wwzw89pah6icw6ajgqhhi669g6lalf3b-dwarves-1.29
-/gnu/store/1ycqh9p7ln70vswc5lq4fybfj4dqnrgv-dwl-0.7
-/gnu/store/4s9gas18cmfn5x5mbjwf3xdksv26isbm-dwl-0.7
+/gnu/store/ap9krmvn93l6zhx9s4xhjj8wan0h53vs-dwl-0.8
+/gnu/store/d165iymcw9jpgky5dpya80gzjjwd7jpq-dwl-0.8
 /gnu/store/24sw4ihf4mm2hpyznd67fwgy1qgx4j3z-dwm-6.8
 /gnu/store/xch338dyf7x5yx3y5n377f6c6y3q7r5p-dwm-6.8
 /gnu/store/6wv4s7p4az9mcgcvcmjff86ls265w1ay-dynaconf-3.2.11
@@ -16295,6 +16295,8 @@
 /gnu/store/s3rn8myqlrrsyw266bnv9pr3bn9mx4yc-go-git-sr-ht-adnano-go-gemini-0.2.5
 /gnu/store/dyywcqzdsf3yq3zvr9h3gv40zcbbzq8b-go-git-sr-ht-emersion-gqlclient-0.0.0-20250318184027-d4a003529bba
 /gnu/store/qf1igsy86dhickpxx80lynf0mlc5gbyj-go-git-sr-ht-emersion-gqlclient-0.0.0-20250318184027-d4a003529bba
+/gnu/store/amvn5qbqd8xfcy10ml0vfyq4wg8nvf35-go-git-sr-ht-mariusor-go-xsd-duration-0.0.0-20220703122237-02e73435a078
+/gnu/store/jr0a5sqlvjnwhdqdysl3r0g84fk2aw6w-go-git-sr-ht-mariusor-go-xsd-duration-0.0.0-20220703122237-02e73435a078
 /gnu/store/123a6y07d1mb7r6wqz17w7hchdvygg5f-go-git-sr-ht-nelsam-correct-0.1.2
 /gnu/store/cg8jxprafn4lmxisl92q90rwnrrfgrj3-go-git-sr-ht-nelsam-correct-0.1.2
 /gnu/store/mzmnxblwx781vf2l725vq935jqwlqbkg-go-git-sr-ht-nelsam-hel-0.9.4
@@ -16311,6 +16313,8 @@
 /gnu/store/xp160nkw6ilfyj6075mgca2zsa844xfz-go-git-sr-ht-sircmpwn-getopt-1.0.0
 /gnu/store/cyylpmsinampyhwvp990572i4vs9drv8-go-git-sr-ht-sircmpwn-go-bare-0.0.0-20210406120253-ab86bc2846d9
 /gnu/store/kfdrdzrrmpbjwps2yfjhgp2pk0fbx0wq-go-git-sr-ht-sircmpwn-go-bare-0.0.0-20210406120253-ab86bc2846d9
+/gnu/store/3cy8171fdc0nb6mcmbgknam19z9a0jnw-go-gitea-com-xorm-sqlfiddle-0.0.0-20180821085327-62ce714f951a
+/gnu/store/nb4hpgvyyl5rf4bh1xs3jixa049l54g2-go-gitea-com-xorm-sqlfiddle-0.0.0-20180821085327-62ce714f951a
 /gnu/store/8nnvp46fqfcmzcfj2lmglfb6vcsfqvwy-go-github-com-1password-onepassword-sdk-go-0.4.0
 /gnu/store/sn6qhizbvrnb1f5hvv7xkwhy3zbz129i-go-github-com-1password-onepassword-sdk-go-0.4.0
 /gnu/store/iyb8j0nr5j02lbbyypqjv7mlv2wfvm2b-go-github-com-42wim-go-gitter-0.0.0
@@ -16811,6 +16815,8 @@
 /gnu/store/i5zdjnbfm5cypp65hqgzn9wlqkyw6h1g-go-github-com-buger-jsonparser-1.1.1
 /gnu/store/3wsx1883bv9mmjqqnnbdm5w3b9d8sqri-go-github-com-buildkite-shellwords-0.0.0-20180315110454-59467a9b8e10
 /gnu/store/4mwbvd0x0rsz2zz8726m49cb9c0pw1bq-go-github-com-buildkite-shellwords-0.0.0-20180315110454-59467a9b8e10
+/gnu/store/a8gr8balpi2iz85ab3x3djhzc7s067h0-go-github-com-buildkite-terminal-to-html-v3-3.17.1
+/gnu/store/zq2s6886ydn44f9rbj65dni1jardzva7-go-github-com-buildkite-terminal-to-html-v3-3.17.1
 /gnu/store/l2m68hjg735c2yr31sx4xijrpyzfn32j-go-github-com-burntsushi-graphics-go-0.0.0-20160129215708-b43f31a4a966
 /gnu/store/z6dqbd6qip9xpcr7bgyhwkx6p4y6p365-go-github-com-burntsushi-graphics-go-0.0.0-20160129215708-b43f31a4a966
 /gnu/store/faq3c36vhhdjnpn4d3qw22ghm5i6i726-go-github-com-burntsushi-toml-1.5.0
@@ -17625,6 +17631,12 @@
 /gnu/store/j7cz4056brp4xb96swh0ir2qw9aln81w-go-github-com-gkampitakis-go-snaps-0.5.15-0.0832b79
 /gnu/store/68cvxw1f5kazdnqii7yax54ax4241bbw-go-github-com-gliderlabs-ssh-0.3.8
 /gnu/store/wcvndr7ir1583gddi9ffl7r68a86xw53-go-github-com-gliderlabs-ssh-0.3.8
+/gnu/store/hyz7bqkgnk3zwjcs9kbffkin8wdjl8q8-go-github-com-go-ap-activitypub-0.0.0-0.13f2546
+/gnu/store/mqfs222wg1dzla737k7fv17smh7ihbw9-go-github-com-go-ap-activitypub-0.0.0-0.13f2546
+/gnu/store/d270qhbsxr3gwbk9jjr46i4dx9bpm4d8-go-github-com-go-ap-errors-0.0.0-20260701132509-92e5e4fd6394
+/gnu/store/xapkkajvv4bsq5wsq11g0dcbyi44dg4d-go-github-com-go-ap-errors-0.0.0-20260701132509-92e5e4fd6394
+/gnu/store/mkbgw229hn84i6ccwj33xad5x17kjqrv-go-github-com-go-ap-jsonld-0.0.0-20260607140920-737b40e0ca38
+/gnu/store/wqgdqcq5ry7wlwzx8hgvvb4qddj4ag3j-go-github-com-go-ap-jsonld-0.0.0-20260607140920-737b40e0ca38
 /gnu/store/0yk7am6jljkc9xsqm59v9m62ns2is3m9-go-github-com-go-asn1-ber-asn1-ber-1.5.7
 /gnu/store/wq33z88ijgazx4fzwdayvqjv0vgdnsda-go-github-com-go-asn1-ber-asn1-ber-1.5.7
 /gnu/store/k7yz0mkngxvd35anpv1xllp63dgapcfm-go-github-com-go-chi-chi-4.1.3
@@ -17815,6 +17827,8 @@
 /gnu/store/55znvzjpjhzkc2y0mdi1a8pz7grzfxf0-go-github-com-gogo-status-1.1.1
 /gnu/store/qp3cfqv1m8f33kbs2fc7a4x93q4phz9d-go-github-com-gogs-chardet-0.0.0-20211120154057-b7413eaefb8f
 /gnu/store/xv0ls8zd9nq7csr7y29sc2xwg1rgxxk4-go-github-com-gogs-chardet-0.0.0-20211120154057-b7413eaefb8f
+/gnu/store/mg387qbx15hyfn5s53xx63746lf3ykvr-go-github-com-gogs-go-gogs-client-0.0.0-20210131175652-1d7215cd8d85
+/gnu/store/n3qc4xn63hkcfxqkklbidi7xfif3r6rw-go-github-com-gogs-go-gogs-client-0.0.0-20210131175652-1d7215cd8d85
 /gnu/store/cqnmpc5wzbk18wi9g8pvz0xqjafggvn1-go-github-com-golang-freetype-0.0.0-20170609003504-e2365dfdc4a0
 /gnu/store/f73hix0mz1f0yw3i95bdpnfrsfmh8fhw-go-github-com-golang-freetype-0.0.0-20170609003504-e2365dfdc4a0
 /gnu/store/9zqc321v4q3l3ampjsr265i73d36bv0h-go-github-com-golang-geo-0.0.0-20260625163123-7c0e84413537
@@ -18819,6 +18833,10 @@
 /gnu/store/zl8m93k2kqii1kngkncqmff076agzvri-go-github-com-marcinbor85-gohex-0.1.0
 /gnu/store/k7d2xb0b2llpqcvfw1bq6crwv5kmja34-go-github-com-marcopolo-simnet-0.0.5
 /gnu/store/v2zld3i26g9bn5ymk9k0yw0q11j9529q-go-github-com-marcopolo-simnet-0.0.5
+/gnu/store/jl9lgdan8dc4lkxb2q1s5x47jmvpvicd-go-github-com-markbates-going-1.0.3
+/gnu/store/w8f7kqx36pcpmw5q6l7a2ih2rv9amh5l-go-github-com-markbates-going-1.0.3
+/gnu/store/41my8ddbrysvyi4ppy9wwxx3f4bvndnz-go-github-com-markbates-goth-1.82.0
+/gnu/store/zlm9g9dga0h4wwm0mc53rfnk74c3n9gj-go-github-com-markbates-goth-1.82.0
 /gnu/store/3qxinrhszdlb5ang3xc7zy0b25ifpwz3-go-github-com-marten-seemann-chacha20-0.2.0
 /gnu/store/jkd6kzv317l7f0z29fm6v1fi1las05hk-go-github-com-marten-seemann-chacha20-0.2.0
 /gnu/store/2p9w6yl0qaxlxfbkfqzl2ki5i6ax8m1i-go-github-com-marten-seemann-qtls-0.4.1
@@ -19089,6 +19107,8 @@
 /gnu/store/vjsq9f9w683f3py6pq9sb1nhjb70rnkn-go-github-com-mreiferson-go-svc-1.2.1-0.7a96e00
 /gnu/store/36wvb31i5aa08b1008l9fndbswzx2dxi-go-github-com-mrexodia-wray-0.0.0-20160318003008-78a2c1f284ff
 /gnu/store/if44ydaqlzxibklswbrjcbmd58bl2bk5-go-github-com-mrexodia-wray-0.0.0-20160318003008-78a2c1f284ff
+/gnu/store/3h0wxdmlfv5rpz81j6ailrnrivy101px-go-github-com-mrjones-oauth-0.0.0-20190623134757-126b35219450
+/gnu/store/alvpa553pz78i7z1l6zqswx8cx1nfg4f-go-github-com-mrjones-oauth-0.0.0-20190623134757-126b35219450
 /gnu/store/2f7a3n2iflrr2nyad3zkh1lb9d0z7ymb-go-github-com-mroth-weightedrand-v2-2.1.0
 /gnu/store/ghx8876xa4jwizww66x8661y0w39b999-go-github-com-mroth-weightedrand-v2-2.1.0
 /gnu/store/pkzckvnkfx50gqyh6117zzw1wmkfw574-go-github-com-mrunalp-fileutils-0.5.1
@@ -19245,8 +19265,8 @@
 /gnu/store/igljqc7z2n4dd9jrrijc3bx6630x6vlk-go-github-com-olekukonko-tablewriter-1.0.9
 /gnu/store/83kcb6nwdv64kp47sslpsza50xg8dr80-go-github-com-olekukonko-ts-0.0.0-20171002115256-78ecb04241c0
 /gnu/store/zywzpifg7nyib0j0a6sscqidrb41x0fy-go-github-com-olekukonko-ts-0.0.0-20171002115256-78ecb04241c0
-/gnu/store/1lg6v388jjk9252sipfg0hwhq07w5g5p-go-github-com-olivere-elastic-7.0.32
-/gnu/store/ggl0d12p7zjhvpad96gmqrd5plizysl4-go-github-com-olivere-elastic-7.0.32
+/gnu/store/a5iw02bv380qwymsgd86b6fw0hfxlkf2-go-github-com-olivere-elastic-v7-7.0.32
+/gnu/store/xrh7dm0vmc5cf9rdcjv9r3xnx6swpnc7-go-github-com-olivere-elastic-v7-7.0.32
 /gnu/store/aqpdrwr5p7ap6vkjfsab1kbkf2yj0bj1-go-github-com-omniscale-go-osm-0.3.1
 /gnu/store/l1mfrqwxfdhz3759hmid30dfr95aa3bv-go-github-com-omniscale-go-osm-0.3.1
 /gnu/store/0yrgf8n2hfndr2zl75hqvgsyb80mfsk3-go-github-com-oneofone-xxhash-1.2.8
@@ -19737,6 +19757,8 @@
 /gnu/store/x8x46pmkzxmsbg42awc7w3q4nprinmym-go-github-com-segmentio-ksuid-1.0.4
 /gnu/store/61c9wmypgi9pvxjn8vz9vgcazkczjf97-go-github-com-sereal-sereal-go-sereal-0.0.0-20241017075749-134ea28a101c
 /gnu/store/dy8z74a5dj0pv4jrgmw8hx5qmq744i1k-go-github-com-sereal-sereal-go-sereal-0.0.0-20241017075749-134ea28a101c
+/gnu/store/8kbb70nf13hz137za7krvz5g9w18yzj3-go-github-com-serenize-snaker-0.0.0-20201027110005-a7ad2135616e
+/gnu/store/bgr13jpyvq8vjb06xrdk6igdrznswrna-go-github-com-serenize-snaker-0.0.0-20201027110005-a7ad2135616e
 /gnu/store/865qk9b5fzy03gdk1ywy9h0jyk8rl857-go-github-com-sergeymakinen-go-bmp-1.0.0
 /gnu/store/lqm5mnx7l28y94vvbli6q6i3kz7ns6ni-go-github-com-sergeymakinen-go-bmp-1.0.0
 /gnu/store/acy2rmdh38gih4c6zkdpyxx1bycd4597-go-github-com-sergeymakinen-go-ico-1.0.0-beta.0
@@ -20337,6 +20359,8 @@
 /gnu/store/giisd7namkjigddi82pdrcxly0ynd2wj-go-github-com-yggdrasil-network-yggdrasil-go-0.5.12
 /gnu/store/jbhsgv2bzzziydw2pn7vb6j64qnynh1w-go-github-com-ykadowak-zerologlint-0.1.5
 /gnu/store/kcaalnavpskb6q2j3kcnmf5gg92c4ah0-go-github-com-ykadowak-zerologlint-0.1.5
+/gnu/store/713hhx86g66qcprxyxy87n66sfz0rnh0-go-github-com-yohcop-openid-go-1.0.1
+/gnu/store/9m2y8zqp1z07zcbjk9frl6z988h6jkpg-go-github-com-yohcop-openid-go-1.0.1
 /gnu/store/qn7lifcxhnjhwc1qfr80sa1glk33nicy-go-github-com-yookoala-realpath-0.0.0-0.d19ef9c
 /gnu/store/w13bb0d1v7haml8m4f2y0g10qcx0hab1-go-github-com-yookoala-realpath-0.0.0-0.d19ef9c
 /gnu/store/1149062clg2vnwh3vpa26l59ghyiaa5d-go-github-com-yosida95-uritemplate-v3-3.0.2
@@ -20369,6 +20393,8 @@
 /gnu/store/yisly5nx642ww8aarrgk7zkxyam1mg57-go-github-com-yuin-goldmark-1.8.2
 /gnu/store/5nzdi6dp055aprhzrd62whddpvk3dv24-go-github-com-yuin-goldmark-emoji-1.0.6
 /gnu/store/mfh159x5s8cf26dkbvkbx0ffg920hp31-go-github-com-yuin-goldmark-emoji-1.0.6
+/gnu/store/767f2ybj0sqh04280f5w7jpw93r47pka-go-github-com-yuin-goldmark-highlighting-v2-0.0.0-0.37449ab
+/gnu/store/dryj5wwsfff5svlqnc0ad37harxxlky5-go-github-com-yuin-goldmark-highlighting-v2-0.0.0-0.37449ab
 /gnu/store/7lx3lcbf0j4s821gzv39fi2nmxln60xi-go-github-com-yuin-goldmark-meta-1.1.0
 /gnu/store/vgk4ia1dvyqpkhf7hvna12nwkribx45z-go-github-com-yuin-goldmark-meta-1.1.0
 /gnu/store/25c94zfzcj84y7ycbylw668xaj19cri5-go-github-com-yuin-gopher-lua-1.1.2
@@ -21121,6 +21147,8 @@
 /gnu/store/js41gpn1zvnvnxv0085rf2gmk391h3p8-go-wrap-0.3.2
 /gnu/store/n6k9v5fnagfg4qv2xdgpvjf78chpycq1-go-wrapcheck-2.12.0
 /gnu/store/rvagjyvv69nr7nahyrq0qn3qgpz6lg64-go-wrapcheck-2.12.0
+/gnu/store/aghd7hbgwfy9pgjxdv6gzgiqyvnkk357-go-xorm-io-builder-0.3.13
+/gnu/store/v5zlna5gmkndd5ki3xnyp0g1a777nr65-go-xorm-io-builder-0.3.13
 /gnu/store/5gi5viki9im4v9x2aih220563vnv3k69-go-yaml-4.0.0-rc.4
 /gnu/store/z528fapyr4lqhs5w98n10cbg149bg863-go-yaml-4.0.0-rc.4
 /gnu/store/1zbnd3hcw8vbizsq51zfvp99gxhix73b-go-zgo-at-jfmt-0.0.0-20240726113937-e6436421fade
@@ -27631,8 +27659,8 @@
 /gnu/store/1n8xapaz37vhvnh4kamsyfvc2b2rq5d2-librecast-0.11.2
 /gnu/store/2hr6xlbh203z6mvp80hi6bglfzxhw7hs-libredwg-0.13.3
 /gnu/store/bfnlmkjnrv847vddb4z3aa7720708bnj-libredwg-0.13.3
-/gnu/store/07pi2cszxwrmyh3azszmcakih3awpl48-librelane-3.0.3
-/gnu/store/wfaajv8i9lhkbs2ljk5prfirlyq0jxgn-librelane-3.0.3
+/gnu/store/70r2p9kcf6v5s2705m5gcq0z85yyss58-librelane-3.0.5
+/gnu/store/s2j0j287bx74sbf2xjw244cyas5myqr8-librelane-3.0.5
 /gnu/store/1fflpkn6dd4yypv72wfj7cmqmyc31f7g-libreoffice-25.2.5.2
 /gnu/store/pcrl6ap4cscf0ivzmwnrpf7v5rv3h28z-libreoffice-25.2.5.2
 /gnu/store/n7zp2viyxjhdfdrhp1zvc53zjbm4lnnb-librepcb-1.2.0
@@ -29020,8 +29048,8 @@
 /gnu/store/g75gz64arbz0508zz3q4iwdlhpy6v4qi-mafft-7.475
 /gnu/store/bai6ssvwjanrjizs1p677002zavzrsc3-mageck-0.5.9.5
 /gnu/store/d4pz4anncv5ba5saqbdcp5kfdzdf2q9i-mageck-0.5.9.5
-/gnu/store/gwimypahbcsbss60wpxv3pfgs01yv8kx-magic-8.3.664
-/gnu/store/y52l725ygk5by4lj94r2galq1v56vk8b-magic-8.3.664
+/gnu/store/5m9x4sw5mndhi21wgp9im13q1r09v75z-magic-8.3.674
+/gnu/store/dv1zllxngg7m1r4zhfs4g5vzq8x5xsb7-magic-8.3.674
 /gnu/store/xkhry8hmmd4irk3bm5bznaamdrq2sfz5-magic-enum-0.9.6
 /gnu/store/zz2w2if887xmqyzcvjq6iyxbqh28vvg5-magic-enum-0.9.6
 /gnu/store/v08djk655fjvcgi95xlfp93x51gvkki6-magic-wormhole-0.21.1
@@ -30326,8 +30354,8 @@
 /gnu/store/h2w3hx3brcbgd3kwpd8d6lwy416yvjnj-netcdf-parallel-openmpi-4.9.2
 /gnu/store/f1v9dsglnmv6cbjd5sh0r52skih7n3k8-netdiscover-0.21
 /gnu/store/sf3gs03c1z5scwrbj57lcs1yjc1kkvmf-netdiscover-0.21
-/gnu/store/9k654k5zjgk36xxvcapl0hghzniwygfr-netgen-1.5.320
-/gnu/store/f68yzdbyicw4mjkk1acrka14g64vi1yx-netgen-1.5.320
+/gnu/store/av7l2nfhc80fcjc9y9kdh381vf5nag45-netgen-1.5.323
+/gnu/store/gwlfaa1y7m2c2i6ngp55i2bnlbr1pjw8-netgen-1.5.323
 /gnu/store/a26p1h4m013819ngi6ij2salv4cn2d7d-nethack-5.0.0
 /gnu/store/qj1qjzg1b22klwsx2dll2qx4bslkxl6g-nethack-5.0.0
 /gnu/store/5vxxzndima3hc5ckgjp8v2xa3rr43g2l-nethack-qt-5.0.0
@@ -54617,6 +54645,8 @@
 /gnu/store/nr9ax008m0djfh739gywxfqlyb4yzizd-tepl-6.4.0
 /gnu/store/5ky8x442ibvczzzcv8y64szamxxg4h06-termdown-1.18.0
 /gnu/store/psvaxmc1jh414vl4bxahx5m03mf6i0jx-termdown-1.18.0
+/gnu/store/6wanmfnsgfi8k3yk4arqmzrcf53bkjp2-terminal-to-html-3.17.1
+/gnu/store/z2dx70a8l6vkp0xd5qyay7n14kq0w8r5-terminal-to-html-3.17.1
 /gnu/store/1i3a5xg61hzf4rh7dqlhcv2n586p0pfv-terminator-2.1.5
 /gnu/store/gfm1yw2qzdszp67pzar76ym1l92n4wnr-terminator-2.1.5
 /gnu/store/263f78njhz4gyi57hs2r6xs5i5c5l533-terminology-1.13.0
