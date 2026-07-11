@@ -32140,8 +32140,8 @@
 /gnu/store/r91nkd2y1cr1mb8ckjpl5y44svzad490-openssl-3.5.7
 /gnu/store/fbi5sfvp6zhj5rjvvqqgz5j6dim9pzbn-openssl-3.5.7-doc
 /gnu/store/bmgmcbszjngvns2m97g6hz3va39r3kph-openssl-3.5.7-static
-/gnu/store/jm4a6z9gwgv6a4401p5zyrdapqr4mvw2-opensta-3.0.0-0.62cd210
-/gnu/store/xg95kllrmkdq00iwzczl3zbd85zklpvq-opensta-3.0.0-0.62cd210
+/gnu/store/wprncm3qiysiq3ah5pqbspzywcdjqq9s-opensta-3.1.0-0.08cf90d
+/gnu/store/zkjc494cn4b6188fg0dp0ivjj82gamff-opensta-3.1.0-0.08cf90d
 /gnu/store/avsy7m6jx5zwxv2izs6sb3pxhf1ifjxm-opensubdiv-3.6.0
 /gnu/store/xbnv3m4iqfvsk25x6nfkg4ra2cfq56fx-opensubdiv-3.6.0
 /gnu/store/1dd4rlh7hw1vihmnca3m7x6xxvd8xdps-opensurge-0.6.1.1
