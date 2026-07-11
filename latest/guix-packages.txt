@@ -8553,6 +8553,8 @@
 /gnu/store/lg6dyzq35gqvb150ilxqzb1hy5xw77lp-emacs-dired-hacks-0.0.1-3.d1a2bda
 /gnu/store/h6nip69qwlwzwbdrfkb7ny0p1a0pymqf-emacs-dired-launch-0.2-0.97eb002
 /gnu/store/ps05glbfzpkkm4fxqcsgnq6r4phhds5m-emacs-dired-launch-0.2-0.97eb002
+/gnu/store/rq17s4n0qxx5qcxqaxsdvw8zmncwjbdz-emacs-dired-open-with-1.2
+/gnu/store/vyjngx2ahvp2phmm10v1ahw7k8cxkf4j-emacs-dired-open-with-1.2
 /gnu/store/b7ziigmy2yzsq9sy5dd04wyz9vf7ghgh-emacs-dired-preview-0.6.1
 /gnu/store/vmfrb1zmkb0j39mhfhhq8s7pf2vcj1n2-emacs-dired-preview-0.6.1
 /gnu/store/8krcm963ixpr2alv49pya9s6l9szi7ry-emacs-dired-quick-sort-1.0.0
