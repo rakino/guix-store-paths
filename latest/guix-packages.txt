@@ -38684,8 +38684,8 @@
 /gnu/store/x0h6gbc6d95jha5sx278b52xgy2rawkq-python-murmurhash-1.0.10
 /gnu/store/grrixb206aiflipy79nmcsnhfv17yl33-python-murmurhash3-2.3.5-0.01f1128
 /gnu/store/q3g523pfwsq790v3wwibrijky0f4njmq-python-murmurhash3-2.3.5-0.01f1128
-/gnu/store/1bvw14zr16is7iqf2rvi65y7xdg4miar-python-music21-9.9.1
-/gnu/store/61xgyliafd0f16s9n6ih3kvc095h0pl3-python-music21-9.9.1
+/gnu/store/ppz3x5fxyv7j4x375r3g4hiz4nka2fnn-python-music21-10.5.0
+/gnu/store/wmkdlw2y6fzq8l1k6gx5dsbk9zwmhj4g-python-music21-10.5.0
 /gnu/store/dpvfbajgxy9kgcp99v30vjnwb35lva2w-python-musical-scales-1.0.1
 /gnu/store/z2adwflz93fgmbzmqbvawnxdngjvpmp4-python-musical-scales-1.0.1
 /gnu/store/khv1874s8sfqaj7lzzz85ig6hz0jbclx-python-musicbrainzngs-0.7.1
