@@ -74121,8 +74121,8 @@
 /gnu/store/z3a58kw7p0pj8mzfhcvn7qbi6w4sqgz2-treecc-0.3.10
 /gnu/store/0rlgb7j6kb2nvm58wvpvgjvj6kl712n0-treefmt-0.6.1
 /gnu/store/q3k2zj216p0a2vk78vxcqlf7l1libvlq-treefmt-0.6.1
-/gnu/store/mhm1778dpih3sfigpfr9paasygb6ghif-tremc-0.9.3-1.d8deaa5
-/gnu/store/w7qflmz9wp5vdd2rbbxqr03ld9hdrj50-tremc-0.9.3-1.d8deaa5
+/gnu/store/diqq67jqdgazk2qczab7lk235ircnmm7-tremc-0.9.6
+/gnu/store/y7p3ijc9sbksqvvq67vv07q2w4vajmcz-tremc-0.9.6
 /gnu/store/cd5c1fl1i3q9aj5nvblz901dhi345k0c-trenchbroom-2026.1-0.ef7c7a4
 /gnu/store/nhzyq2r96q6kjhclfag53cg3h5x4rcgz-trenchbroom-2026.1-0.ef7c7a4
 /gnu/store/d46z57lc8llm5mw8b62zy69jin46m2y0-trezor-agent-0.15.0
