@@ -4717,8 +4717,8 @@
 /gnu/store/n3c1vrva8fn7kgz6lkixf7a8g1i63mka-conky-1.19.8
 /gnu/store/lw4zal3wizkcj1prh5x637vpf3jm9icy-conmon-2.2.1
 /gnu/store/xlvdh5zq8irf5c5padjjaxafppni22gp-conmon-2.2.1
-/gnu/store/14kaz2hr093igvn3r25j3xckhqyaw1q7-connman-1.44
-/gnu/store/dmb520gzw28swbrpm2jn6v7vi1lvccn5-connman-1.44
+/gnu/store/1y235bwpfcq4rja6cr20xl8i2l02q4p5-connman-2.0
+/gnu/store/vcy7ygzs9dkaqz3ksl054lxw9sj3l5pb-connman-2.0
 /gnu/store/2nyly9dbv872a56f32xpm3j847v56sqd-conntrack-tools-1.4.8
 /gnu/store/wd1pkfixjwgnfwgb4jjgj38mkbs312mv-conntrack-tools-1.4.8
 /gnu/store/3pqd05wg19ppcqymbr4hnc3v43apavxk-console-setup-1.212
@@ -5342,8 +5342,8 @@
 /gnu/store/znynhbzp3fric24v94797m799qw18lkk-distcc-3.4
 /gnu/store/398q7sgfs9rn8v0j6qszra270c7nj82h-distrho-ports-2021-03-15-0.f2dbade
 /gnu/store/pbybld12ksv171ndxkkjbxrln43wk75y-distrho-ports-2021-03-15-0.f2dbade
-/gnu/store/kdzgrh6xhk5nxbrf60jka1ypkda1z8jq-distrobox-1.8.2.4
-/gnu/store/qn9pzfgq7fvyj616f7ayc85gp49aphxl-distrobox-1.8.2.4
+/gnu/store/6w609qpczh0bkcccfjvrv2y4h4i3x8mb-distrobox-1.8.2.4
+/gnu/store/ffk9ri171l0kigllxm28vnrrjj3aigig-distrobox-1.8.2.4
 /gnu/store/5mdc15px8idcgk5c61v1mfyhybbfas5f-ditaa-0.11.0
 /gnu/store/9d75w1rg2jpl4w84q4bmi2dbqn25bq3b-ditaa-0.11.0
 /gnu/store/pnhh3giasbzqd2c4y51grb9awq9zv2n5-dive-0.12.0
@@ -34894,10 +34894,10 @@
 /gnu/store/grhalavwra2vqinc01h84n3ynhy6rc0g-pod2pdf-0.42
 /gnu/store/51k71sfi308q4ydcf3w39xs0d5fkfg2q-podlet-0.3.0
 /gnu/store/gvdjqdz5fvp9by1266hrlvdgmxc3sq0c-podlet-0.3.0
-/gnu/store/lb92asl4s5lrzc1l4qzls582p35q676a-podman-6.0.0
-/gnu/store/nlybcly5pxy5jq608fknws3zw3cz3fq3-podman-6.0.0
-/gnu/store/268rdk3cnj9p62309c3pgmq0pcpzd9kj-podman-6.0.0-docker
-/gnu/store/gg81l6x98kqcajk8imv31mxw0clzqyam-podman-6.0.0-docker
+/gnu/store/9011cpbnys39rp8cmphjpi0mfm0680a7-podman-6.0.1
+/gnu/store/z5yfd5z5m8sxqi2i71xpl5wnydw4lyr4-podman-6.0.1
+/gnu/store/24i2swz0w460k7i4y9iaiq5ynrqj65wp-podman-6.0.1-docker
+/gnu/store/jhiaki7l29757p9qsvjkkxsm8nqi9j5f-podman-6.0.1-docker
 /gnu/store/98xgy7xyl404ak7c5gjhhv9p9mkjk5qw-podman-compose-1.6.0
 /gnu/store/l141c4d5154ahdwyg9jwgvmkabp7gnwd-podman-compose-1.6.0
 /gnu/store/j2bzm207wq9pv7ixs1ldgn7vy77m3irh-podofo-0.10.4
@@ -73134,8 +73134,8 @@
 /gnu/store/yi9ymirc15d925dg6wx12dqp848aw6ar-texmacs-2.1.5
 /gnu/store/6qcm5ljz7nh17i2r0nxzba38s6ry2bnp-texmaker-6.0.1
 /gnu/store/wchfjxd9i0rd3jlkk8nncayl2glppkzg-texmaker-6.0.1
-/gnu/store/c7ydsn0df2v2bxim07jfcjw1728r7fvq-texstudio-4.9.1
-/gnu/store/n3zqq7qx2307rlg8dhxnpilwda8jnni7-texstudio-4.9.1
+/gnu/store/g18mrhziwyn0xz1z88xn742kczz3hg9n-texstudio-4.9.5
+/gnu/store/rfjs48f898dwbc5szz7125lwsp2i169r-texstudio-4.9.5
 /gnu/store/3936rkhqbvw3m6bq9f9lba2ffl97syii-textpieces-3.2.0
 /gnu/store/zzhg1jqkqaqh9vkps3s443zsnqzj1221-textpieces-3.2.0
 /gnu/store/4i39wiapw7jqpy97hd6qh4qhbm4w0ml7-tfel-4.2.2
