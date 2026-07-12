@@ -1113,8 +1113,8 @@
 /gnu/store/z1cx3s98qkxdy673kz80j4dzlrf9ppf0-betteradbsync-1.4.0
 /gnu/store/19m8gbss6wassbfz1xvzazsa05ynrnqa-bffe-0-20.fc725c5
 /gnu/store/hh5dss0mxjab3w8rmdjc6dsk1drv8qzn-bffe-0-20.fc725c5
-/gnu/store/s38nzcckmibxlpp6kknag3286vdhlxzd-bfs-4.1.3
-/gnu/store/wrycdbqmjy2ly79j9paclfr9f0rvldls-bfs-4.1.3
+/gnu/store/46hgkzflm35195ahlh5ac5qffhd348v9-bfs-4.1.4
+/gnu/store/5lc2248bbjs6xlw7cx8jz8qq4pzw4gfk-bfs-4.1.4
 /gnu/store/2varfylf22mfjzbzv9xm9z2l07rjnd7y-bgpq3-0.1.38
 /gnu/store/p4pdpbshxw2yklzanvhjzrgcw61h93qi-bgpq3-0.1.38
 /gnu/store/5sk9x75b2byvkbc1pbs3yvr60q5yrkjn-bibata-cursor-theme-2.0.3
@@ -26693,10 +26693,10 @@
 /gnu/store/8rnkscpd418ifjdz46336q969vm5grqs-libcmatrix-0.0.4
 /gnu/store/75sjmjq0qn61dw103g1sh2d30ry6gj10-libcmis-0.6.2-0.00a85bf
 /gnu/store/qls0pbinbsszk0fgnwv4sd0n9mfr995j-libcmis-0.6.2-0.00a85bf
-/gnu/store/5ss602891w7mg182ihy91m77hs6zxgb1-libcoap-4.3.5a
-/gnu/store/v2qzl6zs5pbfr8w4s42h13i5sqxgspkr-libcoap-4.3.5a
-/gnu/store/am3xkzb3yp73hnxpm95cbii3zsn3lsz8-libcoap-4.3.5a-doc
-/gnu/store/ngqmbxb58cqpz74dimalz26npffb04zh-libcoap-4.3.5a-doc
+/gnu/store/67qs820lqypnfcgjr5xzs1byri5y632a-libcoap-4.3.5b
+/gnu/store/7yv9n64f1pnwav6ak7shx042fw602fgj-libcoap-4.3.5b
+/gnu/store/8ip8b41ykm4bh3nb63wwyi6yalsgh2v6-libcoap-4.3.5b-doc
+/gnu/store/lcb472qs3dyyrvb2v7mf3svawnprpn3b-libcoap-4.3.5b-doc
 /gnu/store/1vk7v17ybcf456ivnfzr4b7m0rphgisl-libconfig-1.7.3
 /gnu/store/vpyc3876s24crhaapmvdnscx9zcna7fa-libconfig-1.7.3
 /gnu/store/v0ys8dl851zli61pxig1inxbspiy7aiy-libconfini-1.16.4
@@ -29550,8 +29550,8 @@
 /gnu/store/xsj1mbllb853vkvrm720ki8kpn8653w7-mediastreamer2-5.3.112-tester
 /gnu/store/8hw1hr53jd57cfhyf453kdqs47r2n3dp-mednafen-1.32.1
 /gnu/store/mqahclf7gqn0shrqmlzyz8rlyk0nh37a-mednafen-1.32.1
-/gnu/store/09pc04aq5cwsgdlk17ywqnsldgwmx8v0-meep-1.33.0
-/gnu/store/0yyrzlyrggbflaqxd087bg0v9nv1ma12-meep-1.33.0
+/gnu/store/gii366qvjjz7bs5j6mf2k55w66qs951x-meep-1.34.0
+/gnu/store/m2j3yqasq6nbv6hmbdkllbim80x56ihr-meep-1.34.0
 /gnu/store/brx7ph45hkb9lvj19kax7h6smygj4i3s-megacmd-1.5.1
 /gnu/store/h8591q5spfix61wckgf7wwjz2b2nm055-megacmd-1.5.1
 /gnu/store/r2i70cvrk39dp3mfm8ypkzhzr48f9rhx-megadepth-1.1.1
@@ -75605,8 +75605,8 @@
 /gnu/store/rvz1in1i1ll8i18z6v7mbcqy0jv21xsa-wireshark-4.6.6
 /gnu/store/3ms7lgqrjwcgb59gd4scvj0iszw4dn20-wireviz-0.4.1
 /gnu/store/xjmbjy0as2dda9h2y17ncqlhm10kja92-wireviz-0.4.1
-/gnu/store/2gbzzql5sjvg9bhxswr6ck3a4a6gz7sp-witr-0.3.2
-/gnu/store/s2ahd3k563a1mm3xwg4qfkz6vrkja4rj-witr-0.3.2
+/gnu/store/aq6hlnczwfaz0sa6vw35h4f57ilhmqf1-witr-0.3.3
+/gnu/store/w9v52kdha259lih0zklvyy5nwawxqihr-witr-0.3.3
 /gnu/store/hw1viv3ayrgpsr5761ns6qmcadcj8ps7-wl-clipboard-2.3.0
 /gnu/store/s7mdnvxnfd5hahpf75xr59cgmy85r2yl-wl-clipboard-2.3.0
 /gnu/store/hlxprxywgbxarr3k9kz5801lx0hml43c-wl-clipboard-x11-5
