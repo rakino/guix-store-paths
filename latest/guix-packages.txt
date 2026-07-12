@@ -73413,8 +73413,8 @@
 /gnu/store/gh2qjpgmzsjds6ycl426hki4dd0iklrl-trayer-srg-1.1.8
 /gnu/store/1d4swndn7b1l5745q4yg7js8dd8qqz1z-tre-0.9.0
 /gnu/store/83smqncf8sm15d0qaxy6p8aabcsz1yzj-tre-0.9.0
-/gnu/store/a59rv4c7d1ki8hizy3py73858lr3l3x2-trealla-2.103.11
-/gnu/store/qd3fjp6rpzx8zjdvp72slfljmjw78cna-trealla-2.103.11
+/gnu/store/bljxkl9445m5m9gx9wpyvhsdx75irvyj-trealla-2.103.12
+/gnu/store/xbb0ghs1dagna82wgiwys1ys269b8vz4-trealla-2.103.12
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/vwf9bpj3kyzy5pfiiqy08qqjndxdsi07-tree-sitter-0.25.3
