@@ -23390,6 +23390,8 @@
 /gnu/store/x9yg37hdkmhaams8f9wva8j87h4gbk09-innoextract-1.9
 /gnu/store/0d4igv8ka3g4rz3yjdcbvpp5slsda9fw-inotify-tools-3.22.6.0
 /gnu/store/3rhrj1drzrslw808z2sbykxf9aqaj88h-inotify-tools-3.22.6.0
+/gnu/store/cdjaaxqw3b64r6p857j5s5mkx141dfba-input-leap-3.0.3
+/gnu/store/cq2c8ghyawz7203ifrgyxczrps0fyh1w-input-leap-3.0.3
 /gnu/store/03s78zixjrchz7v1k0vs6q2q40xy96xh-inputattach-0.42.0
 /gnu/store/hg6cc4vch0r55gyvfkils4wdcbf3cdsp-inputattach-0.42.0
 /gnu/store/3lrbs7y7s796vnh1gkcy2562998n83n7-insight-toolkit-5.4.5
@@ -37789,8 +37791,8 @@
 /gnu/store/k268ql969rymlnpd54a6hb6yp8sv49qk-python-icecream-2.1.9
 /gnu/store/cz7bf1p972d24h67ksbyxxgazm6rmpdf-python-iced-0.6.0
 /gnu/store/s440ck5sb2wmbcnrjhw226c5rqy47md7-python-iced-0.6.0
-/gnu/store/14i883yxrjacvg5w1inbrnkzadfb2g8h-python-icegrams-1.1.6
-/gnu/store/yz4xxr5si3dcjpgwa5y3fj52kmjr04zy-python-icegrams-1.1.6
+/gnu/store/s5yy4wrm8z9ajwp3a98a18s079a2lbam-python-icegrams-1.1.7
+/gnu/store/yx2iwjsv1zk0zk0dmdnbj906k8id06ag-python-icegrams-1.1.7
 /gnu/store/rl6cdv9m26bchw7v4xfydsx5vjc8i2k7-python-icmplib-3.0.4
 /gnu/store/wq0zajlc4px5jwg8nlbycr0lm6ixqdqy-python-icmplib-3.0.4
 /gnu/store/m4vhz73c3ic968n12sk9av0ly9gh368j-python-icontract-2.7.3
@@ -75523,8 +75525,8 @@
 /gnu/store/qihx46qcfsfxxz01n4q5dyv0s89c7k8s-wev-1.1.0
 /gnu/store/9j89x9hqcrzs5fsdmgj1qkrfpqnshb6k-wezterm-20260117.154428.05343b38
 /gnu/store/vl6aknzzisz541isk0c5mmcyyfbnbn6w-wezterm-20260117.154428.05343b38
-/gnu/store/28las63f763dh6k3yb45pfzkl076aw8c-wf-config-0.10.0
-/gnu/store/nbd1nym9434gv0hp9nwy0cd16033sqn4-wf-config-0.10.0
+/gnu/store/mp3cx0gbi9qs3i9x23dhwvbfyf0hzr4c-wf-config-0.10.0
+/gnu/store/ry4lpqsys5vx40yr6yrimb8j68dyh3jn-wf-config-0.10.0
 /gnu/store/0hzsj2g9ylpr6pck9554crwwirp6dmcs-wf-recorder-0.6.0
 /gnu/store/kpdl077k9xhanlldas3dqxs6r79lx8ws-wf-recorder-0.6.0
 /gnu/store/gk42z3d8ni37qfj6c5sgdwv87xnwmhc5-wfetch-0.1-pre-2.e1cfa37
@@ -76289,10 +76291,10 @@
 /gnu/store/f706r8j1c4xg8j7q1hdx1j0j2k162f49-xpm-pixbuf-0.0.0
 /gnu/store/3sc89c6y822b1d90nbq4kd4f11x4n6xc-xpr-1.2.0
 /gnu/store/hknsdbx96vj43mx2nfwj5i747hrw5b1l-xpr-1.2.0
-/gnu/store/p71334l4089a30xzji0j0l44zg24rb55-xpra-5.1.5
-/gnu/store/y6ifad611m3lrvr1ys9jpib23yjg43yx-xpra-5.1.5
-/gnu/store/g9i252mi8yh446cyb3vl152bjplcz2ch-xpra-6.5
-/gnu/store/gmmh7cfp5nsccizmmlrpbs04jidlbcji-xpra-6.5
+/gnu/store/8ywa2nn6ykny2hb18m4s4w0pbmrny2fl-xpra-5.1.6
+/gnu/store/91ab76v5idpjrlvpjsy8bnvkhl5nxakq-xpra-5.1.6
+/gnu/store/j44bhr1mc1mbqxrgncffqyzhwxakn9jb-xpra-6.5.1
+/gnu/store/k6qcqv6bdbrzb5v3pk3yz59z7hmbcknp-xpra-6.5.1
 /gnu/store/g62xdwxlvczrgxwkgimdzrkkfwdd2xmh-xprop-1.2.8
 /gnu/store/lw2jxwayvrp2mri4s0c94c139cxlvkcf-xprop-1.2.8
 /gnu/store/29fc16318z2asgrxnbm31k4rlg6l2h9z-xrandr-1.5.3
