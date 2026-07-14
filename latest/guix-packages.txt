@@ -36527,6 +36527,8 @@
 /gnu/store/mbc3783ydygdpa9w9klpgqa0kcw066kp-python-dask-2025.11.0
 /gnu/store/79flff5a3nvg6z1qrni0c88bmsxr1cpx-python-dask-image-2025.11.0
 /gnu/store/k9ki1fajx512alkxn10pavl33dhljl7d-python-dask-image-2025.11.0
+/gnu/store/v9fwkibjdjcpzzap9zjc4bmgykjwpjsj-python-dask-minimal-2025.11.0
+/gnu/store/w4j9cy4v5g0n0d8jx9gjr8qcx3gmq6l0-python-dask-minimal-2025.11.0
 /gnu/store/5g885a1c5zgvpqy77nx7b3kx2ai4nx55-python-databases-0.8.0
 /gnu/store/yscfg2w15yafpy171m3fgbwl5d3lh54v-python-databases-0.8.0
 /gnu/store/73a3s97994f7kx9znakg35ryvhkhsdcp-python-databind-core-4.4.2
@@ -37076,6 +37078,8 @@
 /gnu/store/wr733bhlhnyfl8nvsx9ij8k04lldk9nj-python-fancycompleter-0.9.1
 /gnu/store/033l178jp783lbb6lkpia66n2q4nqghg-python-farama-notifications-0.0.4
 /gnu/store/l9ykw7np4jdn2baw2hani06iajsmx3yj-python-farama-notifications-0.0.4
+/gnu/store/kr0m42g6s9a6xx1dn9x0n115rrax6933-python-fast-array-utils-1.4.1
+/gnu/store/y2sln8w7l0qxr711dd0z7n6g94fwr4ll-python-fast-array-utils-1.4.1
 /gnu/store/93359rym3wfsnsf868sldz1bc57qzqyf-python-fast-histogram-0.14-0.92ed204
 /gnu/store/l2y5fdv6pcma3f4gj8f36mdfhrg9fd72-python-fast-histogram-0.14-0.92ed204
 /gnu/store/cgn5vkny5d60nyij1dxjb4hinhwhl7d5-python-fastalite-0.4.1
@@ -37921,6 +37925,8 @@
 /gnu/store/xsc36zr2ngpp3r0pn5qpwgy7ajf0lrmp-python-irc-parser-tests-0.0.4
 /gnu/store/g2v651xxvdixpcj2cyszx8zk6s8z80in-python-ircmatch-1.2
 /gnu/store/yj53xjla7mqzjnbwd00845nk60ahj4kl-python-ircmatch-1.2
+/gnu/store/3hh84r6zrx5dss18pzfwg5py9jd0m0wa-python-iris-sample-data-2.5.2
+/gnu/store/m7059djwkdk88hsf2y3gw3q41ckyck3h-python-iris-sample-data-2.5.2
 /gnu/store/az6wb2gd7q6lp7m1c35i4mmj4311b4ib-python-irispy-lmsal-0.7.0
 /gnu/store/dvn259nwwg45a4pbhcysl76axipfxa9s-python-irispy-lmsal-0.7.0
 /gnu/store/m6z2kyvkcxg76j6crqp5xc74309cpmz4-python-iron-core-1.2.1-0.5a5f301
@@ -39778,8 +39784,8 @@
 /gnu/store/vxdm8rl36s0lwpxngl7hdng4zsa83q1w-python-pygsp-0.6.0
 /gnu/store/zp323r5fa7fwscr8pgabgprinl00yl85-python-pygtrie-2.5.0
 /gnu/store/zwf1sa1pnph4gisg8i3ii6q4slrpmdqr-python-pygtrie-2.5.0
-/gnu/store/62y911n8zhg1d9xrifvbc48q4dr6f2sk-python-pyhalo-1.4.6
-/gnu/store/krciqvfgmgk6syi9pb66c84isqrzgrpa-python-pyhalo-1.4.6
+/gnu/store/dyklrvjjmfsqck6bqkp00f135sjsazhr-python-pyhalo-1.4.6
+/gnu/store/pq47d40mvy05nhh7ks48qqshggyl9g1h-python-pyhalo-1.4.6
 /gnu/store/950zf71g3bqshdyq3ra2xj1miji33ycr-python-pyhamcrest-2.1.0
 /gnu/store/k3z8xabwcp6b8vrq0jz0zwxr31wkrzdl-python-pyhamcrest-2.1.0
 /gnu/store/0wzak55k7sl98kyx2zgl8cv9vac202db-python-pyhdrl-1.0.0
@@ -40698,6 +40704,8 @@
 /gnu/store/w3ad5x2izql3pbdkrs9gcw4g8p8cm0v2-python-rfc3986-validator-0.1.1
 /gnu/store/gh0r8wx1wz6k7b0d8cqxphnpgzlnqkr1-python-rfc3987-1.3.8
 /gnu/store/wl5kg55vr73hyi513hjhfb8p95yn6s4b-python-rfc3987-1.3.8
+/gnu/store/jphb1m79zqps7gm2r3zrymf2j50lay74-python-rfc3987-syntax-1.1.0
+/gnu/store/vq5aknygrqh0cm2wl9ik9clfl3pffx0v-python-rfc3987-syntax-1.1.0
 /gnu/store/1m2w1lbczi1rh79v647m1p0rrij1154p-python-rfc6555-0.1.0
 /gnu/store/ydh1nlcghfa2cn5s633fg4d0p50w8sn0-python-rfc6555-0.1.0
 /gnu/store/dml8if12zivndjcpnqkd1fxjs1fvy4ay-python-rgbxy-0.5
@@ -40908,8 +40916,8 @@
 /gnu/store/xizfzv4s69d5fk0rcalghfqgr6x0fwf4-python-scipy-1.16.3
 /gnu/store/isj3qagby5lp20k03dg3w50pl8wmwrly-python-scipy-minimal-1.16.3
 /gnu/store/l9930af9kn6l4ah7xi32q5r575x9wc3v-python-scipy-minimal-1.16.3
-/gnu/store/3r10ayzismfyvh1adjcqv02d3p8bac51-python-scitools-iris-3.14.1
-/gnu/store/y3gk0m563zfi7qihqbrk3f001a3bk2rm-python-scitools-iris-3.14.1
+/gnu/store/6fmfhnlqpv46xfgscn2s85bg0ng05q4p-python-scitools-iris-3.15.0
+/gnu/store/kisp4ka8ws5cfyk4w55cgaw4xkzqmfwk-python-scitools-iris-3.15.0
 /gnu/store/8rj3mlai6cz8qvvzx3y7lyl1dsdb9i8w-python-scitools-mo-pack-0.3.1
 /gnu/store/m1yyz6sgbmjkmlsp9xf8w05wlah66vkf-python-scitools-mo-pack-0.3.1
 /gnu/store/hlsvqcqwnaddd75zp0la2mjhjrcq0gp4-python-scm-sr-ht-0.22.30
@@ -53864,6 +53872,8 @@
 /gnu/store/awxrr9cz29ank7wgwxga48qxw2mav1p6-specification-ip2asn-v6-20240820024646
 /gnu/store/mam4n8mqvr0aacmlx4qsrs1nsj3184hj-specification-ipld-0.0.0-0.84a5cc6
 /gnu/store/x1f8w3k6i8njynwcrpzkpmjlr38fy28v-specification-ipld-0.0.0-0.84a5cc6
+/gnu/store/33hcx5qs87asnc1d2cdvz9k7n216vq3a-specification-iris-test-data-2.28
+/gnu/store/cj24rijkvw1774f01krmvk63a69wzjwk-specification-iris-test-data-2.28
 /gnu/store/jkdx40pw5cqnh2fq2ilswjggpjx91zwq-specification-json-schema-test-suite-23.1.0-0.83e866b
 /gnu/store/xy1sxylcw7mqbpplwbzg0s6p7b8518kx-specification-json-schema-test-suite-23.1.0-0.83e866b
 /gnu/store/1nmic7wf1lxhcp1r2fidd318jkx07f4f-specification-multibase-0.0.0-1.4c8344e
@@ -73413,8 +73423,8 @@
 /gnu/store/gh2qjpgmzsjds6ycl426hki4dd0iklrl-trayer-srg-1.1.8
 /gnu/store/1d4swndn7b1l5745q4yg7js8dd8qqz1z-tre-0.9.0
 /gnu/store/83smqncf8sm15d0qaxy6p8aabcsz1yzj-tre-0.9.0
-/gnu/store/0dxy3afxa6c53q1xillzanrs2m6gz14s-trealla-2.103.13
-/gnu/store/13490vdgr2hjv3xbsff4a7pn1n7x354q-trealla-2.103.13
+/gnu/store/6lmbspas3vh6clrp4gy3mpvl67il8vm6-trealla-2.103.16
+/gnu/store/mwx90ba6icpjzmrdb6ypklsd26arwxwv-trealla-2.103.16
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/vwf9bpj3kyzy5pfiiqy08qqjndxdsi07-tree-sitter-0.25.3
