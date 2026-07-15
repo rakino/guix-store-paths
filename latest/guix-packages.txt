@@ -1111,8 +1111,8 @@
 /gnu/store/3jksrzk86zs2hjkbrp4895v94k7ab6dp-berry-0.1.12
 /gnu/store/av2r8lqrdpjagb79y4djsdlpn7nzykv1-betteradbsync-1.4.0
 /gnu/store/z1cx3s98qkxdy673kz80j4dzlrf9ppf0-betteradbsync-1.4.0
-/gnu/store/d55vphxdrm06afgzmpiq3mha8rzqknwf-bffe-0-20.fc725c5
-/gnu/store/zpj2j01k7lpn4alaipwg5d2dil1l0bpc-bffe-0-20.fc725c5
+/gnu/store/f8dz45cq8fzq9wq6m7k137l5ljsi5snp-bffe-0-20.fc725c5
+/gnu/store/ih0i89fck550nqapffi0m3lgdhjamjw2-bffe-0-20.fc725c5
 /gnu/store/46hgkzflm35195ahlh5ac5qffhd348v9-bfs-4.1.4
 /gnu/store/5lc2248bbjs6xlw7cx8jz8qq4pzw4gfk-bfs-4.1.4
 /gnu/store/2varfylf22mfjzbzv9xm9z2l07rjnd7y-bgpq3-0.1.38
@@ -22214,8 +22214,8 @@
 /gnu/store/710vpxkbhn5qaby2xfw88ky8wyc6lhvx-guix-compose-0.2.0
 /gnu/store/7854r7rccjjxqhc35516nc1xygn71171-guix-compose-0.2.0
 /gnu/store/212gmf8w5w661pwgfmvh3d4b5id56k48-guix-daemon-1.5.0-5.e343ff0
-/gnu/store/dz3qvzkcvyyrfm4yb74lk42kj4q90ykq-guix-data-service-0.0.1-76.58744bb
-/gnu/store/rkklmcgqadj6qqv207a8yjssh5c9lxgc-guix-data-service-0.0.1-76.58744bb
+/gnu/store/lq9qb35yzxavry0q1bi9rcjakx78ag27-guix-data-service-0.0.1-78.4ba0a48
+/gnu/store/mh19wwx5ygh7j7ziajhmak8k41hvsj8n-guix-data-service-0.0.1-78.4ba0a48
 /gnu/store/c8yhpl34r7a5hsrpyznwabz7pr14dqxh-guix-icons-0.1
 /gnu/store/lcp4lis5i8rjsa82mbmj7gysdpk6j549-guix-icons-0.1
 /gnu/store/b59bg6n8w5dwzhqyhxxykn2pa6s8az25-guix-jupyter-0.3.1
@@ -30238,8 +30238,8 @@
 /gnu/store/x9gavad8afpir3fy2h4mpj0qk6i0ilsf-nanovg-for-extempore-0.7.1-0.3c60175
 /gnu/store/k665vp39a9vkdk8157h8j3j29cp3xvfz-nanovna-saver-0.6.4
 /gnu/store/zmwj4kdv5r7dm5gqjv0cjmw2c28w0c5b-nanovna-saver-0.6.4
-/gnu/store/1q60cbya90m48hx87j4b4d24gjc7wqac-nar-herder-0-55.1b64c18
-/gnu/store/kv2jb53ldha9z14f5fr5dhlsrip6mp8b-nar-herder-0-55.1b64c18
+/gnu/store/0cfjcvcv3dwg2nc0gqig513zp4087r2g-nar-herder-0-56.a6ec90f
+/gnu/store/28psahyg0cgy7ph93kxmavw4k365y506-nar-herder-0-56.a6ec90f
 /gnu/store/acc1zf7sw8aypamlg99ab298r4p47swm-nasm-2.15.05
 /gnu/store/bazmmizbnvx4867vyk760vjyjm7z4nf0-nativefiledialog-extended-1.2.1
 /gnu/store/wi81ff56v7f5z9z403l9bhdw4p8z7glz-nativefiledialog-extended-1.2.1
@@ -36149,6 +36149,8 @@
 /gnu/store/x29wd11msl4h2f7nd1cacwqsfni0cx44-python-cianna-1.0.1.4-1.7e22ab3
 /gnu/store/l0qg7kj8jxvlk4krpchsy51vayvw3p4a-python-circe-0.3.9
 /gnu/store/sijvvq0jfx82x283gljapq8d0z2acaab-python-circe-0.3.9
+/gnu/store/ciym3wri7glpp8k3ylfhida6k302bp8y-python-cirq-core-1.6.1
+/gnu/store/qjpfxkjfzzbyq80j6k0b27c708zzwpc2-python-cirq-core-1.6.1
 /gnu/store/jn4q5l42n8gn5539igm0y8qxzzzras6h-python-ciso8601-2.3.2
 /gnu/store/ri4niv5djqm0nppv4j3c7y88f1j3ww49-python-ciso8601-2.3.2
 /gnu/store/1d3nh53f4n0dcya2ih1nw8s6s6rwkzra-python-citeproc-py-0.9.0
