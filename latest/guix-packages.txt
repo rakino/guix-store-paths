@@ -22353,8 +22353,8 @@
 /gnu/store/i4kw7ydc2giblz4dg851ywjdza07q259-hare-irc-0.25.2.0
 /gnu/store/b5mlj1snn2gjpnmnjdf5ccc8avqfvhbn-hare-json-0.26.0.0
 /gnu/store/fp3xkygp6pgh9kma3nxmp0y0x7gxyrx6-hare-json-0.26.0.0
-/gnu/store/2zd2gkrvp0xxcy0z93dy3j0jsan7wzg0-hare-lex-0.26.0.0
-/gnu/store/j2r5apih4zm4lvrm5q2cgaxjgwkms5j0-hare-lex-0.26.0.0
+/gnu/store/hhpzs87cixlxb0hw9zygp7y3allqv0ky-hare-lex-0.26.0.0
+/gnu/store/s0x250nsgy0fjzid57nzqa7f0ciwd41f-hare-lex-0.26.0.0
 /gnu/store/ssjfd4r428bcfq1b0y9djyslh6ifhljd-hare-lsp-0.2.1
 /gnu/store/y3m60vayhmm1c85yfp3s5b3sg0z0igpr-hare-lsp-0.2.1
 /gnu/store/52jg87k7d165h8bdxb4yp2bm6nmynym4-hare-mcron-1.3.0
@@ -22363,8 +22363,10 @@
 /gnu/store/h66k37v6d6sz35adxkfqrnx6dc29s59d-hare-scfg-0.25.2
 /gnu/store/803aq11hkbswy50qaw2hdvkfb11s6dfz-hare-ssh-0.26.0
 /gnu/store/iagh8k2lf3cwwq3w607d014rsy2di20w-hare-ssh-0.26.0
-/gnu/store/2pwz6d1r1qy6v2rg5rywjj2wq0fv6w7y-hare-template-0.26.0.0
-/gnu/store/v7r79ipyzj1m3a38kszry978f85d11h7-hare-template-0.26.0.0
+/gnu/store/9wzydys4akq4jfv6bg36iy2b06vi29aa-hare-streams-0.26.0.1
+/gnu/store/bvzx82n4a2js6kz11i7raa6qpvsn7y1q-hare-streams-0.26.0.1
+/gnu/store/c979j1311aqskhgnx2rhixvha4n3lvg4-hare-template-0.26.0.0
+/gnu/store/wxpxd9ihbg7crxq4diafcn1b0lq9zhzq-hare-template-0.26.0.0
 /gnu/store/3196vy0r4rrgwv9i2avmrm634acn0716-hare-update-0.26.0.0
 /gnu/store/b8jyda7ndd7lrd63b962cx1k9s80ihc1-hare-update-0.26.0.0
 /gnu/store/3srv65w17nafzccj0173qx93z8jjz9wx-hare-xml-0.25.2.0
