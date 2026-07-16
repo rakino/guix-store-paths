@@ -12387,6 +12387,8 @@
 /gnu/store/yzn4pr1ynf66b9jwacwxww4kis86i4jw-font-adwaita-49.0
 /gnu/store/hx2adcc46zlk0izv4gd85dyshqsw150j-font-alcarin-tengwar-0.83
 /gnu/store/vq9x8jhw9d55lnf52jyxz3hb5imdsncz-font-alcarin-tengwar-0.83
+/gnu/store/2qmsp9a06izmg9z3qzq7znw6aby9sx4y-font-aldrich-1.0-1.ec28a1d
+/gnu/store/w61cpp3zpvcl7mrmmg41sjnh2qy0zzjs-font-aldrich-1.0-1.ec28a1d
 /gnu/store/q2cmriph95rnkk68qb7ycmzjk2hv5w9x-font-alias-1.0.5
 /gnu/store/vrf3z9vvpvryb0r927434jk6w4g9vsv8-font-alias-1.0.5
 /gnu/store/ibz1jqd06sw125x4sgbyx4yjczfjhr9w-font-amiri-1.003
@@ -25672,8 +25674,8 @@
 /gnu/store/pgc9a9xsi5560k3cz9jkf3brnf3nl80d-kbounce-25.12.3
 /gnu/store/3zj00vk19l72rjlg78aaxlwd6jjj0xga-kbreakout-25.12.3
 /gnu/store/vrankj12vfpq71hnahpdcc9g84w6nam5-kbreakout-25.12.3
-/gnu/store/6zfaslc9bzgm58xfbqdhga559a592wl8-kcachegrind-26.04.1
-/gnu/store/ndh3aq9gzmr605vbr448ajpz8pb8paa9-kcachegrind-26.04.1
+/gnu/store/0ix8iw2lqmm5znjpi0gk786l7nqv6rk2-kcachegrind-26.04.3
+/gnu/store/6aq2slc2j60kzzxvrjl28v5kw7a9kp1w-kcachegrind-26.04.3
 /gnu/store/6g8pxi83kbl3d21f7vj3258hagh3392r-kcalc-25.12.3
 /gnu/store/m37300jdh2dyw55m6l2gjxk724dfw1cf-kcalc-25.12.3
 /gnu/store/0brv65wq9zh1l464s2vcxbx2a3lbshcg-kcalendarcore-6.23.0
@@ -42744,10 +42746,10 @@
 /gnu/store/kw9111f734aaja5h2z9bsq08x61z5j9k-qsynth-1.0.3
 /gnu/store/dy407pbzm388s5a25fd654gfcz36r7fd-qt-advanced-docking-system-4.4.1
 /gnu/store/rz5x2rgli91nmk03nvfqf38xlys255is-qt-advanced-docking-system-4.4.1
-/gnu/store/86lmz61yza98g7ah1v4d00qh1807hizx-qt-creator-18.0.2
-/gnu/store/vp0ayqakxypli3d2f84ba86pwwp8fg4d-qt-creator-18.0.2
-/gnu/store/1dg47zh9r2f8zqx45a3g0xdg1lb345b7-qt-creator-18.0.2-debug
-/gnu/store/dgh6pwcx0qdsvp0zmjxz5qblhpy4ix04-qt-creator-18.0.2-debug
+/gnu/store/jr70p1ss4yxjww6p55sshvjgbva8ay3s-qt-creator-18.0.2
+/gnu/store/ywkjwkgp02ksf4j0swblns34kli33fh4-qt-creator-18.0.2
+/gnu/store/0fr18b3fybs7jhvpjla4qlkyh3halzqf-qt-creator-18.0.2-debug
+/gnu/store/4g5fpzrp4qcha0cnq5sn03jg3vbr10nj-qt-creator-18.0.2-debug
 /gnu/store/0wb3f4w6bxxkah7i3mvwshc1gg8z38kj-qt3d-5.15.17
 /gnu/store/qn2n0v1jmxbnrikpiyis9d5li212ii8z-qt3d-5.15.17
 /gnu/store/39dpa9v1gdpjalp86hqpzdp4m7k8sjn7-qt3d-5.15.17-debug
@@ -54390,8 +54392,8 @@
 /gnu/store/nhnsjgvchk41lv2hshijnxbfxr2vl3f7-swayhide-0.2.1
 /gnu/store/fddzvcb61031g444nb2h9kqrma8j5swx-swayidle-1.9.0
 /gnu/store/wcl564z9ajw4c233jv7biwgrj6k5qpkq-swayidle-1.9.0
-/gnu/store/4lpbc9kba8n2r5z3z73rr6rzg76nq6sg-swayimg-5.2
-/gnu/store/7dwwkxxf827nqlyvfg539mxq6zayqndk-swayimg-5.2
+/gnu/store/9dw5813ap77y6ffd1n1ncc6yjcbphq23-swayimg-5.4
+/gnu/store/nxg5kzkn3d5ywv37y6d5bkq3vmknkswr-swayimg-5.4
 /gnu/store/rw8ps5yd4mzirb4a2s4v49dpk840di7l-swaylock-1.8.3
 /gnu/store/x6byfqn2g44rz02m1nprc5sik2lyz14m-swaylock-1.8.3
 /gnu/store/99ylmcfa31gqc5pkfjy9cnd387vs782d-swaylock-effects-1.7.0.0
