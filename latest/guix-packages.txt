@@ -9037,8 +9037,8 @@
 /gnu/store/vydn3m1qx8i5lbbr01drdlamd71gvis5-emacs-exwm-no-x-toolkit-0.35
 /gnu/store/15hkmfr2hq74shlinbsxshkyqssnba1i-emacs-exwm-ss-1.0
 /gnu/store/crh2v67jf2lhykqj9rfzfb01kw1dcp67-emacs-exwm-ss-1.0
-/gnu/store/agzss2ns008h8wm8nw7vd9yw43yps4w7-emacs-exwm-x-2.0.2
-/gnu/store/rj8g2158jmv05516a3161jq0z2v1r1rg-emacs-exwm-x-2.0.2
+/gnu/store/icaqy0y5nzx0fcz2q6g3b4f64f4imwid-emacs-exwm-x-2.0.2
+/gnu/store/nvxnqjrqc3mkx8r78ydbpzg0px7ig7z1-emacs-exwm-x-2.0.2
 /gnu/store/b16yc9dynawp709r5v88wl27cfrrbw3h-emacs-eyebrowse-0.7.8-0.88c7b59
 /gnu/store/jnvy8lgc7s1bm37sgwjy10kgrb87nxzk-emacs-eyebrowse-0.7.8-0.88c7b59
 /gnu/store/dy5w7b3jhis6jh4az00xfrk2167dqy5x-emacs-ezf-0.1.0-0.038513f
@@ -10915,8 +10915,8 @@
 /gnu/store/xixlv3bn6rp6vfi01zf3y4jm4vpgmb2z-emacs-sourcemap-0.03
 /gnu/store/ahn9vrp8shd2jdh7c1c3w3p1rmdkki8v-emacs-spacegray-theme-0-0.9826265
 /gnu/store/dpr15scp0wf9vdnlr4chvsf6yqhz7yfv-emacs-spacegray-theme-0-0.9826265
-/gnu/store/40y9sah193wlrc5rvil83z9yk715j470-emacs-spaceleader-0.0.3-1.5d88d12
-/gnu/store/74yyr79wwzk7gm1ak5mbmm8wjc6j69mh-emacs-spaceleader-0.0.3-1.5d88d12
+/gnu/store/n1diy0021kn14by163n5raxgid5sy33d-emacs-spaceleader-0.0.3-1.5d88d12
+/gnu/store/xrhg7mv2k55sd25qkzwky86rjl75kzx5-emacs-spaceleader-0.0.3-1.5d88d12
 /gnu/store/561is58wwygjzp3c37y4r5vlx5s04m3a-emacs-spaceline-2.0.1
 /gnu/store/lbg5k9yhdzxiy9ckwzvplcl0gprwsq05-emacs-spaceline-2.0.1
 /gnu/store/lr780bnlmg3ahn3c26l8rrx3ra703qqv-emacs-spaceline-all-the-icons-1.4.0
@@ -11205,8 +11205,8 @@
 /gnu/store/zx4pq030n2cfq107n5lsdh4pirfwmz27-emacs-uniquify-files-1.0.4
 /gnu/store/lsffv166nlw95izjgd5kv5c7m488vxw7-emacs-unkillable-scratch-1.0.0-0.b24c2a7
 /gnu/store/wdqb1f67in2yh7b4w69akhxhsd524zgm-emacs-unkillable-scratch-1.0.0-0.b24c2a7
-/gnu/store/p765pykc7ql015xn6s69s9d49q5zlshn-emacs-unpackaged-0-4.0c1f447
-/gnu/store/x2i6axaahaf0hnc8cys87i9srq0ycpy7-emacs-unpackaged-0-4.0c1f447
+/gnu/store/gcycfvzb7fba5wlhl6mmy4p9y4kcm8kh-emacs-unpackaged-0-4.0c1f447
+/gnu/store/l3gqrl6ih6fzfhgdi9ih96a2w845q8cp-emacs-unpackaged-0-4.0c1f447
 /gnu/store/h82q3ydi7y2vrjwwnq34am0r9kkziaiy-emacs-url-http-ntlm-2.0.6
 /gnu/store/n7r88xaxjbg4m167s63xc9ddrnnr8bv4-emacs-url-http-ntlm-2.0.6
 /gnu/store/5xcrhnspbhw0ykrlpr8qs1yf1mxcj6b3-emacs-url-http-oauth-0.8.5
@@ -30229,6 +30229,8 @@
 /gnu/store/ciw85k83n4ifh0cv3cqrwikmvi3gkvww-nanomsg-1.2.2
 /gnu/store/1cbd6bad2n3m3xf7w6j0ax4rgkgs50r8-nanopb-0.4.6.4
 /gnu/store/mwk9nddpn70djcwhd5m2q7h99blj6pvz-nanopb-0.4.6.4
+/gnu/store/2nl4s01qszdqkdgyns72kdkpq46drlcn-nanopb-malloc-0.4.6.4
+/gnu/store/bk0pqgnbbqxplg09rlkbq3c12iyn533n-nanopb-malloc-0.4.6.4
 /gnu/store/4b6vha64wxcfrjp86lvb6g0m3966yi0n-nanopolish-0.14.0
 /gnu/store/6aqpzdw7sc9xbq4ga06ifqwma81bvn9y-nanopolish-0.14.0
 /gnu/store/68m9aqa1igi2l0lkajas0gn8ajc7sxnx-nanosv-1.2.4
@@ -42448,6 +42450,8 @@
 /gnu/store/rfb15nazkk1zxr8wg4jg62dksd1a9nqc-qemu-minimal-10.2.1
 /gnu/store/gcx4zva4lafn3qi3qa0paf9ks6kyjhiv-qfits-6.2.0
 /gnu/store/hjfbphw9bmri6w1bl315f294i9q9i152-qfits-6.2.0
+/gnu/store/gy1wl9s94s60shblcsmgibp9705d02jg-qflipper-1.3.3
+/gnu/store/v58yghxzmzbnnw3mm9077aa2bbgnaw4a-qflipper-1.3.3
 /gnu/store/3pxslz8zzd80liimb0mbblafq50psbl3-qgis-3.44.11
 /gnu/store/yipf7mc9njn2mz51z2wg5nij9cj6n8a8-qgis-3.44.11
 /gnu/store/6f3dkc13ja4yis3253hcj1n2d2gbwfdq-qgit-2.13
