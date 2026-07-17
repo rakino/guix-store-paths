@@ -3994,6 +3994,8 @@
 /gnu/store/pz0mcqj1xa5yb3g4phwqs9l0mk3gbw3d-clang-toolchain-22.1.8-debug
 /gnu/store/04d2369wr1zxlw3qkxzbbkpqjw7f94pd-clang-toolchain-22.1.8-static
 /gnu/store/i2r6zah1y3qbmcnmlndmkspx42pvkj6f-clang-toolchain-22.1.8-static
+/gnu/store/8j5hqjjmszacmka02ggg92i6vhva4sy3-clap-1.0.3
+/gnu/store/fma9fbds6d6bfl825i3wrph12aygj3hh-clap-1.0.3
 /gnu/store/p07l0vaq6124qsin8dp08q2sng68323p-clap-1.1.10
 /gnu/store/q25lgbmxrpl1m9qyp0wvhk2m6r07ll1m-clap-1.1.10
 /gnu/store/2sa0ch6cry8n747cgf2bn8y4ibr685jm-clap-1.2.6
