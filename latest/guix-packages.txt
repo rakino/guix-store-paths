@@ -34982,6 +34982,10 @@
 /gnu/store/xdj3qh3m7m47dbgnav2bqgcar5iydip9-poppler-qt5-22.09.0
 /gnu/store/7zcn671zq1pqbi4q15grjzk1p6l4zib1-poppler-qt6-22.09.0
 /gnu/store/m3g1y5q1xcxx7ds20140bphi14lb2mhz-poppler-qt6-22.09.0
+/gnu/store/vndlsngca3a2c03lk1l1lgzhq6bzi5lf-popsicle-1.3.3
+/gnu/store/xaximkl72h3dx2vbjsksm4rgrwjl60rk-popsicle-1.3.3
+/gnu/store/fchbcs6ip0wkrpnhjjsrl5rxy1g3pqx8-popsicle-gtk-1.3.3
+/gnu/store/hknvx61ldf9lqcyx8dcvzq3m7i9sha5c-popsicle-gtk-1.3.3
 /gnu/store/8nxwxjz94z2wfzx8blpban97hjaqyk3b-popt-1.18
 /gnu/store/9ily412519dvc9x1ms6p5g1gvabj1r84-popt-1.18
 /gnu/store/2xaas8pj0hkm72x6x9sfxw3g7v45cp33-portablexdr-4.9.1
