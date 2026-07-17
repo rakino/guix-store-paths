@@ -53896,10 +53896,6 @@
 /gnu/store/d14xagc66b4q6mxsnib3yihmzlcc2yiy-spatialite-tools-5.1.0a
 /gnu/store/6qx20yfjrn07q151pvil15nhzs1xk1sy-spdk-25.09
 /gnu/store/i0kqlax78f1md9baa19ngrdvvbzscpwj-spdk-25.09
-/gnu/store/kg3jpx6c2vjgna2c4f9cmxrk5x8bh1mi-spdlog-1.13.0
-/gnu/store/w2g8wda000msbx9cbg2y1z06slr1ljb0-spdlog-1.13.0
-/gnu/store/m2r0fhlwgvnb4cdkz5zd3i40ss2zvdqf-spdlog-1.13.0-bin
-/gnu/store/nqjc8lhqkqg86y340r557mm94f0m0p3r-spdlog-1.13.0-bin
 /gnu/store/vafl2nya57rkn6cnicgpvk2bdm6xk1jd-spdlog-1.15.3
 /gnu/store/zj6kv4cw1x6kaz1421k0qgbh07qp7xrm-spdlog-1.15.3
 /gnu/store/3r7d2329d8r5c4j36p7a8ij7d7gajzig-spdlog-1.15.3-bin
