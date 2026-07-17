@@ -430,7 +430,7 @@
 /gnu/store/wpc2n6kkxd7dh12c1x33kmlspyndin8w-obs-with-cef-nvidia-32.0.4
 /gnu/store/zpf1x8zg3j41mn2nq3ykrb8yijd9j54h-obs-with-cef-nvidia-32.0.4
 /gnu/store/hxk415pdad06svllzzry800n1jb4na6p-omnisharp-1.37.7
-/gnu/store/1ca0fs9gjsmn0h56qkzrf3yvw7jff6kr-playonlinux-4.4
+/gnu/store/gmv1sgiwrp8dm62fp04lk33shdzkr925-playonlinux-4.4
 /gnu/store/80hiscj6rprya25f8jx4m92sdjyrbkhn-protonup-0.1.5
 /gnu/store/dap7sqhrf5yy1p8vbl8gcv0ab2zsy621-protonup-0.1.5
 /gnu/store/dpggy6nkgrr1hqva83r3b700yym8x18l-python-nvidia-ml-py-11.495.46
