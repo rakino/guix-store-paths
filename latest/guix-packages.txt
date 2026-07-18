@@ -30183,8 +30183,8 @@
 /gnu/store/aq38sn0sgwrgd0nhzdbddpb02nrk7dyj-mutastructura-0.6.0
 /gnu/store/21x7jrxdah0v0gp6awwsfaapsnibar67-mutest-0.0.0
 /gnu/store/mg1sw9hq77jn1pz58fm48c980b0khwpv-mutest-0.0.0
-/gnu/store/pifswwnznxy5141jsii1sspp0dbv6abd-mutt-2.2.14
-/gnu/store/rajgjc5gy85g35j5sa75h0g6zrkgj6r4-mutt-2.2.14
+/gnu/store/3vkf786kp8jmdkqg6rb5yyjysnqhm91h-mutt-2.3.3
+/gnu/store/zsncqh00y3x8hw18j76jb9wih8hn24cj-mutt-2.3.3
 /gnu/store/1divafayqma5xbjy5xar9hx908rsyhhh-mutter-48.7
 /gnu/store/cx67wkfnmdicdn3qw4xd1bxrjgv8q5cy-mutter-48.7
 /gnu/store/r0isrv464k4sw6jslv8hzwv87i0jbxil-mxdatagenerator-7.1.1
