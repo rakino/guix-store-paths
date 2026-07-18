@@ -4629,8 +4629,8 @@
 /gnu/store/ml7bmm3p9qk3sbkx64d11wwmnnp51bxr-codec2-0.9.2
 /gnu/store/jk6zg0xwh52vxx6pkwqmpk18l088qg7y-codec2-1.2.0
 /gnu/store/rvmxn27jq54crk8cnvf46khz2si887hf-codec2-1.2.0
-/gnu/store/46g13v741ad067nh9ihfi2m3klvf2zdb-codex-0.144.1
-/gnu/store/lksg27lb888kr6kzwj6jlwra8gzg3p12-codex-0.144.1
+/gnu/store/m8rcanlw9mdxd75ffay6xf00z38z9k1k-codex-0.144.1
+/gnu/store/plixyc7wj9i8mk3km76ciwfq7wyhaw9z-codex-0.144.1
 /gnu/store/56mq3ngw85rz4j0q39rgvffb2gvsxm6n-codex-acp-0.11.1
 /gnu/store/gcz8m1clycn2had5ipj8bxqfk458a4j6-codex-acp-0.11.1
 /gnu/store/1caxvla4apxi6f6d6p5iag3vx8c5mw4k-codingquarry-2.0
