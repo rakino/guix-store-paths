@@ -27735,8 +27735,8 @@
 /gnu/store/gvfg2r95cndwlibzywpk500x4yjqgl1l-libretro-slang-shaders-0-1.82d91f7
 /gnu/store/cq0mawcpx02pmvm2dbhid0k1zql7pz12-librevenge-0.0.5
 /gnu/store/rzqvf9m5dngvvysnijvr11nkiwpd7pjd-librevenge-0.0.5
-/gnu/store/30jkagh243544ridv6hl6gnh7bn1s8fc-librewolf-152.0.5-1
-/gnu/store/gchws62xqdin7b1k8b8657p76bd8733c-librewolf-152.0.5-1
+/gnu/store/b6glr8k2n987sj0gz49rhr8kdl740fc9-librewolf-152.0.6-1
+/gnu/store/l8vhlzx49qjkshs7rz5fbrcyhf25jkfv-librewolf-152.0.6-1
 /gnu/store/8s8wg4pwcz2gwxnll7wplvv9b6m9q0xq-librime-1.10.0
 /gnu/store/zqxxdfhbw1kq9cf49mmn5vx20b8dpnh1-librime-1.10.0
 /gnu/store/0q8fxiwx8v6fdx6i1i6i03vfvkf80scr-librocket-1.3.0.0
