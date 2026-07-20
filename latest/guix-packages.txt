@@ -4629,8 +4629,8 @@
 /gnu/store/ml7bmm3p9qk3sbkx64d11wwmnnp51bxr-codec2-0.9.2
 /gnu/store/jk6zg0xwh52vxx6pkwqmpk18l088qg7y-codec2-1.2.0
 /gnu/store/rvmxn27jq54crk8cnvf46khz2si887hf-codec2-1.2.0
-/gnu/store/a7fc482amhb91cpv68vpkah79d1wm0dv-codex-0.144.1
-/gnu/store/gs8n4aj591hj6ak0adpdxavnhg6mnzi7-codex-0.144.1
+/gnu/store/rl1mz9q4wbsrj6hvln5hg6xhl3yxgzsw-codex-0.144.1
+/gnu/store/y6ifj1zzk6a3kyqxh3xwdjn5n9ih3rp6-codex-0.144.1
 /gnu/store/56mq3ngw85rz4j0q39rgvffb2gvsxm6n-codex-acp-0.11.1
 /gnu/store/gcz8m1clycn2had5ipj8bxqfk458a4j6-codex-acp-0.11.1
 /gnu/store/1caxvla4apxi6f6d6p5iag3vx8c5mw4k-codingquarry-2.0
@@ -27735,8 +27735,8 @@
 /gnu/store/gvfg2r95cndwlibzywpk500x4yjqgl1l-libretro-slang-shaders-0-1.82d91f7
 /gnu/store/cq0mawcpx02pmvm2dbhid0k1zql7pz12-librevenge-0.0.5
 /gnu/store/rzqvf9m5dngvvysnijvr11nkiwpd7pjd-librevenge-0.0.5
-/gnu/store/b6glr8k2n987sj0gz49rhr8kdl740fc9-librewolf-152.0.6-1
-/gnu/store/l8vhlzx49qjkshs7rz5fbrcyhf25jkfv-librewolf-152.0.6-1
+/gnu/store/68vzclmxqjam93cqv4c9af7l2n5syh1g-librewolf-152.0.6-1
+/gnu/store/xdz2ravq18bqdq2dszvph75mkj0cvndy-librewolf-152.0.6-1
 /gnu/store/8s8wg4pwcz2gwxnll7wplvv9b6m9q0xq-librime-1.10.0
 /gnu/store/zqxxdfhbw1kq9cf49mmn5vx20b8dpnh1-librime-1.10.0
 /gnu/store/0q8fxiwx8v6fdx6i1i6i03vfvkf80scr-librocket-1.3.0.0
@@ -51005,10 +51005,10 @@
 /gnu/store/34h7cjfimsa9748ar5ipm3r1ljixcvf3-rust-1.93.0-rust-src
 /gnu/store/4lpj4crijaaa4mxfs6nnbad4sv4d5if1-rust-1.93.0-tools
 /gnu/store/8jhzj3hv17lyf2lxkpldy0s8y48mbyil-rust-1.93.0-tools
-/gnu/store/8wkmqqgakszlq5krb0s4mf4n729ivng9-rust-1.94.1
-/gnu/store/m58qw54mkvr239qpb7dflpbcac9nhk2l-rust-1.94.1
-/gnu/store/cqzfgx8qy6aa5ngysz2c3px79x2548xv-rust-1.94.1-cargo
-/gnu/store/qp1dg0mlwwcfw9mzg4qnh2g6yxrfw91b-rust-1.94.1-cargo
+/gnu/store/8b3i08p14rb7m8m6030d5n1g59prp6mg-rust-1.94.1
+/gnu/store/csfx9izzkpwn0jl007gvrpfv3bf745lc-rust-1.94.1
+/gnu/store/4k60852p65iqxc2ng5h5k7swcf65wf0c-rust-1.94.1-cargo
+/gnu/store/mxnqhi87r1158s4wvj7qdx28r86lhah7-rust-1.94.1-cargo
 /gnu/store/5ra1g809rf16wgcy2wmd5alpallcqxl9-rust-alacritty-0.25.1
 /gnu/store/x2222rznkp4mg05a256nj252f9vhasx1-rust-alacritty-0.25.1
 /gnu/store/i7p386hnafgqzry7x57lf7by1s0rm3gr-rust-analyzer-1.93.0
