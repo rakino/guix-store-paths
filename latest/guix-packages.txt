@@ -1103,6 +1103,8 @@
 /gnu/store/qnqd16khz5hb49y8wf35fl8ic3v5g14n-benchexec-3.29
 /gnu/store/1wzamzgn6ls0jsx1jd9zbnww7vcw1l0s-benchmark-1.9.4
 /gnu/store/bq7y3nvlp97z8r0mvzcgsq5pxj7rlkrv-benchmark-1.9.4
+/gnu/store/07zr21wb8cvhswprg7v8ji0ws299v265-bender-0.31.0
+/gnu/store/2x3hxzksyxnhb22n4g88miq4xv2ifnbp-bender-0.31.0
 /gnu/store/179mc8lh5vszx3hgnnvxs4why389a6rs-bennu-game-development-353
 /gnu/store/b47s44f2bb1sxkjkqsnc2v2lx8w8gq3h-bennu-game-development-353
 /gnu/store/j1wqqnrcp4s3x3yhn4ydvln70fdsbmsq-bennu-game-development-modules-353
@@ -74680,6 +74682,8 @@
 /gnu/store/mcwlazzjys8s485z6idslf1l7ah5zsnk-tuned-minimal-2.27.0
 /gnu/store/66bk8mv9jykazy8mncn8534xykb448dm-tuner-2.0.0
 /gnu/store/956pfdkzhdi16kp6csnb49r9l8l8wsp1-tuner-2.0.0
+/gnu/store/2grl8z6asaihxgfgm5xzy3m80gy3n5bs-tuning-library-1.1.0
+/gnu/store/3hf5b9i9909lw941fyig2z5q7jlm4dsm-tuning-library-1.1.0
 /gnu/store/k698hmg5ym22vncxqckw9jmvslisg015-tup-0.8
 /gnu/store/yjjzbrkmv0gymzvzs1a7qklbhccyh8w0-tup-0.8
 /gnu/store/hvc2h1y8habrdsgldyjddnf508qmj328-turbostat-7.0.14
