@@ -13734,8 +13734,8 @@
 /gnu/store/wjlychj79p4v529jqajnl4z3579vd1vj-gfortran-toolchain-14.3.0-debug
 /gnu/store/7cy5sj09nvf89kdqqlcsa2pajbidj6mj-gfortran-toolchain-14.3.0-static
 /gnu/store/xs5776bdr5mk3mfra0962sifgjg2qabk-gfortran-toolchain-14.3.0-static
-/gnu/store/9x3bp95qhlygg7ckj5lvj78kc1i9rkbv-ggg-0.4.16
-/gnu/store/qwarg8kbpz4lbb20cbm1sy3lzk6r9czz-ggg-0.4.16
+/gnu/store/w9smchpdqyk2l1jakiqjh29mh74vjb1p-ggg-0.6.1
+/gnu/store/yskv21bv90vd31h2p01757760hmhjg67-ggg-0.6.1
 /gnu/store/416jpjaskdhbp37qbdx33300d72g8cgg-ggml-0.15.3
 /gnu/store/qp4r1j93mql4vssfa1y0jcv6hgja1yak-ggml-0.15.3
 /gnu/store/k1xdv1a2i282inzj71crwvcj142ah6f2-ggml-for-stable-diffusion-0.9.9
