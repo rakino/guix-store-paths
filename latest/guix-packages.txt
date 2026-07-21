@@ -11848,8 +11848,8 @@
 /gnu/store/nc6xcsc3jhixcjczb7iq0gbzn62gxaw4-eye-1.4.1
 /gnu/store/acdz8lsq2k41lp0gv884lbzdhv04914i-eyed3-0.9.8a5
 /gnu/store/rzwaaxlkxikwq4qsq0gpd17mvwmvajvn-eyed3-0.9.8a5
-/gnu/store/rd0m8hlidfbanjvxaf13zw0pdpqivlmb-eza-0.23.4
-/gnu/store/yl68yw1xlxp547mxwrz2sr5w36a830vg-eza-0.23.4
+/gnu/store/759z67pz9862958r5ykdprdn1pnaw6mf-eza-0.23.5
+/gnu/store/jwhn573xcjnd68lmlmk288l53l8if8ik-eza-0.23.5
 /gnu/store/1x4cqbaig2k2fxk6f5ag4skmxazjckrk-f-seq-1.1-1.6ccded3
 /gnu/store/fy790fwgam8k6l477bmma149fxzzym12-f-seq-1.1-1.6ccded3
 /gnu/store/b3k7p4xdjskq3z89dqz7hn5075x08sf6-f2fs-fsck-static-1.16.0
@@ -32290,8 +32290,8 @@
 /gnu/store/zsj46nlah6cqbazswrw53hv3nvcmg344-osmium-tool-1.18.0
 /gnu/store/h3dzcahc2cnjz87im3ncbmlp18adrc7h-osqp-1.0.0
 /gnu/store/inwagavxmy4vgxcx8lzm9br2fy89w65p-osqp-1.0.0
-/gnu/store/azpzv05j0fh6hss34szdrjpqx7jhprha-osslsigncode-2.13
-/gnu/store/kayj54zy7c2j8fi39m4lnidrwx96q7wk-osslsigncode-2.13
+/gnu/store/62ab93haqkkiqf41mm77abc12zbc89li-osslsigncode-2.14
+/gnu/store/k7w9vwv6wzy91q52b82nf3b65v0zp4q4-osslsigncode-2.14
 /gnu/store/dnxi5748rr0shnkym3gm5644rss9kmdm-osu-micro-benchmarks-7.5.1
 /gnu/store/l6bh4sgsmzvgycbq1d2723d83hp3d29h-osu-micro-benchmarks-7.5.1
 /gnu/store/da2pdqag5i880ny792ijj59hc5isb0qk-osvvm-2025.06a
