@@ -32172,8 +32172,8 @@
 /gnu/store/r91nkd2y1cr1mb8ckjpl5y44svzad490-openssl-3.5.7
 /gnu/store/fbi5sfvp6zhj5rjvvqqgz5j6dim9pzbn-openssl-3.5.7-doc
 /gnu/store/bmgmcbszjngvns2m97g6hz3va39r3kph-openssl-3.5.7-static
-/gnu/store/n4ryzmzlihrz2ccgi4xdz1ca3187527n-opensta-3.1.0-0.08cf90d
-/gnu/store/pmzi0kci0dqwrfwqjpd37j99zqac64xc-opensta-3.1.0-0.08cf90d
+/gnu/store/1axl15cjjp3g9kkhm3zbda08hc7qrs71-opensta-3.1.0-1.dc5ccd2
+/gnu/store/i0a8pv3sa2jx8idq7cxnc0rq5blvhbw8-opensta-3.1.0-1.dc5ccd2
 /gnu/store/avsy7m6jx5zwxv2izs6sb3pxhf1ifjxm-opensubdiv-3.6.0
 /gnu/store/xbnv3m4iqfvsk25x6nfkg4ra2cfq56fx-opensubdiv-3.6.0
 /gnu/store/1dd4rlh7hw1vihmnca3m7x6xxvd8xdps-opensurge-0.6.1.1
@@ -73493,8 +73493,8 @@
 /gnu/store/gh2qjpgmzsjds6ycl426hki4dd0iklrl-trayer-srg-1.1.8
 /gnu/store/1d4swndn7b1l5745q4yg7js8dd8qqz1z-tre-0.9.0
 /gnu/store/83smqncf8sm15d0qaxy6p8aabcsz1yzj-tre-0.9.0
-/gnu/store/kqyjxzjrzk4nxvrcxf00rkafsfyay3s5-trealla-2.106.1
-/gnu/store/vjqa83prr7pbqm3i7agsr0l6xppwppd2-trealla-2.106.1
+/gnu/store/00ldgpk7xhgdx6zd7armcrfnqyibfkcw-trealla-2.106.2
+/gnu/store/4j7bnjacixj37vyla3cxr063w4hzbl82-trealla-2.106.2
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/vwf9bpj3kyzy5pfiiqy08qqjndxdsi07-tree-sitter-0.25.3
