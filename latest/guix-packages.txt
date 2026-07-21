@@ -1632,8 +1632,8 @@
 /gnu/store/vdlg5b2j8g769mmd3hjl7rwhkdrxvlws-camlp5-8.00.03
 /gnu/store/9w5qi95msjzivs1479cq14sy2gnz4bq3-camlzip-1.11
 /gnu/store/c04h2fmzxl7dcmlm2dyig28b10f1wq38-camlzip-1.11
-/gnu/store/078vv6jn28iz49h3d264jccb0fhvhlm5-camv-rnd-1.1.6
-/gnu/store/0b17maygzdiknyx0dbnq4jahhh5ydqnm-camv-rnd-1.1.6
+/gnu/store/dcyjgvp1vw3856km4f7yq10rkn97bqgz-camv-rnd-1.1.7
+/gnu/store/xmll7m07ga7pvgz7dc2n4rvpyghpyrq3-camv-rnd-1.1.7
 /gnu/store/ka40w2lg4hlyimyj5z7hpizjb8nwaf4j-can-utils-2025.01
 /gnu/store/kya0p8i7z4vnw32xzh2m7h8mca8c22qz-can-utils-2025.01
 /gnu/store/2hxb1s7sa9rzhhpd2p35n7saq2y485sv-candle-11.2
@@ -32544,8 +32544,8 @@
 /gnu/store/zskkw81q8zznapf6samg9qcyawyxd536-pcaudiolib-1.1
 /gnu/store/5c8z85lx2rnrbjyhi30adxgidzkcp9b3-pcb-4.3.0
 /gnu/store/k5vd78phb40ln5163m95bldqagxpas1a-pcb-4.3.0
-/gnu/store/gd6nqvck6pvnxcbi8d670l7gff4arz81-pcb-rnd-3.1.7b
-/gnu/store/syx0787d0ny1f6l5q8g1n9f09sam4y48-pcb-rnd-3.1.7b
+/gnu/store/9vcbwr9dcs4a4878xmp3mp79bx6854v3-pcb-rnd-3.1.8
+/gnu/store/cg6f4zbhdlch180psr4p47dpcg9ky42j-pcb-rnd-3.1.8
 /gnu/store/5d4zb4rxis0kscl25vrsfklsf91j527n-pcb2gcode-2.5.0-0.8c084af
 /gnu/store/hcwfknjmw2zsspfrvmk4xh8nqykyl12j-pcb2gcode-2.5.0-0.8c084af
 /gnu/store/0apzvvbfh97446kjflkxvlq886i5dxc3-pcc-20170109
@@ -49489,8 +49489,8 @@
 /gnu/store/rbdx36llk5f1c5lsdkl1w75zpql3w12x-rot8-1.0.0
 /gnu/store/7l669rz0lznn8x876p25x04dx3yr9j8b-rottlog-0.72.2
 /gnu/store/lyy54y8zzfksd2kd2gv5ia3m5sv7q77d-rottlog-0.72.2
-/gnu/store/1i00z9cmvd6klmr2175y396n5iqnfdvy-route-rnd-0.9.3
-/gnu/store/xdhgphb7pq93ki5milk0dds6lx7hk57a-route-rnd-0.9.3
+/gnu/store/lx8ffkylh82qj9ryplwjl4w56kdf5wiz-route-rnd-0.9.3
+/gnu/store/xwdimaa4xzqvigp8973gjnbazvr67fm0-route-rnd-0.9.3
 /gnu/store/pf788358h4cg9i5y8dpgnahyzhdnf7qn-routino-3.4.3
 /gnu/store/whn5wa00cqq2ad8wnywvl6zwnyqsczw8-routino-3.4.3
 /gnu/store/4sj92b2p9bfm7vkbdj30ky56b39z8qc2-roxterm-3.17.2
@@ -53192,8 +53192,8 @@
 /gnu/store/qyn7li3lamycsri8gdx27jrjafgrlix4-scdoc-1.11.4
 /gnu/store/5gdhj5sc8y0h89f54jqjy5mdqdqgqb9b-scenefx-0.4.1
 /gnu/store/r3q6gwvqd7qm7zwjpn5lmgyg9hm0cwh1-scenefx-0.4.1
-/gnu/store/8ps8llik6qvx4wjn4a2clhybc65m08zp-sch-rnd-1.0.10
-/gnu/store/kq927qflh74qny17n40gkgiga54rfsg9-sch-rnd-1.0.10
+/gnu/store/k3b66zs9z7h8v3x5dza73i9jsld4bmhl-sch-rnd-1.0.11
+/gnu/store/p46x8hshasn54d8hbig28qjjlpi798vn-sch-rnd-1.0.11
 /gnu/store/kz035l6cn72d754fy43wa3jl5hba36qw-scheme48-1.9.3
 /gnu/store/vml4fg2y05zicy8nxixaf1zkqipc6cyq-scheme48-1.9.3
 /gnu/store/avn36qbn9qdjsc0d0wmwnqz1m99y7l4h-scheme48-prescheme-1.9.3
