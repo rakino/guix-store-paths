@@ -5586,6 +5586,8 @@
 /gnu/store/kgxf9ih8lc4xqw2svc8bfhhkzavr1nnc-dtc-1.8.1
 /gnu/store/01xa9c80a2i45mmpjijm7dfblg1104x4-dte-1.11.1
 /gnu/store/gyzvflmvv92zfdsv1m8hyvnihy9zx7h2-dte-1.11.1
+/gnu/store/vbggcqfylpi3432qxhns6hkcrc3rkbbq-dtschema-2026.06
+/gnu/store/w036c1gzmi97z7bfqagm92cp8lfxw8ql-dtschema-2026.06
 /gnu/store/dspha073x09ggrl9jmy445pqxq7anjwl-du-dust-1.2.4
 /gnu/store/ylha7bf17br4x7qj94970m2yd2cn2nhn-du-dust-1.2.4
 /gnu/store/2p77iaqg1167r5yr31nsivsnyyvswzzn-dualsensectl-0.7
@@ -36169,8 +36171,8 @@
 /gnu/store/x29wd11msl4h2f7nd1cacwqsfni0cx44-python-cianna-1.0.1.4-1.7e22ab3
 /gnu/store/l0qg7kj8jxvlk4krpchsy51vayvw3p4a-python-circe-0.3.9
 /gnu/store/sijvvq0jfx82x283gljapq8d0z2acaab-python-circe-0.3.9
-/gnu/store/ciym3wri7glpp8k3ylfhida6k302bp8y-python-cirq-core-1.6.1
-/gnu/store/qjpfxkjfzzbyq80j6k0b27c708zzwpc2-python-cirq-core-1.6.1
+/gnu/store/czg8hymnk4xsygwga3dpkrpqcill30rs-python-cirq-core-1.7.0
+/gnu/store/xlrhi48ps1rsw82vsk57bk8b628xnscq-python-cirq-core-1.7.0
 /gnu/store/jn4q5l42n8gn5539igm0y8qxzzzras6h-python-ciso8601-2.3.2
 /gnu/store/ri4niv5djqm0nppv4j3c7y88f1j3ww49-python-ciso8601-2.3.2
 /gnu/store/1d3nh53f4n0dcya2ih1nw8s6s6rwkzra-python-citeproc-py-0.9.0
@@ -37649,8 +37651,8 @@
 /gnu/store/wn6nrrpq6f5zwicjjninzl0qgx4fzafx-python-hapiclient-0.2.9
 /gnu/store/kzvnz53g64x90qvlz5zzd9g4022q3cki-python-harmonypy-0.0.10
 /gnu/store/w10zw1v11cz7l7jz1iz3a42lb8vb6dcf-python-harmonypy-0.0.10
-/gnu/store/1xq422py81s5gj25ly7fyf7mhhxfrx9i-python-hasasia-1.2.3
-/gnu/store/mryi1wwpxf1xihnfwzx2f0bsi9vblkbl-python-hasasia-1.2.3
+/gnu/store/2fs1alwrspgmgvlvl4mx3qjkywgsmarh-python-hasasia-1.2.3
+/gnu/store/s1ss6h4pip2gfaw9980h9nr96lf27l6p-python-hasasia-1.2.3
 /gnu/store/32fnghh9qvhrjswmnh15kgfmzmbqcj31-python-hatch-argparse-manpage-1.0.0
 /gnu/store/wwg4030rhyqb074d27jnhxn4wxdy7vkn-python-hatch-argparse-manpage-1.0.0
 /gnu/store/509fjy0q2pc0dg82y55ng5mbb71xs68a-python-hatch-docstring-description-1.1.1
@@ -37730,8 +37732,8 @@
 /gnu/store/b7ik4b5hkfz8nnlp2znk0n2szyq0w97b-python-hmmlearn-0.3.3
 /gnu/store/ddmn37b1v9vxc0dlx7cm9wjh5xjs8138-python-hnswlib-0.8.0
 /gnu/store/mflxhsw78fbfxbcbq5rkvc5g40j98i8r-python-hnswlib-0.8.0
-/gnu/store/1faqvgnd4migvp2hnxn083vbk1fa8729-python-holodeck-1.6
-/gnu/store/i6j76yq24b98zdmfrvsgmkcpvpvnky1p-python-holodeck-1.6
+/gnu/store/6xa3w8036k9545r5k225kpbpklwlcps9-python-holodeck-1.6
+/gnu/store/qcnnh2rgwlgvgk8vfrij8lq7vy9shxnd-python-holodeck-1.6
 /gnu/store/4bf8fpn825b969a83rzll539yp8n7iw3-python-honcho-2.0.0
 /gnu/store/q58cli1nf5dqxgm05s8hss1qjgal71yc-python-honcho-2.0.0
 /gnu/store/qn1pjc5mjb6wa3257gzlq37x0n98zjzz-python-hookdns-2.0.0
@@ -38331,6 +38333,8 @@
 /gnu/store/zm4679hqnmalkd1xiisnscn7qra0h28k-python-liberty-parser-0.0.29
 /gnu/store/7yh34z9f6l9hcrayr9a1gibz82myfr0l-python-libevdev-0.13.1
 /gnu/store/a5jrh192z1gnqf69pg4lcjjsjh027sr4-python-libevdev-0.13.1
+/gnu/store/04ryfxqqg50mbmxgin4r478n30i0af9l-python-libfdt-1.8.1
+/gnu/store/d6rgly2svi004k4hdcfz5ca0ymcdv9sf-python-libfdt-1.8.1
 /gnu/store/6n204plwzcif23l815j0a6lp1i3kycna-python-libfreenect-0.6.4
 /gnu/store/xq2x5bbig00qg00yy885jlx42w08s85k-python-libfreenect-0.6.4
 /gnu/store/adig17v5qgd8f3k0q98gm2s6rxqc8gi4-python-libgpiod-2.3.0
@@ -40934,6 +40938,8 @@
 /gnu/store/yibdksz2cs8q5z56isfadg1bygq9i8bd-python-schwimmbad-0.4.2
 /gnu/store/7vldqy3b548ycb8d1dldwik8j28j2dyd-python-scikit-allel-1.3.13
 /gnu/store/zypx6rlwjsgkv92nwzqy3wy3gvkzyjnw-python-scikit-allel-1.3.13
+/gnu/store/hj83dqk648kkwjd1vw7jmq0kd3vzd6lp-python-scikit-base-1.0.2
+/gnu/store/r97kfp41wjv7i5j7kkx3ww3q44dzjf69-python-scikit-base-1.0.2
 /gnu/store/1p54dhbd5nswhx913k2pml0619ppvlqd-python-scikit-bio-0.7.1.post1
 /gnu/store/8cdhv1hihnz7yxh52rb6m28j1jpqyn72-python-scikit-bio-0.7.1.post1
 /gnu/store/ckfy53cy3yzahwghsng2kyyrsgln5jn4-python-scikit-build-0.18.1
@@ -73497,8 +73503,8 @@
 /gnu/store/gh2qjpgmzsjds6ycl426hki4dd0iklrl-trayer-srg-1.1.8
 /gnu/store/1d4swndn7b1l5745q4yg7js8dd8qqz1z-tre-0.9.0
 /gnu/store/83smqncf8sm15d0qaxy6p8aabcsz1yzj-tre-0.9.0
-/gnu/store/00ldgpk7xhgdx6zd7armcrfnqyibfkcw-trealla-2.106.2
-/gnu/store/4j7bnjacixj37vyla3cxr063w4hzbl82-trealla-2.106.2
+/gnu/store/07p1j2kd8avnadd11gjzrk2lhyis2gvl-trealla-2.107.1
+/gnu/store/n9x43jvk8wk0yp2ncj65v5bwkvsnwmwl-trealla-2.107.1
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/vwf9bpj3kyzy5pfiiqy08qqjndxdsi07-tree-sitter-0.25.3
