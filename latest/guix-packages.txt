@@ -9117,8 +9117,8 @@
 /gnu/store/lx3pw4vij31lngxmj6ks5l9q90y440i5-emacs-flycheck-elm-0-0.1b60050
 /gnu/store/kxkd9nb62hl9lqhynfkjmjngh7z03537-emacs-flycheck-flow-1.1-1.9e8e52c
 /gnu/store/ph14ilpps1k4m3vws708lrfnkfcfganw-emacs-flycheck-flow-1.1-1.9e8e52c
-/gnu/store/0g4mk07i4fn6q7x9dkzq40rwxgzyhy7b-emacs-flycheck-grammalecte-2.5
-/gnu/store/ybmk6nxr0qhgnbpj6ca5jlxymxsnpfnc-emacs-flycheck-grammalecte-2.5
+/gnu/store/4m3mbr88miv1hz14k5birmr8zw8j99xv-emacs-flycheck-grammalecte-2.6
+/gnu/store/9wp7m6ad54apb859z5y01lr4f3n6hjww-emacs-flycheck-grammalecte-2.6
 /gnu/store/11701rw81402ph5nv1fgyjajngvhrpx2-emacs-flycheck-guile-0.5
 /gnu/store/4cpir5fbm1fk49dlwjnzxdcj40l05bq0-emacs-flycheck-guile-0.5
 /gnu/store/j0ayyaflxrg4wq38cg1zz4rdkppfxy5a-emacs-flycheck-haskell-0.8-2.32ddff8
@@ -13867,6 +13867,8 @@
 /gnu/store/vj3cmsaba30v95x829y3qj8jr2p3crp3-ghc-base-prelude-1.6.1.1
 /gnu/store/641bswmx0r09bv1vdaypr0jac352p1h6-ghc-base-unicode-symbols-0.2.4.2
 /gnu/store/jzzmkyj724rr4jkm1lwpzabsrnsgc1wi-ghc-base-unicode-symbols-0.2.4.2
+/gnu/store/dp9j84glp29yazyqxmvzr5vc82kmnykl-ghc-base16-1.0
+/gnu/store/kw792fn43y4w80gfjdqpaf1d9sq06rsq-ghc-base16-1.0
 /gnu/store/1lpy31ahyaaxi240mb3law5x9k6hjl3c-ghc-base16-bytestring-1.0.2.0
 /gnu/store/785rz1hh7z8vn5xicjsj33dgc2421j8m-ghc-base16-bytestring-1.0.2.0
 /gnu/store/37mqqwgwpa24813y7pkb0p72w57dkqcx-ghc-base64-1.0
@@ -15291,6 +15293,8 @@
 /gnu/store/sxam4vrh43wkqb46wl459can6chjfc3h-ghc-threads-0.5.1.8
 /gnu/store/1xk773vzhwjkb955qy53vzh0jnvj8s96-ghc-time-compat-1.9.8
 /gnu/store/k1fgz8l0lqack0k5k325xnhh3m3nhffr-ghc-time-compat-1.9.8
+/gnu/store/9v2yqb38kgj4im6m8ywyrs9wcd84nzls-ghc-time-hourglass-0.3.0
+/gnu/store/l60cg6y82d9j2dm3fba2s8pfd646gi59-ghc-time-hourglass-0.3.0
 /gnu/store/csg41wqqddax8an934vhwcb5y2y0v0k0-ghc-time-locale-compat-0.1.1.5
 /gnu/store/g7h1slbvx8bgw2620djh33n4di2y0wcp-ghc-time-locale-compat-0.1.1.5
 /gnu/store/f5fzn0622rj1khn9s6yhmav1z5y0qbrm-ghc-time-manager-0.2.3
