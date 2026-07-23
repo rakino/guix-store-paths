@@ -22075,6 +22075,8 @@
 /gnu/store/8cbxrvbbpi1jbfcviy8mqdp078knvsgm-guile-tap-0.5.1
 /gnu/store/idgvlhj2cm6zb7hc7a50av8s98zxvwag-guile-termios-0.6.4
 /gnu/store/qpw4i0r5n7qd8pm0q99xnaqgx83jl3q3-guile-termios-0.6.4
+/gnu/store/38gzgbmmwj4wbqws389wgpvnav8lbi1h-guile-toml-0-0.ecb24de
+/gnu/store/4rmxacr5b1gkr4pf9z81hjw8wdlk6grf-guile-toml-0-0.ecb24de
 /gnu/store/af0yynys5k2jj88isxjapksg8r6z461p-guile-torrent-0.1.3
 /gnu/store/ahz5mvrwx66p20jrllmv4pfgbvm08f88-guile-torrent-0.1.3
 /gnu/store/j9znkixjgk8w38ixx1j8a3k5wk0msrdc-guile-ts-0.3.0
