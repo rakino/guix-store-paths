@@ -49012,8 +49012,8 @@
 /gnu/store/n8iizf6qdl65vn4wm0kivmp6pbv77jqi-r2ghidra-6.1.8
 /gnu/store/r570m63hfmg64c9p45vqwm60njlp8n1k-r7rs-small-texinfo-0.1.0-3.38a7039
 /gnu/store/w86khfln4zpafhjljb28cd0xnwaqxymd-r7rs-small-texinfo-0.1.0-3.38a7039
-/gnu/store/70gpk87fkslx4v9iana8cqqa39iv05dm-rabbitmq-4.3.1
-/gnu/store/bzgkzlgdr4c863kyn79ikl48z8nnsgwz-rabbitmq-4.3.1
+/gnu/store/5w4mibw22lrrwr5r5znhrccpsz3salyv-rabbitmq-4.3.3
+/gnu/store/bjs8cdls0p0pkw57b4g8zjwrg2lq4qrs-rabbitmq-4.3.3
 /gnu/store/9mgk7cqhjhizh7s7vn3mbnq6bq2l4vw1-rabbitmqadmin-2.25.0
 /gnu/store/advld8blmrnjf7jk5zsmjlymnf1nrs0h-rabbitmqadmin-2.25.0
 /gnu/store/a1ql6fbm2r74g459z77kv7669anjrnz3-racket-9.1
