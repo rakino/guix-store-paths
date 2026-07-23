@@ -34686,8 +34686,8 @@
 /gnu/store/p9lcrh7br67f9232lzasip3vhxgyq2jr-pigz-2.8
 /gnu/store/9q4q3ca7x3mmp5ncp624y1ifm6yaahmx-pijul-1.0.0-beta.9
 /gnu/store/la1xhibziajaax9wg08caixn4v3jnbcc-pijul-1.0.0-beta.9
-/gnu/store/6k9kp2bkr1m31snlgv2cil6b2yvpy9yg-pikchr-0-22198
-/gnu/store/hvlrj3c9k2pa0wvw8vi91zkdmdg4gwv5-pikchr-0-22198
+/gnu/store/2njji4jpw7fwl5m616vqjqnknwvsdb44-pikchr-1-a7f1c
+/gnu/store/z054409gz7g3s66w7fpxa920npr0wpp4-pikchr-1-a7f1c
 /gnu/store/71y0l6minkrzldg2sfpgb623k3apm2zw-pimsync-0.5.7
 /gnu/store/hpfspga46ri2k3yyigrvrgzn1f5c3nv1-pimsync-0.5.7
 /gnu/store/n6xqps271f7s0y0qnf4rvi3bv8p89pg7-pinball-0.3.20230219
@@ -73509,8 +73509,8 @@
 /gnu/store/phhb9j66qhnvxawk07pq20jpf5d03n9q-trayer-srg-1.1.8
 /gnu/store/1d4swndn7b1l5745q4yg7js8dd8qqz1z-tre-0.9.0
 /gnu/store/83smqncf8sm15d0qaxy6p8aabcsz1yzj-tre-0.9.0
-/gnu/store/iq7iswm688l54m4c55qb5ycrh4ndxnb1-trealla-2.107.1
-/gnu/store/xncvr39vnamy1k9ygnksnw1rlfs4wffs-trealla-2.107.1
+/gnu/store/kffklgp38s3s313njdllrjpplz01qkdp-trealla-2.108.4
+/gnu/store/wvk51vscc0l7mzqmiwzmzik1fmyhbm8l-trealla-2.108.4
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/vwf9bpj3kyzy5pfiiqy08qqjndxdsi07-tree-sitter-0.25.3
