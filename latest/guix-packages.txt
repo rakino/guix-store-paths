@@ -1718,8 +1718,8 @@
 /gnu/store/0mcs0sxk6z8lxb2miy3x5g78223xqfm0-catcodec-1.0.5
 /gnu/store/3s8jfl29j8zv932vxr48dqc8rrzf3h80-catdoc-0.95
 /gnu/store/6i4wc0civ6lapzdn7ixcypik28mhypjp-catdoc-0.95
-/gnu/store/9kg33qd2nrx85ms5sn159s9vni1178pj-catfish-4.20.1
-/gnu/store/kdkrx3is4va9xfdbi0v01d2iing66b27-catfish-4.20.1
+/gnu/store/f2nsgn10mdwmkh63r23j9cb46gpvlns7-catfish-4.20.1
+/gnu/store/fb75f45r2y8zphiv3lqf7j0ny9szkpgw-catfish-4.20.1
 /gnu/store/4q7nyhd5zyyjmjkpf3bg7mzqnjf736z1-catgirl-2.2a
 /gnu/store/fsrjv56n10x2x0srb8ii6i5yrw13x6y8-catgirl-2.2a
 /gnu/store/3amp8qsfpa5s9599nifarwgfllf2rgp7-catimg-2.7.0
