@@ -1397,8 +1397,8 @@
 /gnu/store/m20myq09vafxnadcvnx1ywdm98k64ra4-breeze-gtk-6.5.5
 /gnu/store/nlnydbidvb0kwzfrls1yl308mi3p5g9p-breeze-icons-6.23.0
 /gnu/store/z58ji1xsb1bjacff9aignx6sckik1h0f-breeze-icons-6.23.0
-/gnu/store/8jg6h3v2x67m5xj0982dx0izcnylbjaa-breezy-3.3.21
-/gnu/store/apbp6jymhy0sk2f31w9iifvbgnwywqf8-breezy-3.3.21
+/gnu/store/ncaddsszin76c64zmlclbawhsn634rd4-breezy-3.3.22
+/gnu/store/rw476yrxi7yciy95bpgvr0ppy1c4aqn9-breezy-3.3.22
 /gnu/store/08k2aa3xnnrnib3yl1r8mbcspmj4w7xk-brial-1.2.14
 /gnu/store/z926csxqa2ksgl8v4jdb69ssq6gc8p8y-brial-1.2.14
 /gnu/store/dig0162rf131m9k52s1krrbg4jh8ryh8-bridge-utils-1.7.1
@@ -23377,8 +23377,8 @@
 /gnu/store/i118x5h58j9vmqhbczwpbazq8l5ngz9d-iir-1.10.0
 /gnu/store/7j776pgkrhmgkz00axh0cq5r0jrbrbn7-ijs-9.56.1
 /gnu/store/riqbnrn4i5385v7v98a3ifkrb88jz4ng-ijs-9.56.1
-/gnu/store/axm6pb9aab5gj9hv64h0b40cdq4ijfm1-ikiwiki-3.20200202.4
-/gnu/store/rkazggibacr4riyd77dpwcn6h5gmi3df-ikiwiki-3.20200202.4
+/gnu/store/11lkhmmjzyjmv45kjifw5qnk18bbp027-ikiwiki-3.20200202.4
+/gnu/store/2wzwi972wzn90qq9fpik97wh22wclb89-ikiwiki-3.20200202.4
 /gnu/store/h7p9ya3s33h06cw47hz684rmkbsadhxs-ilmbase-2.5.7
 /gnu/store/wmlf8srl56f2w8a0xbly7sb32gz64kxz-ilmbase-2.5.7
 /gnu/store/bn9pfx4zq55ahicglymzxh71fz4wx73n-imagemagick-6.9.13-5
@@ -36156,6 +36156,8 @@
 /gnu/store/z5prl4kpvhnfw9ngfj4d4cxs16gvws91-python-casacore-3.7.1
 /gnu/store/a3rwvp863dnpyaacidby98jwkpyjj1fc-python-catalogue-2.0.10
 /gnu/store/vk3ydx4vyhjwmr2wp98pwcdlfhiaj9hc-python-catalogue-2.0.10
+/gnu/store/aggygxmxwl8kqn9gcq9y8fn67h0nqbwv-python-catalogus-0.1.0
+/gnu/store/x981s560ir5qbjjvrhq91wl8v0cqzkgc-python-catalogus-0.1.0
 /gnu/store/byyxi3rky4dg504plxp27qlniwyd6jj1-python-catppuccin-2.5.0
 /gnu/store/cj3fwp9mciq1jixygsjz0s4fkad4b539-python-catppuccin-2.5.0
 /gnu/store/3473f9r55rpm2zh9qx7cnb7rp5hl6yy1-python-cattrs-24.1.2
@@ -39110,8 +39112,8 @@
 /gnu/store/casi9k7vjb4jdqssd9rg4chj5dfanxxf-python-openpyxl-3.1.5
 /gnu/store/ixdrzaf0n1ibb58g3r5mpg0cgwiygffx-python-openspace-api-0.9.1
 /gnu/store/vv2knwss3863bgmqghnk53x5z9afvrxp-python-openspace-api-0.9.1
-/gnu/store/6fzymhs4lb237lh8n57spdv3q7mkp1nv-python-openstackdocstheme-3.4.1
-/gnu/store/nw894pbs47g8jwkadcnngbrwqhfix7rl-python-openstackdocstheme-3.4.1
+/gnu/store/bmnq4hkirc3f0h8x2xiam4vfc0dlj3yl-python-openstackdocstheme-3.6.0
+/gnu/store/i87dc5rs20cmrg7w92h2b55gyfq862nn-python-openstackdocstheme-3.6.0
 /gnu/store/7zbkyrv45lkdkq21fsxy9rnd6xwg9m8a-python-openstacksdk-4.6.0
 /gnu/store/w76a258cdys0nh8bbbs7hin03y8lq2zb-python-openstacksdk-4.6.0
 /gnu/store/k71h0y5fcj9pzmwa0k4yzswl4x5lmjh5-python-openstep-plist-0.5.2
@@ -40764,8 +40766,8 @@
 /gnu/store/zrdf662kwzx5z2gv2acz3ysvnn5n0va7-python-rellu-0.7
 /gnu/store/83rjvr6hxyb7gn98djynn2k6fpqr2fqx-python-rencode-1.0.8
 /gnu/store/nna4grbnxahc67lywm9v5n7nzpih3nij-python-rencode-1.0.8
-/gnu/store/msyzx5xclyxrplsgm57yy26wh5gq8l5s-python-reno-4.1.0
-/gnu/store/wr2w9pvpk4hrac6mc63a0hac8ik69c07-python-reno-4.1.0
+/gnu/store/415k6xbjynmnk7k85b1b6l3ql0sc75vj-python-reno-4.1.0
+/gnu/store/l20kpk2ii2bx54zfzffg0zzplsm2fxmg-python-reno-4.1.0
 /gnu/store/6654ysjnjqy91kl8059c8grlbqcfz6z3-python-renpy-8.5.0
 /gnu/store/li9lcz62gyxm00r4rf86nxmybzwn3ya4-python-renpy-8.5.0
 /gnu/store/j7mpx26pxgfg2g61574zmdppj4dpvid8-python-reparser-1.4.3
@@ -42109,6 +42111,8 @@
 /gnu/store/sjc4wrbv8f4cxrxynrm6af07zvd576zg-python-valkey-6.1.1
 /gnu/store/806gmsc4l1h3m5if5hxypzc2zsmz61d1-python-vcrpy-7.0.0
 /gnu/store/zq54cddy55vcsjx4a8wwwcq483qcdpgd-python-vcrpy-7.0.0
+/gnu/store/444n5jkywjzx1s5s9k55xdwbjgqyidcw-python-vcsgraph-0.3.2
+/gnu/store/r495326x77z7rx0a4ihysdgv1lcnp566-python-vcsgraph-0.3.2
 /gnu/store/lfixvg0bd1qzz03m3cldysnlf3s87i2b-python-vcversioner-2.16.0.0
 /gnu/store/n1ra53k1v73yzwkhggl7bbz3kfdz8kac-python-vcversioner-2.16.0.0
 /gnu/store/1wlj8zxi8s22g3sfjjr2ykbz6212cffm-python-vdf-3.4
@@ -42798,8 +42802,8 @@
 /gnu/store/ixhan07qymr95fah8bwayi9fykck9v58-qmk-firmware-keychron-v8-iso-default-0.28.0
 /gnu/store/wm9qyz469qvvv5xlzwsil00aqbiazx6b-qmk-firmware-keychron-v8-iso-encoder-default-0.28.0
 /gnu/store/ygi7mhpqblz6vvi8l2f2ahm0gpbqwjnw-qmk-firmware-keychron-v8-iso-encoder-default-0.28.0
-/gnu/store/grrghg6kx99adq1k9pnd0rf3axkhr8ms-qmk-udev-rules-0.33.8
-/gnu/store/zs8gv7r1s3ad0wmv3nhmaqh0qv4yqsjd-qmk-udev-rules-0.33.8
+/gnu/store/688dz3aps3mwsfgdais852hnz5nz9kff-qmk-udev-rules-0.22.3
+/gnu/store/hphp255cm89d88gp142sxl8ar3b9rcpn-qmk-udev-rules-0.22.3
 /gnu/store/q69a0rd6bf5pf0x8619ymbaqnm3ykhy4-qmmp-2.3.0
 /gnu/store/s2gqnblrw7g5wkdp2vy6v1gpxal8c5ds-qmmp-2.3.0
 /gnu/store/4swjb83d5jp19hfq7c3zkzbdsiajbx35-qmpbackup-0.52
@@ -75269,8 +75273,8 @@
 /gnu/store/s6jqgjq15s1y0xwpanzjv86crhplsraw-vco-plugins-0.3.0
 /gnu/store/9qgl9hrymgra98zk9fbk4l7zjk9p49ld-vcsh-2.0.5
 /gnu/store/piy1il27zcxjwf2p359fc1aa7qxsqdpp-vcsh-2.0.5
-/gnu/store/2n66n840r3vcfd3yvnjffrh271kg2ya7-vcstool-0.3.0
-/gnu/store/lpxdjzpgcq46c0ya8q9j878lmi92c2sg-vcstool-0.3.0
+/gnu/store/g56ab9pdpffzm23pm3zgzn7l3cdz1031-vcstool-0.3.0
+/gnu/store/kafmcgvblkyrx7yhid7g11qfqdp6ilva-vcstool-0.3.0
 /gnu/store/m7cjdy439cla5yzp13jidipmbj3rp67k-vde2-2.3.3
 /gnu/store/w37imi1jyamd2nrihs5b5hlkkq1idw2q-vde2-2.3.3
 /gnu/store/33l2pd5bhfz1phdw3j21iqscldwpf8ly-vdirsyncer-0.20.0
@@ -75954,8 +75958,8 @@
 /gnu/store/mwn067yd1yb4w0kx8i0dd85xvcvizg0z-x86-energy-perf-policy-7.1.4
 /gnu/store/hyr9c90flg3h93v4wdviw40nrx6bqam7-xa-2.4.1
 /gnu/store/vmqf48zqhkgiarvk6ig1b0gjhfihs84b-xa-2.4.1
-/gnu/store/d0ffv3iyrdv4p81c18p5cfjadp4wj7yp-xandikos-0.3.3
-/gnu/store/kxmbhc0jwym4sx7ap4bnrap66r8m9f9n-xandikos-0.3.3
+/gnu/store/61prgzr1rx47cwbxyqzjf6d64ppin58y-xandikos-0.4.5
+/gnu/store/f1piwl6kmdn9k18yhnwsrniihvxf3ssn-xandikos-0.4.5
 /gnu/store/l743v3cvy71zqik4qf7hz4n427fhvyjg-xaos-4.3.3
 /gnu/store/w43hrx8mchsh2ws5azplcjlfhsvgan71-xaos-4.3.3
 /gnu/store/g7a1nyrzn70akfyvh3r3kkz1wlvdljzz-xapers-0.8.2
