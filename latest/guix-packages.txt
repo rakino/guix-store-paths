@@ -16247,6 +16247,8 @@
 /gnu/store/vg5b0g6b8mysngjzn6ii2qrwy57cfhqn-go-code-forgejo-org-go-chi-captcha-1.0.2
 /gnu/store/2hwyszryzqlgnbwc151ppnfy0xd75xn8-go-code-forgejo-org-go-chi-session-1.0.4
 /gnu/store/59gdsd4sfvl8531anrjl0ns4z8wskc6y-go-code-forgejo-org-go-chi-session-1.0.4
+/gnu/store/5ijk7kc9c5r9ipjsjs0jsjsf41bs1acc-go-code-forgejo-org-xorm-xorm-1.4.0
+/gnu/store/whz171bhyx2yg0b4fl50iqn6fh1r4c2g-go-code-forgejo-org-xorm-xorm-1.4.0
 /gnu/store/7jl12x4l98vg0gnd0bncqyvh4ylmdmrj-go-code-gitea-io-actions-proto-go-ping-0.4.1
 /gnu/store/9hv354rrlkilzp2qz00m6mcriz9xyndj-go-code-gitea-io-actions-proto-go-ping-0.4.1
 /gnu/store/3ldjr15kqygn580891aczmxvhvhil7mv-go-code-gitea-io-actions-proto-go-runner-0.4.1
@@ -16499,6 +16501,8 @@
 /gnu/store/r2ra14phr17swj49d65zg7pln36ff2ql-go-github-com-andybalholm-brotli-1.1.0
 /gnu/store/jb00v300mk354xk4a4vhaxy4x8a2h1rl-go-github-com-andybalholm-cascadia-1.3.1
 /gnu/store/x8f4nifdxnayjdi8bvl2qcymcyb1i81a-go-github-com-andybalholm-cascadia-1.3.1
+/gnu/store/ph549ggcwz7qy1wb3aj8g5hdpk8n5ivn-go-github-com-andygrunwald-go-gerrit-1.1.1
+/gnu/store/y4indg80i1hy1yxlpzy6prrwyd003225-go-github-com-andygrunwald-go-gerrit-1.1.1
 /gnu/store/071c1m0f739xy7baqjps7i3p5jw3ipfb-go-github-com-anmitsu-go-shlex-0.0.0-20200514113438-38f4b401e2be
 /gnu/store/59ny4sc6g8nrfb8mpvy0ynjyhybg6kyl-go-github-com-anmitsu-go-shlex-0.0.0-20200514113438-38f4b401e2be
 /gnu/store/455k172n9ppqkrs8blxq6kjn4va9qyqf-go-github-com-anthropics-anthropic-sdk-go-1.19.0
@@ -17653,6 +17657,8 @@
 /gnu/store/m26a1gjrqn4ghbxsrsm94izdbspiwxgp-go-github-com-getsentry-sentry-go-0.33.0
 /gnu/store/5svs4kvzcfj770b5b5w662f8qwdnzxx8-go-github-com-getsops-gopgagent-0.0.0-20241224165529-7044f28e491e
 /gnu/store/akwn91ckcb9xqdhp4r4pxfkyvvbcjmf9-go-github-com-getsops-gopgagent-0.0.0-20241224165529-7044f28e491e
+/gnu/store/ixv8xz2hlpy9sqfl8vzdwi00z3rnxvpi-go-github-com-gfleury-go-bitbucket-v1-0.0.0-0.df385ef
+/gnu/store/qxqp2z7qm6w1w2hkc6ghpnhlvp1ml8ws-go-github-com-gfleury-go-bitbucket-v1-0.0.0-0.df385ef
 /gnu/store/fg1plm6c7z45r98789hfcj5rrq966xa3-go-github-com-ghemawat-stream-0.0.0-20171120220530-696b145b53b9
 /gnu/store/qbw7vd8315rjmnn6k33jpxkc4ih0xza9-go-github-com-ghemawat-stream-0.0.0-20171120220530-696b145b53b9
 /gnu/store/4z2l6081rnhh51fzwvs8qifxbiq9yyh4-go-github-com-ghodss-yaml-1.0.0
@@ -17699,6 +17705,10 @@
 /gnu/store/pnahijppljwf8l7yhvjh7mxz2373ddrv-go-github-com-go-co-op-gocron-1.37.0
 /gnu/store/hj32hbizh6s4y4dhaq7z7h7zphdljnxg-go-github-com-go-delve-liner-1.2.3-0.20231231155935-4726ab1d7f62
 /gnu/store/i0h2lmpfqhza2za3myiaw2kpj8f5a08z-go-github-com-go-delve-liner-1.2.3-0.20231231155935-4726ab1d7f62
+/gnu/store/gf764l31ayvwgg7zrzd51bimgd0b0h3p-go-github-com-go-enry-go-enry-v2-2.9.6
+/gnu/store/rqcn0x3jqp7pfgqvsnmbl54zg3v31bsp-go-github-com-go-enry-go-enry-v2-2.9.6
+/gnu/store/4pb81hcg44pap368bm9asawwsipp8zck-go-github-com-go-enry-go-oniguruma-1.2.1
+/gnu/store/7nc1z060q488vm080l5x1i4kj0fz75nn-go-github-com-go-enry-go-oniguruma-1.2.1
 /gnu/store/gz4rf6hws1y9jqp8cqbgv5nrl9krlz19-go-github-com-go-errors-errors-1.5.1
 /gnu/store/sbkzw92f72gjdjgs2gvd96bjcvjqkvh0-go-github-com-go-errors-errors-1.5.1
 /gnu/store/62q6rsybffxg7yl3ph0acy9d2wj07lbc-go-github-com-go-fed-httpsig-1.1.0
@@ -18193,6 +18203,8 @@
 /gnu/store/8m2238i649q7ww3b5gycgh5gbqc0rvvw-go-github-com-henvic-httpretty-0.1.4
 /gnu/store/7wpmgj3l44lkfgl7qysjfn2nf3fvspj5-go-github-com-hetznercloud-hcloud-go-v2-2.43.0
 /gnu/store/s1j5vybc37khzkdsnn3v961h24zj56sn-go-github-com-hetznercloud-hcloud-go-v2-2.43.0
+/gnu/store/rf7bp3w6hbl6xqksnz7gswb7l49hrw6s-go-github-com-hexops-autogold-1.3.1
+/gnu/store/wvda6maafn0lm011w4pn1ssxxv5cybyy-go-github-com-hexops-autogold-1.3.1
 /gnu/store/fd5i19mis9dysaq1dy7wm63m3qh7jv1r-go-github-com-hexops-autogold-v2-2.3.0
 /gnu/store/jgck2nb1hjgi9cs57d7xh90ybjp20fkq-go-github-com-hexops-autogold-v2-2.3.0
 /gnu/store/8qvqp3dmp02rmdhz1pxx1ds8v8pppkr2-go-github-com-hexops-gotextdiff-1.0.3
@@ -19951,6 +19963,10 @@
 /gnu/store/x7w04n3j99vi203jbrimgmxcf1rwcw2w-go-github-com-sourcegraph-go-diff-0.7.0
 /gnu/store/r7dyj6amy3068wfb77aj4ljhl6y3z4ym-go-github-com-sourcegraph-jsonrpc2-0.2.1
 /gnu/store/wiwn804vxvkc5d0nnk5v94drr0m3r3f9-go-github-com-sourcegraph-jsonrpc2-0.2.1
+/gnu/store/lz5nx16gza1m4s90rh0afgbi2wpyiddx-go-github-com-sourcegraph-log-0.0.0-0.b104ff5
+/gnu/store/v8qg6v2g763lyh5pmfxrjfkr55pga8ki-go-github-com-sourcegraph-log-0.0.0-0.b104ff5
+/gnu/store/0d1mmwhs7xw3nghg6cak4f58asdjabdv-go-github-com-sourcegraph-mountinfo-0.0.0-0.e539465
+/gnu/store/ysxb1kqibyya3j6sn20wxs0kknkcf2ib-go-github-com-sourcegraph-mountinfo-0.0.0-0.e539465
 /gnu/store/jwq7p56syn64x0652dn97fh38dk07x4n-go-github-com-spacemonkeygo-monkit-v3-3.0.24
 /gnu/store/lmqiblmr0ykga96r3c9rm1m06yxrmzih-go-github-com-spacemonkeygo-monkit-v3-3.0.24
 /gnu/store/67ywvxcxksk31f1ly33glzsd6sr22ddz-go-github-com-spaolacci-murmur3-1.1.0
@@ -20331,6 +20347,10 @@
 /gnu/store/qcvy4rlbl858lsch18yaz7jgc49jmprk-go-github-com-warpfork-go-testmark-0.12.1
 /gnu/store/7i3hdmjdla3srbnp27zcmqdlq9kvq76a-go-github-com-warpfork-go-wish-0.0.0-20220906213052-39a1cc7a02d0
 /gnu/store/rdvwz0xlkv1s0my0w1fy7x0m5bg25psn-go-github-com-warpfork-go-wish-0.0.0-20220906213052-39a1cc7a02d0
+/gnu/store/ddj4i1k7wmlqx3hcxf7qq9fs3317f2h6-go-github-com-wasilibs-go-re2-1.12.0
+/gnu/store/h0ldsm75f11y7n51ffpzanpblskds1p2-go-github-com-wasilibs-go-re2-1.12.0
+/gnu/store/vcar218cs26qk530pyinkl827ha6p8vl-go-github-com-wasilibs-wazero-helpers-0.0.0-0.cd30c44
+/gnu/store/xhdf8jlhw1di4q56vr2q2h52ydazdns1-go-github-com-wasilibs-wazero-helpers-0.0.0-0.cd30c44
 /gnu/store/i5y40xz9a02lkshf6rlcxq3c0fmbzyf7-go-github-com-weppos-publicsuffix-go-0.50.2
 /gnu/store/najfyz3jfxal592z0hxpnbq359apnvxk-go-github-com-weppos-publicsuffix-go-0.50.2
 /gnu/store/2ij2m3dqnbrlcrhrps2kzzgb22p53737-go-github-com-whyrusleeping-base32-0.0.0-20170828182744-c30ac30633cc
@@ -20593,6 +20613,8 @@
 /gnu/store/6jmijs07hblndm1gl019hw4a4zgk4f3m-go-go-abhg-dev-requiredfield-0.3.0
 /gnu/store/awhdixg5205x7qsyff5x4fwwzzah6rim-go-go-abhg-dev-testing-stub-0.2.0
 /gnu/store/fhdb7s3zilx7s9hifz45gi056hfj103s-go-go-abhg-dev-testing-stub-0.2.0
+/gnu/store/46v14brmshs74l26jd57c7c15faz2qq1-go-go-bobheadxi-dev-streamline-1.3.2
+/gnu/store/llqxhy9s7x89l8j4sfn8zlv2r4hp10jl-go-go-bobheadxi-dev-streamline-1.3.2
 /gnu/store/cs6m1g5066slkcww64ip662h64q62n14-go-go-bug-st-cleanup-1.0.0
 /gnu/store/y8dpji6vwsrdqjgar0bqwl1h7dh09w2g-go-go-bug-st-cleanup-1.0.0
 /gnu/store/gglnnbnr3azizsw93lqlfdl7zmi1zq40-go-go-bug-st-downloader-3.0.0
