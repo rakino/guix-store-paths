@@ -23690,8 +23690,8 @@
 /gnu/store/h219b7jvfahgn6im1nwh4a6h18z1gn1z-jalv-1.6.8
 /gnu/store/45hx64jcl4svy64bx8q50crzjb29mgln-jalv-select-1.3
 /gnu/store/zb8d7sa3wi43klh305i3saj2azllc8rn-jalv-select-1.3
-/gnu/store/cajfkgmb2ncw4wj44vw4grhbrmr1fjq4-jamesdsp-2.7.0-0.53cf098
-/gnu/store/gdiwmnihi87723268p0vf3lvk5fpzfg6-jamesdsp-2.7.0-0.53cf098
+/gnu/store/hnxisab1b0cq9yvav254sgwjy2g3285w-jamesdsp-2.7.0-0.53cf098
+/gnu/store/jr0wkb9qcak08kkrgw81ybiqsgv5h7hj-jamesdsp-2.7.0-0.53cf098
 /gnu/store/25sdg655vi0nglhhvrk8pxq2njkajz5x-jami-20260220.0
 /gnu/store/m9si7lqi4fhlf9kdpnq9cwqzfd31ryn5-jami-20260220.0
 /gnu/store/lx6m821z59dbay9dj32jqdq61xsix3n9-jami-20260220.0-debug
@@ -27982,14 +27982,6 @@
 /gnu/store/n8rr0wxm14b8y1a57ja358w7ps6gnyj7-libstaroffice-0.0.7
 /gnu/store/falqw03bn6smzlmwnf124dxxk8vws4i2-libstatgrab-0.92.1
 /gnu/store/nvxpaipm1rz5l0l8dj57nahw23jff6dv-libstatgrab-0.92.1
-/gnu/store/0b97s2r3n7rrrln0bmynmm9dkd7lg0pg-libstdc++-4.9.4
-/gnu/store/rvix6slcwyannm6s30j53k306sjnzlig-libstdc++-4.9.4
-/gnu/store/qn1vzwc7xymw5dbrjiwdbfn223h6s54y-libstdc++-4.9.4-debug
-/gnu/store/xxjhfbvlzlssbk7s9frz0ddgwr6y9f34-libstdc++-4.9.4-debug
-/gnu/store/2xfr5p026lnkp3dbwbhfv3zs1ny888l4-libstdc++-doc-5.5.0
-/gnu/store/i64l1bhd860808lpgwkwka8klbx8c5d6-libstdc++-doc-5.5.0
-/gnu/store/60x8f9wmqx5d5jbhqdbim6jiwp98bpxw-libstdc++-doc-9.5.0
-/gnu/store/vcaj12cs94qr603sd5mq2zrw9dqbia87-libstdc++-doc-9.5.0
 /gnu/store/g41vs4g3nxhighkm26hqqiaa9dfkm87l-libstemmer-2.2.0
 /gnu/store/nyzjj4fdggidb4gkj5jqapif6blqcvci-libstemmer-2.2.0
 /gnu/store/00hhwmaq9qq52vs80px29mglrbaf9m0z-libstrophe-0.14.0
@@ -42546,8 +42538,8 @@
 /gnu/store/77bjsc1fry03rfyidd8ydnk86pgkxpdd-qcheckers-0.9.0
 /gnu/store/dg9kn6lfmgnqg3wziv7l7fp6ynr2acwg-qcheckers-0.9.0
 /gnu/store/hqiln7iygngjix6cxj9zbv25rgndrvsa-qcint-6.1.2
-/gnu/store/dspxnymgqwh1h9nv793wsvqwnhwy8w3s-qcodeeditor-0-0.dc644d4
-/gnu/store/y5p4kcalrshjydidsy7sfbkldmjz68as-qcodeeditor-0-0.dc644d4
+/gnu/store/0gz7g9l814wpix29y3xi63yhgp42z01v-qcodeeditor-0-0.dc644d4
+/gnu/store/iw9l1d68jxygipq0xfzz5lv9nqq71a44-qcodeeditor-0-0.dc644d4
 /gnu/store/dzl1h49fkwy17012156sgkbzgm2fsd6s-qcoro-qt6-0.11.0
 /gnu/store/wv7rn9nw234awhpc18inivi621gwm8qk-qcoro-qt6-0.11.0
 /gnu/store/85fpn9h0mwvi269lkv886l21mm7bvhd6-qcsxcad-0.6.3
