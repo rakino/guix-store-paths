@@ -9705,8 +9705,8 @@
 /gnu/store/qcn1k6pxyymw61f9jmi6cvj7li1s5igp-emacs-keymap-popup-0.3.0
 /gnu/store/fb3lca59ijszfbaxp1mnls2x0x79rh5y-emacs-keystore-mode-0.0.1-0.43bd592
 /gnu/store/m7qkngy2m8l30wbk12f70s12y2m8pcyj-emacs-keystore-mode-0.0.1-0.43bd592
-/gnu/store/mzfba896wclldpini3z07rbmznxk3fdc-emacs-khalel-0.1.15
-/gnu/store/vyx885js4psv116a7gbw32lsiimf1qxc-emacs-khalel-0.1.15
+/gnu/store/6zal4h20zm5385zgwhhaxn9mkmbm51fh-emacs-khalel-0.1.16
+/gnu/store/hqap7rrbl74vgf5zyzar836xsv8lhd2q-emacs-khalel-0.1.16
 /gnu/store/jck7pk92mk0m67xi03dh6bsilvwaywrd-emacs-khardel-2.0.0
 /gnu/store/lh0qm5df0lhsqn0kri2g0gvjcragavqv-emacs-khardel-2.0.0
 /gnu/store/1w92hnfwppg68bdwkdislf7djhb63d9g-emacs-kibit-helper-0.1.1
@@ -53574,8 +53574,8 @@
 /gnu/store/2a9a2d0q6acg0imgxq1jkir0rsx5905f-sfml-3.0.1
 /gnu/store/0a66pisf7cifrg5na36azagpf2xvapm3-sfsexp-1.4.1
 /gnu/store/8kq096swhwcxbx5dmqqxg6whir6avrak-sfsexp-1.4.1
-/gnu/store/50l72g8lkx48yb8nm3avbw0f2b4zshc4-sfxr-1.2.1
-/gnu/store/v9lggbsk9hn9ykl9dm8cxf15b2kjn863-sfxr-1.2.1
+/gnu/store/qcaglv82hh3j1jf4df0f50vkn8gcq57r-sfxr-1.2.1
+/gnu/store/yr645dql7ngvwlcjghdgwmdar77swbsx-sfxr-1.2.1
 /gnu/store/lcng11y0074j68i6sh7wni6jxb2ckjxg-sfxr-qt-1.5.1
 /gnu/store/vcfj6wwy2zlxwcnc497zbj9vi2k00p9w-sfxr-qt-1.5.1
 /gnu/store/5bhkwrh50w4rkasl4v0mjjfr4v8l7q4a-sg3-utils-1.48
