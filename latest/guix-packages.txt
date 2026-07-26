@@ -1113,8 +1113,8 @@
 /gnu/store/3jksrzk86zs2hjkbrp4895v94k7ab6dp-berry-0.1.12
 /gnu/store/3rpnjg3c0rfxj8kfrdsxl56wcwayq5kw-betteradbsync-1.4.0
 /gnu/store/c6nrgnzf6521cywzsml1as36cfghv37d-betteradbsync-1.4.0
-/gnu/store/6ri0w432cjkkv7srwf7mm7lbqrcssjw7-bffe-0-20.fc725c5
-/gnu/store/b88xr30cl48hrkqzmb1h99m89wmp06kf-bffe-0-20.fc725c5
+/gnu/store/61lpf4c0wrgjsx4zb4nrsga90fv9lfq2-bffe-0-21.b268cb3
+/gnu/store/z3749khqr16svmxkpmq3qnns3wskki9f-bffe-0-21.b268cb3
 /gnu/store/63i9ak9ly6hfpca0gzmjkwbkmvc87c8m-bfs-4.1.4
 /gnu/store/fnkv11hanclx2217bb3qfc0jz9xxjx95-bfs-4.1.4
 /gnu/store/sclhq5rrvv2rdsx75n2i811cixf7h0kg-bgpq3-0.1.38
@@ -22297,10 +22297,10 @@
 /gnu/store/cgqym62fc18n096c0cmksiqdw5k4iw2k-guix-1.5.0-5.e343ff0
 /gnu/store/43chbgmrxd78fciqgvc3p56s7z7252q9-guix-backgrounds-0.1
 /gnu/store/c7ifw078kl8sa6cfypcng2v7m67vnyqk-guix-backgrounds-0.1
-/gnu/store/3gd1fczr9h3b1an6caclndsa2vwp0jy8-guix-build-coordinator-0-138.a52e17a
-/gnu/store/qq8szs3wmgf59l7dpv9n8gixm7j2fizm-guix-build-coordinator-0-138.a52e17a
-/gnu/store/5rgd2k57h1hcyql40b6k1q03h56ffria-guix-build-coordinator-agent-only-0-138.a52e17a
-/gnu/store/qgvy75x1r99pimbs5a9yc2mdz64l40bg-guix-build-coordinator-agent-only-0-138.a52e17a
+/gnu/store/pp5x4056651fbfcbz36303dbmn1v3zf7-guix-build-coordinator-0-139.fcf6555
+/gnu/store/r5h36dqllrhym1s26rr2dmfwkx029f2m-guix-build-coordinator-0-139.fcf6555
+/gnu/store/m3mnizdj6ysdpz3nlh2d94viiagxh3kr-guix-build-coordinator-agent-only-0-139.fcf6555
+/gnu/store/vr4cnf1xzc82g5lahh7w342vjn43c298-guix-build-coordinator-agent-only-0-139.fcf6555
 /gnu/store/1sfjszs0wh5d6cdrh872afmij3pj054m-guix-compose-0.2.0
 /gnu/store/vbslzai2l2rlwj83xkihbypvfq2rhdvq-guix-compose-0.2.0
 /gnu/store/qkvqdzr8lrfb6qdx8dj844xml6i74gfg-guix-daemon-1.5.0-5.e343ff0
@@ -30332,8 +30332,8 @@
 /gnu/store/jl3dvhy8q4f1016w5i9mmd1fz88d6pyc-nanovg-for-extempore-0.7.1-0.3c60175
 /gnu/store/n8jlfg7mmpz8as80krg67ia17q87qs3c-nanovna-saver-0.6.4
 /gnu/store/sc67d688p06n0ja6ixbmvq556skdz1q2-nanovna-saver-0.6.4
-/gnu/store/p01588nlp697730xgx9z4lpb1j77dgni-nar-herder-0-56.a6ec90f
-/gnu/store/pr20qy69q895z83kvvbfc6n08yxw4kcf-nar-herder-0-56.a6ec90f
+/gnu/store/njnnsx1gfa1cpjhpac8715ijqj7n43rv-nar-herder-0-57.5737ff6
+/gnu/store/x09n4w7y7yi6vrxif3n5892fa4massms-nar-herder-0-57.5737ff6
 /gnu/store/acc1zf7sw8aypamlg99ab298r4p47swm-nasm-2.15.05
 /gnu/store/kyl2kdg79g7cgyqy0byrjl4f69w8r4l8-nativefiledialog-extended-1.2.1
 /gnu/store/qmbxlvjwv1zfsps7hg3zx88dbjw85hbi-nativefiledialog-extended-1.2.1
