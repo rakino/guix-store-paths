@@ -21337,8 +21337,8 @@
 /gnu/store/x79qi8hi3frki5vara3a4kz3pvp044y9-gopsuinfo-0.1.9
 /gnu/store/h98pxykzqhjdj1r6240fqrdx4mdwcw33-gore-0.6.1
 /gnu/store/qh18h2w9hiciy900b3b8i9j36b6xm92b-gore-0.6.1
-/gnu/store/aslc4imkrw1q9wd874lgzzxfn0hry74f-got-0.126
-/gnu/store/nmc7lc3qgrsa8h8vwi7rf27bamhvcxrj-got-0.126
+/gnu/store/9rijfqwm4aqd6hwh9pjvkp06nxff9blx-got-0.127
+/gnu/store/w6bgy3pmb5j5xl8q98i29qpga70zlpjb-got-0.127
 /gnu/store/9lycj6zv49n3kzv98say3bznxlwvf5id-gotcha-1.0.8
 /gnu/store/y6ic3awj9yrbyw0afmc7irq6nzjm728n-gotcha-1.0.8
 /gnu/store/a9dk3y26df7prqppk3p6x5991mxi7fl1-gotestsum-1.12.3
@@ -41820,6 +41820,8 @@
 /gnu/store/x9zy6can3p6if1si896klfxd1jjavdp6-python-tlv8-0.10.0
 /gnu/store/6vm7knnzy8hsgn4c8fyr04svvvh5imvn-python-tokenize-rt-6.2.0
 /gnu/store/l8isldf75xz6ai7cl81gvjajqp1y4aga-python-tokenize-rt-6.2.0
+/gnu/store/95ikif2a32w5lwvsnvgsb12vc4m3np4v-python-tokenizer-3.6.4
+/gnu/store/azy2a2jsavfsmivgzcv5jv7d3bg3hl8h-python-tokenizer-3.6.4
 /gnu/store/h98wlnspngpbqlickib4rjxqy4p3rpsf-python-tokenizers-0.19.1
 /gnu/store/n6x4xq2kxnmll8c9xzc9zrn52n8fz9dd-python-tokenizers-0.19.1
 /gnu/store/1n2lz78vg76zf95kly5vlqgmmr7fhc12-python-toml-0.10.2
@@ -53290,8 +53292,8 @@
 /gnu/store/labmq67whj1z57kwb74f99cirgrb7v4r-scheme48-prescheme-1.9.3
 /gnu/store/bmlcrmki8kqlqf7lhw0kdkg172wsx0ac-scheme48-rx-0.0.0-2.dd9037f
 /gnu/store/ngnq6jwqbq4c3iyvqlh8b7rvd4igr5z5-scheme48-rx-0.0.0-2.dd9037f
-/gnu/store/8z3hyy22gclvvms6q18z9bx6pn4nn8yf-schemesh-1.0.0
-/gnu/store/iwsb7f5ji6l4w8mwal5fmpbilgqrrh74-schemesh-1.0.0
+/gnu/store/yixjf2awg1hrj5283gs0wqhdrc5rn3pz-schemesh-1.0.1
+/gnu/store/ynbgxzqah56zapvkp26a273vpfx3yqmn-schemesh-1.0.1
 /gnu/store/7yadhi8w5m4nbilqqmmcb6g365gkah6x-schiffbruch-1.2.1-0.e41916d
 /gnu/store/s52262qayshnj34p8j88nw91i5cbp6rl-schiffbruch-1.2.1-0.e41916d
 /gnu/store/57lwask9hbj1i7jzv2maicp3rzgv5wqr-schismtracker-20221201
@@ -75127,8 +75129,8 @@
 /gnu/store/cgp6fz3y8gq3zfj84bsil8pvrgkw4pzn-unzip-6.0
 /gnu/store/pfh1xflgzshal2j2l1506k738i95wbx2-upower-1.90.10
 /gnu/store/q12rj7i0pl6x19jfxjar212aj627p2dw-upower-1.90.10
-/gnu/store/cssj3n8gyc6l4h4bpk8kxdxgqs7q385n-upx-4.2.4
-/gnu/store/lisbgxvpliwmmr6dwz3yhp3xmbk0vzbs-upx-4.2.4
+/gnu/store/bzz3dlrgp7si570i7qqxrsp41cggbkgy-upx-5.2.0
+/gnu/store/qp5ax601ihgcf4xz6kvhqsjgl342hidd-upx-5.2.0
 /gnu/store/ijc4nqsifjgzfxiharjxmm05jv8bzgr3-uraniborg-0.0.15
 /gnu/store/mp1ycvqxsplbj10w56b6877i01h3ya94-uraniborg-0.0.15
 /gnu/store/gxy2fzhly5x9a8iign6r5yy8h7bynrnx-uranimator-0.0.0-1.d96f008
@@ -76760,8 +76762,8 @@
 /gnu/store/kxyl7n50fqx4xflb8prwal73aia0i3f5-zeitgeist-1.0.4
 /gnu/store/35f02pwdwr3jxilpifx2vi92i1c18xrq-zenity-3.44.1
 /gnu/store/81d27mb68ipql0bbq0siimcjz6jpjycs-zenity-3.44.1
-/gnu/store/9hl23hjkm7yb72l31b8igaifnhn3zyj5-zeptofetch-1.21
-/gnu/store/gpfszg89a9f3qxhvmnsa0n6z4xihg0y6-zeptofetch-1.21
+/gnu/store/h4vq2lhn385xh4nmwswhvca8s1b8m72x-zeptofetch-2.1
+/gnu/store/nx83l268fdbyaz4i2ahjpdmaz4mzw4yl-zeptofetch-2.1
 /gnu/store/8l99zx2n3lr31ik7axi6i6ww884pwkpx-zerofree-1.1.1
 /gnu/store/c3xncncgpyn2gdc0c4rl4kkld0p1k6ml-zerofree-1.1.1
 /gnu/store/0xd5cq86adc07rcxqscpqbv0gsw3jg85-zeromq-4.3.5
