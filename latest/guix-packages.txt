@@ -25844,6 +25844,8 @@
 /gnu/store/y4bk9h6ak4y5vfrvb7pyd747aycmiy8p-kde-gtk-config-6.5.5
 /gnu/store/8ks19n2xf4m5ipv2lnj9yk1nrgfwqxl5-kde-inotify-survey-25.12.3
 /gnu/store/b80s09x4ywpin86jsc16qdj9rb4lkdxa-kde-inotify-survey-25.12.3
+/gnu/store/g65hpqjgxxz237wmdisx6qcdgqghcl86-kde-material-you-colors-2.2.0-0.7242129
+/gnu/store/zxvf43548alnihc9sirhsfh0a9spm59c-kde-material-you-colors-2.2.0-0.7242129
 /gnu/store/2d4hcwlv79wybl2mmwmq1brhwbhgirm1-kdebugsettings-25.12.3
 /gnu/store/lgl1vxniap3d3g8lz9ldbalr4qr6i46c-kdebugsettings-25.12.3
 /gnu/store/7xlmkkvrh3vp2whmxwk0h2b1q0j175w3-kdeclarative-5.116.0
@@ -34863,6 +34865,8 @@
 /gnu/store/gl7bwxj5qjx2pgy0pc1jlpc06n5l3wys-plasma-activities-stats-6.5.5
 /gnu/store/smsz441msj8asqcg4kn45db2w42v28fp-plasma-applet-chatai-2.2.3
 /gnu/store/yxvvf1dmwjmxyb800j3095h2xp1ryqrm-plasma-applet-chatai-2.2.3
+/gnu/store/951lrhmsknardp7c5hzhxfx00h8ckidx-plasma-applet-kde-material-you-colors-2.2.0-0.7242129
+/gnu/store/pw2k0p395mzpvysyyfq1nsc3qxavxv8v-plasma-applet-kde-material-you-colors-2.2.0-0.7242129
 /gnu/store/9j455vz8pgk8kwq2w9anp2xy2s08ja5g-plasma-applet-kurve-3.5.0
 /gnu/store/xav3mr1fgv3113bv62db6zaxh2glvf75-plasma-applet-kurve-3.5.0
 /gnu/store/06qj44wbpm43x4drip4085lckvp1a8jq-plasma-applet-panel-colorizer-6.8.1
