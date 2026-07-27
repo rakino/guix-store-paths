@@ -30267,8 +30267,8 @@
 /gnu/store/n74drfxq8pc8k2r6if9mj978lcknfbfr-musikcube-3.0.5
 /gnu/store/irfv7c0dhx4xb60h6v67rrym6hykvd0z-musl-1.2.6
 /gnu/store/z45kgiwq7hlmawfifz5437gbd4r2c4i0-musl-1.2.6
-/gnu/store/pfvyyk7cblk3kfmw760cm62h1k3ih7cx-mutastructura-0.6.0
-/gnu/store/wkj57yyvcjcc84q4y0174f1msgax6gf3-mutastructura-0.6.0
+/gnu/store/9rhvwvbgpi2993ar5z177mpqgyrmq4pr-mutastructura-0.7.1
+/gnu/store/fcldikfwnbar7nbpccxfmnhjz94wq90b-mutastructura-0.7.1
 /gnu/store/abjlxy2na3svpnsbq9qmw7c28rfwzf2h-mutest-0.0.0
 /gnu/store/j0prkkh9kncjajqrmgd2x7hmxspam8xq-mutest-0.0.0
 /gnu/store/g1p39c69wa0bcjqlwckp42c9a9b12qzx-mutt-2.3.3
