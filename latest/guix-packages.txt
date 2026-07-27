@@ -27627,10 +27627,10 @@
 /gnu/store/q93abirf67x2zj6155i4a4jxxqi2f1x0-libopenglrecorder-0.1.0
 /gnu/store/5bamx0148xq26bjd42faf4bw17h92dcz-libopenmpt-0.7.12
 /gnu/store/8pfgljgw1d0dnxi493dxyysqv3705259-libopenmpt-0.7.12
-/gnu/store/s9d68xcrn45qjm4vb6b2vyvr5zpbkymh-libopenshot-0.5.0
-/gnu/store/yfb8cpdq1f3yafsbfs1w5pg0f2h4rs08-libopenshot-0.5.0
-/gnu/store/95gxbjrw67vxdg4qpparwi83ni2ip4xy-libopenshot-audio-0.5.0
-/gnu/store/dcf63wq1svka2malhn8p0bj96kzfmj4m-libopenshot-audio-0.5.0
+/gnu/store/qyy2wh0nfhfp020jzx9sgx38iqh42ygs-libopenshot-0.7.0
+/gnu/store/xs4hp1iv2a6r1gig11vcyhbzgf0g6pmc-libopenshot-0.7.0
+/gnu/store/dd9ws1yvrxll31hc9xm66hlnyby8s8s6-libopenshot-audio-0.6.0
+/gnu/store/sy2gf2fnrhvkbiy7cgjr07j945xapp4y-libopenshot-audio-0.6.0
 /gnu/store/hnz9n06akxnvzgzjfdhzf4ln405qabfv-libopensmtpd-0.7
 /gnu/store/z35wi7daa2h9p4844wrv52abpb4fqjfw-libopensmtpd-0.7
 /gnu/store/m66n6mi8x580iyll37ir1bxzibaa5zi7-libopusenc-0.3
@@ -32208,8 +32208,8 @@
 /gnu/store/s91v3qfjd3hhnb1rg1z6brg8hvcq9idx-openscenegraph-3.6.5-pluginlib
 /gnu/store/65lz27xghzjg4ad0rh83qkvvanvz9a9a-openshadinglanguage-1.13.10.0
 /gnu/store/nwqpsjnnbyk3k3drkbrn6wxi19d3zj08-openshadinglanguage-1.13.10.0
-/gnu/store/26rjisaf0bayhbba64gwr4wpi265cxmw-openshot-3.4.0
-/gnu/store/4mgjrs3ddqvr66zc4n92sm5s29l0mgl3-openshot-3.4.0
+/gnu/store/945q27pqimqdhlv3varfri6nc9b25yrh-openshot-3.5.1
+/gnu/store/ldfjrj97rh4hjjrn736f4mhiqs1v0101-openshot-3.5.1
 /gnu/store/4vpsadjga2f73ls066pjpm605qicg4vf-opensles-1.1.0
 /gnu/store/6942k015d6vplz0jhpwgqcavv27kxpya-opensles-1.1.0
 /gnu/store/55mfmkkvfhwjrnw2s09xbp54nfvfffir-openslide-4.0.0
@@ -73581,8 +73581,8 @@
 /gnu/store/92s5a09gkv91nsgrx9q9kikvlx55b0vs-trayer-srg-1.1.8
 /gnu/store/1d4swndn7b1l5745q4yg7js8dd8qqz1z-tre-0.9.0
 /gnu/store/83smqncf8sm15d0qaxy6p8aabcsz1yzj-tre-0.9.0
-/gnu/store/5xiznx4r1adsadxykvl7yzr8cj3s0m3j-trealla-3.0.0
-/gnu/store/wjsn1szdsa19nl29nimqcsz4xihqwgry-trealla-3.0.0
+/gnu/store/69wq1gmdvcsz4ryfzvrsvx2zjkxlicn6-trealla-3.0.5
+/gnu/store/swifz2qddi3x11zszbnl73kl49pplmys-trealla-3.0.5
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/vwf9bpj3kyzy5pfiiqy08qqjndxdsi07-tree-sitter-0.25.3
