@@ -35587,8 +35587,8 @@
 /gnu/store/rif9gh5n608flzjgi52nz4pfvv0rr59s-python-altair-5.3.0
 /gnu/store/0d9ynknfm26fqhjs3wl26qgbxv92jz7i-python-altgraph-0.17.4
 /gnu/store/3if8yv59jwvn8ikvf7sl3llixqn1r567-python-altgraph-0.17.4
-/gnu/store/04ywny8mhhix72fwqpl27r6r44qwar4c-python-amaranth-0.5.8
-/gnu/store/z38sz5m7ck2vxdbjln9briaaa0kgm12l-python-amaranth-0.5.8
+/gnu/store/fh825cwpprh5s3d8xh6d4biypjbpcy8n-python-amaranth-0.5.9
+/gnu/store/js1llz0cdwz1rmwwmdbcn47jn9nj9szl-python-amaranth-0.5.9
 /gnu/store/dlhmpi1ifr7ma3dvrx9rlvbrxgv94gds-python-amply-0.1.6
 /gnu/store/g7na75a0jfgkxi9ybb854x98pz5zrvkx-python-amply-0.1.6
 /gnu/store/83rc85a4wk2xbs98agi1lsqz34yc3ghk-python-amqp-5.1.1
