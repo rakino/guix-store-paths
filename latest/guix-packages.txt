@@ -4857,8 +4857,8 @@
 /gnu/store/irj710s43rn7fm6kw8wjb6yxh9y95vxj-cppi-1.18
 /gnu/store/94vxc5dla102gjl0a0l91q7gp0pn55pm-cpplint-2.0.2
 /gnu/store/9v6nxxp4kxicyw9i4ydzwfh5ixqbixa9-cpplint-2.0.2
-/gnu/store/nh1m8597k0whlgida90z7vf9bcilx58n-cpptrace-1.0.4
-/gnu/store/pmy42p779xq8ivvqyg13jgbzz1jqdw2r-cpptrace-1.0.4
+/gnu/store/fkndagq27505yp204vabl3s4hk828754-cpptrace-1.0.4
+/gnu/store/l88869nc4m9lxrpnbxlcl673vwg2hd6i-cpptrace-1.0.4
 /gnu/store/s7wklvm46l86xc0l7imizpq5vd2d5qy9-cppunit-1.15.1
 /gnu/store/yql727gvfqrszp0v9z1fg3sqpn8892y3-cppunit-1.15.1
 /gnu/store/1707qyaqgsnfpsjyvpx4f2bj7k2v04fk-cpputest-4.0
@@ -54506,8 +54506,8 @@
 /gnu/store/vrzw91pxv88yivvl222l2xbns6z8bgz4-surgescript-0.6.0
 /gnu/store/bil4a2b4lhbmahcjc7vszk0ixa8a7v70-sushi-46.0
 /gnu/store/vvpgj9hq0wasl5zb4vhxi2wpirq1nsgb-sushi-46.0
-/gnu/store/7q5s1i0shvfqfnycm077ncnxwqwgn71h-sv-lang-11.0
-/gnu/store/l566ijpn19szq9ahy7ap9q3k55lzcxlp-sv-lang-11.0
+/gnu/store/0bkvii372lpw0ibrx8ni205cxhm3ahcs-sv-lang-11.0
+/gnu/store/8x1aknpfjmzix7fang72ifzij0ayd3xx-sv-lang-11.0
 /gnu/store/h7nx5hnpnbxhqb1ylfgaxwxzifwy4dxi-svd2rust-0.36.1
 /gnu/store/hx4bk2a3jsr8hbc53vy8yvpqgwdqrhg1-svd2rust-0.36.1
 /gnu/store/0lh2s2hlahm1rzg401cmm2rcgm280ahl-svkbd-0.4.2
@@ -74319,8 +74319,8 @@
 /gnu/store/l3fdx52ka2qn50482qq5047h2q37maij-treefmt-0.6.1
 /gnu/store/5xh0z8l4gbzj7f22lwp9lyjm0bhc413v-tremc-0.9.6
 /gnu/store/8dy3a8kvzmqm2s3lqplyzqqm1xlahcmc-tremc-0.9.6
-/gnu/store/2zkhc71pyvhclwnz09819b7slfjxqhzi-trenchbroom-2026.1-0.ef7c7a4
-/gnu/store/cqh91dlg6a9crq8ga190zpkc7b60fxlb-trenchbroom-2026.1-0.ef7c7a4
+/gnu/store/44y87ffmjljki327n2hk66fk7m6sdq00-trenchbroom-2026.1-0.ef7c7a4
+/gnu/store/kf8bfzlvvbl70yp1n9s2h0mllaw0p34h-trenchbroom-2026.1-0.ef7c7a4
 /gnu/store/086p0zszvmnlrnpjcim5nvccqzid2anp-trezor-agent-0.15.0
 /gnu/store/kv15yw5qn1wz3rgaclv80z0f5awj156c-trezor-agent-0.15.0
 /gnu/store/65hq00rfp6iyy1qislwxcmjkv1mlkyad-trezor-gpg-pinentry-tk-0.0.10
@@ -76091,8 +76091,8 @@
 /gnu/store/ihdwkn0j9f3cr8ilaldlah8pvy08wf6f-xdg-desktop-portal-lxqt-1.4.0
 /gnu/store/axqhs5crq3jzjck2qcd2y65lk3n0cyyl-xdg-desktop-portal-termfilechooser-1.3.0
 /gnu/store/dwq9p85jyh5jzspsbgfzvincncnr0z1y-xdg-desktop-portal-termfilechooser-1.3.0
-/gnu/store/cxyw1403s2b2j8j96gkc8vlbp7gr6yx8-xdg-desktop-portal-wlr-0.8.2
-/gnu/store/rx47ar6ff7x3rdppifmlvv4pm8cdqpvg-xdg-desktop-portal-wlr-0.8.2
+/gnu/store/ykxjfhdmgnv3g784mr7xlrgjjhvm7zig-xdg-desktop-portal-wlr-0.8.4
+/gnu/store/ymfcip56gh7p4s4abq2jrx3ina8cbpzb-xdg-desktop-portal-wlr-0.8.4
 /gnu/store/c9kzf3q5rdzs9cz2g7l80a8sjnxz129a-xdg-user-dirs-0.20
 /gnu/store/j588ps9rdsialznffzhksfs14h07fnha-xdg-user-dirs-0.20
 /gnu/store/fgh5lpinndx6x2ri9j1pc301vgiyggnq-xdg-user-dirs-gtk-0.16
@@ -76503,8 +76503,8 @@
 /gnu/store/hknsdbx96vj43mx2nfwj5i747hrw5b1l-xpr-1.2.0
 /gnu/store/5l2h0vdm206khfapbngyzrblvpyr5nfg-xpra-5.1.6
 /gnu/store/xblwqcanxx6350fk8zfnaifv3zlwdys4-xpra-5.1.6
-/gnu/store/0zm4gjn7d5gn4p8pvpmb5z4rvdfbb0f9-xpra-6.5.1
-/gnu/store/yh8nj63lllphxxxmxhpz470bw3a2yc45-xpra-6.5.1
+/gnu/store/9ib56k6vhsr75xs912gkxkr8v7gckdna-xpra-6.5.2
+/gnu/store/pgsfhzwspllm1w94yqaf1za6nnz9qaqn-xpra-6.5.2
 /gnu/store/g62xdwxlvczrgxwkgimdzrkkfwdd2xmh-xprop-1.2.8
 /gnu/store/lw2jxwayvrp2mri4s0c94c139cxlvkcf-xprop-1.2.8
 /gnu/store/29fc16318z2asgrxnbm31k4rlg6l2h9z-xrandr-1.5.3
@@ -76690,8 +76690,8 @@
 /gnu/store/m6qnq241519xjp2qbs8j7srxycl75ndd-yosys-0.67-config
 /gnu/store/4v7glhv1j4nx3j8l6rbzg105900ncp0d-yosys-0.67-doc
 /gnu/store/llcb13bkh33k58q0faacqyzxppqrxlb0-yosys-0.67-doc
-/gnu/store/imggkwjd8fxblz50vkz1gnppi650d56p-yosys-slang-0.0.0-0.3251530
-/gnu/store/vg963pz75dspxc13bzn729pbacx7vzqf-yosys-slang-0.0.0-0.3251530
+/gnu/store/9s75cddch2g0v82zknvci90n3aynz25a-yosys-slang-0.0.0-0.3251530
+/gnu/store/g7fq2c96y6lwzm1693h62d6q8b0alddk-yosys-slang-0.0.0-0.3251530
 /gnu/store/7kl2ggygpfjbwmpmksj8nyzzjxhz0qmy-you-get-0.4.1743
 /gnu/store/p8v8kxp93dvlk003y1p7k6ljzwdykfgp-you-get-0.4.1743
 /gnu/store/8v5ag3ndsvnlmjd0yasm87900xv4mmlm-youplot-0.4.6
