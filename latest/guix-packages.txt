@@ -13072,6 +13072,8 @@
 /gnu/store/zah6ry7bsirq126cd9v09dvkd48cg3n8-freeglut-3.4.0
 /gnu/store/amgzzw2799q5iwkrr6jjipwdcncp6w3z-freeimage-3.18.0
 /gnu/store/mcpc412ljfw50rayg1ciqf27816mpvys-freeimage-3.18.0
+/gnu/store/wdy814nr7q7p88nj2xdgw2c3qxwg4v1j-freeimagere-4.2.0-0.97e3a99
+/gnu/store/z79404qpi0inykavxp0ampinga2js64z-freeimagere-4.2.0-0.97e3a99
 /gnu/store/dfbmdjmrgxyylg5jji91zhqf25w7zpx1-freeipmi-1.6.16
 /gnu/store/lb564ygcjjsb2lscani4mf3myvkkv3hp-freeipmi-1.6.16
 /gnu/store/wxz8qj9rkp53ky1f0fla74ac2v15f9p2-freeorion-0.4.10.2
@@ -22730,8 +22732,8 @@
 /gnu/store/9x7nzq9zan8xjlk8c72jnvm9hxw21397-htmlcxx-0.87
 /gnu/store/8h664kxjqaj32gzcrzwlcdq92vl28hn3-htmlq-0.4.0
 /gnu/store/sidxd930vhj8ns3ng2r3frl3qzp8pq7i-htmlq-0.4.0
-/gnu/store/53f89v3lj1vfn3cvr09qlgz41yagzd91-htop-3.5.1
-/gnu/store/5h5igwfz72381r1fs2v9bzbxsksbi2rz-htop-3.5.1
+/gnu/store/74jjarkixqvd7x32vr4q5mqxdjcl3v2r-htop-3.5.2
+/gnu/store/hrn7232pxvambyfp9mihdx9c86vyghy1-htop-3.5.2
 /gnu/store/rz1w9pxa1a607pnqhhsxfqjvkyiq5njs-htscodecs-1.6.1
 /gnu/store/wk7ns37jhbyj6i406mixd7gsyzb4gmzl-htscodecs-1.6.1
 /gnu/store/hrjwxm8ai56zjvgjas3pnv8hk8xbicb8-htseq-2.0.9
@@ -31147,12 +31149,12 @@
 /gnu/store/y3c2i2wyj0xqznxh840bq4irypgjpggw-nwg-look-1.0.6
 /gnu/store/asf2shmlrvw1lyib1q71hkmv3dwh4a58-nwg-menu-0.1.9
 /gnu/store/cas2323w7canvy76612wq52bhciy6kbr-nwg-menu-0.1.9
-/gnu/store/89996n8zipyiv58glil8ph1mim468nyy-nwg-panel-0.10.13
-/gnu/store/zichksva58kq6c3h6v5a3hi7f8jw040i-nwg-panel-0.10.13
+/gnu/store/5z8kyvcy8cqriq0pjjgcml91fbg112sp-nwg-panel-0.10.13
+/gnu/store/kzjq4nky8fn0jxcsmm3lvsa8yl6y34fl-nwg-panel-0.10.13
 /gnu/store/023fk1qljshdanribbhzv39srjgysz29-nwg-readme-browser-0.1.7
 /gnu/store/k26p3fvkcsqpzxbqjfy6yzjw3day3ns7-nwg-readme-browser-0.1.7
-/gnu/store/w72jfjcwlxvg1r4dw0wkf7bvm5j6mkma-nwg-shell-0.5.50
-/gnu/store/y4cgicfdbxpmn49pxal4llp4q47hyxmv-nwg-shell-0.5.50
+/gnu/store/b9921vafyarkmy5qxh45ysgs0kc6v3qh-nwg-shell-0.5.50
+/gnu/store/ibxvj28jchr91yy16yc6l603qdpj1bis-nwg-shell-0.5.50
 /gnu/store/3kk7455lgpxdsj67rmii9xk5wsnjhmqh-nwg-shell-config-0.5.64
 /gnu/store/zjxf0hnch5aqg35ysxr5mxcffskdfjvb-nwg-shell-config-0.5.64
 /gnu/store/5sjdw1i2rpfqarjvqf3pvrn5yg83djm6-nwg-shell-wallpapers-1.5
@@ -76656,6 +76658,8 @@
 /gnu/store/iw31n262iba92g0r6adjgz77w8lsd7kc-yaru-theme-22.10.3
 /gnu/store/2pq7psiqpvpd7g0jj1y04jq1wnhspmr3-yasm-1.3.0
 /gnu/store/qnsaqnlg60xymlqajn84xh4fjrdyvhks-yasm-1.3.0
+/gnu/store/kcrz7227s2xsl1hhzird55inzwhskl00-yato-1.1-0.68ee8e6
+/gnu/store/qbbfxrhh47bycv69k5d8wsj0rf0mphck-yato-1.1-0.68ee8e6
 /gnu/store/1xhi1gnhcdqa87f73nads2m87sywc2xm-yaz-5.34.3
 /gnu/store/fq1d0afsmd2wpfd9ifx72hj67wd15zdg-yaz-5.34.3
 /gnu/store/1aq0jh4mb0d5d4xl1fk76cxciy4yfn4c-yder-1.4.19
