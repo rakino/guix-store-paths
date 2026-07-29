@@ -38077,8 +38077,8 @@
 /gnu/store/yw2nkr9bz40vqn3qh3cs0s7irwii7cqh-python-isal-1.8.0
 /gnu/store/3rwnk49qkaijvvk5ahpnymxl6ixzaxcw-python-isbnlib-3.10.14
 /gnu/store/l7qhl4x87f2sbwngxdirbxb9vq4p30jr-python-isbnlib-3.10.14
-/gnu/store/4hy66ddcg085wz97pdp57fcjw4k68zkn-python-islenska-1.3.2
-/gnu/store/gf81yzin1d3vj8kjs5kr7a888xajvgac-python-islenska-1.3.2
+/gnu/store/djbxclw5n3rap60fw1axaxgrrhlrf8p1-python-islenska-1.3.2
+/gnu/store/vi9m7jb5x0j9aphx8bkmgss75k30lw8k-python-islenska-1.3.2
 /gnu/store/lvpzpmwkd1hm4yk70fvdfd0nckrq0y17-python-islenska-bootstrap-1.3.2
 /gnu/store/nzrzms0d137zvh0z87ikgbkni8dvf8lh-python-islenska-bootstrap-1.3.2
 /gnu/store/6s7q02w7k8y74sn5h56aipkfgppxfsds-python-iso3166-2.1.1
