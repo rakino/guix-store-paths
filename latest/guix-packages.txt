@@ -1797,8 +1797,8 @@
 /gnu/store/jy9z9rvly45mkpdvvifxyb7yblc1lg2q-celestia-1.6.4-1.6de0339
 /gnu/store/k8a95qnwirjd153b0zlly6ln7v0fbi70-celestia-content-0.0.0-8.188b22b
 /gnu/store/qqqawqdvlgmwp8pxn0bfb3c355lgq0aq-celestia-content-0.0.0-8.188b22b
-/gnu/store/gazh3qhpq5xc1j07gwjbz0qnka6r4c2y-celluloid-0.28
-/gnu/store/nnr99l7yrw612f2q3nngzhzd9a415m4l-celluloid-0.28
+/gnu/store/5c2im92za7sjwff06x4k953fdyk25ghw-celluloid-0.30
+/gnu/store/xwbppv6dxfcrygpwxbad1s6lq2irbm7l-celluloid-0.30
 /gnu/store/3zlm0fw2dkxd2r3sidj5bzvxsc40fxn2-centrifuge-1.0.4
 /gnu/store/5lpcdqsn491aj9i32pqnp9b76wdhwbfh-centrifuge-1.0.4
 /gnu/store/5vl36bbxjq323y7jrgjrvvpkq6nfjzjl-ceph-21.0.0
@@ -1915,8 +1915,8 @@
 /gnu/store/jzn0cp4pixv4ch0h7g2sbljxrzx1pp8j-chezmoi-2.1.0
 /gnu/store/4m26jpdbznvv4axh2bk153npdny3z0rf-chglog-0.7.4
 /gnu/store/qvglil00zgbrmw2bl8nhll01m9k3srvm-chglog-0.7.4
-/gnu/store/jrh5g27wp5hy7vcs39xcs607sbns5dvk-chibi-scheme-0.11
-/gnu/store/yyxqzmxvxswfc3m0bagkcb2hl970w8zz-chibi-scheme-0.11
+/gnu/store/gbvs9ayf99yp69ly9aahg1r1i2wkrdnq-chibi-scheme-0.12
+/gnu/store/j2lxsiisi0zn0xdik71ghdzdcd9awrly-chibi-scheme-0.12
 /gnu/store/jz0gyww97ff5d6wczbhzfq6y9x827s9k-chicken-5.4.0
 /gnu/store/mvdm7zrbbd9mbgrv7smxcpm48583plwk-chicken-5.4.0
 /gnu/store/66dxwf8yga0wp9vhgazl3kfw6xfz0swi-chicken-agrep-1.7
@@ -7525,8 +7525,8 @@
 /gnu/store/x0vy2xqaivsbd9bw2lj7k7601927a7br-edlin-2.20
 /gnu/store/n96frav4l1rv1qa38blwr2d4viz2k7gp-eel2-0-1.599228f
 /gnu/store/w2hc4k6dgrdnrn8lxkcjymj2437ncjiz-eel2-0-1.599228f
-/gnu/store/72782av5wng15waqw9i1jz6nvl91p0ln-efi-analyzer-0.0.0-0.77c9e3a
-/gnu/store/7crwaaz1w5nda432sp8g1i05562q5wf3-efi-analyzer-0.0.0-0.77c9e3a
+/gnu/store/jgi9a3s91ji7cp33hx046m70cfj7x5k0-efi-analyzer-0.0.0-1.8b6527e
+/gnu/store/yr1m5sdnfvdmmrkygn1rc6abj4rq5q2j-efi-analyzer-0.0.0-1.8b6527e
 /gnu/store/9rbphgkgk961i4xry74l626vy9ykr394-efibootmgr-18
 /gnu/store/qbbizzmhrz83i9k575qryrvwgnym2adl-efibootmgr-18
 /gnu/store/6pn0jnvnb3azi1yi2wvwz1k7nw3xf446-efitools-1.9.2
@@ -11947,10 +11947,10 @@
 /gnu/store/v7hb3rdlcnsnvpm427arjp1npbykyfi4-fastboot-7.1.2_r36
 /gnu/store/mww4c8s803d82ldfk11gnxwjhg5y864h-fastcap-2.0-18Sep92
 /gnu/store/zyp62lk19xm3akl9p1l6s55dbgsd4d84-fastcap-2.0-18Sep92
-/gnu/store/crd6fqxkqhcysama5dmyqws6h3q6hb3x-fastfetch-2.63.1
-/gnu/store/zqzlh6dd471fdxnybakr6kild41iyfpp-fastfetch-2.63.1
-/gnu/store/rk4gpdzl24jm20lhs2wakj495gqz628x-fastfetch-minimal-2.63.1
-/gnu/store/y86vmnpfcbmm0rks5m2ylhildxdbwskc-fastfetch-minimal-2.63.1
+/gnu/store/365xqfbdjmfqmai7j3372ss2b150w6id-fastfetch-2.66.0
+/gnu/store/b5r5xd4xa9jk27syk3142pa6h5mlahlc-fastfetch-2.66.0
+/gnu/store/fr77jpjz6nnpm0rm1wpm0r2db2w48zx2-fastfetch-minimal-2.66.0
+/gnu/store/qccsp87fbkmsjb85ira4bh3pzv9gjdrk-fastfetch-minimal-2.66.0
 /gnu/store/710mhmw1bgbslzjpbrrkc4wr4774gw29-fasthenry-3.0-12Nov96
 /gnu/store/j65l46jxag2qmj7hjyfp20v0zsz0ji75-fasthenry-3.0-12Nov96
 /gnu/store/j3m34k7zzfbk4war5qw3ha4r94hci7ix-fastjar-0.98
@@ -49152,7 +49152,6 @@
 /gnu/store/7z4krhr5112mgcx3cwkp103q1wxg1ijv-rakudo-2022.04
 /gnu/store/211km3xil640s07nz5zbf8k9jjfmn7iz-randfold-2.0.1
 /gnu/store/lysj62q7rkdi5r88wnv320npwnmbx97z-randfold-2.0.1
-/gnu/store/ww77gg9lkqvdxa5jvml1ml6j3n5d1ybm-randomjungle-2.1.0
 /gnu/store/2zjfzl3bkqjwq28awrsrvq9636va19kh-rang-3.2
 /gnu/store/63mra952pc2hb4k41199fpswr62y93nk-rang-3.2
 /gnu/store/d3zvj6fcgfi0pnbiwn65j1xr6x7w3njj-range-v3-0.12.0
@@ -75140,8 +75139,8 @@
 /gnu/store/zw2jbgqrk4sxxqi4vqvhs53z9l0d9zkk-unshield-1.4.3
 /gnu/store/4f9nrb3a8wlybm8nsh36glz8ca8hvmbp-unsio-1.3.3-1.ac48210
 /gnu/store/s6dpm34xz53m9dpw6sxsgjb1aw332x87-unsio-1.3.3-1.ac48210
-/gnu/store/9a9szarfng1bwzy6gscx6j2mrsn7f4qg-unsyntax-0.0.3-0.144772e
-/gnu/store/fvqp04pdqkzi88nqnp0bf6shx8g8pix6-unsyntax-0.0.3-0.144772e
+/gnu/store/h3l1zvrwc8xyqiyvkgy49yhzgvbn6izy-unsyntax-0.0.3-0.144772e
+/gnu/store/nzy8lz670rxsik0v3bma8i2v715awx09-unsyntax-0.0.3-0.144772e
 /gnu/store/cgp6fz3y8gq3zfj84bsil8pvrgkw4pzn-unzip-6.0
 /gnu/store/cxwd5vqzac57ib23da4i5ivhhs3w4mgb-upower-1.90.10
 /gnu/store/j3zzkjlh9vfhmjlh2ny033412l8wqm33-upower-1.90.10
@@ -75579,8 +75578,6 @@
 /gnu/store/hc1979ax5cnrpdkjmnf0q8nj9qfq3qby-waffle-1.8.0
 /gnu/store/nk2cpldsh7y8wk8b2s13a1jx09xm3s1p-wah-plugins-0.1.0
 /gnu/store/nym9a59xr66gafh1qba11qzkx60d2c5v-wah-plugins-0.1.0
-/gnu/store/0nrp7mkxdyl1zsl64ribp3da58rqm8ld-wakelan-1.1
-/gnu/store/yfmwfyzyc0xz411il7q5gnh5wf7p7zwi-wakelan-1.1
 /gnu/store/5jz7rqzcp6r1j4a90nn923sdj3v17hvg-wallust-3.4.0
 /gnu/store/k8iqjj8aa8pc7xxy142f23ihhyg5qhhk-wallust-3.4.0
 /gnu/store/hp71fi3zd7rxzkk0i2qnk2kpaz09xg27-wally-cli-2.0.1-0.b0fafe5
