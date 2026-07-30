@@ -209,8 +209,8 @@
 /gnu/store/x8lv39gkq9k3rsb5r7n5rby3akyfj314-alive-2.0.5
 /gnu/store/f9fdfg4lyvj6xnajriklhf06bnc4n4jr-allegro-5.2.7.0
 /gnu/store/ngvmjlhn1ascyb9sy0s41ng1brpfagdh-allegro-5.2.7.0
-/gnu/store/iagnq95b2lmkfgnywcil5hq0d5dxf5z2-alot-0.12
-/gnu/store/iljzird2202gg2a4vp4yxdv5lw8rwwyr-alot-0.12
+/gnu/store/a16adv32w185a8z1rvdi3p6zfff70dfk-alot-0.12
+/gnu/store/mj27fga48n0c7m7bj459pbd6fjngf4dk-alot-0.12
 /gnu/store/bxnj4g7jc0wry27ajij1jisw8zayrczq-alpine-2.26
 /gnu/store/nf84dc9mnf49lrvpaxh2f4vn46d261dx-alpine-2.26
 /gnu/store/2wrnh57si56lprlals1027iq36j489fv-alps-2.3.3
