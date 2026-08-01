@@ -27821,8 +27821,8 @@
 /gnu/store/1n8xapaz37vhvnh4kamsyfvc2b2rq5d2-librecast-0.11.2
 /gnu/store/9p7ryczh9vrikazvgmcdzmqa1j0np0d8-libredwg-0.13.3
 /gnu/store/lj5qq0wpyv2hp849gjk1f7vm4992n0wr-libredwg-0.13.3
-/gnu/store/cz8a93cbcjh5gjhpvjf2yzx7m5ak0fvq-librelane-3.0.5
-/gnu/store/rm8d0ix4bnmcrkz47i0id49kiqqgmi85-librelane-3.0.5
+/gnu/store/sg19qp8ycvng75nrgypf9ydx5fzkp4km-librelane-3.0.5
+/gnu/store/wby839k0q5kyvlsd89f5aq2inlh8yzy5-librelane-3.0.5
 /gnu/store/9ww9pn60qjbm4adzy0m8ify5v8ydhvba-libreoffice-25.2.5.2
 /gnu/store/mnj26hiqk9zx6rb8hgiakycyxxs0a9ck-libreoffice-25.2.5.2
 /gnu/store/in58lliyckvw18aap7xypc1w6jh8r3w9-librepcb-1.2.0
@@ -32230,10 +32230,10 @@
 /gnu/store/f7xdy37x43015ngn6vb377qfvljiqdwf-openrgb-0.9
 /gnu/store/247aijs55vd3x2jy5lhp51392bld801s-openriichi-0.2.1.1
 /gnu/store/w2i4c29alax6qq32jq2ra0nvkwp82sqh-openriichi-0.2.1.1
-/gnu/store/5impinz6agmwglka7ly8xkn0m09vlsag-openroad-26Q3
-/gnu/store/9jqpiri9mi3vz8476dz5n3bdynrw8jcc-openroad-26Q3
-/gnu/store/30473aqcdgn1abz21qkizryq94m7q2zb-openroad-cli-26Q3
-/gnu/store/31yv78mqji9rjfp8hd3hr791q8938j9m-openroad-cli-26Q3
+/gnu/store/n3kfiqyp668h8rnbw6rh1h4nzxzzap3c-openroad-26Q3
+/gnu/store/qp6z7j1ibmj19jqrda10hlzahkkkb4xc-openroad-26Q3
+/gnu/store/3rxrbmg463j0qjnzadjinh3mxjj11i3k-openroad-cli-26Q3
+/gnu/store/fwv2lh1c9lw1zifsy663i7y5napmdh07-openroad-cli-26Q3
 /gnu/store/14qkw9llczxzminlq7qppidnd2qwzx70-openrsync-0.5.0-0.a257c0f
 /gnu/store/j22m2f8x59gi59wm52yshwbzmy2lhvaw-openrsync-0.5.0-0.a257c0f
 /gnu/store/2y37lafbx82s7fk01jrrmbndc9964rb6-opensbi-for-visionfive2-1.8.1
