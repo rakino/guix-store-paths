@@ -8069,8 +8069,8 @@
 /gnu/store/v1lp7gb8vp6rg9spbdzrgvjm84wmpjaq-emacs-anakondo-0.2.1-0.c485185
 /gnu/store/2f6p8qa7qxal97q2vmlpdpy020j6hylx-emacs-anaphora-1.0.4
 /gnu/store/b8x4ysc36bl51jjn7ikw9b2ivj7sin4i-emacs-anaphora-1.0.4
-/gnu/store/92v31fifn7012by4hbcxgh428zfm3kz0-emacs-anki-editor-0.3.3-0.546774a
-/gnu/store/wkz3pxlvw0aw0y13h9jsjbawpjmj9jh8-emacs-anki-editor-0.3.3-0.546774a
+/gnu/store/7lgdabb13d0gas97is2q7g3qmynpcdqh-emacs-anki-editor-0.3.4-0.4a55c3f
+/gnu/store/whg1sw2lxczsdw8dh8q1v58bphp1m7jj-emacs-anki-editor-0.3.4-0.4a55c3f
 /gnu/store/azm00xyxnlv9xpp8q3bh8ik4m70d4y8p-emacs-annalist-1.0.1
 /gnu/store/l8fk8m8200qxpl61j10yfq610sjrn3pa-emacs-annalist-1.0.1
 /gnu/store/6zsnw4ql5prc1135wxjs9kbjb5g56hby-emacs-ansi-0.4.1-2.2367fba
@@ -12641,6 +12641,10 @@
 /gnu/store/nd69b6lrgkz4bpfd5dn69qwjx8qidrhf-font-ibm-plex-6.4.2-0.89cba80-woff
 /gnu/store/08380xik4w5g8fh1qlnfi404008gll9j-font-inconsolata-3.000
 /gnu/store/hl9gfv0vhjnv1ypyzsnsbm794x78h77a-font-inconsolata-3.000
+/gnu/store/2pxvmjjl8727f1piicqky3c6k1qnsvbs-font-indestructible-bodoni-2.3
+/gnu/store/bna47am0dgly3w35n8sq3zgnk95icmls-font-indestructible-bodoni-2.3
+/gnu/store/bhgh0y8qj6ad9j8fqjba5zx5yzy6xadf-font-indestructible-bodoni-2.3-woff
+/gnu/store/hp7crapyxywq1dk14vgaylh6ir89nrra-font-indestructible-bodoni-2.3-woff
 /gnu/store/49b4qj8nyhzjvfvc72ggr0qlhifzv3k5-font-intel-one-mono-1.4.0
 /gnu/store/cyvds87vcn0w3715g1yxdh9b0f1kvpw2-font-intel-one-mono-1.4.0
 /gnu/store/80n5gkmjvcbf344kf5ilx0ygv94zrzlb-font-intel-one-mono-1.4.0-ttf
@@ -12849,6 +12853,10 @@
 /gnu/store/rsiiqdpznsd58r5xkhbrfazrrgvmsp6v-font-plangothic-2.9.5779-ttf
 /gnu/store/fhr5hxpl1iahxnj08f2jfchf1ykihi6f-font-plangothic-2.9.5779-woff
 /gnu/store/jrk2y2lbcrnisyrazyqf7fdn89qwv7yc-font-plangothic-2.9.5779-woff
+/gnu/store/1i5gp2ph5d1sy4g0wv8alkadx1qznb87-font-playfair-2.203
+/gnu/store/frabrimdp9vgi1ajgk2qbp063iphsmqz-font-playfair-2.203
+/gnu/store/0rlc0mnn4apycl16qsw1qgrkjghdcdiz-font-playfair-2.203-woff
+/gnu/store/myfd7z1c3fagpn0gi7msia431acm48r1-font-playfair-2.203-woff
 /gnu/store/a02argw18grz713z8vflxn9nf0c0yp79-font-playwrite-1.003
 /gnu/store/r4wk8wamigi83iiidf728kj0daqjwnyl-font-playwrite-1.003
 /gnu/store/r6kb7xsc71n47kqh9641xpq07q70v9cf-font-plemoljp-3.0.0
@@ -12869,6 +12877,10 @@
 /gnu/store/zc4nbvj7m6vfyhrrl8lw325kbxlpb259-font-recursive-1.085-otf
 /gnu/store/3cl2gcz8nfc0234r191y2is9v5bp0nb8-font-recursive-1.085-woff
 /gnu/store/j3v5jnq3y7f7ffw9xglpgmj4y6kxcm80-font-recursive-1.085-woff
+/gnu/store/0kqr1znv9xp4ijcv196mi4by7vwz1fqj-font-redacted-1.2-0.c86d607
+/gnu/store/z56acwxcg0fk4i22vkrzm0j7kywylm46-font-redacted-1.2-0.c86d607
+/gnu/store/ala6gsa0wpc6zfknp66yb9s1jahi18ws-font-redacted-1.2-0.c86d607-woff
+/gnu/store/csjq5ri832ldx8ckqxz5jzsrrl8ak8j7-font-redacted-1.2-0.c86d607-woff
 /gnu/store/21s47vi1j6kibcclc6v277bhxf5171cm-font-sarasa-gothic-1.0.31
 /gnu/store/rsha75iplfinwc9b4yayx9i0fisnkjic-font-sarasa-gothic-1.0.31
 /gnu/store/ichdpy0vx9qpz9i3ywr0wibngr4yrmsr-font-sazanami-20040629
