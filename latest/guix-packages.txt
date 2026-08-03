@@ -14099,8 +14099,6 @@
 /gnu/store/b5394kdbb123xjpdzj7phxqg67k86ka6-ghc-config-value-0.8.3
 /gnu/store/4rcgvwrdxfnirlikf77zkzj5i9xaqhi6-ghc-configurator-0.3.0.0
 /gnu/store/qn93q1jjiwqzd05mc7lbx5k3mxrdq08l-ghc-configurator-0.3.0.0
-/gnu/store/5lm9zgrm0c0xi32zg0srkfyr0259mgym-ghc-connection-0.3.1
-/gnu/store/ylp4z65i7znj99cszdbsmyzb5q5fl6fb-ghc-connection-0.3.1
 /gnu/store/8mqvia04r9gwaxnm7ha51j6y1hnfkxbi-ghc-constraints-0.14.2
 /gnu/store/wvgwpi19yk6q7lqp8yjavnisgzk0hmda-ghc-constraints-0.14.2
 /gnu/store/1526fdcfl2h84ncrw3fdmvc1vs7l5s8p-ghc-constraints-extras-0.4.0.2
@@ -14715,10 +14713,10 @@
 /gnu/store/lbbhsvhnzwmgigi5c1pxx5885d9wlq54-ghc-markdown-unlit-0.6.0
 /gnu/store/cgbkcgirpy9iabmw5qhan7lma8mcxkdg-ghc-math-functions-0.3.4.4
 /gnu/store/mp7s1yigjjz1ahmz1hic5gwxac7d2mxw-ghc-math-functions-0.3.4.4
-/gnu/store/4zh6y1r934rgz29939zaxs0p5w71ikpj-ghc-mattermost-api-90000.0.0
-/gnu/store/srg44bvi9ly30ilj5y3mdd7cghl4d3s9-ghc-mattermost-api-90000.0.0
-/gnu/store/0h7lm601hidhlg9xhm2i0qbg7aj9z73h-ghc-mattermost-api-qc-90000.0.0
-/gnu/store/83hw8j9rjjccgh7wzzmw53w4wsrk22jg-ghc-mattermost-api-qc-90000.0.0
+/gnu/store/90ivqp5wixmx1ly30wklsgb3c78if6dg-ghc-mattermost-api-90000.1.1
+/gnu/store/jm7gaf5r9d23wfnynkc7n5p9p32rab9z-ghc-mattermost-api-90000.1.1
+/gnu/store/4zhnjj3y1hg4q1ja2kzgqjlm92k06pr5-ghc-mattermost-api-qc-90000.1.1
+/gnu/store/cb1rhln6diqq5g2jrp3mzw9h24mayhyp-ghc-mattermost-api-qc-90000.1.1
 /gnu/store/4pbwff75g77cj7zaazi3rpv1v78qzf1f-ghc-megaparsec-9.7.0
 /gnu/store/a1wbcv7b8dj9q2bh4z7n9pszhflsy3c3-ghc-megaparsec-9.7.0
 /gnu/store/45viz0qnig6zz1rxbd0vmqxx2nyjxw33-ghc-memory-0.18.0
@@ -29408,8 +29406,8 @@
 /gnu/store/a6v84rk57kkfkp62m2xi0zq6vqadbg9c-matrix-commander-8.0.5
 /gnu/store/40x3g4a9ax1z0z886yzczcfnc3qwlwxw-matterbridge-1.26.0
 /gnu/store/p286s5p0w8bzmhcn7xkmjn4bp6y6k963-matterbridge-1.26.0
-/gnu/store/8i5chmndsf8527gj4kkf5y5wjbwgxabj-matterhorn-90000.0.0
-/gnu/store/q5s0qqgclfrqh30lsns3jsgh12m8lshd-matterhorn-90000.0.0
+/gnu/store/l2jdxrr7g0asbmhcm103x1s0x32j0bdc-matterhorn-90000.1.2
+/gnu/store/qn6c88c9k0q2sf97zl2pfnjn4n18qf3y-matterhorn-90000.1.2
 /gnu/store/3kqnzll6sasafgy5mjq7avgap8bp3r7y-matugen-4.0.0
 /gnu/store/g93r3m68fhh82l6vaxz77sfb9809xmm1-matugen-4.0.0
 /gnu/store/c1qzpydwprsmvv8zjysza1q70dhj4gah-maturin-1.11.5
@@ -74880,8 +74878,8 @@
 /gnu/store/r1rgbb5238rpy8avj63j227zx56d65jw-twolame-0.4.0
 /gnu/store/953arwzs5a8svxa3xrp2f1nkdknacadz-twtxt-1.3.1
 /gnu/store/dza2d0hwddr5ams4g3d2r1pmx9ql8lj9-twtxt-1.3.1
-/gnu/store/rwkv60qn95gx4ijsfxb1dbk190rvir93-txr-302
-/gnu/store/y5l14vm2yhw18v3i0hg13ss9x2g2p9mq-txr-302
+/gnu/store/k0j6hvs7gvcjc4hvj5rl63gkizvlbyla-txr-302
+/gnu/store/vgn6n8lpg7hx1rxpq0hk1kf2lw1zlr43-txr-302
 /gnu/store/c4kas4fs043bfwrg28zwdd4gjh9yyx4d-txt2man-1.6.0
 /gnu/store/gsbv4xvfprlr2im4wn3qphh168kbk1bp-txt2man-1.6.0
 /gnu/store/f1ird9ckb7z7924cir76c1ldxjgdaq0x-txt2tags-3.9

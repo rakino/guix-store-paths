@@ -96,7 +96,7 @@
 /gnu/store/wmxg4hd3ck4wf2bxyfg40hr3la9wvlgz-electron-node-headers-40.8.4
 /gnu/store/7bqdvyb324n3rc43d7806yw4b3y8442p-electron-node-headers-41.0.4
 /gnu/store/wv38dlnz1dp8x9x6s38vs9cc9bk3zb35-electron-node-headers-41.0.4
-/gnu/store/1cp3nxbqpzfb00mai7yqrkh8fhsx3brg-element-desktop-1.12.22
+/gnu/store/l52gwaihjp2b91jqn0wzd59a6jwml1fn-element-desktop-1.12.24
 /gnu/store/246igvv2p63wnhb3qvvw0rg354377cb0-emacs-eli-acl10.1express_Feb2022update2022-02-11-1.8f9a8b9
 /gnu/store/la34r38ar37cpq8lbcb82k179a5ljb2z-emacs-eli-acl10.1express_Feb2022update2022-02-11-1.8f9a8b9
 /gnu/store/78jh30pgyfrrl08kdkpmb9y2ch3wynnv-emacs-org-roam-ui-0-0.c75fc75
@@ -463,7 +463,7 @@
 /gnu/store/3ijr93xcmj55nz1hvfwi0ck393sfnb47-sdrplay-3.07.1
 /gnu/store/kb7zffz7n0cjdd73fqx73ydsr3c33zrm-signal-cli-0.14.5
 /gnu/store/wf7yfd6pwlrp750kxm41wys8y68msyf0-signal-cli-0.14.5
-/gnu/store/75las7v6hwk3wbr16xffpvw3szbwsrfm-signal-desktop-8.20.0
+/gnu/store/4dd8r9dd95q0rxmmfmbb0ssrqg4nspr9-signal-desktop-8.21.0
 /gnu/store/6j1mg6xk8km0fwwmqqgz8bplxcq4shj9-soapysdrplay3-0.4.1-1.9e5c80c
 /gnu/store/jysfqba7875r0prvyhygkizjbhgnmz85-sof-firmware-2025.12.2
 /gnu/store/qdvknn77c8sbifdw5dym63xjzk0w1bvy-sof-firmware-2025.12.2
