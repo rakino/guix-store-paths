@@ -13211,8 +13211,6 @@
 /gnu/store/yiadns7rpv5j3pjmbbh6gb2ir9a9z898-fuse-exfat-1.4.0
 /gnu/store/w9iiaa3ribdnhpl9f11va9ljyds5byay-fuse-overlayfs-1.13
 /gnu/store/x3wlqpb9q76l9b2i16rg0c3l77q25fz2-fuse-overlayfs-1.13
-/gnu/store/4jf2x5z60zq946y0miykw5dpp2gsaxa8-fuseiso-20070708
-/gnu/store/jwb8sy3cj9xa2hv1537zxb375z2gaba1-fuseiso-20070708
 /gnu/store/4bfjalvias5agj031wbciixwvjpglp2b-fusesoc-2.4.6
 /gnu/store/iamd0inafmi5513vkczz0kpq4nhxp2wl-fusesoc-2.4.6
 /gnu/store/dl8zwmmcnw5vkzbcycb52jpfiz8wgm7b-fusion-1.2.9
@@ -54043,8 +54041,6 @@
 /gnu/store/lpsca5wzj2pkpak2dzs4h3i3634vl2di-sox-14.4.2
 /gnu/store/qvqxq3bd2mjvb6066k2wi63na4r1lc70-soxr-0.1.3
 /gnu/store/sqkf7npdm8bk1l2q5294cx6walibvllc-soxr-0.1.3
-/gnu/store/6yhyvd0ikzfjhf7im7srbr9hlnhsmvx6-spacefm-1.0.6
-/gnu/store/jjzqs6mcvmk1y3rkim7nrcv4hgxdk9qz-spacefm-1.0.6
 /gnu/store/r8q5fshddk6h4msjvkwpx00ci4ap48cw-spamassassin-4.0.1
 /gnu/store/rvn9lfwpnaz41zkymcy9mingg5kgn823-spamassassin-4.0.1
 /gnu/store/kf31lpgyza4hqzrgbpnrwvlvjcs32jxv-span-0.1.0-0.836dc6a
