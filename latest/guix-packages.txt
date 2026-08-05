@@ -12200,8 +12200,6 @@
 /gnu/store/wrc7jbvnl2b9a6ksrfb2ni0jd8n3z46j-filteraudio-0.0.0-1.2fc6695
 /gnu/store/h7s2ypgdp482k2qsrpdfcwh42j823mxs-filters-2.55
 /gnu/store/jbb69csb7qrj84dbx24zvdwizy37pmr5-filters-2.55
-/gnu/store/6lkwz503jl7jlc1xq1jchb39dq25nkvm-filtlong-0.2.0-1.d1bb46d
-/gnu/store/cgvswj79z713cn9pmar0q8w3wd377lii-filtlong-0.2.0-1.d1bb46d
 /gnu/store/czpvqhbb4g10znvykh38z439r3nf57yh-findimagedupes-2.20.1
 /gnu/store/y65wdsap4f19mmzw8126svpxs9b6qjiq-findimagedupes-2.20.1
 /gnu/store/f2aawnjzrd14bi36f3qfvc4sbz4i90jb-findnewest-0.3
@@ -44309,8 +44307,6 @@
 /gnu/store/72id22mkw5l8k10gxvrw3xkc55wwk4x9-r-ciara-0.1.0
 /gnu/store/f9w93rpf9qipshnfy36v1jwl92ff0mv5-r-cicero-1.30.0
 /gnu/store/v7hafgzjq69202qlhp5qbs1f8plilqmk-r-cicero-1.30.0
-/gnu/store/9d3iv8madpa9v1p3ymqlrmlwnvjvfd2x-r-cicero-monocle3-1.3.9-1.495ef0d
-/gnu/store/jy77cnrl8z29c81qnpwjylnfwppn9vs5-r-cicero-monocle3-1.3.9-1.495ef0d
 /gnu/store/kc1f8r45cv79b6kw3b6f8l9mhpafjbq1-r-cigarillo-1.2.0
 /gnu/store/vnclca18qnkg4v2w9yxx95pkk1jhdvdg-r-cigarillo-1.2.0
 /gnu/store/mwl4knvs35nhml613y26f8wyvqj61jvd-r-circlize-0.4.18
@@ -45677,8 +45673,6 @@
 /gnu/store/mnh21v9vdm49fi14hwprl02qcxrg39hm-r-grohmm-1.46.0
 /gnu/store/r6fcfm5sipck45vhp3r5cwaaq5xjc2kq-r-grouped-0.6-0
 /gnu/store/w5zd88rlfhlj7jrxahpv1r3l58wx8mqq-r-grouped-0.6-0
-/gnu/store/83n7gv9jq8ds3bmh5mzn3c9bmnsx91l4-r-grr-0.9.5
-/gnu/store/hqk6gsns8689b03xq3qs78a27v520wv5-r-grr-0.9.5
 /gnu/store/16bypsywy0690l8cd8qb5hkp8f7irmk3-r-gsa-1.03.3
 /gnu/store/bdv60v8439dvrsp37fv1v5pgbdzy4zz0-r-gsa-1.03.3
 /gnu/store/2jrjwz7x05n2pbii2650ppn9n7lq9y56-r-gsalib-2.2.1
@@ -46365,8 +46359,6 @@
 /gnu/store/v7f75x5x3fygclx1vr8wm9pbmhckf4xm-r-mathjaxr-2.0-0
 /gnu/store/02cxdzysm8g0nmn42p0r6v6g4zv3z86z-r-matrix-1.7-5
 /gnu/store/n0d8z9cz7bzb1r2s6dj1hv05pmqwvg27-r-matrix-1.7-5
-/gnu/store/0mca59rfsarvw6jhpg0cw6svwha7d441-r-matrix-utils-0.9.8
-/gnu/store/dbiz9k5d5xhjggdjymi3lpp8vkh86prh-r-matrix-utils-0.9.8
 /gnu/store/7wb5dz4fmmrkr9p5x5p70irsfij5wf5l-r-matrixcalc-1.0-6
 /gnu/store/8533iz1l2ffh6972jhpacf463snx8cka-r-matrixcalc-1.0-6
 /gnu/store/9h3fjd900dl3qa910v91wygm2gyby6d7-r-matrixextra-0.1.15
@@ -46623,8 +46615,6 @@
 /gnu/store/zrngjbqpq7kc1cgadlq1y4ks9mxccmx8-r-mondate-1.0
 /gnu/store/3b0j8zxkis2m5p42q6rhcicvnykn38lf-r-monocle-2.40.0
 /gnu/store/k3q4hhzwfkhgl3nsl0iw7362y088v62f-r-monocle-2.40.0
-/gnu/store/lbnk6nl5zsrwnbqqdzmrdkzli3i7sqi6-r-monocle3-1.3.7-1.98402ed
-/gnu/store/x32sb1nbykqq39va5mw5ksl0lylbk9kk-r-monocle3-1.3.7-1.98402ed
 /gnu/store/9w88c01ic35mvzp9xqh8fqnp6kvn4vvc-r-moonbook-0.3.1
 /gnu/store/i9h0mim2rnz7q7nl7513a329n2nxkd30-r-moonbook-0.3.1
 /gnu/store/5zwbpxv955ak2fha844xnfq9ndyl009m-r-morpho-2.13
@@ -46956,8 +46946,6 @@
 /gnu/store/nih916kh8vs29fafq1hjcp1b9c6mybfb-r-pan-1.9
 /gnu/store/6a8vr8hk0h3chl1sa3va48jlj7z59lrm-r-pander-0.6.6
 /gnu/store/y4ypj2n5mn9raabnn8xj9hdi7d75jdmp-r-pander-0.6.6
-/gnu/store/w3lpcd722g8lqlwrwa528lafkfdyk7pr-r-pando-1.1.1
-/gnu/store/wvxjsspm4cqcnvy4978rsab845755bj7-r-pando-1.1.1
 /gnu/store/b0pfzv4dp44rzjkla22vh7z316z8inda-r-papaja-0.1.5
 /gnu/store/jcfly47wrsdacjj45nmx9sxr9fb5vghz-r-papaja-0.1.5
 /gnu/store/a41vn9lhgcirr79mi8z25g57wjxc41qr-r-paradox-1.0.1
@@ -75880,10 +75868,6 @@
 /gnu/store/5n440rimy7gcb57wfpjs9q0qzsymdkpy-wlrctl-0.2.2
 /gnu/store/f1fwz623n3ac3flffv35jpm0nnld2av0-wlroots-0.15-0.15.1
 /gnu/store/mjgbyddx3xh7nj0q0z0d4nglan3zd8pz-wlroots-0.15-0.15.1
-/gnu/store/1pakwdca1mws64bzn3z05az877a6m03h-wlroots-0.17.4
-/gnu/store/1vrplhl2lcyjvfzik2hkjb78frw33k5y-wlroots-0.17.4
-/gnu/store/c9g4mi0bvyysgf7a0y7jrd83kdpq8c1f-wlroots-0.18.2
-/gnu/store/nw9g6khip27v8x4sz9ibb4ykym8c2g3a-wlroots-0.18.2
 /gnu/store/03ql5jp0fbl8q56j5xkky3rws3qqsj7s-wlroots-0.19.3
 /gnu/store/4p4ml8n9krf9l6ygg105mph58g5a4p0c-wlroots-0.19.3
 /gnu/store/bf8w8jnfzapwzhaa50xf6kzck1x230v1-wlroots-0.20.2
