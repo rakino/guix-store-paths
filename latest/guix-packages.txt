@@ -1618,8 +1618,8 @@
 /gnu/store/apg34lq7g182vvajsag78g614g8x23ap-calibre-8.16.2
 /gnu/store/f5q52id5w2agmvhbl44ri6i9q11dzmm3-calindori-25.12.3
 /gnu/store/f9ff9lv57a0a7acz96vsl5i76z9x3ii1-calindori-25.12.3
-/gnu/store/6j65nidigxz9pylykyqy3c12v3xsx42h-calligra-4.0.1
-/gnu/store/ck4a0lhksqapkd872mzcwk911dkskrbq-calligra-4.0.1
+/gnu/store/bbf8y6y6by9kdzb8rhcn60cssvyz5dir-calligra-4.0.1
+/gnu/store/p3cg0ch4d2sxp4lk1blwhlqmk2rgqxwh-calligra-4.0.1
 /gnu/store/7yba6gxib80cfxlhfr35pgr7kcc9ax30-calls-49.1.1
 /gnu/store/g1s94v4xdgs10xcq2adgdk9f9gh8g80g-calls-49.1.1
 /gnu/store/hj3wivsfhvyjafqkiqfl4g5pp2m4jjak-cambalache-0.12.1
@@ -23710,8 +23710,8 @@
 /gnu/store/zr723hjcmr6nlfbrrqbnrb3ri1j6yvfz-iwgtk-0.9
 /gnu/store/qv30z2nxjncjvzx18dp72n03f02zllkh-iwmenu-0.4.0
 /gnu/store/x5mhqfkpsya6hp2pkvlql2cmx7s79wil-iwmenu-0.4.0
-/gnu/store/815zxmkmzl52iwi4rpjds711p4kl4sqy-ixion-0.19.0
-/gnu/store/zk893s6jilaikdym2hb5v2mb4mc09hbc-ixion-0.19.0
+/gnu/store/32lg8s73jmpfdhlps52g568kdxxdsl7r-ixion-0.20.0
+/gnu/store/npcm1jyych8sslb2bqr1d7fnafwpi7rm-ixion-0.20.0
 /gnu/store/mhvczc44ryzihnd29b95x95pl7xql20x-j4-dmenu-desktop-3.2
 /gnu/store/xj8a83kd07w5p7zfj7nyvp6l8k76ssz9-j4-dmenu-desktop-3.2
 /gnu/store/i90a41j1agxlli3nlqabarsq0ifn1yqd-jack-0.125.0
@@ -26496,8 +26496,8 @@
 /gnu/store/hiys52n0cxr8kjp42lljpjapxnb5n66s-labelme-5.2.1
 /gnu/store/jb2nl09zdd79df1wdp2z2rvah87wl98a-lablgtk-3.1.3
 /gnu/store/zg5kpqap26dr1943bybnhkg5xk4mq8h9-lablgtk-3.1.3
-/gnu/store/dsdyq9znli6l6yzwl0a385nphzpn2jfv-labplot-2.12.1
-/gnu/store/q9l2wvwm10lhz4qsah011zcyaw2srv2f-labplot-2.12.1
+/gnu/store/i4x833b9q14xdja0hssqh5jzwqrgflvc-labplot-2.12.1
+/gnu/store/v13c7pc38qgwwqndsjn3p74hp6ar108q-labplot-2.12.1
 /gnu/store/aliqq15vq9iyyjs182m0cbk59z12rcaj-labwc-0.20.1
 /gnu/store/x75agpcb1p5m2g0qbw4qq07fdqr3bsdi-labwc-0.20.1
 /gnu/store/cpmkkp15dasvsjfjyyqdfh8pfpmm23cg-laby-0.7.0
@@ -27004,6 +27004,8 @@
 /gnu/store/ar9dr07j8nzlsjs8g4krxqpqkiyvglyv-libelf-0.8.13
 /gnu/store/avxaakb3mi81bjdicb2p4kmm78dcqhnj-libelf-0.8.13
 /gnu/store/fw3mw0c8m4yf8klf1isxph8xazaf9fsk-libelf-0.8.13
+/gnu/store/4d1yiivii85699pa3dzg3msyrxn0wg8y-libeot-0.01
+/gnu/store/4ghy7x9phnr5vqm24kpa25nikw2jjcxj-libeot-0.01
 /gnu/store/11bbj2vkfr7pr81vd2cgx4k53kcglh5d-libepoxy-1.5.10
 /gnu/store/13pf57w0q6292prll2pdfh9wb5gymas2-libepoxy-1.5.10
 /gnu/store/1ssam67lxynwwgddwj04k8x4h17qr9hc-libepubgen-0.1.1
@@ -27014,8 +27016,8 @@
 /gnu/store/krz9gi2r7irjqnfd0393hgbfd2v9yf7j-libestr-0.1.11
 /gnu/store/h3snmz34amrigrk5nyfqmn14vyqc93rk-libetc1-7.1.2_r36
 /gnu/store/w3cbkvkqlzbyqqmwk8xf170zli8hyb7a-libetc1-7.1.2_r36
-/gnu/store/68czrkahirdrii5z99k4i3zlsc7vybin-libetonyek-0.1.10
-/gnu/store/6syyw7vnb2khypqj1r6m5marckmnj8zs-libetonyek-0.1.10
+/gnu/store/ig33jykikj9qdrbd2ih4r8iq6204cxl0-libetonyek-0.1.13
+/gnu/store/l8wqlq04p5dddxj2216jfmb9hp17hkaj-libetonyek-0.1.13
 /gnu/store/dfwnni54kc0prwb6gp1cb2j3yhzcy7vx-libetpan-1.9.4
 /gnu/store/rrzq84q2vrw9yiygm1aafw6iihzyq2pc-libetpan-1.9.4
 /gnu/store/80937pd6fr67hyxwmz3q6r43jgqkfxb8-libev-4.33
@@ -27829,8 +27831,8 @@
 /gnu/store/lj5qq0wpyv2hp849gjk1f7vm4992n0wr-libredwg-0.13.3
 /gnu/store/4c28y6d2jm2fa2pwm4402q1hz0wb9bzd-librelane-3.0.6
 /gnu/store/hzd0c89y1p5pvbbzgj1lzrf1g9v1bj30-librelane-3.0.6
-/gnu/store/9ww9pn60qjbm4adzy0m8ify5v8ydhvba-libreoffice-25.2.5.2
-/gnu/store/mnj26hiqk9zx6rb8hgiakycyxxs0a9ck-libreoffice-25.2.5.2
+/gnu/store/9qib561yhyav4kca5aqgdqnwr11lxd7p-libreoffice-25.8.7.3
+/gnu/store/h0nmyxnfgmz5qq99m4wj07hpbsqbmld5-libreoffice-25.8.7.3
 /gnu/store/in58lliyckvw18aap7xypc1w6jh8r3w9-librepcb-1.2.0
 /gnu/store/s6qrhaddlygwc12qiz9m089i91ir8wgz-librepcb-1.2.0
 /gnu/store/8wmsfwcdydvr2avnfhkqkq1x65znch10-librespeed-cli-1.0.13
@@ -29678,8 +29680,8 @@
 /gnu/store/lzjavljhdzdpin9fa5w7ljxi4wzxizpl-mdadm-static-4.2
 /gnu/store/2mkwf4aiysyyp382s535yhlmybwx4qzb-mdbtools-0.7.1
 /gnu/store/npiq7ch0ql8hx7h585fqx2kybnly46bs-mdbtools-0.7.1
-/gnu/store/psbcb9bhkvlcy13w0yr6vdp06alg9yzh-mdds-2.1.1
-/gnu/store/xa3w0v6mlpvjm6bkk43jiqrnd3is6nnc-mdds-2.1.1
+/gnu/store/wqynvlykxr61rdbmi5r19ymnfalc1bq4-mdds-3.2.1
+/gnu/store/xkp0m5ql6i0bk6s65027zcpm44j8ryj6-mdds-3.2.1
 /gnu/store/d0jra49lfrr26glf94vnzlyyjzja3clc-mdk-1.3.0
 /gnu/store/z9pg8xrzkm5znm18adzvf6fqbq946vgr-mdk-1.3.0
 /gnu/store/94wd6m2nrz6l1czb5yyfhgbhdadws60q-mdopen-0.5.0-0.3858a4d
@@ -32376,8 +32378,8 @@
 /gnu/store/yap11fvng939lav3bimwg548p8qixf1p-orcania-2.3.2
 /gnu/store/7asw935yv10mlnn9j2ib58xqvgdhlwgw-orchis-theme-2024-11-03
 /gnu/store/af0pwxaaj13i3i999kyxgisz1dx8166z-orchis-theme-2024-11-03
-/gnu/store/2bw19psdx0qq8dvkrk6srjqpjm9im36y-orcus-0.19.2
-/gnu/store/h1w9xz6wrl1lh9cgxxs7wbz14wavvmkr-orcus-0.19.2
+/gnu/store/cnv1ry3msyjjhwhqgf1hrcr68mg3x7f7-orcus-0.20.2
+/gnu/store/wfbjf3icivkwz5xsbvb5pj71xqxmk5lf-orcus-0.20.2
 /gnu/store/36lg0z9f0a0rvnx20d8h0jmhlxk3dv14-orfm-0.7.1
 /gnu/store/hkim6kld25lby7yxbvcbbrg76ac9174z-orfm-0.7.1
 /gnu/store/afznwj8sbpcy4rdadg4khynw4brk8p40-orfondl-1.0.1
@@ -73618,8 +73620,8 @@
 /gnu/store/92s5a09gkv91nsgrx9q9kikvlx55b0vs-trayer-srg-1.1.8
 /gnu/store/1d4swndn7b1l5745q4yg7js8dd8qqz1z-tre-0.9.0
 /gnu/store/83smqncf8sm15d0qaxy6p8aabcsz1yzj-tre-0.9.0
-/gnu/store/24cjkark9c093s26ly1b91yf626abz6v-trealla-3.1.24
-/gnu/store/f08ndi8v9qpkxp70xgrigz1w9zn3ycg3-trealla-3.1.24
+/gnu/store/hph3gicc9x5pyxpdvfngs1g23wi2q0bw-trealla-3.1.25
+/gnu/store/qc5xz42n22khx7nci6gj333mlj1lv8ki-trealla-3.1.25
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/vwf9bpj3kyzy5pfiiqy08qqjndxdsi07-tree-sitter-0.25.3
@@ -75137,8 +75139,8 @@
 /gnu/store/slvz2n8v1zhaa97pq9dy7jd3fm2xj75s-unixodbc-2.3.14
 /gnu/store/hs104crfn8plx4pq38a6ss26wzl1x2ji-unknown-horizons-2019.1
 /gnu/store/m3jbdxhlgijb4rql1v7kr5z95m052a90-unknown-horizons-2019.1
-/gnu/store/dqzxrr3rxgikh5w6269ma0cvwnd3cb5c-unoconv-0.9.0
-/gnu/store/nr1y2agiqqaqzwzc935sylqkd2sm74j4-unoconv-0.9.0
+/gnu/store/44xflsnpbkzg2xdyhkwgz7bqvavxgyc4-unoconv-0.9.0
+/gnu/store/q8ys1nvxf2aymi0b8xy0ni4b5pjpbanh-unoconv-0.9.0
 /gnu/store/bhl97kn4inq3kfzlc6jad6r0744lcl44-unordered-dense-4.8.1
 /gnu/store/g9rpajb7i83qqv26pw2vscr842z6jcrh-unordered-dense-4.8.1
 /gnu/store/js5k619mvcfrprw3vcvg00mlqzw5x55c-unpaper-7.0.0
