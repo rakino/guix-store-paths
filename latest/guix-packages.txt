@@ -11535,6 +11535,8 @@
 /gnu/store/z3g5pn8rivavg51pi065qnv1v89nc0ji-embree-3.13.5
 /gnu/store/aspg1qnk4gf4xc1vm6s4jk3nx3449bk2-embree-4.4.1
 /gnu/store/p5s28i86frjbcprhxyvvskg6czlxwjki-embree-4.4.1
+/gnu/store/cxw5n3kyzy7ffnv3bjvhvq5b50m7zkdd-emptty-0.16.1
+/gnu/store/nqrmi88z7a05mzvrl581fcg641h0k8n3-emptty-0.16.1
 /gnu/store/smpqlsvwg6dh0qb6ds189mk4k2xzb2gq-emu8051-0.1-1.5dc6812
 /gnu/store/vjfdayg758xd40b8lqi7c6pwg4rs1ixh-emu8051-0.1-1.5dc6812
 /gnu/store/bhh8mlx8f6bh0gddciq8ggv4xxi41psc-emulation-station-2.0.1-1.9cc42ad
@@ -29795,8 +29797,8 @@
 /gnu/store/8b5nbkhx8pf156pnp1zlh4j20chpbwg6-meshoptimizer-0.25
 /gnu/store/a31kchdkbrfbmvccimpz908ziv9w8br0-meshoptimizer-0.25
 /gnu/store/svxic5mcg45hai3q4ff5d2mipzipkgmv-meson-1.9.0
-/gnu/store/2cw9c37akr84shqz3zlckqpn78ygy7z7-meta-package-manager-7.0.1
-/gnu/store/cz40by5ldfv8fmjxjbj73r6q50zf8cf3-meta-package-manager-7.0.1
+/gnu/store/lmkvprfnhw3pyxbwa0951z4lqdda9npy-meta-package-manager-7.5.0
+/gnu/store/r7sx7481sj0v3vddycrx2z2vhvzmg4x2-meta-package-manager-7.5.0
 /gnu/store/hcyxp9fjhd75wg4m5n8vdcmp92hrazm9-metabat-2.15
 /gnu/store/b1pm8fv5gjsqw01axwav2f7ha108scar-metacity-3.46.1
 /gnu/store/flzfgb3yqk32jhnn1dhg3mr5vmzixm5m-metacity-3.46.1
@@ -36351,8 +36353,8 @@
 /gnu/store/qaq1738ssrsadvgr2ksvfbzdrlvy46w0-python-click-default-group-1.2.4
 /gnu/store/idlq7s9yaayxaynhvsk7pxl5b47wk4gb-python-click-didyoumean-0.3.1
 /gnu/store/jvijclli0fsdhl2fyjwwpmxzip33nwjb-python-click-didyoumean-0.3.1
-/gnu/store/b0byy6hmc1iylml746ljbjy4yf2jhzy9-python-click-extra-8.1.4
-/gnu/store/fbq2i8d5lz1jql8kxr7n6gjymqqhmfsr-python-click-extra-8.1.4
+/gnu/store/97w11babym5s68i3sgjqc3cflqcihwrm-python-click-extra-8.8.1
+/gnu/store/lycfc9as2xq9gmpq7d4irw93c4zsdzzm-python-click-extra-8.8.1
 /gnu/store/70h1sjica4vlijg4jiq1ayvsq9559njc-python-click-log-0.3.2
 /gnu/store/ij1qglr4llj1ybww6xdyrvbhj0xwmz0k-python-click-log-0.3.2
 /gnu/store/0wghi1y9rp0gnzpzmz4l9cdngvn5i0d5-python-click-option-group-0.5.9
@@ -37230,8 +37232,8 @@
 /gnu/store/zx6zwlhl4yimrabbmi52h7jwbh67j07w-python-extension-helpers-1.4.0
 /gnu/store/2hydn0il8bh8klfp6w1vcvcl4x0xzhwz-python-extinction-0.4.8
 /gnu/store/csbdap3cwqmqibb52izq1cib0x2abc1x-python-extinction-0.4.8
-/gnu/store/dxla5djvgdrzfkq5y9d1b7hx9waxi8x9-python-extra-platforms-13.0.1
-/gnu/store/hzx91vjkqb1rkw9vbpmjyxzv8lq7knlj-python-extra-platforms-13.0.1
+/gnu/store/0g0xjiszs0174zzaxy9ycki0dhchwh1q-python-extra-platforms-13.6.0
+/gnu/store/abw9c27cskhp8wi4v84p04srw4arfbvx-python-extra-platforms-13.6.0
 /gnu/store/6ldjvcnb9fm99ihlh142via46v7nm16b-python-extract-dtb-1.2.3
 /gnu/store/sl3mc5y1kzasrdbhnlrcc3w7cz182qlz-python-extract-dtb-1.2.3
 /gnu/store/cg2fy0xlyahpgsfirxp7978ihbmp4hyi-python-extruct-0.18.0
