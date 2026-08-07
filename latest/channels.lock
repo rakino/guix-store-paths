@@ -2,7 +2,7 @@
        (name 'nonguix)
        (url "https://gitlab.com/nonguix/nonguix")
        (branch "master")
-       (commit "7b7b2c47f9c205ad89ddf54293e7756e797f8980")
+       (commit "d1a93f93b09ce206c7cde84b6fc415f752adbac0")
        (introduction
         (make-channel-introduction
          "897c1a470da759236cc11798f4e0a5f7d4d59fbc"
@@ -12,7 +12,7 @@
        (name 'guix)
        (url "https://git.guix.gnu.org/guix.git")
        (branch "master")
-       (commit "726095a4c8b7f12b8fa04eb5f4e1d538b853014e")
+       (commit "ede5806ac90db742296921e97c95d9715a1e7e95")
        (introduction
         (make-channel-introduction
          "9edb3f66fd807b096b48283debdcddccfea34bad"

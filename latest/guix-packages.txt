@@ -22724,8 +22724,8 @@
 /gnu/store/kwwsczjnhim8f051i5jvmz4gcykfa21w-homebank-5.10.2
 /gnu/store/8ar5165ls3gjhn427hxar449vppz8fd1-homer-4.11.1
 /gnu/store/lcip576gpmhlk957qgrwx503jlzycf54-homer-4.11.1
-/gnu/store/plq904qjv6smjxyaiy0mr4nvxfyn12rx-hoogle-5.0.18.4
-/gnu/store/yj667vgmpfp6rn7y5srmiignfjhb2chd-hoogle-5.0.18.4
+/gnu/store/56lg5bqk2dn6isrdbrcs0klc3xvc1a19-hoogle-5.0.18.4
+/gnu/store/6vrsncgim630rabkzhwkxhkm2xpca4k0-hoogle-5.0.18.4
 /gnu/store/a38gk5jhlq7ahqi47p1q5ld2cg2jkhkk-hop-3.2.0-pre1
 /gnu/store/y5akxfdapw5b4jrmv542l4zja1kvic1s-hop-3.2.0-pre1
 /gnu/store/445f3bm3i1f3daqv1zsz7ns1r4lzd60g-horizon-eda-2.7.2
