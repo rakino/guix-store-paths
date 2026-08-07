@@ -1316,8 +1316,6 @@
 /gnu/store/g8xcdzi0gffwljlipw8qcysy63bwj7p0-bookmarkfs-0.1.4
 /gnu/store/l50by8645vlnlg74fh6rhb1mwindrf38-bool-0.2.2
 /gnu/store/xh6bk2m9g2vklbhz5gm03q1b8z47jqkw-bool-0.2.2
-/gnu/store/fcdamzmzwqzg5m7m82sk7jm8jz9s8zxh-boolector-3.2.2
-/gnu/store/hrpwdr3dlbjidpa7mgrlfv38jhi8iyd9-boolector-3.2.2
 /gnu/store/9an6mn8zvjf78vxc2f50zgmlg17vcgi4-boost-1.59.0
 /gnu/store/c4qhg0djv5pzgvrkj23gd99irlw7pjfd-boost-1.59.0
 /gnu/store/9asiahm9xxfh69xqwp8d57km4bl4asiy-boost-1.83.0
@@ -1443,8 +1441,6 @@
 /gnu/store/618pad5cjknvzrag7cawpihmwj821ki1-btar-1.1.1
 /gnu/store/jf2r8rrjc241kh99hqxbgpkpsyh6ljr4-btop-1.4.7
 /gnu/store/yx24382m1ijbx52j84xf3iimvdl2qhah-btop-1.4.7
-/gnu/store/05jzlj8sn3s535ppk3ir3i0vplpxx7h0-btor2tools-1.0.0-pre-2.fb69ee3
-/gnu/store/6yygxss6wmzb1qviimdv2ngrm712ndwn-btor2tools-1.0.0-pre-2.fb69ee3
 /gnu/store/9y3397dxhdamg6rfg6qrzxiv0zsdngnw-btrbk-0.32.6
 /gnu/store/rjw7313kl7x4jzdsdf4c1h5rqamhrpzj-btrbk-0.32.6
 /gnu/store/7zsd077dx04swlra6f8rz3ffwc8g7kmi-btrfs-progs-7.0
