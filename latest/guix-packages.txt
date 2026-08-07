@@ -75120,10 +75120,10 @@
 /gnu/store/bylhx1k5jlcrkhig29cma6vvykl9n713-undbx-0.21
 /gnu/store/489a6ksmcvpgxlix46wh7685y8jvjjfy-undervolt-0.4.0
 /gnu/store/aif34a7n87msqv0p9z4caiixk00wn9nq-undervolt-0.4.0
-/gnu/store/39nwmy7za0xqyv5wwczxrkjvfbv70scq-ungoogled-chromium-150.0.7871.181-1
-/gnu/store/k8n23di6755d2v54n00d2hhddiqrzag8-ungoogled-chromium-150.0.7871.181-1
-/gnu/store/9y3fd582i5dmccvxywqw6j8ql7kgzy6v-ungoogled-chromium-wayland-150.0.7871.181-1
-/gnu/store/i37dmrp1v9d04n51bmw6d0y53y917fhb-ungoogled-chromium-wayland-150.0.7871.181-1
+/gnu/store/78j1nakrs5i5bsfa9cxxiggc6fxa7vij-ungoogled-chromium-151.0.7922.71-1
+/gnu/store/lw8j5dlbr9gmmg6d61jbqvia4whc92dp-ungoogled-chromium-151.0.7922.71-1
+/gnu/store/5jj3s74c23x6n212mvbfngiks5xymp6q-ungoogled-chromium-wayland-151.0.7922.71-1
+/gnu/store/yyab00hq65y422b1f76f6wbspgv2c0v8-ungoogled-chromium-wayland-151.0.7922.71-1
 /gnu/store/pdw0ayhqyqhijh67azsfjawm0h7r9js8-unibilium-2.0.0
 /gnu/store/x5dz1g4p5531z63gkl6pic6bwkhhdb72-unibilium-2.0.0
 /gnu/store/2k2gfhkdi3fsm7vggbbr2ccqlli4c3ki-unicode-cldr-common-36.0
