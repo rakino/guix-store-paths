@@ -26355,8 +26355,6 @@
 /gnu/store/z4hg5pmjnmvi3szdx9m9nshh3id9d76f-kreversi-25.12.3
 /gnu/store/6xrnf5g0azrbj8n4k5jzq6ifr1crlm2w-krfb-25.12.3
 /gnu/store/ad6d73v1xn58wgc7qw099s8qrw83lnwf-krfb-25.12.3
-/gnu/store/0asrjys4zz06112rl4p8h2bs3sizwajn-kristall-0.3-1.204b08a
-/gnu/store/4s4p8piabflhafp8bqjwig00w8l56hmw-kristall-0.3-1.204b08a
 /gnu/store/7z1ky6wxz46yskq360d3n6p2iklz5rql-krita-5.2.16
 /gnu/store/9gi5xf9lcv6vmy3z64058jqfy8ynmgi7-krita-5.2.16
 /gnu/store/qra8z5yfmbq2yl5z8dldyfjy5ric44b3-krona-tools-2.8
@@ -30045,6 +30043,8 @@
 /gnu/store/vl4hawb3q7nxna5psgslwblzcpig8ybc-monero-0.18.5.1
 /gnu/store/lnj6wiq59hq91gzvpmfms10m3l9ax7mh-monero-gui-0.18.5.1
 /gnu/store/m7spgnyp1yz3zmwlqj0zqgs6aabm2qka-monero-gui-0.18.5.1
+/gnu/store/60kifp003kbi1kqna8q16cmd600sp8f2-monit-6.0.0
+/gnu/store/bnpqb5km8hjcyxl95xzfkqsgda9w0yqm-monit-6.0.0
 /gnu/store/dqmpbw5lk6y2azvzpdixw10p7k2cljfl-mono-1.2.6
 /gnu/store/xsk1nris3vdj0pz4vbnz4a4n5y9bn1lk-mono-1.2.6
 /gnu/store/0qx2arrdirdwkviqyajgrnp5vr872nj8-mono-1.9.1
