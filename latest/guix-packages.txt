@@ -43208,8 +43208,8 @@
 /gnu/store/s331mxv3qwjmf72222gnvsw4f6ifdw8j-quilt-0.67
 /gnu/store/1863q9ksv7fkwm8990xkbl6yl3wp3sly-quodlibet-4.7.1
 /gnu/store/irw23gvnkflh5yb85xbh424j7c8di776-quodlibet-4.7.1
-/gnu/store/giqyl3rbqg4xxn943nvvgzpmlxwg1gg7-qutebrowser-3.6.3
-/gnu/store/gxz57z6806iz83375xn2yaazgwibrv2i-qutebrowser-3.6.3
+/gnu/store/hbs6gd2p18b4cmhyscldq9a3mnsamy5d-qutebrowser-3.7.0
+/gnu/store/m4pgbw5yjyyb9vbd1x7m352sjq42li3l-qutebrowser-3.7.0
 /gnu/store/354sj2cb06516q2l57z97r0x6pw9c03h-quvi-0.4.2
 /gnu/store/7nb0r9j9y7kfb9v73m3nhmgajjf8j0x0-quvi-0.4.2
 /gnu/store/20p2wh4sl98hhccn0m7fxaciapf05h43-qvge-0.7.0
