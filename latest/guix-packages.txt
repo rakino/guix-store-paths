@@ -12289,8 +12289,6 @@
 /gnu/store/yxlnfcbwdyqnjy6lcaiq4yi158rsbs8w-flexbar-3.5.0
 /gnu/store/2l4bzxbk23k1y3zjv0g5q9nf326cb89j-flightgear-2024.1.6
 /gnu/store/dws78qwn0hj3qc9w2si2mh4yrr0dwr2v-flightgear-2024.1.6
-/gnu/store/556kq6lsd7r66wlwxnpismwazlly1yxk-flint-3.3.1
-/gnu/store/d158fmsywydqmzdx77rcp047ipj6m104-flint-3.3.1
 /gnu/store/hvyqspylb5qszjm6aydndgz6n21qw3vi-flint-3.6.0
 /gnu/store/v31pjkmf1ii0abzg0zcylr2rhdrjn4g6-flint-3.6.0
 /gnu/store/5xjryadp62pgmswh5bffda0x8w5zjph8-flite-2.2
@@ -41773,8 +41771,6 @@
 /gnu/store/pywc3ypgdnhdj43s8nvcg9psifsj6xvg-python-tasklogger-1.2.0
 /gnu/store/nl1gzam192rpvi7vd1fn65bwnxxq7p40-python-tatsu-5.13.2
 /gnu/store/zn63jvyvly1ld1ks48gadxvfvxb0qpzr-python-tatsu-5.13.2
-/gnu/store/2sb4z5sjw43v259qhfn6q1mvz3w3kpqr-python-tbb-2021.6.0
-/gnu/store/8kv2xp6av8b3ndkmp2hjb6q5c5plm8rx-python-tbb-2021.6.0
 /gnu/store/79gasly4ar3kffzq0sr281qdxnppl9ld-python-tblib-3.1.0
 /gnu/store/yl1819a2jp20gwj25fcd9iwfffyj23a4-python-tblib-3.1.0
 /gnu/store/bicv55ddzyzpa338527xqs2y2ix9bvxv-python-tcolorpy-0.1.7
