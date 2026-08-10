@@ -22231,8 +22231,8 @@
 /gnu/store/n2b05gwrdfnvxxl4fjc8knkps8i416f8-guile2.0-commonmark-0.1.2-0.8ebb304
 /gnu/store/3jaqm0p89s0brrdz1knlj2lwgjgb6spg-guile2.0-gdbm-ffi-20120209.fa1d5b6
 /gnu/store/6d1zg4h7inapk6gg5z6fn81nrq5q5js7-guile2.0-gdbm-ffi-20120209.fa1d5b6
-/gnu/store/5scrs1c3sxfzdd1mayz8yc9kgg2inj9j-guile2.0-haunt-0.4.0
-/gnu/store/99sqbkqh8qg5m7clfr8k0chyx8frsp5i-guile2.0-haunt-0.4.0
+/gnu/store/19y10ff52pkyxw0m2avsn8mlg89xmx1f-guile2.0-haunt-0.4.0
+/gnu/store/9j5x56ry370j6jvj82igasiyqvyqzhb9-guile2.0-haunt-0.4.0
 /gnu/store/3kanq6y555yn4wpjyalpm9rsnd7f11l7-guile2.0-irregex-0.9.12
 /gnu/store/l98k04lyk31qj1c4fdbqaab8as22pd8i-guile2.0-irregex-0.9.12
 /gnu/store/1wlhpclgz6s3dvxhjvl1q5k3c47gss04-guile2.0-json-1.3.2
@@ -22283,8 +22283,8 @@
 /gnu/store/w10156gfck9p06rlqic3by5dp977ryrm-guile2.2-gnutls-5.0.2-debug
 /gnu/store/pxzsqi5cjf29ccr1mvyi431zj2cq6j6v-guile2.2-hashing-1.2.0
 /gnu/store/w6iqinywmnn96dry0hbji45fkzm0xb98-guile2.2-hashing-1.2.0
-/gnu/store/1l12n76y9ymza2v82p01rcy1hc8hd1ls-guile2.2-haunt-0.4.0
-/gnu/store/g9g7w5alziskmywpwbw61c5s067l6gm7-guile2.2-haunt-0.4.0
+/gnu/store/4k1fi0j83b97mbj3n6k2401f6wj20lf1-guile2.2-haunt-0.4.0
+/gnu/store/aglzsij80c07rd2k29c1sfwv04zka06l-guile2.2-haunt-0.4.0
 /gnu/store/kapdqkahzajnv38csqbpcjxg1yyjd5vy-guile2.2-ics-0.7.0
 /gnu/store/p4n7dlw6f8gld68chq232wrabna01kk6-guile2.2-ics-0.7.0
 /gnu/store/aw6kzxbz82ng3l205v4qg39lrn8a40nk-guile2.2-irregex-0.9.12
@@ -22551,8 +22551,8 @@
 /gnu/store/rzhwzim6k46pp55j0s1pbz9rpcm59xw6-hashlink-1.15
 /gnu/store/k00wyrh60111cmcwq39jha2pyy43zg66-hatch-1.16.4
 /gnu/store/qm4hn9iz63zysc9s2bc631gac6h2s74d-hatch-1.16.4
-/gnu/store/az9z1f9xxd4c4myjzq5wfhm0jayr5kdk-haunt-0.4.0
-/gnu/store/pj3cz91w8i0nqjgrpzx7vq6dm26i3gq4-haunt-0.4.0
+/gnu/store/0ha10g8dh4y42k2cmrai7am4qphg9k0q-haunt-0.4.0
+/gnu/store/fj6ld1ymj17w10lgls24jmryjgwh02k3-haunt-0.4.0
 /gnu/store/0p2pmcgww6c9kv586ajckh716vw0cj9d-haveged-1.9.19
 /gnu/store/xzz91hyay7znaj0l3a5lk8jda46gvzsf-haveged-1.9.19
 /gnu/store/is7xx7prsj9hpby2xyh7j6lxs9130lrg-havoc-0.7.0
@@ -73645,8 +73645,8 @@
 /gnu/store/8y2w997rixp3lic1kmma0zlp66pj0pfx-trayer-srg-1.1.8
 /gnu/store/1d4swndn7b1l5745q4yg7js8dd8qqz1z-tre-0.9.0
 /gnu/store/83smqncf8sm15d0qaxy6p8aabcsz1yzj-tre-0.9.0
-/gnu/store/ma1z7gg60j742gwfr9p8a610dymc8vm7-trealla-3.1.27
-/gnu/store/y4ysp7ww48d9lsgbyvvk71bra4bqigvy-trealla-3.1.27
+/gnu/store/11jvys1iqzdlkiwbr910h6bji4698h9w-trealla-3.1.28
+/gnu/store/93y78izpk19brankqm9sy7302frpx2a0-trealla-3.1.28
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/vwf9bpj3kyzy5pfiiqy08qqjndxdsi07-tree-sitter-0.25.3
