@@ -21800,8 +21800,8 @@
 /gnu/store/bjd2qm5mj5shk2avjn66mmcfinrc8yk8-gtx-0.2.2-doc
 /gnu/store/lhsyxbazpsbglb7ivfvmqz054qijlxa7-gtypist-2.10.1
 /gnu/store/n0qn16ivf1k0rw58x9mrj6n5al80al9b-gtypist-2.10.1
-/gnu/store/ri57q9pd0rpcby3195m2cxx72931ai7y-gubar-0.1.0
-/gnu/store/sb8mbchmxdci1x9p663n7civfw5yzrxj-gubar-0.1.0
+/gnu/store/7z0d8snkpd9m776r2w1nld00zch7byzb-gubar-0.2.0
+/gnu/store/sx43cm6863cjdk1r0wv4r4nn1q64dmgs-gubar-0.2.0
 /gnu/store/1cr4d85xjgxjr3ngk11cdx9b01dv4sr5-gucharmap-17.0.1
 /gnu/store/1n27g2bzwdii4zhynq1y3bkjbrgb2mkv-gucharmap-17.0.1
 /gnu/store/8icl5g5f2zfymnvbkkswjgv3qvj63vsw-guildhall-0-1.2fe2cc539
@@ -32777,8 +32777,8 @@
 /gnu/store/s53mh962f89mjwp2qg0g3gmg9n3z8q5l-pelican-4.11.0
 /gnu/store/m1kdgn24lkcsdi5kmkcx6510z9as6861-pem-0.7.9
 /gnu/store/vi1k4w90pj95m02cg17z3sqy4s6xyrh2-pem-0.7.9
-/gnu/store/g4kdl22g8vwz16hcfs5igxx08mj526pc-pencil2d-0.7.2
-/gnu/store/mkcc4nwza44c4g9b5lg2sdqm6kxw5skb-pencil2d-0.7.2
+/gnu/store/9x8p5bvvxm00sf4wmq5virjy69m64pl3-pencil2d-0.7.2
+/gnu/store/vy2q628rp9b9rnp38vk6inpsc9p51ifj-pencil2d-0.7.2
 /gnu/store/gaf2iwl71ncp51ah242gr5kg72d4pisw-perceptualdiff-1.3
 /gnu/store/p1dkynm70ld4y3xxydsrjhw49blj4wqh-perceptualdiff-1.3
 /gnu/store/4alpg58g58p92a4yj93vlm7z6cx8fir9-perf-7.1.5
@@ -53403,8 +53403,8 @@
 /gnu/store/g6jmgm565hq4cvcgzy0hrcq981p1l925-screentest-3.0
 /gnu/store/gih1xyypkc7zyd566d80mms0b22962p3-screentest-3.0
 /gnu/store/qx0dxkx8nzw9gl9d3wqwwl0jd45az0hv-scregseg-0.1.3-0.78ebff8
-/gnu/store/kcagj3zgh70p1ybap50zw2jmgvh95mdy-scribus-1.6.5
-/gnu/store/xbica1z1g55gzh2lbgvqswazbhz04iik-scribus-1.6.5
+/gnu/store/69rjnif2wj4my6xqslv6k1v9qq7g4m2z-scribus-1.6.6
+/gnu/store/r6cbdhcvw1x17ip53kbfa57i72kzd3c6-scribus-1.6.6
 /gnu/store/915fvaa6qg0q7fxdyawvn4jrlv9ran5m-scroll-1.20250228.2
 /gnu/store/rb005badgwh6y6djg6lp0klg49fsys85-scroll-1.20250228.2
 /gnu/store/bjbwk40x91cvaf40nq4m77v5a6sd84k8-scron-0.4
