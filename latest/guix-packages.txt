@@ -37515,6 +37515,8 @@
 /gnu/store/ngmxzz8yvdwkxqhqyv2a4mm4pv0mi0ax-python-fonttools-4.59.2
 /gnu/store/770vmipjba735c1vncclhbbfwf9kf92p-python-fonttools-minimal-4.59.2
 /gnu/store/n0s07fl77g5q2gdk47g93kfdgp03g4fv-python-fonttools-minimal-4.59.2
+/gnu/store/37ypg39p6gi9wl5w17a84z5rx2w6vjbg-python-forastero-1.2.1
+/gnu/store/arj7pi8h0cc69fs4a0gr4n6kjaqlcygj-python-forastero-1.2.1
 /gnu/store/a386by30snvjgagahcbj3mbxh4xcwgk2-python-forbiddenfruit-0.1.4
 /gnu/store/mz2lszw0qa0mply248bp4n3f0bm10fld-python-forbiddenfruit-0.1.4
 /gnu/store/j1nnj775kzn9x90r1ql4mjlcfklvr78z-python-forex-python-1.5
@@ -42459,6 +42461,8 @@
 /gnu/store/x988s1cx2hvh867vl5rmb8xkri8qvql9-python-yamlordereddictloader-0.4.2
 /gnu/store/aksx6mda1axm00l4n11jnv9kmg9rgla5-python-yapf-0.43.0
 /gnu/store/gqj0mi1kkx6n7n22aln66zfy9xr2ffly-python-yapf-0.43.0
+/gnu/store/jc62qgghk0bsgbxkc22vwp6kk5ygl0iz-python-yappi-1.7.6
+/gnu/store/jc69bhyfhxmm5xpbalc3aa9hyqmbxk79-python-yappi-1.7.6
 /gnu/store/lgbnd08wrkp2knx8kd8d7djfmqrvzqm2-python-yapsy-1.12.2-0.6b487b0
 /gnu/store/xwn4j6xw6nq2hrl21wyx4q71gc1ka0dx-python-yapsy-1.12.2-0.6b487b0
 /gnu/store/dc3b6d6hnxca6vjlzaq8iwazk3r0zz1v-python-yarl-1.18.3
