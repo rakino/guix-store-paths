@@ -210,8 +210,8 @@
 /gnu/store/yg0mjhccwfswsxafjg9sgk6926fg196f-font-ubuntu-sans-mono-1.006-woff
 /gnu/store/dlnfx922c17x2n7zzfar3ghjqrgh1svy-fury-20240316-10564-0bc78c53d
 /gnu/store/hqqizd4y3rg04knkx8xvjnzs8llplxgb-fury-20240316-10564-0bc78c53d
-/gnu/store/5rafymr2ngcrnpswxp4qm8c9d3gfhna3-fwupd-nonfree-1.9.32
-/gnu/store/m2zp4a5kbi068wdhi95fa0xch10l2kb2-fwupd-nonfree-1.9.32
+/gnu/store/8zz74j34cj2fm7xqrk3p6z78dsm4wdk4-fwupd-nonfree-1.9.32
+/gnu/store/vwf52x8hs4xxvj34h5dgcdl5vk86ik73-fwupd-nonfree-1.9.32
 /gnu/store/bmv56z8kmlr56igg4fl60xbnn7d66b3w-geekbench5-5.5.1
 /gnu/store/dka5a0ln76sa308dnsd2ai6yprnpsffk-gmmlib-22.10.0
 /gnu/store/zz47i2p8wy7kvwknm14qmrivl36mnycp-gmmlib-22.10.0
