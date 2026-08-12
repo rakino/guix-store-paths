@@ -721,8 +721,8 @@
 /gnu/store/xh9mnp857dfqr4vqx38vcfwhj2p2capg-atomspace-storage-4.3.0-1.ecd88d6
 /gnu/store/g97xxap7m5xz8spfd0ihzacp0qhhjsdl-atool-0.39.0
 /gnu/store/rbf59z7306ss7y9dm2b9j377fwspkd55-atool-0.39.0
-/gnu/store/h5ybcmic7x61kpnigy9kx6bw9wcy7h0z-atop-2.12.1
-/gnu/store/q1si8fx7nh440j4zyfbfhmqzys3mzal6-atop-2.12.1
+/gnu/store/0h1cck0wqg22vl8gadlvqssk3kfmam47-atop-2.13.0
+/gnu/store/cvyp0fb4j70ixrafa47v33gc2lwxgwbm-atop-2.13.0
 /gnu/store/0qs0ycj0jd8flraln5ad55y3q6pnavmd-atril-1.28.1
 /gnu/store/9hizryjs61hzqk4vfccfak5by698gf6a-atril-1.28.1
 /gnu/store/1kvvnrmqd3407cn8cn4r54qn3jcw7r3v-attica-5.116.0
@@ -13187,8 +13187,8 @@
 /gnu/store/wdjj0zk47a6gcgx12fby8yvla0rjvr4g-fstrm-0.6.1
 /gnu/store/jgcirc9rash3b4bkf6ffsx7cl0l816j1-fsviewer-0.2.7
 /gnu/store/p4cz4n69frhfpg0373q4kb39yq3ygd2x-fsviewer-0.2.7
-/gnu/store/4z4jvrmv9psld38blvf3hszs0kd620xs-fswatch-1.17.1
-/gnu/store/9s8mwci9f224lw2g2d9s1sa4ywql14lz-fswatch-1.17.1
+/gnu/store/0gqvdjlfq6x65g3sw5klh8s6j5vsx8hc-fswatch-1.22.0
+/gnu/store/gqmcg7fd11d698kxq9n7nxwvd2xbwvl2-fswatch-1.22.0
 /gnu/store/677xgwb69dylk9x47n4czldn9nmgkacr-ftest-0-0.c4ad4af
 /gnu/store/pa0fbbrbq3h2fnh6xivbzq6ayxgb53q4-ftest-0-0.c4ad4af
 /gnu/store/c0az5rlhlc9hf82v3cgzqdrzgnnyl62j-ftgl-2.4.0
@@ -23743,8 +23743,8 @@
 /gnu/store/24r87nn3pvs7rjam969xkq19gcrhhh0c-itpp-4.3.1
 /gnu/store/k91z3h010s15sjp13cz33j3d8czixxf8-itpp-4.3.1
 /gnu/store/glh8vkrfw0lfs3mds4ggv7n9fczmn5lq-itstool-2.0.7
-/gnu/store/743f2j4lmj44r0qrm89k5mnqzzmb44l2-ittapi-3.26.5
-/gnu/store/bjs3s2v3h52whkkihc35mapkprxja1rx-ittapi-3.26.5
+/gnu/store/414q4mw4pnvr7xs1wpkqfakm9w10q91j-ittapi-3.28.2
+/gnu/store/ivqrjmh06rr6i4bp1fhn0mpgk39s1nvp-ittapi-3.28.2
 /gnu/store/9ssvxi8cr6bfd641gn8xi7kgpcwmcwrw-iucode-tool-2.3.1
 /gnu/store/4rmgksirzhf4dj498lvprznblg0andc5-ivar-1.4.4
 /gnu/store/fgimby3jw9gal8pc0raambxwr9spvayq-ivar-1.4.4
@@ -30425,8 +30425,8 @@
 /gnu/store/zr3ixj5g8aakcklfzdk73wijh1kizkk3-nanodbc-2.14.0
 /gnu/store/0xzqf7fysljly5gvdipl2jy34vqrd024-nanoflann-1.9.0
 /gnu/store/ga6nibv656vay53f0l7n8gg34vyn7wws-nanoflann-1.9.0
-/gnu/store/2fx3wwn1p2wi110sw9nc2a7nmz7y273s-nanomsg-1.2.2
-/gnu/store/529cqzjfqdawf5ji9a3ssgw2jjlp9rb1-nanomsg-1.2.2
+/gnu/store/48ch0qalibhaw8mk77590y8rl5kx42vw-nanomsg-1.2.4
+/gnu/store/rkk9fba1dswl717ylnkjq44j2b1x4z7w-nanomsg-1.2.4
 /gnu/store/713d39gvc69pfffn006mnn162l6wjyfi-nanopb-0.4.6.4
 /gnu/store/byzaafh53jnl132n1f53ikn9dbg9kzhb-nanopb-0.4.6.4
 /gnu/store/4hyv5nsy2k5cv3dyr5m2z20nzb2prywy-nanopb-malloc-0.4.6.4
