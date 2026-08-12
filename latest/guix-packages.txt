@@ -23437,8 +23437,8 @@
 /gnu/store/wizv6bfsaqhsr7ydch9qhc3wg3km4hc5-icedtea-web-1.6.2-doc
 /gnu/store/n6k1x7yn6smfv15l0s7aywbblc47fqlb-icestorm-1.1
 /gnu/store/sm76irjnhzvnb7vjhwbrzsls9h3j48ab-icestorm-1.1
-/gnu/store/wa231dms697d6l0jkylpnwc6bj15vflc-icewm-4.0.0
-/gnu/store/z70x7kpbdbd4k6ycplqj636q4mdsx9nw-icewm-4.0.0
+/gnu/store/40ncvqxsrin48zhnarawwd48pjzb2y12-icewm-4.1.0
+/gnu/store/8rs0fr0sgvsbqd7766zf8yl1cws6mpir-icewm-4.1.0
 /gnu/store/msvzbikq78sm7scnwi6l0yansqp4g3wn-icon-naming-utils-0.8.90
 /gnu/store/ny41g02kvvmkwb2jfzq57vdw33k2fr83-icon-naming-utils-0.8.90
 /gnu/store/1v39y27airaivzilm6mmr6y6x6zvz6hx-icoutils-0.32.3
@@ -49693,8 +49693,8 @@
 /gnu/store/p7l3b1ksm01r0g2bw8ri1fy2wcqvmfhy-roxterm-3.17.2
 /gnu/store/6wx943dvc5yq7lcmrdkw401mm3cqwfc2-rpatool-0.8-0.74f26d5
 /gnu/store/z2qka0ln9csiv9bi1q254jvgv1ad4wcz-rpatool-0.8-0.74f26d5
-/gnu/store/q6wrr3rqr40m5zzl769y5rw80k0m3wds-rpcbind-1.2.6
-/gnu/store/rw5r6cgj0iwiar245b618r2k4jm3dn8q-rpcbind-1.2.6
+/gnu/store/42l2p8wrr4xa568bq35x9zqidlw3iwr1-rpcbind-1.2.9
+/gnu/store/7w6kwcwy06svgdjhsajpds339c9lxvgx-rpcbind-1.2.9
 /gnu/store/d0043yzw4lmx4aycw0abyy54z7w9fpr7-rpcs3-0.0.38
 /gnu/store/jk1my8iaz2vmjd4rp9pfm3p7rsk3ni3d-rpcs3-0.0.38
 /gnu/store/c0d04zfk4ijr620jwivahia5mqzc07z1-rpcsvc-proto-1.4.4
