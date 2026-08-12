@@ -26972,7 +26972,9 @@
 /gnu/store/yj270byvcgvi1gik9glr0ya096r29g44-libdc1394-2.2.6
 /gnu/store/2g5qir7aa8i4ma91w1igdb66hmdw2ywy-libdca-0.0.7
 /gnu/store/kdy2lqbphffh8ybh1yxp53al5s5d959v-libdca-0.0.7
+/gnu/store/3z2rjm9bipdwl56ji2ikccfcj5s8if1x-libde265-1.0.14
 /gnu/store/dsg8c6jv1j3s5jv4zr8d8grsgvw7jasa-libde265-1.0.14
+/gnu/store/inp5dg70jmhwrgr4say7jvwdqz6n2n8m-libde265-1.0.14
 /gnu/store/zifc5nm7s8pmqlnip7zki1ybgafdxy64-libde265-1.0.14
 /gnu/store/6imj0494v26nfcy9lfkh2489ifb064d1-libdecaf-1.0.2-0.e5cc624
 /gnu/store/a0wqhwwkq992k61mhjsrbl94mvj4iykg-libdecaf-1.0.2-0.e5cc624
