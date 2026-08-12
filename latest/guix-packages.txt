@@ -12831,6 +12831,8 @@
 /gnu/store/j8wkrvkq4bmg281xc9kx54s5s31hn29p-font-nerd-symbols-3.4.0
 /gnu/store/8f8gl90slvxv7rifv65jhsqkc52y29qa-font-new-computer-modern-7.0.4
 /gnu/store/8m0gk1x7k3c8g6hf2rw3pmjjnl24lcmn-font-new-computer-modern-7.0.4
+/gnu/store/np2q8hfzzl84w057dqxzbh5p3v9hmlk2-font-new-heterodox-mono-0.0.3
+/gnu/store/psx5vc9x349hl2ah1p9adk0zkn1whsci-font-new-heterodox-mono-0.0.3
 /gnu/store/j2mfrd5cysw4z4jvg5q93ffwpcg68lpm-font-open-sans-3.003
 /gnu/store/pbb9fn7bngjzdwdpx8g4n8lhyrszc939-font-open-sans-3.003
 /gnu/store/cd6g213vkm0z1s6k2ml4jzpyk9qbkayy-font-opendyslexic-0.91.12
