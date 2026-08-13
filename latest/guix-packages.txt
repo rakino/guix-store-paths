@@ -876,8 +876,8 @@
 /gnu/store/a48palg4ndj9gk7rkgn49bay99r7rm0s-aws-vault-7.3.0
 /gnu/store/61ygsz88i3ppad1wgndkzwq6mmss2vjp-awscli-1.43.11
 /gnu/store/6x45fzkncfkx4xdwj9yhnc8ax8l91l1b-awscli-1.43.11
-/gnu/store/5kqbvplxbw0yh405c18dlpmp5r9ak6jx-awscli-2.28.0
-/gnu/store/v9zq4g5zgm60fvwhs0bmhs228xfjccvn-awscli-2.28.0
+/gnu/store/vnqm3kzb5bm76b0dvmdwglqkcncg86i6-awscli-2.36.20
+/gnu/store/y3hk61mnsrzmhlgakvm5yj8nbrlx3xri-awscli-2.36.20
 /gnu/store/6y3rk0lhp4rkqiams7pympsri3615yl5-awslogs-0.15.0
 /gnu/store/v4xa93azfnyin5xa1d0k1c2lyijvdrq6-awslogs-0.15.0
 /gnu/store/0h3c9bi1whmii0ks5ddwdfdsbxji75ni-awww-0.12.1
@@ -35991,8 +35991,8 @@
 /gnu/store/naka135spl0xw1wgblib9n9h5ci19nxd-python-aws-sam-translator-1.107.0
 /gnu/store/inapwchdibw7vzg61k3cgyf8jz9h96a1-python-aws-xray-sdk-2.14.0
 /gnu/store/l94a0ssdp404bxjg8qwwvmn0sffqqls0-python-aws-xray-sdk-2.14.0
-/gnu/store/99ijqdawyi26cqpprvdkqiab9a0q4cpj-python-awscrt-0.26.1
-/gnu/store/yh0giw94dah5ajxg6hgzzx829qz0rr0s-python-awscrt-0.26.1
+/gnu/store/85gwvck9cvl9q29rjsmy1nivaz3i8v2d-python-awscrt-0.36.0
+/gnu/store/csvylr9zaq8vlf7l1lkn080li735j8ih-python-awscrt-0.36.0
 /gnu/store/6irarbyfv63bcphir71c2lygxyh7lw1j-python-axolotl-curve25519-0.4.1.post2
 /gnu/store/dy2wy4cnxn869660h152vzdzd888nqzz-python-axolotl-curve25519-0.4.1.post2
 /gnu/store/2ksm5x96hqbl56gn9a0fq7h5nms10pr9-python-azure-common-1.1.28
