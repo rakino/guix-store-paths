@@ -42629,8 +42629,8 @@
 /gnu/store/h6rfb622a58wda4xc7y6xk518lygky44-python2-pycparser-2.18
 /gnu/store/95c5nscyzlm1i5wpba8vq42irm0g81jb-pythoncapi-compat-0.0.0-1.ab72af8
 /gnu/store/kq2pjxmcz249h7afjnsq39nmi7w6hmii-pythoncapi-compat-0.0.0-1.ab72af8
-/gnu/store/6vpv7dbp2lpqkyxh7ysbclx4n5qyziab-pythonscad-0.8.4
-/gnu/store/zijdgwfczxh85w8anp2njcvsm5zw9ms1-pythonscad-0.8.4
+/gnu/store/2370layfrx6kaq9f08kn6q7a7i0n45yh-pythonscad-0.8.4
+/gnu/store/ag9ssqzygf2k12xc6qvgf8pw7s6b421f-pythonscad-0.8.4
 /gnu/store/ga2dmr0anqizwhdpwrwpkj99w0zkcbac-pyzo-4.20.0
 /gnu/store/n7bhpqiklab03hjyh9n265q4m1mhh001-pyzo-4.20.0
 /gnu/store/jyh9nvz8fadqjfb1clr6l7x2hzrba0i1-pzstd-1.5.7
