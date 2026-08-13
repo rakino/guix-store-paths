@@ -19071,8 +19071,8 @@
 /gnu/store/qxa7ysf5r4hg0pl6i1acakqxkx5mkayz-go-github-com-mdlayher-wifi-0.3.0
 /gnu/store/1n71rbfp7701c6jzyk865bz05w2wakgl-go-github-com-mdp-qrterminal-1.0.1
 /gnu/store/h68znxlgxdbvfaifa791sdns5f42qx6x-go-github-com-mdp-qrterminal-1.0.1
-/gnu/store/2hwfl5qky7kdbhshigg44q9pa7b7l9dz-go-github-com-meilisearch-meilisearch-go-0.36.3
-/gnu/store/hqd8xaaxl2h3c7dn0ix6rlkfk1060g6d-go-github-com-meilisearch-meilisearch-go-0.36.3
+/gnu/store/549yyka56db1ib55i33wrccs0d6cfadk-go-github-com-meilisearch-meilisearch-go-0.36.3
+/gnu/store/711sqx2mih73cc0lk2g1smhj6j08lddf-go-github-com-meilisearch-meilisearch-go-0.36.3
 /gnu/store/417myn74y00y2x3x6qg325c5pm3lhlpj-go-github-com-melbahja-goph-1.5.0
 /gnu/store/ab80iqp7z8xsgp1rhs4d61wbv27wsr4d-go-github-com-melbahja-goph-1.5.0
 /gnu/store/sngpbg1g7d6zb7vd3pn96b6izfbw8jfz-go-github-com-mesilliac-pulse-simple-0.0.0-0.75ac54e
@@ -22207,8 +22207,8 @@
 /gnu/store/8cbxrvbbpi1jbfcviy8mqdp078knvsgm-guile-tap-0.5.1
 /gnu/store/idgvlhj2cm6zb7hc7a50av8s98zxvwag-guile-termios-0.6.4
 /gnu/store/qpw4i0r5n7qd8pm0q99xnaqgx83jl3q3-guile-termios-0.6.4
-/gnu/store/38gzgbmmwj4wbqws389wgpvnav8lbi1h-guile-toml-0-0.ecb24de
-/gnu/store/4rmxacr5b1gkr4pf9z81hjw8wdlk6grf-guile-toml-0-0.ecb24de
+/gnu/store/1yh0c2sb142jlymg1ph0iv2r4zgh3wda-guile-toml-1.0
+/gnu/store/407vay8wg2rfmwh4wkanaz0n9qajm014-guile-toml-1.0
 /gnu/store/af0yynys5k2jj88isxjapksg8r6z461p-guile-torrent-0.1.3
 /gnu/store/ahz5mvrwx66p20jrllmv4pfgbvm08f88-guile-torrent-0.1.3
 /gnu/store/j9znkixjgk8w38ixx1j8a3k5wk0msrdc-guile-ts-0.3.0
