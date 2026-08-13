@@ -19071,6 +19071,8 @@
 /gnu/store/qxa7ysf5r4hg0pl6i1acakqxkx5mkayz-go-github-com-mdlayher-wifi-0.3.0
 /gnu/store/1n71rbfp7701c6jzyk865bz05w2wakgl-go-github-com-mdp-qrterminal-1.0.1
 /gnu/store/h68znxlgxdbvfaifa791sdns5f42qx6x-go-github-com-mdp-qrterminal-1.0.1
+/gnu/store/2hwfl5qky7kdbhshigg44q9pa7b7l9dz-go-github-com-meilisearch-meilisearch-go-0.36.3
+/gnu/store/hqd8xaaxl2h3c7dn0ix6rlkfk1060g6d-go-github-com-meilisearch-meilisearch-go-0.36.3
 /gnu/store/417myn74y00y2x3x6qg325c5pm3lhlpj-go-github-com-melbahja-goph-1.5.0
 /gnu/store/ab80iqp7z8xsgp1rhs4d61wbv27wsr4d-go-github-com-melbahja-goph-1.5.0
 /gnu/store/sngpbg1g7d6zb7vd3pn96b6izfbw8jfz-go-github-com-mesilliac-pulse-simple-0.0.0-0.75ac54e
@@ -27883,8 +27885,8 @@
 /gnu/store/1n8xapaz37vhvnh4kamsyfvc2b2rq5d2-librecast-0.11.2
 /gnu/store/9p7ryczh9vrikazvgmcdzmqa1j0np0d8-libredwg-0.13.3
 /gnu/store/lj5qq0wpyv2hp849gjk1f7vm4992n0wr-libredwg-0.13.3
-/gnu/store/48s1pava0d525j4zzjnhn2vp9aijnaig-librelane-3.0.9
-/gnu/store/apri7b4kfwv9gf9pq6lscy9nnv1cm85s-librelane-3.0.9
+/gnu/store/2vv32frggqcvsdvq9bc0k1h1ipx2dd2a-librelane-3.0.9
+/gnu/store/idw4gwrfzcvwn56l8ysl0ikyryipm07s-librelane-3.0.9
 /gnu/store/76j1cql46ja9cmwa9afwyvxwq905c7vg-libreoffice-25.8.7.3
 /gnu/store/rxsql3smk4w84g0m9sr9mk4xz5nim82z-libreoffice-25.8.7.3
 /gnu/store/2zfnfdz6vwdig738zyvhl7ya60mwighf-librepcb-1.2.0
@@ -29786,6 +29788,8 @@
 /gnu/store/dy6r00hhi27vz2dzdh1rrn6ib774nwhb-megapixels-1.8.3
 /gnu/store/dlgv3b1c8qnnkn5r8k4hkgbn3sh0wp9s-megatools-1.10.3
 /gnu/store/sgwa6zy1j5f6n142mwfylsqsnin7kc0y-megatools-1.10.3
+/gnu/store/ar0l142y9i3q0qji8n86mh5iqr83dscm-meilisearch-1.49.0
+/gnu/store/bbzlncybmmrgmvxwvrvd1kcp68ya96iy-meilisearch-1.49.0
 /gnu/store/6qnn3q2h60csv5hz31wvdhbvhjj35h5s-meld-3.24.0
 /gnu/store/in9ni3sn7p2avnb2xqddmiyggszsyf1w-meld-3.24.0
 /gnu/store/64rgr93lk18380f8wd1ylm40swnm10ip-melonds-1.0
@@ -51233,6 +51237,8 @@
 /gnu/store/v1wv77f1wprq1wbyg13455y4kl5p6dfz-rust-alacritty-0.25.1
 /gnu/store/h4rgfq66d5nvvy6csivp6bhv40vpx8ap-rust-analyzer-1.93.0
 /gnu/store/whmmvxlvhkcfvp1fm7f5rh12zywcq0ms-rust-analyzer-1.93.0
+/gnu/store/386cr2dzggc8fk0sn2n6g5gszzi8a4n7-rust-bbqueue-0.5.1-0.e8af4a4
+/gnu/store/9dd8cdx58bwh25xyqyl7x7lz93bapyj3-rust-bbqueue-0.5.1-0.e8af4a4
 /gnu/store/bbghsn9bd5h0hwv970j9d9k7f1rp1wfk-rust-bindgen-cli-0.71.1
 /gnu/store/pwr6yfm6wlswca43w6fjbvlyjarcxv8m-rust-bindgen-cli-0.71.1
 /gnu/store/ckxjp20bx49blv0ri6a2xprv6341zvid-rust-candle-0.9.1
@@ -74253,10 +74259,10 @@
 /gnu/store/lmnizk8vrrml8yfhk7f6d7w6lm41pha5-tree-sitter-scala-0.23.4
 /gnu/store/n053xy0h048df68ma72jwirfw9z5d9c8-tree-sitter-scala-0.23.4-js
 /gnu/store/yvpn77m1ki18fr4d2wg4l4vgnxq9f0an-tree-sitter-scala-0.23.4-js
-/gnu/store/pqvbl1l06rq7d7a7nbw11vqhf7v9qy4p-tree-sitter-scheme-0.23.0-1
-/gnu/store/xarpcdmr6xxvhzndw75lmc0dmgyymkzy-tree-sitter-scheme-0.23.0-1
-/gnu/store/nl63zfmb1wcm6vczi0vpsxmifi4ci2q0-tree-sitter-scheme-0.23.0-1-js
-/gnu/store/rf881hj3b7njab5r4cy9lsvv9pvl39jv-tree-sitter-scheme-0.23.0-1-js
+/gnu/store/6ca60p6dgk3qm8v7r5j3znmgzpkvgk1p-tree-sitter-scheme-0.24.7-1
+/gnu/store/rwcpz3363vq0in17gqzdgma1c3yxzi4x-tree-sitter-scheme-0.24.7-1
+/gnu/store/0n7ahzhbkz1kchnaiikc5ynf7nbvm6ax-tree-sitter-scheme-0.24.7-1-js
+/gnu/store/vhgss36s36dsfyhw1q4mq8ifqj656s15-tree-sitter-scheme-0.24.7-1-js
 /gnu/store/ab3vv8mabirwrfc4rxdr9mda4l6ybvhl-tree-sitter-scss-1.0.0-0.bca847c
 /gnu/store/hc6j5zhgv270va1p84ixyzmrns24n1js-tree-sitter-scss-1.0.0-0.bca847c
 /gnu/store/fhlznlkn7ggzhbd8sl8vv3r2211bcwha-tree-sitter-scss-1.0.0-0.bca847c-js
