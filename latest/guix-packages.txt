@@ -4795,9 +4795,9 @@
 /gnu/store/vz3v1d0brrhgq2p5l91i0mjci38905np-coq-stdpp-1.10.0
 /gnu/store/70qw62xybx0yp5snmixwwhzkqxrzvaq5-corectrl-1.5.1
 /gnu/store/wqn4iskv80axwyvn0lzfwa8sj2r7dj96-corectrl-1.5.1
-/gnu/store/76bh5rxvc5gq2g4iav9jkraacyzi5054-corefreq-2.1.0
-/gnu/store/g6987v2d129ylq07sbh6cjzw1366c8yf-corefreq-2.1.0-checkout
-/gnu/store/p9ci6nkvkghfnbfq4vgfzxfyjm8q8d46-corefreq-2.1.0-linux-module
+/gnu/store/1r0nq4lsnf71p0nf6pdnq1d9q7z6v183-corefreq-2.1.2
+/gnu/store/mxf8pac6w7gfhvjgp8qhi0lybgl598d9-corefreq-2.1.2-checkout
+/gnu/store/d1bmv7sb9hqa2yj331zdg611xl1g2k7p-corefreq-2.1.2-linux-module
 /gnu/store/ir32hbglni1ip8p84w2fn45iqgslwh61-coreutils-9.1
 /gnu/store/yp8mg1rwaw3y1p09bc8dx4l6rx4qx961-coreutils-9.1
 /gnu/store/2w5h1ffnijq20xs30034xab2q64jjaki-coreutils-9.1-debug
@@ -18301,8 +18301,8 @@
 /gnu/store/5m0ylcsjpz96f7vcw2azgnzpjg2qaa4z-go-github-com-holoplot-go-evdev-0.0.0-20260504100651-66d1748fe847
 /gnu/store/b20nlhx1r07738c16i9pn8awdq1s96v7-go-github-com-huandu-xstrings-1.5.0
 /gnu/store/ivms3hsyd795zy2hv5l4njhndjny0z0f-go-github-com-huandu-xstrings-1.5.0
-/gnu/store/9saxi6l514swk5b4kgiqwmsp8dpxls1f-go-github-com-huaweicloud-huaweicloud-sdk-go-v3-0.1.191
 /gnu/store/fgi3rr4iyssgdgsrm89drj02f34ncivq-go-github-com-huaweicloud-huaweicloud-sdk-go-v3-0.1.191
+/gnu/store/vjy3dzq506kfn0pc3lg8xyrv6s7k7jbk-go-github-com-huaweicloud-huaweicloud-sdk-go-v3-0.1.191
 /gnu/store/10hcnzvwb4a9vnvljpvj8c47jw6ib9ws-go-github-com-hugelgupf-socketpair-0.0.0-20240723164047-9246f217b3fc
 /gnu/store/baqd89z9lw60ymy8dmx6rwi50lhizly0-go-github-com-hugelgupf-socketpair-0.0.0-20240723164047-9246f217b3fc
 /gnu/store/6ipr0kwq7aii3mxqp2031fr4syaaiqz9-go-github-com-huin-goupnp-1.3.0
@@ -29875,8 +29875,8 @@
 /gnu/store/8b5nbkhx8pf156pnp1zlh4j20chpbwg6-meshoptimizer-0.25
 /gnu/store/a31kchdkbrfbmvccimpz908ziv9w8br0-meshoptimizer-0.25
 /gnu/store/svxic5mcg45hai3q4ff5d2mipzipkgmv-meson-1.9.0
-/gnu/store/hl3cc5xpfh0rb9qccmhn9spl4knspqki-meta-package-manager-7.5.0
-/gnu/store/mfs2h7gl731vsw7gd4jsg5gh7r1hzh4q-meta-package-manager-7.5.0
+/gnu/store/bq3pss5qzkhxkzfgkijkyzmvs5lai7p0-meta-package-manager-7.5.0
+/gnu/store/r5jn6pgqx4w9fw4k61acs99l0skz6s23-meta-package-manager-7.5.0
 /gnu/store/hcyxp9fjhd75wg4m5n8vdcmp92hrazm9-metabat-2.15
 /gnu/store/2nf8n9wp0if9iyp683a78x2kgzrya6ya-metacity-3.46.1
 /gnu/store/8yxwlvbdl290wwimwcm64fizhvfjhp8s-metacity-3.46.1
@@ -36440,8 +36440,8 @@
 /gnu/store/949g4bgyrb3dg75s200y6dyn3binf8fy-python-click-default-group-1.2.4
 /gnu/store/2hyixs1qyfm77bhccfrx4aqc358mgfcr-python-click-didyoumean-0.3.1
 /gnu/store/cj2fij0ffadmy1rihrff9c50ldvvnc2m-python-click-didyoumean-0.3.1
-/gnu/store/md31lrakwhy3pb28sjbyvwqh3l6bld79-python-click-extra-8.8.1
-/gnu/store/xlm8mbihhihbscamdbbmbcak95w6cvyg-python-click-extra-8.8.1
+/gnu/store/40b60b58n1wwk0vq9wwdshgcg2z9bamb-python-click-extra-8.8.1
+/gnu/store/rdvh38pmajxss04ij6h83k4jv512h6nc-python-click-extra-8.8.1
 /gnu/store/1zyhpl6p7v6147825wavvcsjkg8d2hq4-python-click-log-0.3.2
 /gnu/store/y3kschxbjiqxbyyy78wqkvcgs20dv39a-python-click-log-0.3.2
 /gnu/store/n7bwzci66k0zr0m86hi1fj78c3y55h58-python-click-option-group-0.5.9
@@ -54115,7 +54115,7 @@
 /gnu/store/wzvpirpx4pikvyanjsjm599msf8vqhsw-sooperlooper-1.7.8
 /gnu/store/lvxw8qckaxcdja417msgn6v0w9cczv2d-soplex-8.0.1
 /gnu/store/s9686zk948726g2ha8v1rykc3z33m5k9-soplex-8.0.1
-/gnu/store/4i78klirwzwbcynkjp1652qgyfbzpi1c-sops-3.13.3
+/gnu/store/4c3pvih09v0gz3867az7f4g6bplhxgpc-sops-3.13.3
 /gnu/store/9crlpxmaqywpx3cidqh6fq26blc4n93s-sops-3.13.3
 /gnu/store/fv8vvhvmdpzcs5n2j6cwwma1a5r59kcy-soqt-1.6.2
 /gnu/store/n3appm5waczjsghgk93zpvss8x81cs6v-soqt-1.6.2
