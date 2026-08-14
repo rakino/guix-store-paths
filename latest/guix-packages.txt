@@ -8001,8 +8001,8 @@
 /gnu/store/ws19x96jx0r5frq64i50d77jpbhmq7mw-emacs-ace-window-0.10.0
 /gnu/store/4znsaphp5774bc1m6frn34g6c7pz2jgf-emacs-acme-theme-1.0.0-0.7c408d1
 /gnu/store/5niijh79v33sx9asxvzkp580i06drfa6-emacs-acme-theme-1.0.0-0.7c408d1
-/gnu/store/j03hbg9pxw0h6v0lr54y91ywvf2pyk25-emacs-acp-0.12.2
-/gnu/store/l81j98nhlpizzx75apd1p0s84fbvlfnz-emacs-acp-0.12.2
+/gnu/store/jskv210hpyh8mkg5z6p8cplxvqah924v-emacs-acp-0.13.1
+/gnu/store/m564r4dhcqa40bvy1bifp98lv25k7jij-emacs-acp-0.13.1
 /gnu/store/bzrhkcy4qii4xf8rlahmkj8h46hvn6kx-emacs-activities-0.7.2
 /gnu/store/qpy5ss0gzq0vcqj6wkniinxw6ybqcm68-emacs-activities-0.7.2
 /gnu/store/kf63646c57d914sbgc5dyq02bkph8psq-emacs-activity-watch-mode-1.6.0
@@ -8027,8 +8027,8 @@
 /gnu/store/laxhsb0x7xv768xnx76a0k98ad95p189-emacs-agda2-mode-2.7.0.1
 /gnu/store/gcgsclk20wrywx9xb1n5z9cgybk4296v-emacs-age-0.1.9
 /gnu/store/icvjz5cld7h2912vh5b6dvwan0bb6xp7-emacs-age-0.1.9
-/gnu/store/mjbvrdgwc0643h43g8lvmwhdw89xyync-emacs-agent-shell-0.57.3
-/gnu/store/vd9g0f87zls0bfnd5ih2w9j282asji62-emacs-agent-shell-0.57.3
+/gnu/store/6d91rsiwhfpmiskxvmm1a59mzc38msar-emacs-agent-shell-0.72.2
+/gnu/store/iaz3kz582189bicxxpxk6bml4510n49w-emacs-agent-shell-0.72.2
 /gnu/store/2vmyn6wwmn4z51qna9jnxc62x0qn9jzp-emacs-aggressive-indent-1.10.0
 /gnu/store/ww7dmwgvr23fzwv1f2avr06ipdsns6mk-emacs-aggressive-indent-1.10.0
 /gnu/store/9n3q5dz4ksr4iphd7ga9mky39xv62s93-emacs-agitjo-2.0.0
@@ -8267,8 +8267,8 @@
 /gnu/store/kic5qmmqdib4356bwm50jxj3n7xvkiqd-emacs-centaur-tabs-3.2
 /gnu/store/dlrlw3s1jip9fdjmbkwddmfpfsgvmpgz-emacs-cfrs-1.7.0
 /gnu/store/nf3dvzdvdv6c41yl5h9m6i05kwqcg8sb-emacs-cfrs-1.7.0
-/gnu/store/63xrcisbgbpi8n4sm23q2mmk2mbmdym9-emacs-chatgpt-shell-2.30.4
-/gnu/store/683bvlsfh48ha3wggnyr3larbsfl22x0-emacs-chatgpt-shell-2.30.4
+/gnu/store/5ikxyr3fpwgcr5bjyvd1hc8pn934g2k4-emacs-chatgpt-shell-2.30.4
+/gnu/store/ab8yl0x1mrnir10bcryinr73zcvvkzrj-emacs-chatgpt-shell-2.30.4
 /gnu/store/3bsr9d8jvb6gdj7afrgsb2dahj1mvpi1-emacs-chess-2.0.5
 /gnu/store/wkb14d4hy9r6fzm8q9bmkqr6qwlvhm73-emacs-chess-2.0.5
 /gnu/store/378n5jmnprrdqybbx1j2hahhcng089lk-emacs-chocolate-theme-0.2.0-0.ccc05f7
@@ -8505,8 +8505,8 @@
 /gnu/store/imf9z47c591ay1gqhxpsm794n67m9kzn-emacs-d-mode-2.0.12-1.a4f9026
 /gnu/store/3x8fjqn0lah0p420yfm4lzzn9g9l7pzn-emacs-daemons-2.1.0
 /gnu/store/ysn4ylwl8z87wacvv93574z0gn44kd2q-emacs-daemons-2.1.0
-/gnu/store/m9afs0xwh4bzpi5is8r67pngilijdpv3-emacs-dall-e-shell-0.43.3
-/gnu/store/sy81kjx9nrqk80mwf5k7mbhfp504bppv-emacs-dall-e-shell-0.43.3
+/gnu/store/6iz30jjq6z03p5d140pzyy9wyjmx0mfl-emacs-dall-e-shell-0.43.3
+/gnu/store/h0dp7k2m86wwlg3fhwgh7mnvs6rx35yn-emacs-dall-e-shell-0.43.3
 /gnu/store/65mzjvp3zvbdmfd6x39m8yq477fylf1k-emacs-danneskjold-theme-20231110.0
 /gnu/store/7kw4jhim3bvzxiybal2g72fs525j3mka-emacs-danneskjold-theme-20231110.0
 /gnu/store/s9v86ip7dx1g5s4ij70k7v1vk0rxi3pq-emacs-dante-1.7
@@ -10881,8 +10881,8 @@
 /gnu/store/mgcg9dbyr29dafznvj1j6ipbm9w1vmiv-emacs-shell-command+-2.4.2
 /gnu/store/2c8xfzfhqklj94zmars0vlz72ismlnig-emacs-shell-here-1.3-1.eeb437f
 /gnu/store/6xvyf4r0443004fpvk8diylkaz2pagj1-emacs-shell-here-1.3-1.eeb437f
-/gnu/store/39rcck536qws6zijh5imwyck0wm82rgg-emacs-shell-maker-0.93.5
-/gnu/store/5nk39qa3wkw92fkcmyfi66z25m8sww6h-emacs-shell-maker-0.93.5
+/gnu/store/1xnv1dnhzpp4x4z8n5f031g1i06qgkw8-emacs-shell-maker-0.97.1
+/gnu/store/ffrb08a5xy4zn94pg829v4aymfjncr67-emacs-shell-maker-0.97.1
 /gnu/store/abbprj3ayfz392v2dzv0612ldxxj6ds7-emacs-shell-pop-0.70
 /gnu/store/y8ifxxx4lk69ydasmr6njsdj667s8k5b-emacs-shell-pop-0.70
 /gnu/store/ff9lsbh3ysqpah6djni7hmd1mk05xhgl-emacs-shell-switcher-1.1.0
