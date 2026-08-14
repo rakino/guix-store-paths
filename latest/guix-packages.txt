@@ -5313,8 +5313,8 @@
 /gnu/store/lll9xbyb92p6qzp0wf1y811rq7xf5wyy-didjvu-0.11.0
 /gnu/store/d4hvwybawg1qnh7r1arc2dm8149nrsrp-diff-so-fancy-1.4.4
 /gnu/store/k38rqhsr2c3dz3i5k7434i7xqn0iqnfv-diff-so-fancy-1.4.4
-/gnu/store/7vvmx3lnphzb3bf84j2f3wlmwckxd3a0-diffoscope-325
-/gnu/store/izh8rbf19hrwvqwrd77h4gx791pdasbm-diffoscope-325
+/gnu/store/40ixr7dmisi9chjsxbbszsal3bk0zd6y-diffoscope-327
+/gnu/store/wlk0z1kgbc98y5hhif8xqxv06mcx1q2i-diffoscope-327
 /gnu/store/5b3ghny1aw9kbym0475hm9q10z65qd1j-diffpdf-2.1.3.1-1.ba68231
 /gnu/store/dbgv6kv5sbr21s6g00rcwwbxiy14p8lk-diffpdf-2.1.3.1-1.ba68231
 /gnu/store/cl012ylhgd5wrik7lfwz4hqk8g853g1j-diffr-0.1.5
@@ -49456,8 +49456,8 @@
 /gnu/store/fval6wmfjmac9gnjlm4r5cvam7ws91sy-reprepro-5.3.0
 /gnu/store/13rjc297j9y96gqmhhnqp00zyxbr4y51-reproc-14.2.5
 /gnu/store/5z31s70wfdy8czffg6x602jlffnkm119-reproc-14.2.5
-/gnu/store/73lsinqwxiz2f7hvgq06xcf2kn9xbyrg-reprotest-0.7.32
-/gnu/store/ddh28hzq19bjxrz7v821mkibx53i3311-reprotest-0.7.32
+/gnu/store/6a4m79k7iaicr9z835lbxva371r1i4w0-reprotest-0.7.32
+/gnu/store/i5v0pz0lhz5gaggg0aik6k1nmrlvxk7v-reprotest-0.7.32
 /gnu/store/7six0mi48xxnwli7zz4awps06k1cm8bd-reptyr-0.10.0
 /gnu/store/nb6hzq4mpyxrf8kfa7ncgg2dg4cs5d0m-reptyr-0.10.0
 /gnu/store/2h4cn1s4612zjcbsl0njn90v7yj619bn-resample-1.8.1
