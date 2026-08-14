@@ -21864,8 +21864,8 @@
 /gnu/store/xnxl5sv3rifrhzs1qg48balcw6dd90p4-guile-ac-d-bus-1.0.0-beta.0
 /gnu/store/656v2cl9gj5pzyxqlxf5dc08fmjb4ziq-guile-algorithms-0.1
 /gnu/store/rfji1c4yjr40hnssv6z0ix0askl5b4bj-guile-algorithms-0.1
-/gnu/store/6qmvq6jqhkzzzfaw7rf7d5pd2lrwvw73-guile-ares-rs-0.9.7
-/gnu/store/vh0wbp1snw310pd7797ancynysbw3inq-guile-ares-rs-0.9.7
+/gnu/store/bv7wksc8v7ixymxm6xmicjdimpan8fas-guile-ares-rs-0.9.8
+/gnu/store/kfb3h52jxsvclh36ayj8khanc995rrjg-guile-ares-rs-0.9.8
 /gnu/store/6sjyml4yi5pw28qpwn5fldcls7bi7qyb-guile-arguments-0.2.0
 /gnu/store/jfbk5rxmzfh4kmws6zqvzk8db82bxi38-guile-arguments-0.2.0
 /gnu/store/dnzav7v0yq91lnk0k9qbiz1f5sdhdk3d-guile-aspell-0.4
@@ -27935,8 +27935,8 @@
 /gnu/store/gvfg2r95cndwlibzywpk500x4yjqgl1l-libretro-slang-shaders-0-1.82d91f7
 /gnu/store/gkasij9xwp2s8hrw4gk8v8smy59qqv1x-librevenge-0.0.5
 /gnu/store/r0181yhzavlzbkrzchn0ki6nhk6j7mi9-librevenge-0.0.5
-/gnu/store/ivrd7banybap581xl21p5pllwkgdx76l-librewolf-153.0.3-1
-/gnu/store/kbh34261dirvzh6gv0m6ffg3ng3g3afc-librewolf-153.0.3-1
+/gnu/store/l9zj1snh0pl107b9rfzvw6s1kn236za0-librewolf-153.0.4-1
+/gnu/store/lvamz14jyq4zmjjspv5bihx7lzamkfwx-librewolf-153.0.4-1
 /gnu/store/8jg872xvyqxydzacmvngcvk33kxw8dm0-librime-1.10.0
 /gnu/store/jzbhp43d2bh2a1z9zcvxkj8ih97dc62m-librime-1.10.0
 /gnu/store/6d6xqbzzb0580yddmjp1mpq9w62m56fa-librocket-1.3.0.0
