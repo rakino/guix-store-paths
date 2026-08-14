@@ -32,8 +32,8 @@
 /gnu/store/p3s9as06rddnsbdxyybk6plxir9wzp3y-abc-1.01-2.8e224cd
 /gnu/store/a3506i561acds6qsysp7iaq8372kc1wb-abc-yosyshq-0.68
 /gnu/store/dha7qrbym4ygg1n4nx567n6dpjdvxgmy-abc-yosyshq-0.68
-/gnu/store/4qdsjanc3yag4z74kdcnkg6zcivi82ra-abcde-2.9.3
-/gnu/store/lq9brzqgwc0m780brcj8mwix0w7ikpb5-abcde-2.9.3
+/gnu/store/7f36avkszm0p1x3aranm57gyn6vavfaa-abcde-2.9.3
+/gnu/store/g9pcykm53qbp7vx6gp26srr4y6a85xws-abcde-2.9.3
 /gnu/store/b5ch0s3j5mqncy6hvlj4ifg0mvg1ls2w-abcl-1.9.3
 /gnu/store/bgjjnmbrdybfwkk2mjvzxii1gyk1ynbn-abcl-1.9.3
 /gnu/store/jizzj9h12asvfr1bksjwjx898sknx52h-abduco-0.6
@@ -21339,8 +21339,8 @@
 /gnu/store/vqqji51sz3n6gp1ma428cf1cqzqyxhh2-go-ulid-2.1.1
 /gnu/store/hv578b10yqsgq5dpp0b1y1f53622bpdb-go-webdav-0.7.0
 /gnu/store/lrs0s6j69pqil33mbnj2fkz5iwy4nx37-go-webdav-0.7.0
-/gnu/store/hv5pf70gq874226hrv1j31mcvdhswmja-go-webring-20220426-0.6786a27
-/gnu/store/qksxz402xdw359djg7p8m1wxvbn5vpgk-go-webring-20220426-0.6786a27
+/gnu/store/d2d3v4bn6nif1kxvv491j3wy7rd1zcdd-go-webring-0.0.0-1.2a370ae
+/gnu/store/dql9brg3slk2vnma2vy8nmlh2fsrk65l-go-webring-0.0.0-1.2a370ae
 /gnu/store/2hp0d8n45dkagpv6n8fhg1sfa2xc280m-go-wrap-0.3.2
 /gnu/store/iif0h4q4g6zfp2kqcvj3zgy0cjfqyj98-go-wrap-0.3.2
 /gnu/store/0z82saqzh9y7fpgiirz60bxpx82xfk8n-go-wrapcheck-2.12.0
@@ -26124,8 +26124,8 @@
 /gnu/store/lghrr4qzd62nnsw3cl1mqk2mcgy8apji-kimap-25.12.3
 /gnu/store/8my2l9d2c4j37kflclmgvah4iix0lj5p-kincidenceeditor-25.12.3
 /gnu/store/nzs4gmmv33jki5vbzf04990ihi7g4x9v-kincidenceeditor-25.12.3
-/gnu/store/8g6c4ls8nymr2rng20c4igwa58f0dknf-kineto-0.0.0-20211105093215-857f8c97ebc5
-/gnu/store/h1q0ip63f4d2xrf49008gjgfpsy1d373-kineto-0.0.0-20211105093215-857f8c97ebc5
+/gnu/store/8r4549iv3fgrcnwi56gnp4954vvc0l9m-kineto-0.0.0-0.edd4fe3
+/gnu/store/ys7przv10hnwl0x7x8hq13g0q7dabspl-kineto-0.0.0-0.edd4fe3
 /gnu/store/6wpxgpixk9bh9bkm1z27b0s5307cd80r-kinfocenter-6.5.5
 /gnu/store/sayjlx9lqs1mlrwg789a80bxzyp5wja0-kinfocenter-6.5.5
 /gnu/store/cjhlnksix4np3f12jhwgz0dwpd3k6y7s-kinit-5.116.0
@@ -35507,8 +35507,8 @@
 /gnu/store/pr18wz4a73rsr4y2lcl1zhg9szws59jf-pulseview-0.4.2
 /gnu/store/nx2yyz0i5lmn82q7j8r5576djc9l5qb3-pumpa-0.9.3
 /gnu/store/wy26kadb4x9k8d9hifa8ipakdcvkq13m-pumpa-0.9.3
-/gnu/store/8vb0ck5h8hcwwlyc54ss5l2jqn2ajx0z-pup-0.4.0-1.681d7bb
-/gnu/store/zlzmi2ank3r1gm1x06j2l9zsms4vn6hz-pup-0.4.0-1.681d7bb
+/gnu/store/m210nhxal4l588ipcg3nrfh4l5xv8aka-pup-0.4.0-2.5a57cf1
+/gnu/store/zgck5js7bs7hmid0afhaqflx5s1wjjzf-pup-0.4.0-2.5a57cf1
 /gnu/store/jq127k00myn5djxp7m1idn9wgq32lv5q-pureos-archive-keyring-2021.11.0
 /gnu/store/yhd5axjyj3zi2py7fr8v7q4xg6mpd4f0-pureos-archive-keyring-2021.11.0
 /gnu/store/6bnigmdx3kxb775ngb7nz6p8np3fsd19-purescript-0.15.15
@@ -35605,8 +35605,8 @@
 /gnu/store/s0fwhj9knifdwig0jai5brp8nha0iqlq-python-adari-core-4.3.0
 /gnu/store/9zki237079cippcag9jazjfhrmr0q42k-python-adbc-driver-manager-1.1.0
 /gnu/store/fay8i0slb4hchxq2y9yq87hq60bx8pwg-python-adbc-driver-manager-1.1.0
-/gnu/store/cnqk5s7ah5pzjpkrd1n24ywabb7yq7hw-python-adjusttext-1.3.0
-/gnu/store/sj7a5y3h0g18rcm7mdr0d7n88p4md38d-python-adjusttext-1.3.0
+/gnu/store/5gi7lqhf89zmid3xzsghacwyz05iygqi-python-adjusttext-1.4.0
+/gnu/store/sijd38vgv9g8mv2mmngm9fnhc9ycb0kx-python-adjusttext-1.4.0
 /gnu/store/c3b6gqnl0pjh1jb28x7qh0ajcdmrrrs7-python-ads-0.12.7
 /gnu/store/g482pxxnq9b6876caf0ad2ag9v06j18m-python-ads-0.12.7
 /gnu/store/2xkm2hpncwf04804pdsd15m77yrbrigc-python-aenum-3.1.17
@@ -36823,7 +36823,7 @@
 /gnu/store/rrdishz6ndz4z3rkf0m97a2di5cs28h9-python-decopatch-1.4.10
 /gnu/store/fa27il0yw3dl579klz1vaqv8jbij0sd4-python-decorator-5.2.1
 /gnu/store/k2mhvn554qbk3s90kwn4vd6s1wynhrwq-python-decorator-5.2.1
-/gnu/store/4mpgl2fs0a87mzqxf06dwc6jgrsiyj0h-python-decoupler-2.2.0
+/gnu/store/6ipwc8z72g4cb4mb2k303qbymm5g5apq-python-decoupler-2.2.0
 /gnu/store/1dxh4sp261a9wv2z2x4wzd3hlwxqqmjy-python-deepdiff-8.6.1
 /gnu/store/7zbgk1ak1fkiwhqng9apv5d70411lgb9-python-deepdiff-8.6.1
 /gnu/store/6r11dx58j3ziiynhqa6kzkmsjag3a19f-python-deepmerge-1.0.1
@@ -38525,7 +38525,7 @@
 /gnu/store/yrg462cky8ya8f5mzbk564gnislk2s1h-python-lexilang-1.0.7
 /gnu/store/lp41n98pagkkgq1cizw29zvb32zjh3sw-python-lfdfiles-2026.4.30
 /gnu/store/yi40k7h3cmlx5m9cd7d8i92449vwkqwl-python-lfdfiles-2026.4.30
-/gnu/store/2vr3j4rrifnxwaikmr9g9fk5ahyk2v7j-python-liana-py-1.8.1
+/gnu/store/smmh7z8h62nbpgvs6aqhwrb1nc08p2xk-python-liana-py-1.8.1
 /gnu/store/fskc3jig82rp0jgnzff524nrc0gj82xq-python-libarchive-c-5.2
 /gnu/store/k4lyra003ka23xg493dgsvrxcmcxikdv-python-libarchive-c-5.2
 /gnu/store/pl4bg704fcwx7i00jkj0h1r4zbbcn343-python-libcst-1.6.0
@@ -38814,8 +38814,8 @@
 /gnu/store/fh7my7l50mk7n7v0xah6cbpnycjk9f8z-python-mergedeep-1.3.4
 /gnu/store/7nph2habg19swxqn8v7f768dsi1ia1dr-python-meshio-5.3.5
 /gnu/store/y2j4g0zqjnz0cnjlw74qxnfdmcwl7ivq-python-meshio-5.3.5
-/gnu/store/48x7x90cwcbzssvi3p7x1pd241mv9gv8-python-meshtastic-2.7.8
-/gnu/store/5z81iny5bm4v1gvzprlx9x7433l423hw-python-meshtastic-2.7.8
+/gnu/store/3w8kc87qiqqm0mbiz3s9d2zavsiwjgrw-python-meshtastic-2.7.8
+/gnu/store/77byk46xswj6qqinkdfmzvrr49v8jkzm-python-meshtastic-2.7.8
 /gnu/store/dfmw78k4lxjjncdk2i0i7qdy2236l4xs-python-meshzoo-0.9.4
 /gnu/store/wb0qhkc3q96cl1mjlbysnk4v6pcnhzry-python-meshzoo-0.9.4
 /gnu/store/ha435wb9sbkicz43jsnsvis7mfy8i0nz-python-meson-0.19.0
@@ -39135,8 +39135,8 @@
 /gnu/store/9zwm0ssfaf7cy1wmgjlsi3ab1fp3pp5r-python-notmuch-0.40
 /gnu/store/0kr36nc3g8gamrqpjp7qll12m6br58ww-python-notmuch2-0.40
 /gnu/store/d8fwhrzz615h6jj3d3c6z6iyymrixkwz-python-notmuch2-0.40
-/gnu/store/18262mfifi4j4vdmgpnd3rspal9lvl34-python-nox-2025.11.12
-/gnu/store/788m7139l3scd7rdwgkikbnkhlikxh45-python-nox-2025.11.12
+/gnu/store/8zgwmpadgx9fkw98r3yvira66bz78zfa-python-nox-2026.08.10
+/gnu/store/gyscaccvxi6qjq9dcg7rn481510q75v4-python-nox-2026.08.10
 /gnu/store/fkjy7s90gjsim90ifygz48yz9n3bfki9-python-npx-0.1.6
 /gnu/store/zggrxbzc3ss2nqf2dlmwryl4dcjvkkd0-python-npx-0.1.6
 /gnu/store/55xlgkk58w00jvpgzqb2nnb0ccsvv2j7-python-nr-date-2.1.0
@@ -39379,8 +39379,8 @@
 /gnu/store/jwfk2f105zi25gszz5vdpfm4z9hzrsy9-python-pandas-flavor-0.8.1
 /gnu/store/4qqiig451ibcplrdimxgab5h39hz6jl3-python-pandas-minimal-3.0.3
 /gnu/store/5i83zprh838brzyk0a37sk8pfla7hmba-python-pandas-minimal-3.0.3
-/gnu/store/4sj1a46750wyz4jwabbzdjnqn42mps11-python-pandas-stubs-2.3.3.251219
-/gnu/store/gxq95gl6bvapf2p6b6l68p1k167n68da-python-pandas-stubs-2.3.3.251219
+/gnu/store/fsklrx9d3j65px9ysf7d1khqpy6q8xm8-python-pandas-stubs-3.0.3.260530
+/gnu/store/wjhf976vaaw9h9wr3pi93bl577a2aydj-python-pandas-stubs-3.0.3.260530
 /gnu/store/33cvviwv280kb9ccdkddsf2asfwgsv2l-python-pandera-0.31.1
 /gnu/store/mw4ip1r7kmsjm9nr5gzy8p2clcr62a10-python-pandera-0.31.1
 /gnu/store/847gs6g1n4mbd8fgy4cnla9157z1dgwr-python-pandocfilters-1.5.1
@@ -39594,8 +39594,8 @@
 /gnu/store/v4d4vpb9g4lchwc9hbbyg4mwd8z41swh-python-plotille-5.0.0
 /gnu/store/bsl29x2xv9slmb5gcdg218hy8fgvlm4f-python-plotly-6.8.0
 /gnu/store/y3xwrllavnih11zvf99m7n90l7gaj3d0-python-plotly-6.8.0
-/gnu/store/51xvig291b61sgcirwpm4yx5yr2klr04-python-plotnine-0.15.7
-/gnu/store/9fsnrdx8ak8lzdblsdxjna764gz96is0-python-plotnine-0.15.7
+/gnu/store/28n17m1h7njkg7w6gaqd5x8gvh3xj66m-python-plotnine-0.15.7
+/gnu/store/igi0n0kpi239cxl1qncwnyg7yp37zdjs-python-plotnine-0.15.7
 /gnu/store/6961yf27q8wmzak4xrrgj452w6pv58hg-python-plover-stroke-1.1.0
 /gnu/store/h58yim8vf9ghafwq0fwpr75wjllp3m6k-python-plover-stroke-1.1.0
 /gnu/store/2mwlp10a8nnbifwsz79l03nr52z3y2rn-python-pluggy-1.6.0
@@ -41984,8 +41984,8 @@
 /gnu/store/zr8whz0g3nysakjmprbv26hqdg5j384j-python-tortoise-vector-0.2.0
 /gnu/store/945wpsi26n2iixk42xdxjfzsxb0sjizk-python-towncrier-25.8.0
 /gnu/store/if2a1qdbw840h11ck2yk9qn6vxabjpxi-python-towncrier-25.8.0
-/gnu/store/1v46zl5b8213z794p6rr5sj8ll3nxa4k-python-tox-4.27.0
-/gnu/store/zingnsvrv25zgapmizkfzw7dsbz0gmi7-python-tox-4.27.0
+/gnu/store/0l0a1iwhvil3wnjjqi7fipgz8d22iafk-python-tox-4.37.0
+/gnu/store/5fsx0vk1v5308xx0myalvr603mwy890d-python-tox-4.37.0
 /gnu/store/95hs2aypa5v7hfhvac7avs6jjafa13jh-python-tqdm-4.67.1
 /gnu/store/vxb012j8xbzici9cjxi35wdkyiafs04g-python-tqdm-4.67.1
 /gnu/store/2rn5504cxhr8clxbkpzn00hn2pjxb9iy-python-tracerite-2.5.2
