@@ -75920,8 +75920,8 @@
 /gnu/store/kfhhvqmgc37zbag4i7yfg4j48088bcyd-wiggletools-1.2.11
 /gnu/store/60nkn1nlrqmq5v71fg0bsgs80wmwg1r6-wildmidi-0.4.6
 /gnu/store/j9yinq5ngjs3hxcq0960najf0vawydjw-wildmidi-0.4.6
-/gnu/store/kjafwam3rp7gr4i9l133md4rvny77iam-wimlib-1.14.1
-/gnu/store/vnzwyf90wz03gsxiy8pmjpbd6hwkgai9-wimlib-1.14.1
+/gnu/store/nqw0l2diyawdml7xcfp8krr6528wi3ds-wimlib-1.14.5
+/gnu/store/yamy8wn36yfkcj10l3d93pj06450g2nk-wimlib-1.14.5
 /gnu/store/6arkix5168rnblmw13v3zkg05mnp20sn-windowmaker-0.96.0
 /gnu/store/8m7qflwgs6kibn08708sqsnp37kahagf-windowmaker-0.96.0
 /gnu/store/638ic5qsmxr6m9sifg99iwjfjcmxpi6d-wine-11.0
