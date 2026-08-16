@@ -49323,8 +49323,8 @@
 /gnu/store/w13y9hnvlfhh8lb7xmf28bv0bvwjnip8-rav1e-0.7.1
 /gnu/store/ldw6w53gppgp2d4pvdp3m4hwrci7z1l0-ravanan-0.2.0
 /gnu/store/sy5jmlz1d8qv482j48zxig97z2mw6kj6-ravanan-0.2.0
-/gnu/store/aa746wa47l0mm4hwkqzkq850lr0ysfch-rawtherapee-5.12
-/gnu/store/ka5zb3jasw3s727yr07822r6g2rzw9ci-rawtherapee-5.12
+/gnu/store/w2yhfrd5bqikkb8ff28sikih3wmgrdyh-rawtherapee-5.13
+/gnu/store/wsr0hdi12pkd11ibid9821fsd8vgp4jn-rawtherapee-5.13
 /gnu/store/djvxdml1dy65w04rx01k9jgfdhicsyrl-raxml-8.2.12
 /gnu/store/jnpaxvvlr543lklcnnzwva6zhc0jv0nz-rayforce-2.1.0-1.a4a4d05
 /gnu/store/lal6q2p2dg4m5bbzy2f3y248pvl9sc3m-rayforce-2.1.0-1.a4a4d05
