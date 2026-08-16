@@ -233,8 +233,8 @@
 /gnu/store/ahd1dbszy619y6lvy15m7068hqcpf181-hplip-plugin-3.24.4
 /gnu/store/1jhm8p54by9iah97dwkvazavxzvipw5i-hplip-plugin-3.24.4-ppd
 /gnu/store/f7vpzyz5763vb4y0fir44h5fsn5gy4fz-hplip-plugin-3.24.4-ppd
-/gnu/store/8hixzs38mfrmpp26vh70x2wzf0w2nz4b-hugo-0.158.0
-/gnu/store/kmfjfy1lq4n3fhba3la2sw2925i28scx-hugo-0.158.0
+/gnu/store/cbr7kx765wvr51zc042w5bzfpz6n0wz0-hugo-0.158.0
+/gnu/store/qqxwd175q8fkp8v0xw1w0rygh6yslx29-hugo-0.158.0
 /gnu/store/1h3adnpad778x1g3kgwc7hgxnjkay8gp-hybrid-v35_64-nodebug-pcoem-6_30_223_271.tar.zst
 /gnu/store/gvd8sz52h5326xpl3sjdbyvwqb1bx3ay-hybrid-v35_64-nodebug-pcoem-6_30_223_271.tar.zst
 /gnu/store/0i1apzpxjkxpla7x0lscwz0xvqvdpdm0-i915-firmware-20260622
