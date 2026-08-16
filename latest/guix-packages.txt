@@ -12151,8 +12151,8 @@
 /gnu/store/q5g7jqzrcxfh30fgl4pbxwmrcx0bvd6a-ffmpeg-jami-6.1.5
 /gnu/store/c8frjp8wvxx95q7sdh8a372c3vd6bp22-ffmpeg-jami-6.1.5-debug
 /gnu/store/flbjdwmrl0vyz6fjzcyfhh91gxaz0n9n-ffmpeg-jami-6.1.5-debug
-/gnu/store/qs1911jmq5nzfjgf2hfs4drmx1bmipn7-ffmpeg-normalize-1.41.0
-/gnu/store/yi80rf65schl9psa4vza8f91k34f09ip-ffmpeg-normalize-1.41.0
+/gnu/store/qza0k9hjvlxw8zbpnzpzp54n0dq863kg-ffmpeg-normalize-1.41.1
+/gnu/store/ykldy5i5r0xxz44cxq8k5shjy505wjp7-ffmpeg-normalize-1.41.1
 /gnu/store/0fqidvfwqd16r71ysymd80j9xmkybvf9-ffmpeg-progress-yield-1.1.3
 /gnu/store/bx10bpznfg27kwgymx9svk1nd53s7n7y-ffmpeg-progress-yield-1.1.3
 /gnu/store/nyd49wk1c00xm5kccxk9f0d0gwi5y7za-ffmpegthumbnailer-2.2.2
@@ -27624,8 +27624,8 @@
 /gnu/store/yk1szlk91s5dhnz7d799asz35qii71yz-libmpeg3-1.8
 /gnu/store/vjs16blrda1ccqk5fgp9sjcd3nk2jxqv-libmpg123-1.33.5
 /gnu/store/wl1av12wsikbmrlir8v5s8k9wvyf17i4-libmpg123-1.33.5
-/gnu/store/3hvv3nkc0qr4f5z1pzlppilqdxacc6dm-libmseed-3.4.0
-/gnu/store/9zy1kbysica25f6hihfg7rz8174fp91c-libmseed-3.4.0
+/gnu/store/5qc8zk91pyw4h5dw2ghgjq5lkvcghs6d-libmseed-3.5.4
+/gnu/store/9iwg74iqj4cdznjk7rpgxqppcn8wi60i-libmseed-3.5.4
 /gnu/store/dh9hnsgxafwcqpln814apaxji229mp26-libmspack-0.11
 /gnu/store/lxl2aqkxlk5w7kmdqrp14l5af7wkf4lj-libmspack-0.11
 /gnu/store/c02jy5ar5gg8s4afdy0ipv6a46k128s0-libmspub-0.1.4
@@ -35316,8 +35316,8 @@
 /gnu/store/cyyyrad3h674psw34f5w15nw4q8jwm3c-pragha-1.3.4
 /gnu/store/8bl5svn1x7161l1xlq6gqibyicxwbgdp-prank-170427
 /gnu/store/iwlyhz1z6qhaby03vy9ywj24lfq03vmj-prank-170427
-/gnu/store/2lsj5skk004ca9r6vh3ssvx08vz17j26-pre-commit-4.6.0
-/gnu/store/wn8igmyh2ziyih8fcar7y76f8hvfpx89-pre-commit-4.6.0
+/gnu/store/gzl2zg38yhj3c7wwvivx3s9kjn61fk69-pre-commit-4.6.2
+/gnu/store/xca03s45g8hxjw97rzl5yc8miq3sljjp-pre-commit-4.6.2
 /gnu/store/gjy7hk57iwv6dj3clc8nlw3bfvf6cih9-premake-4.3
 /gnu/store/kp06zjpswxyxf0nhldm9jxal12dn8lzm-premake-4.3
 /gnu/store/881ybyns8z6pn3g83m1jvxn56lr1q3lz-premake-5.0.0-beta7
@@ -41839,8 +41839,8 @@
 /gnu/store/cpibdk8dyjix44pi378fwd05271jx0jd-python-synphot-1.7.0
 /gnu/store/3zsdsq2dymmw5a50dqyp3i1z6d3qij4k-python-syrupy-5.0.0
 /gnu/store/vynhwsa1pdy4r5k89sd9xzajqpggflmm-python-syrupy-5.0.0
-/gnu/store/la1mvz45d04aam0h8bma4sxk2ian3zaw-python-ta-lib-0.6.8
-/gnu/store/v95vdgjlms04ip6iclg3lashap1x7kx5-python-ta-lib-0.6.8
+/gnu/store/9nw1fhi8jq2g9h5vn3pyxwrl3bppjv50-python-ta-lib-0.7.1
+/gnu/store/h3ngwkqrwlm9bzkgdgdhb7kgncfpfh9s-python-ta-lib-0.7.1
 /gnu/store/88z8r7fcyzsq546ay3190091cxgjzv6r-python-tables-3.11.1
 /gnu/store/bcq1rl70kcjjz0qp09ccdkagzfkkvvh6-python-tables-3.11.1
 /gnu/store/6rd5yhwg0pi9yvjnci7wn1pjhxgmkdks-python-tablib-3.9.0
@@ -53799,8 +53799,8 @@
 /gnu/store/a2p8i4k6kkq2vq9457i734p0jm6pikrn-shntool-3.0.10
 /gnu/store/kk511fzkxiqcj66pzlgs2d576rwlg3dn-shorah-1.99.3
 /gnu/store/sc11cbvad9mk334whdarnqlpa78z4x69-shorah-1.99.3
-/gnu/store/bihmxf2z3a71sl1kf1jhagcjw8k8hw2x-shotcut-26.6.25
-/gnu/store/z30rf0bphf1jfi6l4j78gidh7gkvda1i-shotcut-26.6.25
+/gnu/store/nlsaz5k5rl7yl6f36sgagxygq61xgdp3-shotcut-26.8.1
+/gnu/store/vmrwpx3s56bcsqhyc92fvxvdd027xpka-shotcut-26.8.1
 /gnu/store/3dsbm695b09crphz8g2ija65arj8hmz1-shotwell-0.32.15
 /gnu/store/xwlxx5yrnkyv2yaby75y6alv1farxc12-shotwell-0.32.15
 /gnu/store/00i9c664jgb85j4xinhz076hxi25ks4s-showmethekey-1.21.0
@@ -54808,8 +54808,8 @@
 /gnu/store/87b4kxlkp988qf70hxdfzrcg421wayjk-t-todo-manager-1.2.0-97.89ad444
 /gnu/store/14j1044aj86dcrfshgj323wxz4z5ifmv-t1lib-5.1.2
 /gnu/store/s1v608vjk4riiivg5lh5q4si3f2j585x-t1lib-5.1.2
-/gnu/store/2i73jcn3535pzwzfm7354y7pszs6923i-ta-lib-0.6.4
-/gnu/store/7csaa8smishfh3ajqb9w64ln8w3x0np6-ta-lib-0.6.4
+/gnu/store/fnglc527f5p99phfvc16psgawld50j7r-ta-lib-0.7.1
+/gnu/store/iwy1pi4qnqiamnfzdfxvnz3bwf6p4ai8-ta-lib-0.7.1
 /gnu/store/qlh5l1hpj3sp0226bcykf7zz5f33li60-tabbed-0.9
 /gnu/store/x6g59bq70ybcdzq5rfrsnj9p6c56q76x-tabbed-0.9
 /gnu/store/3k6iadv89kxnnl9chsic2kmh9gsmvsdj-tabixpp-1.1.2
