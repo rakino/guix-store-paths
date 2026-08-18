@@ -103,7 +103,7 @@
 /gnu/store/zys9iwdfj5g4p7n3f7w7drvs3pcz6233-emacs-org-roam-ui-0-0.c75fc75
 /gnu/store/n4zdd2xd9j9pikxrh9n9ig6cqx922qfy-facetimehd-0.6.13
 /gnu/store/zlja21j6y7v9g394rd7a2lcwk40bqyd1-facetimehd-0.6.13-checkout
-/gnu/store/d8c6bdgl3fzlp729n9vsi0n8z733zzhk-facetimehd-calibration-5.1.5769
+/gnu/store/afmjngg6qd7a1ixfafdz0sf5nayir1pz-facetimehd-calibration-5.1.5769
 /gnu/store/259h58kiiqlsxlprq0zs627r34s67f9n-ffmpeg-6.1.5
 /gnu/store/2hw4b24dwwqkx4rdcll7m8nplvda04ca-ffmpeg-6.1.5
 /gnu/store/2isbpz0iz00rw2zn04r43m52n3p575fx-ffmpeg-6.1.5
