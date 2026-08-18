@@ -32712,6 +32712,8 @@
 /gnu/store/f22i5r7ja9dx5l1gjlr01g2pkcaa40nj-parole-4.20.0
 /gnu/store/j1br72z9qx3vdzz1i9php6y3wzkr5m8i-parprouted-0.7
 /gnu/store/ylr362x3kry6z39yr2472mhwk31dvs8h-parprouted-0.7
+/gnu/store/7qgmi1yjn7p9wl9dd2dpb1my274bihfs-partclone-0.3.48
+/gnu/store/cz98wga0b8llfh4l2p73p6g7niwydxji-partclone-0.3.48
 /gnu/store/rknr3666vyy7393dxzdpp7wxvaz8zlp9-parted-3.7
 /gnu/store/s7vm4ad7nj1wq7yag70k0l9gannd5i32-parted-3.7
 /gnu/store/api28mi0lvls54p6xyihcbsxxzpmpg97-parted-3.7-debug
