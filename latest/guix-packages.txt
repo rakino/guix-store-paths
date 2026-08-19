@@ -514,8 +514,8 @@
 /gnu/store/lxafrh9qb6qsz5jg07qrjb02w5ja4wq4-ardour-9.2
 /gnu/store/5miwkjsc5ykk45vca70429dfhbahqq4l-arduino-cli-1.5.1
 /gnu/store/i402pvs9symy2n221py5g48y1bw1giv3-arduino-cli-1.5.1
-/gnu/store/bm1ir3dh0473nn9kh4psqhz5x6wwr4x2-ares-147
-/gnu/store/bxk4lkcdfw92617xs8hpvymv30c6yl4n-ares-147
+/gnu/store/k4yjm7cmkaqd47h2ynm1jbqn78fv7xs5-ares-148
+/gnu/store/ms810910jrj00jgx0j09mb51kbp959ly-ares-148
 /gnu/store/5jmbqxs522cii0zmwlb93mmcqn2zj9xr-argagg-0.4.7
 /gnu/store/dqfmn57mj4l2939ryxxaykgwxb3nj7l7-argagg-0.4.7
 /gnu/store/r638kp4rzgm3d2v0qi29n9x294z3q9jk-argagg-0.4.7-doc
@@ -38613,8 +38613,8 @@
 /gnu/store/binjq0i9wv0l9zrgd794lb9in492lnk5-python-libstempo-2.5.1
 /gnu/store/1p765pzlabrqkzsnjyp44hphdmwpc51r-python-libsvm-337
 /gnu/store/jqzy0d2mqby3q5falc61laj8y5i2liaq-python-libsvm-337
-/gnu/store/f7c2ig5rqrx2wnvjkr2phqmm3dq2nzf5-python-libtmux-0.57.1
-/gnu/store/ghs1wc32pa9j8gkfv485gj49ymkbndnq-python-libtmux-0.57.1
+/gnu/store/6179il9d036p3rkcnp6dmyjfqmv6j7d9-python-libtmux-0.60.0
+/gnu/store/pr5c6gq5c2ab84d5si28pqi8sx7v5zfk-python-libtmux-0.60.0
 /gnu/store/9fkb15a134j1vblf088wms5ixl6g0f7g-python-libusb1-3.0.0
 /gnu/store/xp07kqkxcsx978mbk0f4c5w4k0h2rvnh-python-libusb1-3.0.0
 /gnu/store/89d55ha85c65bgqkyag0qaq8g0g0z4by-python-libvirt-11.5.0
@@ -73631,8 +73631,8 @@
 /gnu/store/rw3g3z9mxaj3bvimy78f57bmvxfdxgiw-tms-0.1.2
 /gnu/store/a4w8km93ylhp1pi00iskjjbmxdp9dlwf-tmsu-0.7.5-0.0bf4b80
 /gnu/store/ri6wzr9c8xy2k0srl4xng5afiyykl9r0-tmsu-0.7.5-0.0bf4b80
-/gnu/store/3clr867mp6gwqhpsa20sq903fh21lf43-tmux-3.6b
-/gnu/store/pz3028kgf134hnr5k62vgmy8wimaygmy-tmux-3.6b
+/gnu/store/dxgngf2z19hss61ggrsvajm7f0fc4lkp-tmux-3.7c
+/gnu/store/q8qcasclir603parzngdjdqna3kfhfql-tmux-3.7c
 /gnu/store/864aq59a9p7vjmjhr5gijnvgrc653l83-tmux-plugin-continuum-0-0.3e4bc35
 /gnu/store/pjvbzzl9kf5p3n9k1y9llhwwdsl1ln7l-tmux-plugin-continuum-0-0.3e4bc35
 /gnu/store/bh8mmag8d7q6mrlznnsvbjim5jx5cyf1-tmux-plugin-mem-cpu-load-3.8.2
@@ -77071,8 +77071,8 @@
 /gnu/store/q61nggafraxrmz3dixlp185w5rsfc1jm-zsh-5.9.1
 /gnu/store/1qq62srsy4w8h1dpksm8bjb4ciyxqf80-zsh-autopair-1.0
 /gnu/store/7azrpqgkrhwlwfxlma6nlniprcpg3k6g-zsh-autopair-1.0
-/gnu/store/5mrs1l1y05rj9jm6diipbwgbdswjsrmh-zsh-autosuggestions-0.7.1
-/gnu/store/7zv6javf794ryzidlyd4s3ghg8nnsc7d-zsh-autosuggestions-0.7.1
+/gnu/store/27znm1p21bv107nsj54dgc81x8j3gcq2-zsh-autosuggestions-0.7.1
+/gnu/store/xmv8lqqfih30kmbz0ihgc01jc4c1xw21-zsh-autosuggestions-0.7.1
 /gnu/store/cgqx6y3grhchw7c5bhssfswf69195qwc-zsh-completions-0.36.0
 /gnu/store/jby1d2pwjyqhidfkdmyb2vl4mkmsvhr2-zsh-completions-0.36.0
 /gnu/store/ifscvbxiln047hmnlxbn3kmb7kcfvh9x-zsh-history-substring-search-1.1.0
