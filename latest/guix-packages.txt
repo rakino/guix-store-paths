@@ -10121,6 +10121,8 @@
 /gnu/store/q9721zm3z4682xd0x7nnvf7wl7i5lwgi-emacs-nerd-icons-ivy-rich-1.0.1-0.5006f91
 /gnu/store/fb0l5gxpsliw4nnk5qwfi4ac758620fv-emacs-nerd-icons-mode-line-0.0.1-0.23eca8e
 /gnu/store/wm3ymvrs3xpd704i28y3zzy9lks31iz2-emacs-nerd-icons-mode-line-0.0.1-0.23eca8e
+/gnu/store/dqx1w51afcmv8fxfvvc8y11rbf7n92lj-emacs-nethack-0.15.1-0.1c8475d
+/gnu/store/grm09x9siij05142fnzdp1qf46lvjc07-emacs-nethack-0.15.1-0.1c8475d
 /gnu/store/8bdh6n4pq4km7czd0cjsxhshhzk5r9yl-emacs-new-purescript-mode-0.0.1-0.9f7bb73
 /gnu/store/arbslh9zr4s5l8wvfx5k6m027n6yndsp-emacs-new-purescript-mode-0.0.1-0.9f7bb73
 /gnu/store/1n28css7gs6k0cdzpqgsp0v7kn9x7sns-emacs-next-31.0.91-1.57581b8
@@ -29308,8 +29310,8 @@
 /gnu/store/xyb80xfjaj8sgl6189p0m1m8qfpq6hws-macs-3.0.4
 /gnu/store/f6xjgkgkmihr527q60rc7qzcvd353sm6-mactelnet-0.4.4
 /gnu/store/gz63l44znqd16ab9j1whybr9wnj345x6-mactelnet-0.4.4
-/gnu/store/qz1isi4cd3wnibkmzrnvx7l98fhnp0zy-maelstrom-4.0.1
-/gnu/store/wdzsgkvrka0yfqi6iqlalwfhq5sbgva9-maelstrom-4.0.1
+/gnu/store/7fhdz4jr7v3cn2rjgk2as7f1974nrwxs-maelstrom-4.0.2
+/gnu/store/l88dcdhv0n9pw2r033gq5i1zqai6mz9n-maelstrom-4.0.2
 /gnu/store/x6648ldpwr6j1klzvsxyzjanyissiwiz-maeparser-1.3.1
 /gnu/store/z1vh9z5xy26yhbzg41rn6a5lkfpgkhhd-maeparser-1.3.1
 /gnu/store/54p5mz1jlxczxv8w6i0z9im0v2asq9zx-maffilter-1.3.1
@@ -53618,10 +53620,10 @@
 /gnu/store/j7v407rgzdmxzwl0gdnl3wqi925d5rfk-sdl3-image-3.2.4
 /gnu/store/0sb77vgi5bi2v0sfdz6j0cl42xrfyczc-sdl3-image-3.2.4-debug
 /gnu/store/w245ga59qcx409mkaywqm1x1x6jfb6cs-sdl3-image-3.2.4-debug
-/gnu/store/9lbk7rzqxivc1a52p29dp09ywgkw7z85-sdl3-net-3.0.0-0.5af3b06
-/gnu/store/m0zibb77pnx1sf1r70jrvy71pq01wp2h-sdl3-net-3.0.0-0.5af3b06
-/gnu/store/hdsfg4ik8hp9iwa08pxqd0gzhhkdb38d-sdl3-net-3.0.0-0.5af3b06-debug
-/gnu/store/pab5cdymwjr131q2qskf0qdvzsshia4b-sdl3-net-3.0.0-0.5af3b06-debug
+/gnu/store/27jw43ggw0d1wwnc6pa1j10pnr0vrm1s-sdl3-net-3.2.0
+/gnu/store/df2vdy5cvj8339d7lc2gx09xjxvfhy6y-sdl3-net-3.2.0
+/gnu/store/bkjpk65f86i22l67bll1v8yfb56bfgbc-sdl3-net-3.2.0-debug
+/gnu/store/f93zrdvvc9bmzwim676mzq3lvnq2xkyr-sdl3-net-3.2.0-debug
 /gnu/store/4g6ym0jvj9zy4m9ryi8xajsl5104jrhq-sdl3-ttf-3.2.2
 /gnu/store/skr64da64lx8awcq84kwn1cm6npb9zy4-sdl3-ttf-3.2.2
 /gnu/store/6dmiczarhw2cbmi4yijc2ybnjvnkqd7p-sdlpop-1.24-rc
@@ -75275,6 +75277,8 @@
 /gnu/store/slvz2n8v1zhaa97pq9dy7jd3fm2xj75s-unixodbc-2.3.14
 /gnu/store/b72ncx8xyx7w5kqz4dq7cy0j6lwdqij2-unknown-horizons-2019.1
 /gnu/store/bfi6x8mg04x4wj4kn2xw1vwcn36dpf2i-unknown-horizons-2019.1
+/gnu/store/90lc494386nhpz62076yfzj3ppkr0w7f-unlambda-2.0.0
+/gnu/store/gbarrbrgi7cn01p4lxdsc1904z0lqay2-unlambda-2.0.0
 /gnu/store/086yh2n090jdaq7zmfyyc54a2vwah1wj-unoconv-0.9.0
 /gnu/store/amc910s6v46xd673528r6gan4rqm8asi-unoconv-0.9.0
 /gnu/store/mdzqcljak09q52v604m2h068gwlw3f8r-unordered-dense-4.8.1
