@@ -73754,8 +73754,8 @@
 /gnu/store/nh613xr6r47007nqcv62kfsp6rik1q73-trayer-srg-1.1.8
 /gnu/store/5pih872acbyldgawx68kg4wa6vxvjc4g-tre-0.9.0
 /gnu/store/94jxvaijqjhjsrhpcbh20agqfk1ahjqf-tre-0.9.0
-/gnu/store/af8zglx5vp86k2ah43r2x8dk0j0x4fxc-trealla-3.4.10
-/gnu/store/fmrdml1bc0p1351ypka4xzlsr5r53cwi-trealla-3.4.10
+/gnu/store/i7w6c004ivbxw3ma08kzzblnnj6d2qad-trealla-3.5.9
+/gnu/store/qr8r38bl9lnckky9d8xmrppjmrhfk9ic-trealla-3.5.9
 /gnu/store/62gq4h34k7p325gn472mj0spiqcfahmr-tree-2.3.2
 /gnu/store/x92i98l6kd3wfb5850q4h8n68rgdj1hq-tree-2.3.2
 /gnu/store/1hjybb0v9i4rxm7sikbzbpwz40k3n53m-tree-sitter-0.25.3
