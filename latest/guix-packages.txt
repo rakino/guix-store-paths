@@ -10331,8 +10331,8 @@
 /gnu/store/888xjvfyq213ypw07wzbdafgf4m4bmm4-emacs-org-modern-1.14
 /gnu/store/6yv6s35z1iasd8b45msyrbmqddp0lq0l-emacs-org-modern-indent-0.5.1
 /gnu/store/flbrydm2gq7z9g7pq7cvzds6ai3v8vv4-emacs-org-modern-indent-0.5.1
-/gnu/store/hvw41nlqlhx4sv1mdv8ckvy6yn3zzcik-emacs-org-msg-4.0
-/gnu/store/vl1yj982phds2anw1fhqbzh2awihfp6m-emacs-org-msg-4.0
+/gnu/store/wcj71j1l129r4i9n0mwz6k7w1pvmzsny-emacs-org-msg-4.0-1.7b45df7
+/gnu/store/ylcxy7k7zfj6flidnp8prp4im55nkxbf-emacs-org-msg-4.0-1.7b45df7
 /gnu/store/9vwndf1pj1lcs7k6l55d5ydxr92c3735-emacs-org-node-3.18.3
 /gnu/store/xs3iclzjc2w63q3pjydwmxnmcmkkvyv9-emacs-org-node-3.18.3
 /gnu/store/4hsgp9ys4h7s6dlas9mzk3f6y4zp9aby-emacs-org-noter-1.6.1
