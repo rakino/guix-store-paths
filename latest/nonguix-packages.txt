@@ -295,6 +295,10 @@
 /gnu/store/kqcqxwx3sclqzrb531vrrwld3lx48chz-linux-7.1.8
 /gnu/store/d1d8s8501mn3p3cpc0zxb28xsdh1nq0m-linux-7.1.8.tar.zst
 /gnu/store/nx3g298lrhlm5cqg91p6504vxcrljp9w-linux-7.1.8.tar.zst
+/gnu/store/hxw2lgjb6nshzn3c70rqw8xs1v12w47k-linux-7.2
+/gnu/store/lxzcm5y98q1bd3gd18jx0w1vpk9dagi7-linux-7.2
+/gnu/store/3b3n7yns2agfmrsxh2imscxlblc28mw2-linux-7.2.tar.zst
+/gnu/store/f58d84k0fc6jmpbr1ygm15rnjsrhmzsv-linux-7.2.tar.zst
 /gnu/store/i7wg4abmhjx6lml4bj28gd49vsp5pm1z-linux-arm64-generic-5.10.262
 /gnu/store/kr8kj3llhimkqnabahj6l4b99wcd59zr-linux-arm64-generic-7.1.8
 /gnu/store/4ylzbq0ph9w6a98zksxng1jzb5z9plll-linux-firmware-20260622

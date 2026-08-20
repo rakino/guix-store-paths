@@ -28574,6 +28574,10 @@
 /gnu/store/mrl2nqca84bfgs2ifcdrp6flsjhmqfvz-linux-libre-7.1.8
 /gnu/store/9699461dx8d6jcknl0szk9h6jcih0nv2-linux-libre-7.1.8-guix.tar.zst
 /gnu/store/wrhlxi897i2p7ww9vpmss3gv4lplb0s6-linux-libre-7.1.8-guix.tar.zst
+/gnu/store/gd7706lwz54mfkl75axz6b2jj9jygms6-linux-libre-7.2
+/gnu/store/rjvw0zaw4idvg1gj935h5j1d1y8yf0zi-linux-libre-7.2
+/gnu/store/7czbxc7lm0n6yzdkc4725g9z34v00p5w-linux-libre-7.2-guix.tar.zst
+/gnu/store/b6sm7vba220iii5aajqbb3qbaimcxlw1-linux-libre-7.2-guix.tar.zst
 /gnu/store/j1q3yc0aza9cd0zp4qlg36pp0l2k4ld8-linux-libre-arm64-generic-5.10.262
 /gnu/store/yx39zzhfgww1pwyhqax2p4ymnxf5g7qz-linux-libre-arm64-generic-6.18.44
 /gnu/store/hc34d7rm1zspnwgz0xxnm6bn9srqanxi-linux-libre-arm64-generic-7.1.8
@@ -28605,6 +28609,8 @@
 /gnu/store/y37b157wnaj3g6yafng1xh21hkszam7n-linux-libre-headers-7.0.14
 /gnu/store/l3vjdyjlp54zria10xnmij323nbksgzs-linux-libre-headers-7.1.8
 /gnu/store/r19sg7nmhlanjx0nxbh4sj1wpj056d8l-linux-libre-headers-7.1.8
+/gnu/store/njr44x9s70ijz4rsn69vrv0y2p1mka7n-linux-libre-headers-7.2
+/gnu/store/vzw215sp8sh0564yrn95f7ksphsz4kb7-linux-libre-headers-7.2
 /gnu/store/b883xj20gnk76vrybf1i0ha0x9ls2xdv-linux-libre-headers-bootstrap-0
 /gnu/store/famxzbqxm12gjx83fqqg707c8v6wa4gn-linux-libre-headers-stripped-tarball-6.12.17
 /gnu/store/ng9d3waxcsmmfy7i98qs5i48rw4xw99z-linux-libre-headers-stripped-tarball-6.12.17
