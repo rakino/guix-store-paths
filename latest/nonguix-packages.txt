@@ -215,7 +215,7 @@
 /gnu/store/rnw8l8hvcx3ymw2sr1hzv70aw19ch38q-geekbench5-5.5.1
 /gnu/store/9x2wj2314g2ri51wfswmf01rf3h767g5-gmmlib-22.10.0
 /gnu/store/i4lf51i8hyv59y7dzm10rxcc0if9zzw6-gmmlib-22.10.0
-/gnu/store/mrsnz0lyalnvl7z2b54q4axw8dv3bi74-godot-mono-4.6
+/gnu/store/acvsza6hxrwfnwfdfvq6g9897xdxg6l1-godot-mono-4.6
 /gnu/store/wma0kgdhjhrlgw47x9w3skwdn5ds1dxc-gpustat-1.0
 /gnu/store/y2k582m13f7gi9njfyxw9siwnbasbib5-gpustat-1.0
 /gnu/store/bn198w1nvjd58sq2864yyay85mmb43wp-gradle-9.2.1
@@ -478,8 +478,8 @@
 /gnu/store/ivq236mdnh9qr92i6bla246nbzysxvxd-steam-1.0.0.85
 /gnu/store/r4qrg8pms17vr8szxwc7sqxgncb5cmxz-steam-1.0.0.85
 /gnu/store/w5660ng8c15sgzqxgqj2zyvgbzcjm9i0-steam-1.0.0.85
-/gnu/store/a97y9m6ny0h06jhz2yfrglpk6blhg8d4-steamvr-openhmd-0.0.1-0.19dabd2
-/gnu/store/h2938m6lpipvsk0agad1yy074hjzmcwh-steamvr-openhmd-0.0.1-0.19dabd2
+/gnu/store/k61qr69lic4rf2f9q1zzh2ab6zgcr3f0-steamvr-openhmd-0.0.1-0.19dabd2
+/gnu/store/vfa51v08vr677vs1z58372fvkan3q731-steamvr-openhmd-0.0.1-0.19dabd2
 /gnu/store/mhjv1s23rj8yyjmshvdm18nlifz2zd23-unrar-7.0.9
 /gnu/store/ymzkbqx8rvlyqqizqqicvj7hwiy12zyz-unrar-7.0.9
 /gnu/store/9h1mvi0412l3n2fsvi2dz2ln5qrmyc5z-wasi-libc-sdk-19
