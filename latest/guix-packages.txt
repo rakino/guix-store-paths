@@ -42590,8 +42590,8 @@
 /gnu/store/i5lqi2y5x3rrc673rz8yi9wi08vf5l8k-python-yq-3.4.3
 /gnu/store/bkjgzg5a9lma02pixf1p5qnz4wahd2z9-python-yt-4.4.2
 /gnu/store/q9irq452a394wc1kk3yn8bqy0gcgpmq3-python-yt-4.4.2
-/gnu/store/dgxnci0jad0h05vsfi33rr4f7l4ca5qj-python-yt-astro-analysis-1.1.4
-/gnu/store/ljbxgaqn9f204896kxkqbp5nz2s31g6r-python-yt-astro-analysis-1.1.4
+/gnu/store/cdnrd6ndxws6pg2r32q28kkdavfxh84r-python-yt-astro-analysis-1.1.4
+/gnu/store/w04mwnry274z3jmafi0r2qhrcyy1393z-python-yt-astro-analysis-1.1.4
 /gnu/store/1yankqdi22bzdji56gqshlnyd1ay0r8w-python-yte-1.8.1
 /gnu/store/848820kalh6jmyl1ac256hlkff8vyim7-python-yte-1.8.1
 /gnu/store/8717nrvf85rbqp275a7b0n075vlb5abf-python-yubico-1.3.3
@@ -54762,8 +54762,8 @@
 /gnu/store/swiphd7w639ax66z7fk4lzi779w2z6nq-swig-4.0.2
 /gnu/store/kqlmsfdlsmwnl26v6bl9qwl4yf9a6bg4-swig-4.4.1
 /gnu/store/m32yi6yj31wv5sy0qrj2hzj0zf5vyiq5-swig-4.4.1
-/gnu/store/dj06k35p0xnkprlza9a1c4dbpcsdy8x6-swineherd-0.0.5
-/gnu/store/j7qgyd608yv17w72gmfwjdx44ni50ham-swineherd-0.0.5
+/gnu/store/mv88lczlrynrsvjb8kd2drnyqzbdmzjf-swineherd-0.0.5
+/gnu/store/vdgr52yx9yzcliw2kqjl6g5if02x6lla-swineherd-0.0.5
 /gnu/store/3hnwldl7c2bry2p1qc1m9g2nqqcsjd3r-swish-e-2.4.7
 /gnu/store/zvwpmhw4wxwlvfz1bb78sg9acsga0z60-swish-e-2.4.7
 /gnu/store/hifa9w4361cl1w6rskwx049vap19kan0-sword-1.9.0
