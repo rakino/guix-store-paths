@@ -1113,8 +1113,8 @@
 /gnu/store/qbp85vrj6hi326wb5i7zgw34vjdn4836-berry-0.1.12
 /gnu/store/2k6jj5gjrwbj2h00wah0vgbi3dzrcyq4-betteradbsync-1.4.0
 /gnu/store/l1khhv56jdjps050681r1jzvvdi01yp1-betteradbsync-1.4.0
-/gnu/store/7x233lkscjkn6is0whhgbxbgq85l3lvq-bffe-0-21.b268cb3
-/gnu/store/a8lsqslx1yv54rhc9fc99blg53yqvx2q-bffe-0-21.b268cb3
+/gnu/store/63qj6bk6pdxhkk5m1h617d68xd6yya7w-bffe-0-21.b268cb3
+/gnu/store/8abfwcm58px7iw4ppvwxffq6i4a84mpi-bffe-0-21.b268cb3
 /gnu/store/ihkrhjhbbrph2zdch78fn7bbh1cisxxf-bfs-4.1.4
 /gnu/store/z055g1719sb82c4a0qy5idxf9iqbd9j6-bfs-4.1.4
 /gnu/store/kxpwr4sckzis6f8ik13hp4clixxgyq01-bgpq3-0.1.38
@@ -8033,6 +8033,8 @@
 /gnu/store/lvclgyixd1xy10x5n5a3llv7qik7nyhn-emacs-age-0.1.9
 /gnu/store/9z0hjprinv7hg248hgdqhhgl8fg0j1gp-emacs-agent-shell-0.72.2
 /gnu/store/xrh3p5ddgyv9lwbnf7fwp7yhaz31r4nv-emacs-agent-shell-0.72.2
+/gnu/store/9mjjgmw8ijvwjyda6hk88qqm4vjaijzs-emacs-agent-shell-kaagum-0.1.0
+/gnu/store/c4rmz746d3awsm6k4anv725057nhvhx1-emacs-agent-shell-kaagum-0.1.0
 /gnu/store/2bw9bwsq23214vyf2g3jfqw8wyn6bvrv-emacs-aggressive-indent-1.10.0
 /gnu/store/sfh9k6inwwfhvwh650pl8f11y3jb09yq-emacs-aggressive-indent-1.10.0
 /gnu/store/bdyd2qqp26l06ygaqkrsfib1qb9skbrh-emacs-agitjo-2.0.0
@@ -22449,10 +22451,10 @@
 /gnu/store/xck83xiaw009cc47bb9xfhpparhxfvk0-guix-1.5.0-6.64d4de2
 /gnu/store/43chbgmrxd78fciqgvc3p56s7z7252q9-guix-backgrounds-0.1
 /gnu/store/c7ifw078kl8sa6cfypcng2v7m67vnyqk-guix-backgrounds-0.1
-/gnu/store/6dg04jnwc6m3v2afr8i2yzv6k52knyd4-guix-build-coordinator-0-142.ef1c100
-/gnu/store/jnx4why2w73wici7qj8jcl4cn3rghff7-guix-build-coordinator-0-142.ef1c100
-/gnu/store/1h3jdcs5i5sva1hbsjv7hcc4z2hhvj7j-guix-build-coordinator-agent-only-0-142.ef1c100
-/gnu/store/4nhxnzq4l5awdhl10zr8zzyr33wdxw6z-guix-build-coordinator-agent-only-0-142.ef1c100
+/gnu/store/1r01wpgzaxrjxmpvsmdvhwksz25615y4-guix-build-coordinator-0-143.33a55ef
+/gnu/store/2vncim9h8l9hxn77sf3rgmk5h0fwjx0x-guix-build-coordinator-0-143.33a55ef
+/gnu/store/0xds585sg484s6inxwjgq516ax2jibr9-guix-build-coordinator-agent-only-0-143.33a55ef
+/gnu/store/ag47mf299djwb00mminpvs94wlxvynch-guix-build-coordinator-agent-only-0-143.33a55ef
 /gnu/store/1hjx2vrnlv10h1ljch6a9gzg4ds8sary-guix-compose-0.2.0
 /gnu/store/hmiffifp5jy9dajh2y0bxglwgmbnh1nw-guix-compose-0.2.0
 /gnu/store/4mrkghdplg8qmvi5vgafxzqq4jcb5q1p-guix-daemon-1.5.0-6.64d4de2
@@ -25832,6 +25834,8 @@
 /gnu/store/rzp4q9n1mb69dilvy8m2klxsalbcd4ra-jwm-2.4.6
 /gnu/store/2g89rzfzpsa0nxr62wbk2bqxr8la6l95-k3b-25.12.3
 /gnu/store/m0lihlisjd06gy6ibdnw54va965vcla9-k3b-25.12.3
+/gnu/store/3hbz6hh9f33pw499bwmk5vxppvvmn889-kaagum-0.1.0
+/gnu/store/8iyl9sqlvhk9c2w45j6si4msxzsxjrdp-kaagum-0.1.0
 /gnu/store/92l8k4xgk4i7apscwr46k3svrmlfl8xm-kaccounts-integration-25.12.3
 /gnu/store/r3pq91wcscaq7idja3s11q2cx2gg6864-kaccounts-integration-25.12.3
 /gnu/store/2ply90w2y1989z623v1zxmppsp0hs8vk-kaccounts-providers-25.12.3
