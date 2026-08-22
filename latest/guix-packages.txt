@@ -76675,8 +76675,8 @@
 /gnu/store/q96jpbx641a2s83g92jklsv30wdnp7py-xpr-1.2.0
 /gnu/store/33k2vc8bs37f77h8974r3cwm4a0lv0p3-xpra-5.1.6
 /gnu/store/s938spia9ikccfs51ckcv5k40whf06wl-xpra-5.1.6
-/gnu/store/4kvibr5jhwx834jnj1h13rnqhpsyssr0-xpra-6.5.2
-/gnu/store/vi8g35x3p71my2vd89gcsdn1can1m87s-xpra-6.5.2
+/gnu/store/8s2kf7gj30zv20w243x7c0dd0wiyrpai-xpra-6.5.3
+/gnu/store/bi9wqsjby6bcqlwsdx4g0p3xmlywdm4a-xpra-6.5.3
 /gnu/store/b8hfvn2b4i0dd907zzlsgs21gp0sn40z-xprop-1.2.8
 /gnu/store/hyvdlfahjc8yisk01p0w1f3p7wb3zy6y-xprop-1.2.8
 /gnu/store/hz2hmy2c9lyd2zpca0i6wq9siazjlrmk-xrandr-1.5.3
