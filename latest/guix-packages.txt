@@ -5186,10 +5186,10 @@
 /gnu/store/ww3d6vrmwccc9rsj1ar36chrp045kjwd-deacon-0.15.0
 /gnu/store/jjizs8wb796i6d73fjksynxzkz26pm4p-deal-3.1.11
 /gnu/store/qvs61rfif7rjl2035iy45rx43y92s52g-deal-3.1.11
-/gnu/store/4brlf5x41dmr90l4ac101ir5q6n49gxm-dealii-9.7.1
-/gnu/store/av6g3dq7mz84n76waisz2c5iavqg5kph-dealii-9.7.1
-/gnu/store/1y3hnhvx6z5yq1pk7zri3cf90ml9j46m-dealii-9.7.1-doc
-/gnu/store/g5acw0w1s5mma8sh0cnmrnq40kp04jkg-dealii-9.7.1-doc
+/gnu/store/m9ya5qwv42rs85cxnaxs7ii9n0yaryhh-dealii-9.7.1
+/gnu/store/pf9jrpzh0qmxd3qkk5q06xl45sgp397d-dealii-9.7.1
+/gnu/store/0xxpbf8kyp48lyxnl6r4ckfvsyzg93ca-dealii-9.7.1-doc
+/gnu/store/4786fmqlg7c7whw8m4jv2qs03qyb961a-dealii-9.7.1-doc
 /gnu/store/89i7qvnmjw78fca7sb1p9arjhsqjkg4i-debian-archive-keyring-2025.1
 /gnu/store/gy8sghawyzlyivph3yypfaz17ws91vhd-debian-archive-keyring-2025.1
 /gnu/store/wyhwp2ayrsfj09xa3vi8vhhk58gcw25m-debian-devscripts-bts-2.23.7
@@ -75184,8 +75184,8 @@
 /gnu/store/yybqdlc2yjpzg385i3a63kabpmgn3bg1-udunits-2.2.28
 /gnu/store/3j6wq6rknh1y5qx16g1wdrhzhbkx1xrs-ueberzug-18.3.1
 /gnu/store/dpvwjqzq4vpf4x5p292kg2n3f2lsbxg5-ueberzug-18.3.1
-/gnu/store/4ilnd5998rsap34a8pn873pkpjf47s69-ueberzugpp-2.9.10
-/gnu/store/kjlq5lwaqgsn2x5h0l6kiymdckbxb9hv-ueberzugpp-2.9.10
+/gnu/store/jrwnd98l7ip3mglqh449yzsnkm9gbaig-ueberzugpp-2.9.10
+/gnu/store/jyy2ykkw74b5w5615i6mv9dw8xgqdc9d-ueberzugpp-2.9.10
 /gnu/store/9x5r0kd79rbx5wkz7c076z8ya4i2x0cg-uefitool-0.28.0
 /gnu/store/pkcd6fvczsf4li33r9xlrdyahsx8csqi-uefitool-0.28.0
 /gnu/store/8jbrpy80zvvbmyqz8jqafx65g0a63vcr-ufetch-0.4
