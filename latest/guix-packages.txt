@@ -30287,8 +30287,8 @@
 /gnu/store/z6kfc9snki7x7s0s54mqwp7s50hs8lmb-mpich-ofi-4.3.0-debug
 /gnu/store/m6m9f8xv7qwm5imc2gypf7xp5hxhaff8-mplayer-1.5
 /gnu/store/zm4hsgfbsgf9pvkffsnv895qj8m4ydi6-mplayer-1.5
-/gnu/store/wbbniq41x7qq9v2303rd82j99gdy4508-mpop-1.4.20
-/gnu/store/ypncm6kjp5mpk5qa8hwfx9v8qf47s5zq-mpop-1.4.20
+/gnu/store/dmq0326wq1cq83y3gfvc7p6wh896p3as-mpop-1.4.23
+/gnu/store/vwwapbymn70m199ih6zbcnh2w2hgiq2l-mpop-1.4.23
 /gnu/store/64avyad20vdk98v3sp9awp1wx3zyaa4k-mps-1.118.0
 /gnu/store/8gdlsvxdb48bg5d3z7wjs7akkyxarsd1-mps-1.118.0
 /gnu/store/q9b1q6ykj358ayjkc0dd1dcg2khxy1w5-mpv-0.41.0
