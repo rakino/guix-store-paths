@@ -99,8 +99,8 @@
 /gnu/store/zxdrbckhiwj9hx9iwcyxbqk9bfk5bhlk-element-desktop-1.12.24
 /gnu/store/c18c8zjp66cw64w06qr2fbk1mrhvh1bm-emacs-eli-acl10.1express_Feb2022update2022-02-11-1.8f9a8b9
 /gnu/store/dwqfsibqfpjm3mqc37pblwd1y0bs7qrb-emacs-eli-acl10.1express_Feb2022update2022-02-11-1.8f9a8b9
-/gnu/store/0anv7i165nsfd8phsrhsa7xjbg08rnp1-emacs-org-roam-ui-0-0.c75fc75
-/gnu/store/8pifjfw5ja14p2qwgyicy79q3v8gwi8w-emacs-org-roam-ui-0-0.c75fc75
+/gnu/store/08gk4nrk9q6py1sp9gh9b3hkck1w0hi0-emacs-org-roam-ui-0-0.c75fc75
+/gnu/store/hhmw1qvvbmk54wmy7wkxsx9japfxlavd-emacs-org-roam-ui-0-0.c75fc75
 /gnu/store/y7nhypjfk6r8jgjj73sbgvrx46y2hrl9-facetimehd-0.6.13
 /gnu/store/zlja21j6y7v9g394rd7a2lcwk40bqyd1-facetimehd-0.6.13-checkout
 /gnu/store/afmjngg6qd7a1ixfafdz0sf5nayir1pz-facetimehd-calibration-5.1.5769
