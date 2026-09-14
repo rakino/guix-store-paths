@@ -148,10 +148,10 @@
 /gnu/store/mbdfm4vpvsn052q5cybh5akhnjg9hwl5-ffmpeg-8.1.1-debug
 /gnu/store/mv8siw9p66bby9cg0hvdww5by13sppan-ffmpeg-8.1.1-debug
 /gnu/store/xg2326yjvcv96bsb2jrwz1nk56gsa4qx-ffmpeg-8.1.1-debug
-/gnu/store/4lc4j46a36r62rq52k2zff7vhxiplddc-firefox-154.0
-/gnu/store/5ibkhjjrbmmgq46k7iparr1bbwxy03gc-firefox-154.0
-/gnu/store/gpaa2cny3x97bm485nksnahfzh5653zs-firefox-esr-153.1.0esr
-/gnu/store/j6rkcyrdhk8q792acr1zgsc3wjb5r0lv-firefox-esr-153.1.0esr
+/gnu/store/csqf6qh79qfnqg3iqz3x8ns5w9ifyh2k-firefox-155.0
+/gnu/store/l12zhiwg0f11dhdfas3f6bgzfy4crfqw-firefox-155.0
+/gnu/store/qlhjdkxd89zrr1yyc8dy0v3q2z6x34y3-firefox-esr-153.2.0esr
+/gnu/store/zz4lzdiybdrqj4b04mwk1znnnkf8p3gr-firefox-esr-153.2.0esr
 /gnu/store/54rx69vijndxdfn2r7fdjnb5l7684zh2-font-apple-color-emoji-18.0d4e1
 /gnu/store/6jvs1jkqz1fi3qka724k1p13hcjjlc6n-font-apple-color-emoji-18.0d4e1
 /gnu/store/lyyyvfx701ahr0ww6kwx63zaf6z2c06d-font-apple-new-york-17.0d5e1
