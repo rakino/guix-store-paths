@@ -103,7 +103,7 @@
 /gnu/store/fdzdldfpzrnd2qbn4cip9g74z3r66hky-emacs-org-roam-ui-0-0.c75fc75
 /gnu/store/lcxyrq7bmwy5hbfjz63aa5nb5m04fm49-facetimehd-0.6.13
 /gnu/store/zlja21j6y7v9g394rd7a2lcwk40bqyd1-facetimehd-0.6.13-checkout
-/gnu/store/afmjngg6qd7a1ixfafdz0sf5nayir1pz-facetimehd-calibration-5.1.5769
+/gnu/store/kxpcvj2haf2j11wsm0fbnymnvig59gqi-facetimehd-calibration-5.1.5769
 /gnu/store/2fdxkm6w3yf0ifxl1cqdgjm3s78a20dq-ffmpeg-6.1.5
 /gnu/store/7pf60awq1k6gf4iavnj9m419xp9ifrzx-ffmpeg-6.1.5
 /gnu/store/9b8dama2s2y8q0dbzapb6qp2jx8phxrs-ffmpeg-6.1.5
@@ -409,12 +409,12 @@
 /gnu/store/scc0qqqz032an3czwid4sys10yzmcisf-nvidia-system-monitor-1.5
 /gnu/store/2h6hdgc67yf6j88q6a1xpnsdqjdgz30f-nvidia-vaapi-driver-0.0.17
 /gnu/store/m3g76a6p00jk47i5h3xphjbdmp5z3kbi-nvidia-vaapi-driver-0.0.17
-/gnu/store/mjkq899qy45bk0cvqy5l7hb9cqzkilnr-obs-nvidia-32.0.4
-/gnu/store/zvw3w4xrgr4qwwydm0l7z9b3j76g81kl-obs-nvidia-32.0.4
-/gnu/store/m22x8mp65fcqyziblckqzabbq44c873b-obs-with-cef-32.0.4
-/gnu/store/sa58s4vq0ayrilph2c7mg9vwqhr2n4p4-obs-with-cef-32.0.4
-/gnu/store/37n91w60kpkk65s02mzw43lbdgjyqwnb-obs-with-cef-nvidia-32.0.4
-/gnu/store/sm5kd68679im9w1r1rkz9kxwi478c3rl-obs-with-cef-nvidia-32.0.4
+/gnu/store/hjsiwkws5fr48iskln9bv0q9siw21p1k-obs-nvidia-32.0.4
+/gnu/store/sn0434w76xn9mdjp44q6mz2lahbflh7k-obs-nvidia-32.0.4
+/gnu/store/a4kdnlr479jklgl20aging37x90gh9ng-obs-with-cef-32.0.4
+/gnu/store/v833vhb9lbhjcp2qryd1in4rmjwf3qpy-obs-with-cef-32.0.4
+/gnu/store/06p6ciygy9y07is945q0accx3dqms3xd-obs-with-cef-nvidia-32.0.4
+/gnu/store/xs5dl6yakk3bavbs4biils1r2lasasiv-obs-with-cef-nvidia-32.0.4
 /gnu/store/d6y5qrdylxh3midfv4dwahasz5f6nvv2-omnisharp-1.37.7
 /gnu/store/w6d0rgz5ba3512rdm8iwgbn9rvcmv2sj-playonlinux-4.4
 /gnu/store/c0vz77nicj43ax00y8zgv7q6k8l1r9bg-protonup-0.1.5
