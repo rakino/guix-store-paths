@@ -148,8 +148,8 @@
 /gnu/store/pr6bljm9mjwinf4xa88717jmrl4akzjr-ffmpeg-8.1.1-debug
 /gnu/store/v0c16dm6qlcpx1dw0qf69k5xi4cg7zq5-ffmpeg-8.1.1-debug
 /gnu/store/wbi2kkzrp6bf48nfjk9a5vvarkfhgjwg-ffmpeg-8.1.1-debug
-/gnu/store/l4ja0drsya9ksr5hx6r6qixszvsaqxzl-firefox-156.0
-/gnu/store/ybk9mpvi5aw47hr1bwpf1bqnqjv2x3ml-firefox-156.0
+/gnu/store/rvp3zza21pjjpx8bnvghizim5fs0gx3a-firefox-156.0.1
+/gnu/store/wqisvz2y5q6f6vg8yb9cf5gdgnl0cfbr-firefox-156.0.1
 /gnu/store/cs3v587gl59wrb6lvg06sly0x72c759y-firefox-esr-153.3.0esr
 /gnu/store/kk0kllmy6gp7sy8v5rpifyxxa8q6mr1m-firefox-esr-153.3.0esr
 /gnu/store/54rx69vijndxdfn2r7fdjnb5l7684zh2-font-apple-color-emoji-18.0d4e1
@@ -449,7 +449,7 @@
 /gnu/store/b6mca2ghqfc8jxavaz1n6x5251qnh51x-sdrplay-3.07.1
 /gnu/store/n2a818j06mdd7wdmrjdcfdcbx9q12vv5-signal-cli-0.14.5
 /gnu/store/xhn1096f0c1n54vq88x2bqfzqm6l7k3f-signal-cli-0.14.5
-/gnu/store/3bxlylyxaxs6jdbp7s7xixzr3qnsnxvs-signal-desktop-8.27.0
+/gnu/store/w7hmkdjfccgjmzqw6d4nja3wmr1xfmad-signal-desktop-8.28.0
 /gnu/store/xpr8davfayq1xvfnh87wf1z078f46qdl-soapysdrplay3-0.4.1-1.9e5c80c
 /gnu/store/jysfqba7875r0prvyhygkizjbhgnmz85-sof-firmware-2025.12.2
 /gnu/store/qdvknn77c8sbifdw5dym63xjzk0w1bvy-sof-firmware-2025.12.2
@@ -478,4 +478,4 @@
 /gnu/store/hrrpx9hfp47mb63csmwxjmj6zc1ljn0s-yarn-1.22.22
 /gnu/store/rnq2axpfhl2fhpdrl1qf70l6v6h1gbql-zerotier-1.16.2
 /gnu/store/xjw8h6nrwhhamm2r2akb537c8nvidykk-zerotier-1.16.2
-/gnu/store/lpbn6kjkhl0dh433hhxcc4bzgm990g7r-zoom-5.17.5.2543
+/gnu/store/4rvkg752sq8gq4jhwijd3jc3dr2i64d6-zoom-7.1.5.4332
