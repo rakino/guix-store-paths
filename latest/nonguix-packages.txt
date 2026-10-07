@@ -148,10 +148,10 @@
 /gnu/store/qixr0gq0j3w69hlki944hw6fblhbi7b6-ffmpeg-8.1.1-debug
 /gnu/store/s3d90zhyjvjq716adlnpxg01iza0ayfq-ffmpeg-8.1.1-debug
 /gnu/store/yvrjhvywza1b09m23d7w6127jpk0rbf2-ffmpeg-8.1.1-debug
-/gnu/store/3crlrnxsabii4ah6y7zvbmydzgbpwkbq-firefox-156.0.1
-/gnu/store/fi3nsi9y37phf4cks32sg89ln8gbgc38-firefox-156.0.1
-/gnu/store/l63isl79x09ysgpda8rw3n96vrqsnqrh-firefox-esr-153.3.0esr
-/gnu/store/sjqawjvsg6zzc5jdhbzpqj58bcx0sr6h-firefox-esr-153.3.0esr
+/gnu/store/7yibwj0qjjnilmsjdr931ri55n7k43dr-firefox-157.0.1
+/gnu/store/8c8nsc1vrgf1c1ss4774dz42rh229y75-firefox-157.0.1
+/gnu/store/bpg3gq2ak0b4c4anjnwczs67yr79gq3w-firefox-esr-153.4.0esr
+/gnu/store/cyrqg2anvij0lbw9d3m62lr26ilrz32w-firefox-esr-153.4.0esr
 /gnu/store/54rx69vijndxdfn2r7fdjnb5l7684zh2-font-apple-color-emoji-18.0d4e1
 /gnu/store/6jvs1jkqz1fi3qka724k1p13hcjjlc6n-font-apple-color-emoji-18.0d4e1
 /gnu/store/lyyyvfx701ahr0ww6kwx63zaf6z2c06d-font-apple-new-york-17.0d5e1
@@ -249,8 +249,8 @@
 /gnu/store/99q9j49z9s08bph3lhgg03vyjjxp8ikp-iwlwifi-firmware-20260916
 /gnu/store/dkh8rm2lfc85nzzf56hx9lpx9jlnz742-leiningen-2.12.0
 /gnu/store/hv5f3s5v7giham8c7c140m4as560sws4-leiningen-2.12.0
-/gnu/store/465g24cylra4cmnr00qw3ngrna056384-lgogdownloader-3.17
-/gnu/store/q8nwbm431azxw1kl241rzlwldd1falka-lgogdownloader-3.17
+/gnu/store/c8xblcyk93x9dg906ycc8vw2452riqpl-lgogdownloader-3.19
+/gnu/store/w8s5qjnf6wwkqpyym1rnp1a5xkvhdhk5-lgogdownloader-3.19
 /gnu/store/5lp7afir92rmvskxhllfhdlqclcawp0j-libglvnd-1.7.0
 /gnu/store/jz6s8z7a27n6j9gyipbjq75sjic4win0-libglvnd-1.7.0
 /gnu/store/78az2pdqnz9ra9mg8k96f27b24fbval0-libretro-genesis-plus-gx-0-0.a80e3b3
@@ -449,7 +449,7 @@
 /gnu/store/b6mca2ghqfc8jxavaz1n6x5251qnh51x-sdrplay-3.07.1
 /gnu/store/n2a818j06mdd7wdmrjdcfdcbx9q12vv5-signal-cli-0.14.5
 /gnu/store/xhn1096f0c1n54vq88x2bqfzqm6l7k3f-signal-cli-0.14.5
-/gnu/store/qai7nqbgsjila8a4ck19hgvcdi9wzzhf-signal-desktop-8.28.0
+/gnu/store/lqdw8b9khf8ci2482r7ga0ad6wbf7ss5-signal-desktop-8.29.0
 /gnu/store/xpr8davfayq1xvfnh87wf1z078f46qdl-soapysdrplay3-0.4.1-1.9e5c80c
 /gnu/store/jysfqba7875r0prvyhygkizjbhgnmz85-sof-firmware-2025.12.2
 /gnu/store/qdvknn77c8sbifdw5dym63xjzk0w1bvy-sof-firmware-2025.12.2
