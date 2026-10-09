@@ -449,7 +449,7 @@
 /gnu/store/b6mca2ghqfc8jxavaz1n6x5251qnh51x-sdrplay-3.07.1
 /gnu/store/n2a818j06mdd7wdmrjdcfdcbx9q12vv5-signal-cli-0.14.5
 /gnu/store/xhn1096f0c1n54vq88x2bqfzqm6l7k3f-signal-cli-0.14.5
-/gnu/store/lqdw8b9khf8ci2482r7ga0ad6wbf7ss5-signal-desktop-8.29.0
+/gnu/store/dackprmwk4dqys5hrqa8707bqhfpzxyb-signal-desktop-8.30.0
 /gnu/store/xpr8davfayq1xvfnh87wf1z078f46qdl-soapysdrplay3-0.4.1-1.9e5c80c
 /gnu/store/jysfqba7875r0prvyhygkizjbhgnmz85-sof-firmware-2025.12.2
 /gnu/store/qdvknn77c8sbifdw5dym63xjzk0w1bvy-sof-firmware-2025.12.2
