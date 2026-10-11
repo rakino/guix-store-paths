@@ -210,8 +210,8 @@
 /gnu/store/yg0mjhccwfswsxafjg9sgk6926fg196f-font-ubuntu-sans-mono-1.006-woff
 /gnu/store/1hsxi0x2d9l0iq58zvw7nx6kaf8njf3d-fury-20240316-10564-0bc78c53d
 /gnu/store/x5qqwh8w97lx6w950bm0z0mh7n53s7d1-fury-20240316-10564-0bc78c53d
-/gnu/store/8irsx5rpfqfbgv54jq2r4vy9pfga3icw-fwupd-nonfree-1.9.32
-/gnu/store/kk6wkhr8vsd4cagbj1nzmmcqc9i93gwc-fwupd-nonfree-1.9.32
+/gnu/store/1jgsp8rpls1kjbg534m58bzbcjs3wmzy-fwupd-nonfree-1.9.32
+/gnu/store/y7smy7pv1dwzq1zqzwlqbi47dasv7y32-fwupd-nonfree-1.9.32
 /gnu/store/rnw8l8hvcx3ymw2sr1hzv70aw19ch38q-geekbench5-5.5.1
 /gnu/store/2fbvknv3m8vdvzjji1859vxawkgybi8i-gmmlib-22.10.0
 /gnu/store/ic6v50s189lb4vq42k1rbaqa5xd90fk8-gmmlib-22.10.0
@@ -460,8 +460,8 @@
 /gnu/store/prm7h9ypqrzzjclwiri593r3xaq8ywbi-steam-1.0.0.85
 /gnu/store/q8db1kgkywc91b0n710210jkqd7b6qwp-steam-1.0.0.85
 /gnu/store/vj840ajpr8q014w72g48jzja82fzrc9w-steam-1.0.0.85
-/gnu/store/v6ihgvmav7sh3dn8pljpa325sjmh62a0-steamvr-openhmd-0.0.1-0.19dabd2
-/gnu/store/vqz5g246j8d74y93569x6fpmc5y6rvpx-steamvr-openhmd-0.0.1-0.19dabd2
+/gnu/store/19xj9bfd3g0xhiaygs4dqn865n78xijf-steamvr-openhmd-0.0.1-0.19dabd2
+/gnu/store/hcn015kxdp165nki24xd9rgsdp6lcf0h-steamvr-openhmd-0.0.1-0.19dabd2
 /gnu/store/mhjv1s23rj8yyjmshvdm18nlifz2zd23-unrar-7.0.9
 /gnu/store/ymzkbqx8rvlyqqizqqicvj7hwiy12zyz-unrar-7.0.9
 /gnu/store/fvc73c3rmy27v3g51xdfj1jmaix14dbp-wasi-libc-sdk-19
