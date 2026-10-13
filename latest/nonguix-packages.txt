@@ -8,9 +8,9 @@
 /gnu/store/278w4yjrswq2lwfx3jk0b5bpa5jhkiv7-anydesk-6.3.2-1
 /gnu/store/p7fr6n04rpibnara2mj034lhgwf92vr2-atheros-firmware-20260916
 /gnu/store/y0h2mf72x7hgys8zyvg03r2rs6hhis5p-atheros-firmware-20260916
-/gnu/store/gjwjsv0kqwlyjngzk93f153p8h5l4mhb-babashka-1.12.218
-/gnu/store/a3z0kfha3adxh0sg4l8ak3la6czzdqrr-babashka-clojure-tools-1.12.4.1618
-/gnu/store/l9mq66liqgx2b6bwlzsg0wv6cbwmmgsv-babashka-clojure-tools-1.12.4.1618
+/gnu/store/k28wgs0b8ndm4ac1165and61clw92fys-babashka-1.13.226
+/gnu/store/jza70xmk7v2nj1gch9wlj4x48hrb6lzw-babashka-clojure-tools-1.12.6.1673
+/gnu/store/ms4ngr6jr6jxq03gipflgnbbsaziz7iy-babashka-clojure-tools-1.12.6.1673
 /gnu/store/3wwwdx3w9200ixf9symbfymqmgps19ii-bluez-firmware-1.2
 /gnu/store/yy0lhcqaff7x6wkph7hlsz344rp2i9f7-bluez-firmware-1.2
 /gnu/store/5am0rm6nq1iynzgx5lbz3rcnhfcqhkx8-broadcom-bt-firmware-12.0.1.1012
@@ -24,9 +24,9 @@
 /gnu/store/w9yqq393w2r0y85y9zppas5hh51ghdcy-clang-runtime-19.1.7
 /gnu/store/264k6prlqfrfj7g0crw4jl9zvnaxzvcy-clhs-0.6.3
 /gnu/store/7awaxb5rhppmmjfjishspqb5zn96qyp6-clhs-0.6.3
-/gnu/store/ikfrrq95yb0w5mh6gwbijbj5ic5j6gmv-clj-kondo-2026.04.15
-/gnu/store/0fxm36vp34vigmjfx7a5hs5p7d01li54-cljfmt-0.16.4
-/gnu/store/bcyyc65sd65xnga7lqi7m88gws8smlai-clojure-lsp-2026.05.05-12.58.26
+/gnu/store/895z64hsij23yi7zi9vhywi8p2wr1ma3-clj-kondo-2026.08.04
+/gnu/store/2d6s5mmv2s2vixcsf484lbwrm0jsxq79-cljfmt-0.16.6
+/gnu/store/dn06vw99xcxhc9x8f1h3vndg5nma3wxr-clojure-lsp-2026.07.06-14.34.19
 /gnu/store/019m0whr505ai39jq580j30y3ag3yi3y-clojure-tools-bin-1.12.4.1618
 /gnu/store/0fs9pn10w2wi0jf02dac2n1xkwpm2kcf-clojure-tools-bin-1.12.4.1618
 /gnu/store/dfzdgfm3w5kxwd5lvyx75dnyhygqll51-compcert-3.14
@@ -247,8 +247,8 @@
 /gnu/store/z0x8szcka56r3as33z28asv9c0mmwdyk-intel-microcode-20250512
 /gnu/store/6cxgzf0pq1cp9w3ksara91nqfk50qwsr-iwlwifi-firmware-20260916
 /gnu/store/99q9j49z9s08bph3lhgg03vyjjxp8ikp-iwlwifi-firmware-20260916
-/gnu/store/dkh8rm2lfc85nzzf56hx9lpx9jlnz742-leiningen-2.12.0
-/gnu/store/hv5f3s5v7giham8c7c140m4as560sws4-leiningen-2.12.0
+/gnu/store/gkvnkgsbqhw7gb02541a8xgdvcmbvmli-leiningen-2.13.0
+/gnu/store/i3naxw3rfalx5ghvx8ysp2ah71sgf02g-leiningen-2.13.0
 /gnu/store/c8xblcyk93x9dg906ycc8vw2452riqpl-lgogdownloader-3.19
 /gnu/store/w8s5qjnf6wwkqpyym1rnp1a5xkvhdhk5-lgogdownloader-3.19
 /gnu/store/5lp7afir92rmvskxhllfhdlqclcawp0j-libglvnd-1.7.0
