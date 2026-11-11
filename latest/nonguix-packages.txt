@@ -156,10 +156,10 @@
 /gnu/store/xfqpah8rc70xca0i0dyi9x08fsjv87bn-ffmpeg-8.1.2-debug
 /gnu/store/xg6gjdj8p8dwllrr5w89p5jj0mwd1w75-ffmpeg-8.1.2-debug
 /gnu/store/zxciy8ly7brc5vjzv9zgcncljd5cqvn8-ffmpeg-8.1.2-debug
-/gnu/store/09gkqnnmilb2w8q0n35rg24j9yq699lh-firefox-159.0
-/gnu/store/nplsdmsp09pid4592vm8w145qghij58v-firefox-159.0
-/gnu/store/2xhyv0fwpvmlwr628bqmshxbg80p57mz-firefox-esr-153.6.0esr
-/gnu/store/w325gmalk0vw4qwr0lqxc9gwyvjfkjmd-firefox-esr-153.6.0esr
+/gnu/store/6cygizfi2kdg342jmpp1x9v81vdciy7l-firefox-160.0
+/gnu/store/sylqsxcm4m4ybf1pig4i7hxmamrrfdlj-firefox-160.0
+/gnu/store/3p9wfxgyx866qll0zai8sbvci060a50p-firefox-esr-153.7.0esr
+/gnu/store/cx03mg4bzan754fz6y0wllrigc6c61sg-firefox-esr-153.7.0esr
 /gnu/store/sq24p2qh8gl675fnlgif4708sn1fbh29-font-apple-color-emoji-18.0d4e1
 /gnu/store/vd2pqgcwqxg4yyz4xs68y9vh4vkmwcx7-font-apple-color-emoji-18.0d4e1
 /gnu/store/pm2m1w2dfkwlzf7jyc0kaiz69v8fmjlc-font-apple-new-york-17.0d5e1
@@ -324,6 +324,8 @@
 /gnu/store/v9lkl583aiwzk1nrxqr7v8sfnp4ljvzr-ncurses-with-tinfo-5.9.20141206
 /gnu/store/857k441ays26wnig8frd5257x2gjr88i-ncurses-with-tinfo-5.9.20141206-doc
 /gnu/store/awqdpir1fw83sxkya5lzx9y2ggz9bk8g-ncurses-with-tinfo-5.9.20141206-doc
+/gnu/store/73r1dgnh485r5wm8f5x3prf9cja6zfnp-node-t1ckbase-vscode-langservers-extracted-2.0.5
+/gnu/store/hink11026d7kqbr1vy1fdpgfcbiaj7dk-node-t1ckbase-vscode-langservers-extracted-2.0.5
 /gnu/store/cqbrkiqxgrpq48g5kac9dyncmvzxyr05-nv-codec-headers-13.0.19.0
 /gnu/store/p7fki4bvl565mhrzcl987098niq96db1-nv-codec-headers-13.0.19.0
 /gnu/store/9vfcn5d377x7r2vws2g81kdywsdv9xr0-nvda-390.15
@@ -340,8 +342,8 @@
 /gnu/store/0hcxk8jjxwshdz7r98zrbzb996r2xwwx-nvda-620.70
 /gnu/store/x10ynld04bd0zibs8rkb2290anv59qn5-nvda-620.70
 /gnu/store/m6bq7n191ygc29w1bg5nwpdqsvwbfhfy-nvidia-cg-toolkit-3.1
-/gnu/store/4qzfp0fpbrzhw1zif5whvw56nzwzdij2-nvidia-detect-0.0.0
-/gnu/store/9n3qmmjs0ay8cakif2l8h8k56a673p75-nvidia-detect-0.0.0
+/gnu/store/3lsf4rnjzvq8wjffzlr2f21rc573b1mc-nvidia-detect-0.0.0
+/gnu/store/9wr9250z7k408xpird6lhd3szsjzka3j-nvidia-detect-0.0.0
 /gnu/store/q158zaarwsf6z4rwjsc82y7nhll3spgz-nvidia-driver-390.157
 /gnu/store/4wc0wci0jshg5vf7xshisx5j724nslkr-nvidia-driver-470.256.02
 /gnu/store/dx0dqk2yi23sk1xdbawkjsr3yj3r5gid-nvidia-driver-470.256.02
