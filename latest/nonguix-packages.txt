@@ -324,8 +324,8 @@
 /gnu/store/v9lkl583aiwzk1nrxqr7v8sfnp4ljvzr-ncurses-with-tinfo-5.9.20141206
 /gnu/store/857k441ays26wnig8frd5257x2gjr88i-ncurses-with-tinfo-5.9.20141206-doc
 /gnu/store/awqdpir1fw83sxkya5lzx9y2ggz9bk8g-ncurses-with-tinfo-5.9.20141206-doc
-/gnu/store/73r1dgnh485r5wm8f5x3prf9cja6zfnp-node-t1ckbase-vscode-langservers-extracted-2.0.5
-/gnu/store/hink11026d7kqbr1vy1fdpgfcbiaj7dk-node-t1ckbase-vscode-langservers-extracted-2.0.5
+/gnu/store/dgix0ayhg12bppjmfxhjmxxddds8s4fl-node-t1ckbase-vscode-langservers-extracted-2.0.5
+/gnu/store/x4cxvp2vgzpx40mz83gnd4mv42misbg0-node-t1ckbase-vscode-langservers-extracted-2.0.5
 /gnu/store/cqbrkiqxgrpq48g5kac9dyncmvzxyr05-nv-codec-headers-13.0.19.0
 /gnu/store/p7fki4bvl565mhrzcl987098niq96db1-nv-codec-headers-13.0.19.0
 /gnu/store/9vfcn5d377x7r2vws2g81kdywsdv9xr0-nvda-390.15
