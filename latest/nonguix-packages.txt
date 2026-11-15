@@ -324,8 +324,8 @@
 /gnu/store/v9lkl583aiwzk1nrxqr7v8sfnp4ljvzr-ncurses-with-tinfo-5.9.20141206
 /gnu/store/857k441ays26wnig8frd5257x2gjr88i-ncurses-with-tinfo-5.9.20141206-doc
 /gnu/store/awqdpir1fw83sxkya5lzx9y2ggz9bk8g-ncurses-with-tinfo-5.9.20141206-doc
-/gnu/store/2mfqz8lwbm96mlfjcjq5dpwrrnzl8w63-node-t1ckbase-vscode-langservers-extracted-2.0.5
-/gnu/store/4l4jz0c9xs74iwq3wd17y1ldr2qvflib-node-t1ckbase-vscode-langservers-extracted-2.0.5
+/gnu/store/4aqwak149jvv2rgpczhc10gi8dc9r0hn-node-t1ckbase-vscode-langservers-extracted-2.0.5
+/gnu/store/y399g474w3na0zjv4qsgl7scgpzx7fxc-node-t1ckbase-vscode-langservers-extracted-2.0.5
 /gnu/store/cqbrkiqxgrpq48g5kac9dyncmvzxyr05-nv-codec-headers-13.0.19.0
 /gnu/store/p7fki4bvl565mhrzcl987098niq96db1-nv-codec-headers-13.0.19.0
 /gnu/store/9vfcn5d377x7r2vws2g81kdywsdv9xr0-nvda-390.15
@@ -342,8 +342,8 @@
 /gnu/store/0hcxk8jjxwshdz7r98zrbzb996r2xwwx-nvda-620.70
 /gnu/store/x10ynld04bd0zibs8rkb2290anv59qn5-nvda-620.70
 /gnu/store/m6bq7n191ygc29w1bg5nwpdqsvwbfhfy-nvidia-cg-toolkit-3.1
-/gnu/store/3lsf4rnjzvq8wjffzlr2f21rc573b1mc-nvidia-detect-0.0.0
-/gnu/store/9wr9250z7k408xpird6lhd3szsjzka3j-nvidia-detect-0.0.0
+/gnu/store/09m7ifj37xgwhrvy4rfxkd2n5bsfxrpj-nvidia-detect-0.0.0
+/gnu/store/prdi7qa4vn965m7v99s2fxlhbkngldzs-nvidia-detect-0.0.0
 /gnu/store/q158zaarwsf6z4rwjsc82y7nhll3spgz-nvidia-driver-390.157
 /gnu/store/4wc0wci0jshg5vf7xshisx5j724nslkr-nvidia-driver-470.256.02
 /gnu/store/dx0dqk2yi23sk1xdbawkjsr3yj3r5gid-nvidia-driver-470.256.02
